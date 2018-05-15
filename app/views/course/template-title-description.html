@@ -1,5 +1,6 @@
 {% extends "layout.html" %}
-{% block page_title %}Subject and description{% endblock %}
+{% set title = 'Template title and description' %}
+{% block page_title %}{{ title }}{% endblock %}
 
 {% block content %}
 
@@ -8,20 +9,20 @@
   <div class="breadcrumbs">
     <ol>
       <li><a href="/courses">St Martin’s College teacher training courses</a></li>
-      <li><a href="/course">Sculpture</a></li>
+      <li><a href="/course">{{ data['course-title'] or 'Secondary PGCE courses' }}</a></li>
     </ol>
   </div>
 
   <h1 class="heading-xlarge">
-    Title and description
+    {{ title }}
   </h1>
 
   <div class="grid-row">
     <div class="column-two-thirds">
 
       <form action="/course">
-        {{ macros.textbox('title', 'Title') }}
-        {{ macros.textarea('description', 'Course description', 15) }}
+        {{ macros.textbox('template-title', 'Template title', 'What courses will this template be for? eg ‘PGCE secondary’') }}
+        {{ macros.textarea('template-description', 'Template description', 3, 'How should this template be used?') }}
 
         <div class="add-double-bottom-margin">
           <input type="submit" class="button" value="Save" />
