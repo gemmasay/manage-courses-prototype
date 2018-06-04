@@ -12,7 +12,7 @@
   </div>
 
   <h1 class="heading-xlarge">
-    {{ subject.name or 'Maths' }} at {{ data['training-provider-name'] }}
+    {{ subject.name or 'Maths' }}
   </h1>
 
   <p>
@@ -32,26 +32,18 @@
               <dl class="course-part-tasks">
                 <div>
                   <dt class="course-part-label">
-                    UCAS {{ subject.name }} courses found
+                    UCAS {{ subject.name }} courses
                   </dt>
                   <dd class="course-part-value">
-                    3 courses combined
+                    1 course found
                   </dd>
                 </div>
                 <div>
                   <dt class="course-part-label">
-                    Applications open from
+                    Applications open
                   </dt>
                   <dd class="course-part-value">
                     26 October 2018
-                  </dd>
-                </div>
-                <div>
-                  <dt class="course-part-label">
-                    Accrediting provider
-                  </dt>
-                  <dd class="course-part-value">
-                    The University of Reading
                   </dd>
                 </div>
                 <div>
@@ -62,18 +54,6 @@
                     PGCE with QTS, 1 year full time
                   </dd>
                 </div>
-                <div>
-                  <dt class="course-part-label">
-                    Schools with vacancies
-                  </dt>
-                  <dd class="course-part-value">
-                    <ul class="list list-bullet">
-                      <li>Calthorpe Park School</li>
-                      <li>Court Moor School</li>
-                      <li>Yateley School</li>
-                    </ul>
-                  </dd>
-                </div>
               </dl>
             </li>
             <li class="course-parts-item">
@@ -82,8 +62,16 @@
               </h3>
               <a class="course-part-task-action" href="/course/{{ subject.slug }}/about-this-course">Edit</a>
               <dl class="course-part-tasks">
-                {{ macros.coursePart(subject.slug + '-course-website', 'Course website') }}
+                {{ macros.coursePart(subject.slug + '-course-website', 'Course webpage') }}
                 {{ macros.coursePart(subject.slug + '-about-this-course', 'About this course') }}
+              </dl>
+            </li>
+            <li class="course-parts-item">
+              <h3 class="course-part-task">
+                About this training provider
+              </h3>
+              <a class="course-part-task-action" href="/course/{{ subject.slug }}/about-this-provider">Edit</a>
+              <dl class="course-part-tasks">
                 {{ macros.coursePart(subject.slug + '-training-with-a-disability', 'Training with a disability') }}
                 {{ macros.coursePart(subject.slug + '-interview-process', 'Interview process') }}
               </dl>
@@ -99,7 +87,7 @@
                 {{ macros.coursePart(subject.slug + '-other-requirements', 'Other requirements') }}
               </dl>
             </li>
-            <li class="course-parts-item">
+            <!-- <li class="course-parts-item">
               <h3 class="course-part-task">
                 Qualification
               </h3>
@@ -120,7 +108,7 @@
                 {{ macros.coursePart(subject.slug + '-salaried', 'Salaried teacher training') }}
                 {{ macros.coursePart(subject.slug + '-salary', 'Salary available') }}
               </dl>
-            </li>
+            </li> -->
             <!-- <li class="course-parts-item">
               <h3 class="course-part-task">
                 Schools
