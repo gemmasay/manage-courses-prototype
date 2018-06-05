@@ -37,12 +37,13 @@ var options = {
 }
 
 var paths = [
+  { path: '/courses', name: 'courses' },
   { path: '/course/chemistry', name: 'course' },
+  { path: '/course/chemistry/from-ucas', name: 'course-details-from-ucas' },
   { path: '/course/chemistry/about-this-course', name: 'about-this-course' },
+  { path: '/course/chemistry/about-this-provider', name: 'about-this-training-provider' },
   { path: '/course/chemistry/requirements', name: 'course-requirements' },
-  { path: '/course/chemistry/qualification-options', name: 'qualification' },
-  { path: '/course/chemistry/salary-options', name: 'salary' },
-  { path: '/course/chemistry/from-ucas', name: 'course-details-from-ucas' }
+  { path: '/organisation', name: 'organisation' }
 ]
 
 var template = '';
