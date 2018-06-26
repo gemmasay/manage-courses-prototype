@@ -1,7 +1,7 @@
 {
-  "training-provider-name": "Dixons Teacher Training",
-  "provider-code-name": "A1525",
-  "provider-code": "1EP",
+  "training-provider-name": "Cornwall School Centred Initial Teacher Training (Cornwall SCITT)",
+  "provider-code-name": "CITT",
+  "provider-code": "C79",
   "address-line-1": "123 Baker Street",
   "town": "London",
   "postcode": "SW1 1AA",
@@ -10,62 +10,62 @@
   "website": "http://www.a-provider-website.org.uk/",
   "ucasCourses": [
     {
-      "regions": "Yorkshire & the Humber",
-      "accrediting": "Leeds Trinity University",
-      "subjects": "Art / art & design, Secondary",
-      "ageRange": "Secondary (11+ years)",
-      "name": "Art and Design",
-      "route": "School Direct training programme",
-      "qualifications": "QTS, Postgraduate",
-      "providerCode": "1EP",
-      "programmeCode": "2JGW",
+      "regions": "South West",
+      "accrediting": "Cornwall School Centred Initial Teacher Training (Cornwall SCITT)",
+      "subjects": "Primary",
+      "ageRange": "Primary (c3 - 11/12 years)",
+      "name": "General Primary (5-11)",
+      "route": "SCITT (School Centred Initial Teacher Training) programme",
+      "qualifications": "QTS",
+      "providerCode": "C79",
+      "programmeCode": "2WTB",
       "schools": [
         {
-          "name": "Main Site",
-          "address": "Ripley Street, Bradford, BD5 7RR",
-          "code": "-"
+          "name": "Primary",
+          "address": "Studio 4, Artist Muse, The Heartlands, Fordh an Bal, Pool, Redruth, TR15 3FD",
+          "code": "P"
         }
       ],
       "options": [
-        "PGCE with QTS full time"
+        "QTS full time"
       ]
     },
     {
-      "regions": "Yorkshire & the Humber",
-      "accrediting": "Leeds Trinity University",
+      "regions": "South West",
+      "accrediting": "Cornwall School Centred Initial Teacher Training (Cornwall SCITT)",
+      "subjects": "Primary",
+      "ageRange": "Primary (c3 - 11/12 years)",
+      "name": "Primary - FS/KS1",
+      "route": "SCITT (School Centred Initial Teacher Training) programme",
+      "qualifications": "QTS",
+      "providerCode": "C79",
+      "programmeCode": "2WT9",
+      "schools": [
+        {
+          "name": "Primary",
+          "address": "Studio 4, Artist Muse, The Heartlands, Fordh an Bal, Pool, Redruth, TR15 3FD",
+          "code": "P"
+        }
+      ],
+      "options": [
+        "QTS full time"
+      ]
+    },
+    {
+      "regions": "South West",
+      "accrediting": "Cornwall School Centred Initial Teacher Training (Cornwall SCITT)",
       "subjects": "Biology, Science, Secondary",
       "ageRange": "Secondary (11+ years)",
       "name": "Biology",
-      "route": "School Direct training programme",
-      "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "1EP",
-      "programmeCode": "2S3K",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "Ripley Street, Bradford, BD5 7RR",
-          "code": "-"
-        }
-      ],
-      "options": [
-        "PGCE with QTS full time"
-      ]
-    },
-    {
-      "regions": "Yorkshire & the Humber",
-      "accrediting": "Leeds Trinity University",
-      "subjects": "Business education, Secondary",
-      "ageRange": "Secondary (11+ years)",
-      "name": "Business Studies",
-      "route": "School Direct training programme",
+      "route": "SCITT (School Centred Initial Teacher Training) programme",
       "qualifications": "QTS, Postgraduate",
-      "providerCode": "1EP",
-      "programmeCode": "3274",
+      "providerCode": "C79",
+      "programmeCode": "C1X1",
       "schools": [
         {
           "name": "Main Site",
-          "address": "Ripley Street, Bradford, BD5 7RR",
-          "code": "-"
+          "address": "Truro College, College Road, Truro, Cornwall, TR1 3XX",
+          "code": ""
         }
       ],
       "options": [
@@ -73,20 +73,20 @@
       ]
     },
     {
-      "regions": "Yorkshire & the Humber",
-      "accrediting": "Leeds Trinity University",
+      "regions": "South West",
+      "accrediting": "Cornwall School Centred Initial Teacher Training (Cornwall SCITT)",
       "subjects": "Chemistry, Science, Secondary",
       "ageRange": "Secondary (11+ years)",
       "name": "Chemistry",
-      "route": "School Direct training programme",
+      "route": "SCITT (School Centred Initial Teacher Training) programme",
       "qualifications": "QTS, Postgraduate",
-      "providerCode": "1EP",
-      "programmeCode": "2KHF",
+      "providerCode": "C79",
+      "programmeCode": "F1X1",
       "schools": [
         {
           "name": "Main Site",
-          "address": "Ripley Street, Bradford, BD5 7RR",
-          "code": "-"
+          "address": "Truro College, College Road, Truro, Cornwall, TR1 3XX",
+          "code": ""
         }
       ],
       "options": [
@@ -94,20 +94,20 @@
       ]
     },
     {
-      "regions": "Yorkshire & the Humber",
-      "accrediting": "Leeds Trinity University",
+      "regions": "South West",
+      "accrediting": "Cornwall School Centred Initial Teacher Training (Cornwall SCITT)",
       "subjects": "Computer studies, Secondary",
       "ageRange": "Secondary (11+ years)",
-      "name": "Computing",
-      "route": "School Direct training programme",
+      "name": "Computing with ICT",
+      "route": "SCITT (School Centred Initial Teacher Training) programme",
       "qualifications": "QTS, Postgraduate",
-      "providerCode": "1EP",
-      "programmeCode": "2JH2",
+      "providerCode": "C79",
+      "programmeCode": "37JV",
       "schools": [
         {
           "name": "Main Site",
-          "address": "Ripley Street, Bradford, BD5 7RR",
-          "code": "-"
+          "address": "Truro College, College Road, Truro, Cornwall, TR1 3XX",
+          "code": ""
         }
       ],
       "options": [
@@ -115,20 +115,83 @@
       ]
     },
     {
-      "regions": "Yorkshire & the Humber",
-      "accrediting": "Leeds Trinity University",
+      "regions": "South West",
+      "accrediting": "Cornwall School Centred Initial Teacher Training (Cornwall SCITT)",
+      "subjects": "Computer studies, Secondary",
+      "ageRange": "Secondary (11+ years)",
+      "name": "ICT with Computing",
+      "route": "SCITT (School Centred Initial Teacher Training) programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "C79",
+      "programmeCode": "37JW",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "Truro College, College Road, Truro, Cornwall, TR1 3XX",
+          "code": ""
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "South West",
+      "accrediting": "Cornwall School Centred Initial Teacher Training (Cornwall SCITT)",
+      "subjects": "Design and technology, Engineering, Secondary",
+      "ageRange": "Secondary (11+ years)",
+      "name": "Design & Technology (Engineering)",
+      "route": "SCITT (School Centred Initial Teacher Training) programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "C79",
+      "programmeCode": "37JX",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "Truro College, College Road, Truro, Cornwall, TR1 3XX",
+          "code": ""
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "South West",
+      "accrediting": "Cornwall School Centred Initial Teacher Training (Cornwall SCITT)",
+      "subjects": "Design and technology, Design and technology (food), Secondary",
+      "ageRange": "Secondary (11+ years)",
+      "name": "Design & Technology (Food)",
+      "route": "SCITT (School Centred Initial Teacher Training) programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "C79",
+      "programmeCode": "37JY",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "Truro College, College Road, Truro, Cornwall, TR1 3XX",
+          "code": ""
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "South West",
+      "accrediting": "Cornwall School Centred Initial Teacher Training (Cornwall SCITT)",
       "subjects": "Design and technology, Design and technology (product design), Secondary",
       "ageRange": "Secondary (11+ years)",
-      "name": "Design and Technology (Product Design)",
-      "route": "School Direct training programme",
+      "name": "Design & Technology (Product Design)",
+      "route": "SCITT (School Centred Initial Teacher Training) programme",
       "qualifications": "QTS, Postgraduate",
-      "providerCode": "1EP",
-      "programmeCode": "2JGV",
+      "providerCode": "C79",
+      "programmeCode": "37JZ",
       "schools": [
         {
           "name": "Main Site",
-          "address": "Ripley Street, Bradford, BD5 7RR",
-          "code": "-"
+          "address": "Truro College, College Road, Truro, Cornwall, TR1 3XX",
+          "code": ""
         }
       ],
       "options": [
@@ -136,20 +199,41 @@
       ]
     },
     {
-      "regions": "Yorkshire & the Humber",
-      "accrediting": "Leeds Trinity University",
+      "regions": "South West",
+      "accrediting": "Cornwall School Centred Initial Teacher Training (Cornwall SCITT)",
+      "subjects": "Design and technology, Design and technology (textiles), Secondary",
+      "ageRange": "Secondary (11+ years)",
+      "name": "Design & Technology (Textiles)",
+      "route": "SCITT (School Centred Initial Teacher Training) programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "C79",
+      "programmeCode": "37K2",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "Truro College, College Road, Truro, Cornwall, TR1 3XX",
+          "code": ""
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "South West",
+      "accrediting": "Cornwall School Centred Initial Teacher Training (Cornwall SCITT)",
       "subjects": "English, Secondary",
       "ageRange": "Secondary (11+ years)",
       "name": "English",
-      "route": "School Direct training programme",
+      "route": "SCITT (School Centred Initial Teacher Training) programme",
       "qualifications": "QTS, Postgraduate",
-      "providerCode": "1EP",
-      "programmeCode": "2BZP",
+      "providerCode": "C79",
+      "programmeCode": "Q3X1",
       "schools": [
         {
           "name": "Main Site",
-          "address": "Ripley Street, Bradford, BD5 7RR",
-          "code": "-"
+          "address": "Truro College, College Road, Truro, Cornwall, TR1 3XX",
+          "code": ""
         }
       ],
       "options": [
@@ -157,20 +241,83 @@
       ]
     },
     {
-      "regions": "Yorkshire & the Humber",
-      "accrediting": "Leeds Trinity University",
+      "regions": "South West",
+      "accrediting": "Cornwall School Centred Initial Teacher Training (Cornwall SCITT)",
+      "subjects": "French, German, Languages, Languages (european), Secondary",
+      "ageRange": "Secondary (11+ years)",
+      "name": "Modern Languages (French with German)",
+      "route": "SCITT (School Centred Initial Teacher Training) programme",
+      "qualifications": "QTS, Postgraduate, Professional",
+      "providerCode": "C79",
+      "programmeCode": "28WR",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "Truro College, College Road, Truro, Cornwall, TR1 3XX",
+          "code": ""
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "South West",
+      "accrediting": "Cornwall School Centred Initial Teacher Training (Cornwall SCITT)",
+      "subjects": "French, Languages, Languages (european), Secondary, Spanish",
+      "ageRange": "Secondary (11+ years)",
+      "name": "Modern Languages (French with Spanish)",
+      "route": "SCITT (School Centred Initial Teacher Training) programme",
+      "qualifications": "QTS, Postgraduate, Professional",
+      "providerCode": "C79",
+      "programmeCode": "28WQ",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "Truro College, College Road, Truro, Cornwall, TR1 3XX",
+          "code": ""
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "South West",
+      "accrediting": "Cornwall School Centred Initial Teacher Training (Cornwall SCITT)",
+      "subjects": "French, Languages, Languages (european), Secondary, Spanish",
+      "ageRange": "Secondary (11+ years)",
+      "name": "Modern Languages (Spanish with French)",
+      "route": "SCITT (School Centred Initial Teacher Training) programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "C79",
+      "programmeCode": "R9X1",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "Truro College, College Road, Truro, Cornwall, TR1 3XX",
+          "code": ""
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "South West",
+      "accrediting": "Cornwall School Centred Initial Teacher Training (Cornwall SCITT)",
       "subjects": "Geography, Secondary",
       "ageRange": "Secondary (11+ years)",
       "name": "Geography",
-      "route": "School Direct training programme",
+      "route": "SCITT (School Centred Initial Teacher Training) programme",
       "qualifications": "QTS, Postgraduate",
-      "providerCode": "1EP",
-      "programmeCode": "29BQ",
+      "providerCode": "C79",
+      "programmeCode": "2S8K",
       "schools": [
         {
           "name": "Main Site",
-          "address": "Ripley Street, Bradford, BD5 7RR",
-          "code": "-"
+          "address": "Truro College, College Road, Truro, Cornwall, TR1 3XX",
+          "code": ""
         }
       ],
       "options": [
@@ -178,20 +325,20 @@
       ]
     },
     {
-      "regions": "Yorkshire & the Humber",
-      "accrediting": "Leeds Trinity University",
+      "regions": "South West",
+      "accrediting": "Cornwall School Centred Initial Teacher Training (Cornwall SCITT)",
       "subjects": "History, Secondary",
       "ageRange": "Secondary (11+ years)",
       "name": "History",
-      "route": "School Direct training programme",
+      "route": "SCITT (School Centred Initial Teacher Training) programme",
       "qualifications": "QTS, Postgraduate",
-      "providerCode": "1EP",
-      "programmeCode": "2BZN",
+      "providerCode": "C79",
+      "programmeCode": "V11X",
       "schools": [
         {
           "name": "Main Site",
-          "address": "Ripley Street, Bradford, BD5 7RR",
-          "code": "-"
+          "address": "Truro College, College Road, Truro, Cornwall, TR1 3XX",
+          "code": ""
         }
       ],
       "options": [
@@ -199,41 +346,20 @@
       ]
     },
     {
-      "regions": "Yorkshire & the Humber",
-      "accrediting": "Leeds Trinity University",
-      "subjects": "Languages, Languages (european), Secondary, Spanish",
-      "ageRange": "Secondary (11+ years)",
-      "name": "Modern Languages (Spanish)",
-      "route": "School Direct training programme",
-      "qualifications": "QTS, Postgraduate",
-      "providerCode": "1EP",
-      "programmeCode": "2BZW",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "Ripley Street, Bradford, BD5 7RR",
-          "code": "-"
-        }
-      ],
-      "options": [
-        "PGCE with QTS full time"
-      ]
-    },
-    {
-      "regions": "Yorkshire & the Humber",
-      "accrediting": "Leeds Trinity University",
+      "regions": "South West",
+      "accrediting": "Cornwall School Centred Initial Teacher Training (Cornwall SCITT)",
       "subjects": "Mathematics, Secondary",
       "ageRange": "Secondary (11+ years)",
       "name": "Mathematics",
-      "route": "School Direct training programme",
+      "route": "SCITT (School Centred Initial Teacher Training) programme",
       "qualifications": "QTS, Postgraduate",
-      "providerCode": "1EP",
-      "programmeCode": "2BZR",
+      "providerCode": "C79",
+      "programmeCode": "G1X1",
       "schools": [
         {
           "name": "Main Site",
-          "address": "Ripley Street, Bradford, BD5 7RR",
-          "code": "-"
+          "address": "Truro College, College Road, Truro, Cornwall, TR1 3XX",
+          "code": ""
         }
       ],
       "options": [
@@ -241,20 +367,20 @@
       ]
     },
     {
-      "regions": "Yorkshire & the Humber",
-      "accrediting": "Leeds Trinity University",
+      "regions": "South West",
+      "accrediting": "Cornwall School Centred Initial Teacher Training (Cornwall SCITT)",
       "subjects": "Music, Secondary",
       "ageRange": "Secondary (11+ years)",
       "name": "Music",
-      "route": "School Direct training programme",
-      "qualifications": "QTS, Postgraduate",
-      "providerCode": "1EP",
-      "programmeCode": "2BZV",
+      "route": "SCITT (School Centred Initial Teacher Training) programme",
+      "qualifications": "QTS, Postgraduate, Professional",
+      "providerCode": "C79",
+      "programmeCode": "W3X1",
       "schools": [
         {
           "name": "Main Site",
-          "address": "Ripley Street, Bradford, BD5 7RR",
-          "code": "-"
+          "address": "Truro College, College Road, Truro, Cornwall, TR1 3XX",
+          "code": ""
         }
       ],
       "options": [
@@ -262,20 +388,20 @@
       ]
     },
     {
-      "regions": "Yorkshire & the Humber",
-      "accrediting": "Leeds Trinity University",
+      "regions": "South West",
+      "accrediting": "Cornwall School Centred Initial Teacher Training (Cornwall SCITT)",
       "subjects": "Physical education, Secondary",
       "ageRange": "Secondary (11+ years)",
       "name": "Physical Education",
-      "route": "School Direct training programme",
+      "route": "SCITT (School Centred Initial Teacher Training) programme",
       "qualifications": "QTS, Postgraduate",
-      "providerCode": "1EP",
-      "programmeCode": "2BZT",
+      "providerCode": "C79",
+      "programmeCode": "C66X",
       "schools": [
         {
           "name": "Main Site",
-          "address": "Ripley Street, Bradford, BD5 7RR",
-          "code": "-"
+          "address": "Truro College, College Road, Truro, Cornwall, TR1 3XX",
+          "code": ""
         }
       ],
       "options": [
@@ -283,20 +409,20 @@
       ]
     },
     {
-      "regions": "Yorkshire & the Humber",
-      "accrediting": "Leeds Trinity University",
+      "regions": "South West",
+      "accrediting": "Cornwall School Centred Initial Teacher Training (Cornwall SCITT)",
       "subjects": "Physics, Science, Secondary",
       "ageRange": "Secondary (11+ years)",
       "name": "Physics",
-      "route": "School Direct training programme",
+      "route": "SCITT (School Centred Initial Teacher Training) programme",
       "qualifications": "QTS, Postgraduate",
-      "providerCode": "1EP",
-      "programmeCode": "2KHD",
+      "providerCode": "C79",
+      "programmeCode": "F3X1",
       "schools": [
         {
           "name": "Main Site",
-          "address": "Ripley Street, Bradford, BD5 7RR",
-          "code": "-"
+          "address": "Truro College, College Road, Truro, Cornwall, TR1 3XX",
+          "code": ""
         }
       ],
       "options": [
@@ -304,41 +430,20 @@
       ]
     },
     {
-      "regions": "Yorkshire & the Humber",
-      "accrediting": "Leeds Trinity University",
+      "regions": "South West",
+      "accrediting": "Cornwall School Centred Initial Teacher Training (Cornwall SCITT)",
       "subjects": "Religious education, Secondary",
       "ageRange": "Secondary (11+ years)",
       "name": "Religious Education",
-      "route": "School Direct training programme",
-      "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "1EP",
-      "programmeCode": "2S3J",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "Ripley Street, Bradford, BD5 7RR",
-          "code": "-"
-        }
-      ],
-      "options": [
-        "PGCE with QTS full time"
-      ]
-    },
-    {
-      "regions": "Yorkshire & the Humber",
-      "accrediting": "Leeds Trinity University",
-      "subjects": "Secondary, Social science",
-      "ageRange": "Secondary (11+ years)",
-      "name": "Social Sciences",
-      "route": "School Direct training programme",
+      "route": "SCITT (School Centred Initial Teacher Training) programme",
       "qualifications": "QTS, Postgraduate",
-      "providerCode": "1EP",
-      "programmeCode": "2JGZ",
+      "providerCode": "C79",
+      "programmeCode": "2XJ9",
       "schools": [
         {
           "name": "Main Site",
-          "address": "Ripley Street, Bradford, BD5 7RR",
-          "code": "-"
+          "address": "Truro College, College Road, Truro, Cornwall, TR1 3XX",
+          "code": ""
         }
       ],
       "options": [
@@ -349,42 +454,55 @@
   "schools": [
     {
       "name": "Main Site",
-      "address": "Ripley Street, Bradford, BD5 7RR",
-      "code": "-"
+      "address": "Truro College, College Road, Truro, Cornwall, TR1 3XX",
+      "code": ""
+    },
+    {
+      "name": "Primary",
+      "address": "Studio 4, Artist Muse, The Heartlands, Fordh an Bal, Pool, Redruth, TR15 3FD",
+      "code": "P"
     }
   ],
   "accreditors": [
     {
-      "name": "Leeds Trinity University",
-      "slug": "leeds-trinity-university",
+      "name": "Cornwall School Centred Initial Teacher Training (Cornwall SCITT)",
+      "slug": "cornwall-school-centred-initial-teacher-training--cornwall-scitt-",
       "subjects": [
-        {
-          "name": "Art and Design",
-          "slug": "art-and-design"
-        },
         {
           "name": "Biology",
           "slug": "biology"
-        },
-        {
-          "name": "Business Studies",
-          "slug": "business-studies"
         },
         {
           "name": "Chemistry",
           "slug": "chemistry"
         },
         {
-          "name": "Computing",
-          "slug": "computing"
+          "name": "Computing with ICT",
+          "slug": "computing-with-ict"
         },
         {
-          "name": "Design and Technology (Product Design)",
-          "slug": "design-and-technology--product-design-"
+          "name": "Design & Technology (Engineering)",
+          "slug": "design---technology--engineering-"
+        },
+        {
+          "name": "Design & Technology (Food)",
+          "slug": "design---technology--food-"
+        },
+        {
+          "name": "Design & Technology (Product Design)",
+          "slug": "design---technology--product-design-"
+        },
+        {
+          "name": "Design & Technology (Textiles)",
+          "slug": "design---technology--textiles-"
         },
         {
           "name": "English",
           "slug": "english"
+        },
+        {
+          "name": "General Primary (5-11)",
+          "slug": "general-primary--5-11-"
         },
         {
           "name": "Geography",
@@ -395,12 +513,24 @@
           "slug": "history"
         },
         {
+          "name": "ICT with Computing",
+          "slug": "ict-with-computing"
+        },
+        {
           "name": "Mathematics",
           "slug": "mathematics"
         },
         {
-          "name": "Modern Languages (Spanish)",
-          "slug": "modern-languages--spanish-"
+          "name": "Modern Languages (French with German)",
+          "slug": "modern-languages--french-with-german-"
+        },
+        {
+          "name": "Modern Languages (French with Spanish)",
+          "slug": "modern-languages--french-with-spanish-"
+        },
+        {
+          "name": "Modern Languages (Spanish with French)",
+          "slug": "modern-languages--spanish-with-french-"
         },
         {
           "name": "Music",
@@ -415,44 +545,52 @@
           "slug": "physics"
         },
         {
-          "name": "Religious Education",
-          "slug": "religious-education"
+          "name": "Primary - FS/KS1",
+          "slug": "primary---fs-ks1"
         },
         {
-          "name": "Social Sciences",
-          "slug": "social-sciences"
+          "name": "Religious Education",
+          "slug": "religious-education"
         }
       ]
     }
   ],
   "subjects": [
     {
-      "name": "Art and Design",
-      "slug": "art-and-design"
-    },
-    {
       "name": "Biology",
       "slug": "biology"
-    },
-    {
-      "name": "Business Studies",
-      "slug": "business-studies"
     },
     {
       "name": "Chemistry",
       "slug": "chemistry"
     },
     {
-      "name": "Computing",
-      "slug": "computing"
+      "name": "Computing with ICT",
+      "slug": "computing-with-ict"
     },
     {
-      "name": "Design and Technology (Product Design)",
-      "slug": "design-and-technology--product-design-"
+      "name": "Design & Technology (Engineering)",
+      "slug": "design---technology--engineering-"
+    },
+    {
+      "name": "Design & Technology (Food)",
+      "slug": "design---technology--food-"
+    },
+    {
+      "name": "Design & Technology (Product Design)",
+      "slug": "design---technology--product-design-"
+    },
+    {
+      "name": "Design & Technology (Textiles)",
+      "slug": "design---technology--textiles-"
     },
     {
       "name": "English",
       "slug": "english"
+    },
+    {
+      "name": "General Primary (5-11)",
+      "slug": "general-primary--5-11-"
     },
     {
       "name": "Geography",
@@ -463,12 +601,24 @@
       "slug": "history"
     },
     {
+      "name": "ICT with Computing",
+      "slug": "ict-with-computing"
+    },
+    {
       "name": "Mathematics",
       "slug": "mathematics"
     },
     {
-      "name": "Modern Languages (Spanish)",
-      "slug": "modern-languages--spanish-"
+      "name": "Modern Languages (French with German)",
+      "slug": "modern-languages--french-with-german-"
+    },
+    {
+      "name": "Modern Languages (French with Spanish)",
+      "slug": "modern-languages--french-with-spanish-"
+    },
+    {
+      "name": "Modern Languages (Spanish with French)",
+      "slug": "modern-languages--spanish-with-french-"
     },
     {
       "name": "Music",
@@ -483,63 +633,21 @@
       "slug": "physics"
     },
     {
-      "name": "Religious Education",
-      "slug": "religious-education"
+      "name": "Primary - FS/KS1",
+      "slug": "primary---fs-ks1"
     },
     {
-      "name": "Social Sciences",
-      "slug": "social-sciences"
+      "name": "Religious Education",
+      "slug": "religious-education"
     }
   ],
   "folded_courses": {
-    "Leeds Trinity University": [
-      {
-        "name": "Art and Design",
-        "courses": 1,
-        "accrediting": [
-          "Leeds Trinity University"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Main Site"
-        ],
-        "options": [
-          "PGCE with QTS full time"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": false,
-          "qualifications": false
-        }
-      },
+    "Cornwall School Centred Initial Teacher Training (Cornwall SCITT)": [
       {
         "name": "Biology",
         "courses": 1,
         "accrediting": [
-          "Leeds Trinity University"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Main Site"
-        ],
-        "options": [
-          "PGCE with QTS full time"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": false,
-          "qualifications": false
-        }
-      },
-      {
-        "name": "Business Studies",
-        "courses": 1,
-        "accrediting": [
-          "Leeds Trinity University"
+          "Cornwall School Centred Initial Teacher Training (Cornwall SCITT)"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
@@ -560,7 +668,7 @@
         "name": "Chemistry",
         "courses": 1,
         "accrediting": [
-          "Leeds Trinity University"
+          "Cornwall School Centred Initial Teacher Training (Cornwall SCITT)"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
@@ -578,10 +686,10 @@
         }
       },
       {
-        "name": "Computing",
+        "name": "Computing with ICT",
         "courses": 1,
         "accrediting": [
-          "Leeds Trinity University"
+          "Cornwall School Centred Initial Teacher Training (Cornwall SCITT)"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
@@ -599,10 +707,73 @@
         }
       },
       {
-        "name": "Design and Technology (Product Design)",
+        "name": "Design & Technology (Engineering)",
         "courses": 1,
         "accrediting": [
-          "Leeds Trinity University"
+          "Cornwall School Centred Initial Teacher Training (Cornwall SCITT)"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Main Site"
+        ],
+        "options": [
+          "PGCE with QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Design & Technology (Food)",
+        "courses": 1,
+        "accrediting": [
+          "Cornwall School Centred Initial Teacher Training (Cornwall SCITT)"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Main Site"
+        ],
+        "options": [
+          "PGCE with QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Design & Technology (Product Design)",
+        "courses": 1,
+        "accrediting": [
+          "Cornwall School Centred Initial Teacher Training (Cornwall SCITT)"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Main Site"
+        ],
+        "options": [
+          "PGCE with QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Design & Technology (Textiles)",
+        "courses": 1,
+        "accrediting": [
+          "Cornwall School Centred Initial Teacher Training (Cornwall SCITT)"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
@@ -623,7 +794,7 @@
         "name": "English",
         "courses": 1,
         "accrediting": [
-          "Leeds Trinity University"
+          "Cornwall School Centred Initial Teacher Training (Cornwall SCITT)"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
@@ -641,10 +812,31 @@
         }
       },
       {
+        "name": "General Primary (5-11)",
+        "courses": 1,
+        "accrediting": [
+          "Cornwall School Centred Initial Teacher Training (Cornwall SCITT)"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Primary"
+        ],
+        "options": [
+          "QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
         "name": "Geography",
         "courses": 1,
         "accrediting": [
-          "Leeds Trinity University"
+          "Cornwall School Centred Initial Teacher Training (Cornwall SCITT)"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
@@ -665,7 +857,28 @@
         "name": "History",
         "courses": 1,
         "accrediting": [
-          "Leeds Trinity University"
+          "Cornwall School Centred Initial Teacher Training (Cornwall SCITT)"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Main Site"
+        ],
+        "options": [
+          "PGCE with QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "ICT with Computing",
+        "courses": 1,
+        "accrediting": [
+          "Cornwall School Centred Initial Teacher Training (Cornwall SCITT)"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
@@ -686,7 +899,7 @@
         "name": "Mathematics",
         "courses": 1,
         "accrediting": [
-          "Leeds Trinity University"
+          "Cornwall School Centred Initial Teacher Training (Cornwall SCITT)"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
@@ -704,10 +917,52 @@
         }
       },
       {
-        "name": "Modern Languages (Spanish)",
+        "name": "Modern Languages (French with German)",
         "courses": 1,
         "accrediting": [
-          "Leeds Trinity University"
+          "Cornwall School Centred Initial Teacher Training (Cornwall SCITT)"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Main Site"
+        ],
+        "options": [
+          "PGCE with QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Modern Languages (French with Spanish)",
+        "courses": 1,
+        "accrediting": [
+          "Cornwall School Centred Initial Teacher Training (Cornwall SCITT)"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Main Site"
+        ],
+        "options": [
+          "PGCE with QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Modern Languages (Spanish with French)",
+        "courses": 1,
+        "accrediting": [
+          "Cornwall School Centred Initial Teacher Training (Cornwall SCITT)"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
@@ -728,7 +983,7 @@
         "name": "Music",
         "courses": 1,
         "accrediting": [
-          "Leeds Trinity University"
+          "Cornwall School Centred Initial Teacher Training (Cornwall SCITT)"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
@@ -749,7 +1004,7 @@
         "name": "Physical Education",
         "courses": 1,
         "accrediting": [
-          "Leeds Trinity University"
+          "Cornwall School Centred Initial Teacher Training (Cornwall SCITT)"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
@@ -770,7 +1025,7 @@
         "name": "Physics",
         "courses": 1,
         "accrediting": [
-          "Leeds Trinity University"
+          "Cornwall School Centred Initial Teacher Training (Cornwall SCITT)"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
@@ -780,6 +1035,27 @@
         ],
         "options": [
           "PGCE with QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Primary - FS/KS1",
+        "courses": 1,
+        "accrediting": [
+          "Cornwall School Centred Initial Teacher Training (Cornwall SCITT)"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Primary"
+        ],
+        "options": [
+          "QTS full time"
         ],
         "flags": {
           "partTime": false,
@@ -791,28 +1067,7 @@
         "name": "Religious Education",
         "courses": 1,
         "accrediting": [
-          "Leeds Trinity University"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Main Site"
-        ],
-        "options": [
-          "PGCE with QTS full time"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": false,
-          "qualifications": false
-        }
-      },
-      {
-        "name": "Social Sciences",
-        "courses": 1,
-        "accrediting": [
-          "Leeds Trinity University"
+          "Cornwall School Centred Initial Teacher Training (Cornwall SCITT)"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
