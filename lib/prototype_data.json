@@ -1,7 +1,7 @@
 {
-  "training-provider-name": "Bishop Grosseteste University",
-  "provider-code-name": "BGUC",
-  "provider-code": "B38",
+  "training-provider-name": "Dixons Teacher Training",
+  "provider-code-name": "A1525",
+  "provider-code": "1EP",
   "address-line-1": "123 Baker Street",
   "town": "London",
   "postcode": "SW1 1AA",
@@ -10,104 +10,20 @@
   "website": "http://www.a-provider-website.org.uk/",
   "ucasCourses": [
     {
-      "regions": "East Midlands",
-      "accrediting": "Bishop Grosseteste University",
-      "subjects": "Lower primary, Primary",
-      "ageRange": "Primary (c3 - 11/12 years)",
-      "name": "Lower Primary (3-7)",
-      "route": "Higher Education programme",
-      "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "B38",
-      "programmeCode": "X125",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "Bishop Grosseteste College, Lincoln, Lincolnshire, LN1 3DY",
-          "code": ""
-        }
-      ],
-      "options": [
-        "PGCE with QTS full time"
-      ]
-    },
-    {
-      "regions": "East Midlands",
-      "accrediting": "Bishop Grosseteste University",
-      "subjects": "Lower primary, Primary",
-      "ageRange": "Primary (c3 - 11/12 years)",
-      "name": "Lower Primary (3-7) (Flexible/Part time)",
-      "route": "Higher Education programme",
-      "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "B38",
-      "programmeCode": "2NP6",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "Bishop Grosseteste College, Lincoln, Lincolnshire, LN1 3DY",
-          "code": ""
-        }
-      ],
-      "options": [
-        "PGCE with QTS part time"
-      ]
-    },
-    {
-      "regions": "East Midlands",
-      "accrediting": "Bishop Grosseteste University",
-      "subjects": "Primary",
-      "ageRange": "Primary (c3 - 11/12 years)",
-      "name": "Upper Primary (5-11)",
-      "route": "Higher Education programme",
-      "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "B38",
-      "programmeCode": "X175",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "Bishop Grosseteste College, Lincoln, Lincolnshire, LN1 3DY",
-          "code": ""
-        }
-      ],
-      "options": [
-        "PGCE with QTS full time"
-      ]
-    },
-    {
-      "regions": "East Midlands",
-      "accrediting": "Bishop Grosseteste University",
-      "subjects": "Primary",
-      "ageRange": "Primary (c3 - 11/12 years)",
-      "name": "Upper Primary (5-11) (Flexible/Part time)",
-      "route": "Higher Education programme",
-      "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "B38",
-      "programmeCode": "2NP7",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "Bishop Grosseteste College, Lincoln, Lincolnshire, LN1 3DY",
-          "code": ""
-        }
-      ],
-      "options": [
-        "PGCE with QTS part time"
-      ]
-    },
-    {
-      "regions": "East Midlands",
-      "accrediting": "Bishop Grosseteste University",
+      "regions": "Yorkshire & the Humber",
+      "accrediting": "Leeds Trinity University",
       "subjects": "Art / art & design, Secondary",
       "ageRange": "Secondary (11+ years)",
       "name": "Art and Design",
-      "route": "Higher Education programme",
-      "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "B38",
-      "programmeCode": "2VQT",
+      "route": "School Direct training programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "1EP",
+      "programmeCode": "2JGW",
       "schools": [
         {
           "name": "Main Site",
-          "address": "Bishop Grosseteste College, Lincoln, Lincolnshire, LN1 3DY",
-          "code": ""
+          "address": "Ripley Street, Bradford, BD5 7RR",
+          "code": "-"
         }
       ],
       "options": [
@@ -115,41 +31,20 @@
       ]
     },
     {
-      "regions": "East Midlands",
-      "accrediting": "Bishop Grosseteste University",
+      "regions": "Yorkshire & the Humber",
+      "accrediting": "Leeds Trinity University",
       "subjects": "Biology, Science, Secondary",
       "ageRange": "Secondary (11+ years)",
-      "name": "Science with Biology",
-      "route": "Higher Education programme",
+      "name": "Biology",
+      "route": "School Direct training programme",
       "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "B38",
-      "programmeCode": "3435",
+      "providerCode": "1EP",
+      "programmeCode": "2S3K",
       "schools": [
         {
           "name": "Main Site",
-          "address": "Bishop Grosseteste College, Lincoln, Lincolnshire, LN1 3DY",
-          "code": ""
-        }
-      ],
-      "options": [
-        "PGCE with QTS part time"
-      ]
-    },
-    {
-      "regions": "East Midlands",
-      "accrediting": "Bishop Grosseteste University",
-      "subjects": "Biology, Science, Secondary",
-      "ageRange": "Secondary (11+ years)",
-      "name": "Science with Biology",
-      "route": "Higher Education programme",
-      "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "B38",
-      "programmeCode": "CX11",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "Bishop Grosseteste College, Lincoln, Lincolnshire, LN1 3DY",
-          "code": ""
+          "address": "Ripley Street, Bradford, BD5 7RR",
+          "code": "-"
         }
       ],
       "options": [
@@ -157,20 +52,20 @@
       ]
     },
     {
-      "regions": "East Midlands",
-      "accrediting": "Bishop Grosseteste University",
+      "regions": "Yorkshire & the Humber",
+      "accrediting": "Leeds Trinity University",
       "subjects": "Business education, Secondary",
       "ageRange": "Secondary (11+ years)",
       "name": "Business Studies",
-      "route": "Higher Education programme",
-      "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "B38",
-      "programmeCode": "33NN",
+      "route": "School Direct training programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "1EP",
+      "programmeCode": "3274",
       "schools": [
         {
           "name": "Main Site",
-          "address": "Bishop Grosseteste College, Lincoln, Lincolnshire, LN1 3DY",
-          "code": ""
+          "address": "Ripley Street, Bradford, BD5 7RR",
+          "code": "-"
         }
       ],
       "options": [
@@ -178,41 +73,20 @@
       ]
     },
     {
-      "regions": "East Midlands",
-      "accrediting": "Bishop Grosseteste University",
+      "regions": "Yorkshire & the Humber",
+      "accrediting": "Leeds Trinity University",
       "subjects": "Chemistry, Science, Secondary",
       "ageRange": "Secondary (11+ years)",
-      "name": "Science with Chemistry",
-      "route": "Higher Education programme",
-      "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "B38",
-      "programmeCode": "3436",
+      "name": "Chemistry",
+      "route": "School Direct training programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "1EP",
+      "programmeCode": "2KHF",
       "schools": [
         {
           "name": "Main Site",
-          "address": "Bishop Grosseteste College, Lincoln, Lincolnshire, LN1 3DY",
-          "code": ""
-        }
-      ],
-      "options": [
-        "PGCE with QTS part time"
-      ]
-    },
-    {
-      "regions": "East Midlands",
-      "accrediting": "Bishop Grosseteste University",
-      "subjects": "Chemistry, Science, Secondary",
-      "ageRange": "Secondary (11+ years)",
-      "name": "Science with Chemistry",
-      "route": "Higher Education programme",
-      "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "B38",
-      "programmeCode": "F2X1",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "Bishop Grosseteste College, Lincoln, Lincolnshire, LN1 3DY",
-          "code": ""
+          "address": "Ripley Street, Bradford, BD5 7RR",
+          "code": "-"
         }
       ],
       "options": [
@@ -220,41 +94,20 @@
       ]
     },
     {
-      "regions": "East Midlands",
-      "accrediting": "Bishop Grosseteste University",
-      "subjects": "Classics, Secondary",
-      "ageRange": "Secondary (11+ years)",
-      "name": "Classics",
-      "route": "Higher Education programme",
-      "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "B38",
-      "programmeCode": "32LC",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "Bishop Grosseteste College, Lincoln, Lincolnshire, LN1 3DY",
-          "code": ""
-        }
-      ],
-      "options": [
-        "PGCE with QTS full time"
-      ]
-    },
-    {
-      "regions": "East Midlands",
-      "accrediting": "Bishop Grosseteste University",
+      "regions": "Yorkshire & the Humber",
+      "accrediting": "Leeds Trinity University",
       "subjects": "Computer studies, Secondary",
       "ageRange": "Secondary (11+ years)",
       "name": "Computing",
-      "route": "Higher Education programme",
-      "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "B38",
-      "programmeCode": "32LD",
+      "route": "School Direct training programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "1EP",
+      "programmeCode": "2JH2",
       "schools": [
         {
           "name": "Main Site",
-          "address": "Bishop Grosseteste College, Lincoln, Lincolnshire, LN1 3DY",
-          "code": ""
+          "address": "Ripley Street, Bradford, BD5 7RR",
+          "code": "-"
         }
       ],
       "options": [
@@ -262,20 +115,20 @@
       ]
     },
     {
-      "regions": "East Midlands",
-      "accrediting": "Bishop Grosseteste University",
-      "subjects": "Dance and performance, Secondary",
+      "regions": "Yorkshire & the Humber",
+      "accrediting": "Leeds Trinity University",
+      "subjects": "Design and technology, Design and technology (product design), Secondary",
       "ageRange": "Secondary (11+ years)",
-      "name": "Dance",
-      "route": "Higher Education programme",
-      "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "B38",
-      "programmeCode": "32LH",
+      "name": "Design and Technology (Product Design)",
+      "route": "School Direct training programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "1EP",
+      "programmeCode": "2JGV",
       "schools": [
         {
           "name": "Main Site",
-          "address": "Bishop Grosseteste College, Lincoln, Lincolnshire, LN1 3DY",
-          "code": ""
+          "address": "Ripley Street, Bradford, BD5 7RR",
+          "code": "-"
         }
       ],
       "options": [
@@ -283,41 +136,20 @@
       ]
     },
     {
-      "regions": "East Midlands",
-      "accrediting": "Bishop Grosseteste University",
-      "subjects": "Drama and theatre studies, Secondary",
-      "ageRange": "Secondary (11+ years)",
-      "name": "Drama",
-      "route": "Higher Education programme",
-      "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "B38",
-      "programmeCode": "2GKK",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "Bishop Grosseteste College, Lincoln, Lincolnshire, LN1 3DY",
-          "code": ""
-        }
-      ],
-      "options": [
-        "PGCE with QTS full time"
-      ]
-    },
-    {
-      "regions": "East Midlands",
-      "accrediting": "Bishop Grosseteste University",
+      "regions": "Yorkshire & the Humber",
+      "accrediting": "Leeds Trinity University",
       "subjects": "English, Secondary",
       "ageRange": "Secondary (11+ years)",
       "name": "English",
-      "route": "Higher Education programme",
-      "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "B38",
-      "programmeCode": "29TT",
+      "route": "School Direct training programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "1EP",
+      "programmeCode": "2BZP",
       "schools": [
         {
           "name": "Main Site",
-          "address": "Bishop Grosseteste College, Lincoln, Lincolnshire, LN1 3DY",
-          "code": ""
+          "address": "Ripley Street, Bradford, BD5 7RR",
+          "code": "-"
         }
       ],
       "options": [
@@ -325,104 +157,20 @@
       ]
     },
     {
-      "regions": "East Midlands",
-      "accrediting": "Bishop Grosseteste University",
-      "subjects": "French, Languages, Languages (european), Secondary",
-      "ageRange": "Secondary (11+ years)",
-      "name": "Modern Languages (French)",
-      "route": "Higher Education programme",
-      "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "B38",
-      "programmeCode": "2VQQ",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "Bishop Grosseteste College, Lincoln, Lincolnshire, LN1 3DY",
-          "code": ""
-        }
-      ],
-      "options": [
-        "PGCE with QTS full time"
-      ]
-    },
-    {
-      "regions": "East Midlands",
-      "accrediting": "Bishop Grosseteste University",
-      "subjects": "French, Languages, Secondary",
-      "ageRange": "Secondary (11+ years)",
-      "name": "Modern Languages (French)",
-      "route": "Higher Education programme",
-      "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "B38",
-      "programmeCode": "34F4",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "Bishop Grosseteste College, Lincoln, Lincolnshire, LN1 3DY",
-          "code": ""
-        }
-      ],
-      "options": [
-        "PGCE with QTS part time"
-      ]
-    },
-    {
-      "regions": "East Midlands",
-      "accrediting": "Bishop Grosseteste University",
-      "subjects": "French, German, Languages, Languages (european), Secondary, Spanish",
-      "ageRange": "Secondary (11+ years)",
-      "name": "Modern Languages (Spanish German French)",
-      "route": "Higher Education programme",
-      "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "B38",
-      "programmeCode": "2VQR",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "Bishop Grosseteste College, Lincoln, Lincolnshire, LN1 3DY",
-          "code": ""
-        }
-      ],
-      "options": [
-        "PGCE with QTS full time"
-      ]
-    },
-    {
-      "regions": "East Midlands",
-      "accrediting": "Bishop Grosseteste University",
-      "subjects": "French, German, Languages, Languages (european), Secondary, Spanish",
-      "ageRange": "Secondary (11+ years)",
-      "name": "Modern Languages (Spanish German French)",
-      "route": "Higher Education programme",
-      "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "B38",
-      "programmeCode": "34F6",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "Bishop Grosseteste College, Lincoln, Lincolnshire, LN1 3DY",
-          "code": ""
-        }
-      ],
-      "options": [
-        "PGCE with QTS part time"
-      ]
-    },
-    {
-      "regions": "East Midlands",
-      "accrediting": "Bishop Grosseteste University",
+      "regions": "Yorkshire & the Humber",
+      "accrediting": "Leeds Trinity University",
       "subjects": "Geography, Secondary",
       "ageRange": "Secondary (11+ years)",
       "name": "Geography",
-      "route": "Higher Education programme",
-      "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "B38",
-      "programmeCode": "2VQS",
+      "route": "School Direct training programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "1EP",
+      "programmeCode": "29BQ",
       "schools": [
         {
           "name": "Main Site",
-          "address": "Bishop Grosseteste College, Lincoln, Lincolnshire, LN1 3DY",
-          "code": ""
+          "address": "Ripley Street, Bradford, BD5 7RR",
+          "code": "-"
         }
       ],
       "options": [
@@ -430,62 +178,20 @@
       ]
     },
     {
-      "regions": "East Midlands",
-      "accrediting": "Bishop Grosseteste University",
-      "subjects": "German, Languages, Languages (european), Secondary",
-      "ageRange": "Secondary (11+ years)",
-      "name": "Modern Languages (German)",
-      "route": "Higher Education programme",
-      "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "B38",
-      "programmeCode": "2VQP",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "Bishop Grosseteste College, Lincoln, Lincolnshire, LN1 3DY",
-          "code": ""
-        }
-      ],
-      "options": [
-        "PGCE with QTS full time"
-      ]
-    },
-    {
-      "regions": "East Midlands",
-      "accrediting": "Bishop Grosseteste University",
-      "subjects": "German, Languages, Secondary",
-      "ageRange": "Secondary (11+ years)",
-      "name": "Modern Languages (German)",
-      "route": "Higher Education programme",
-      "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "B38",
-      "programmeCode": "34F5",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "Bishop Grosseteste College, Lincoln, Lincolnshire, LN1 3DY",
-          "code": ""
-        }
-      ],
-      "options": [
-        "PGCE with QTS part time"
-      ]
-    },
-    {
-      "regions": "East Midlands",
-      "accrediting": "Bishop Grosseteste University",
+      "regions": "Yorkshire & the Humber",
+      "accrediting": "Leeds Trinity University",
       "subjects": "History, Secondary",
       "ageRange": "Secondary (11+ years)",
       "name": "History",
-      "route": "Higher Education programme",
-      "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "B38",
-      "programmeCode": "32LK",
+      "route": "School Direct training programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "1EP",
+      "programmeCode": "2BZN",
       "schools": [
         {
           "name": "Main Site",
-          "address": "Bishop Grosseteste College, Lincoln, Lincolnshire, LN1 3DY",
-          "code": ""
+          "address": "Ripley Street, Bradford, BD5 7RR",
+          "code": "-"
         }
       ],
       "options": [
@@ -493,20 +199,20 @@
       ]
     },
     {
-      "regions": "East Midlands",
-      "accrediting": "Bishop Grosseteste University",
+      "regions": "Yorkshire & the Humber",
+      "accrediting": "Leeds Trinity University",
       "subjects": "Languages, Languages (european), Secondary, Spanish",
       "ageRange": "Secondary (11+ years)",
       "name": "Modern Languages (Spanish)",
-      "route": "Higher Education programme",
-      "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "B38",
-      "programmeCode": "2VQN",
+      "route": "School Direct training programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "1EP",
+      "programmeCode": "2BZW",
       "schools": [
         {
           "name": "Main Site",
-          "address": "Bishop Grosseteste College, Lincoln, Lincolnshire, LN1 3DY",
-          "code": ""
+          "address": "Ripley Street, Bradford, BD5 7RR",
+          "code": "-"
         }
       ],
       "options": [
@@ -514,41 +220,20 @@
       ]
     },
     {
-      "regions": "East Midlands",
-      "accrediting": "Bishop Grosseteste University",
-      "subjects": "Languages, Languages (european), Secondary, Spanish",
-      "ageRange": "Secondary (11+ years)",
-      "name": "Modern Languages (Spanish)",
-      "route": "Higher Education programme",
-      "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "B38",
-      "programmeCode": "34F7",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "Bishop Grosseteste College, Lincoln, Lincolnshire, LN1 3DY",
-          "code": ""
-        }
-      ],
-      "options": [
-        "PGCE with QTS part time"
-      ]
-    },
-    {
-      "regions": "East Midlands",
-      "accrediting": "Bishop Grosseteste University",
+      "regions": "Yorkshire & the Humber",
+      "accrediting": "Leeds Trinity University",
       "subjects": "Mathematics, Secondary",
       "ageRange": "Secondary (11+ years)",
       "name": "Mathematics",
-      "route": "Higher Education programme",
-      "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "B38",
-      "programmeCode": "G1X1",
+      "route": "School Direct training programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "1EP",
+      "programmeCode": "2BZR",
       "schools": [
         {
           "name": "Main Site",
-          "address": "Bishop Grosseteste College, Lincoln, Lincolnshire, LN1 3DY",
-          "code": ""
+          "address": "Ripley Street, Bradford, BD5 7RR",
+          "code": "-"
         }
       ],
       "options": [
@@ -556,41 +241,20 @@
       ]
     },
     {
-      "regions": "East Midlands",
-      "accrediting": "Bishop Grosseteste University",
-      "subjects": "Mathematics, Secondary",
-      "ageRange": "Secondary (11+ years)",
-      "name": "Mathematics (Part time)",
-      "route": "Higher Education programme",
-      "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "B38",
-      "programmeCode": "342C",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "Bishop Grosseteste College, Lincoln, Lincolnshire, LN1 3DY",
-          "code": ""
-        }
-      ],
-      "options": [
-        "PGCE with QTS part time"
-      ]
-    },
-    {
-      "regions": "East Midlands",
-      "accrediting": "Bishop Grosseteste University",
+      "regions": "Yorkshire & the Humber",
+      "accrediting": "Leeds Trinity University",
       "subjects": "Music, Secondary",
       "ageRange": "Secondary (11+ years)",
       "name": "Music",
-      "route": "Higher Education programme",
-      "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "B38",
-      "programmeCode": "W3X1",
+      "route": "School Direct training programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "1EP",
+      "programmeCode": "2BZV",
       "schools": [
         {
           "name": "Main Site",
-          "address": "Bishop Grosseteste College, Lincoln, Lincolnshire, LN1 3DY",
-          "code": ""
+          "address": "Ripley Street, Bradford, BD5 7RR",
+          "code": "-"
         }
       ],
       "options": [
@@ -598,20 +262,20 @@
       ]
     },
     {
-      "regions": "East Midlands",
-      "accrediting": "Bishop Grosseteste University",
+      "regions": "Yorkshire & the Humber",
+      "accrediting": "Leeds Trinity University",
       "subjects": "Physical education, Secondary",
       "ageRange": "Secondary (11+ years)",
       "name": "Physical Education",
-      "route": "Higher Education programme",
-      "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "B38",
-      "programmeCode": "357X",
+      "route": "School Direct training programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "1EP",
+      "programmeCode": "2BZT",
       "schools": [
         {
           "name": "Main Site",
-          "address": "Bishop Grosseteste College, Lincoln, Lincolnshire, LN1 3DY",
-          "code": ""
+          "address": "Ripley Street, Bradford, BD5 7RR",
+          "code": "-"
         }
       ],
       "options": [
@@ -619,41 +283,20 @@
       ]
     },
     {
-      "regions": "East Midlands",
-      "accrediting": "Bishop Grosseteste University",
+      "regions": "Yorkshire & the Humber",
+      "accrediting": "Leeds Trinity University",
       "subjects": "Physics, Science, Secondary",
       "ageRange": "Secondary (11+ years)",
-      "name": "Science with Physics",
-      "route": "Higher Education programme",
-      "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "B38",
-      "programmeCode": "34F8",
+      "name": "Physics",
+      "route": "School Direct training programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "1EP",
+      "programmeCode": "2KHD",
       "schools": [
         {
           "name": "Main Site",
-          "address": "Bishop Grosseteste College, Lincoln, Lincolnshire, LN1 3DY",
-          "code": ""
-        }
-      ],
-      "options": [
-        "PGCE with QTS part time"
-      ]
-    },
-    {
-      "regions": "East Midlands",
-      "accrediting": "Bishop Grosseteste University",
-      "subjects": "Physics, Science, Secondary",
-      "ageRange": "Secondary (11+ years)",
-      "name": "Science with Physics",
-      "route": "Higher Education programme",
-      "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "B38",
-      "programmeCode": "F3X2",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "Bishop Grosseteste College, Lincoln, Lincolnshire, LN1 3DY",
-          "code": ""
+          "address": "Ripley Street, Bradford, BD5 7RR",
+          "code": "-"
         }
       ],
       "options": [
@@ -661,41 +304,20 @@
       ]
     },
     {
-      "regions": "East Midlands",
-      "accrediting": "Bishop Grosseteste University",
-      "subjects": "Psychology, Secondary",
-      "ageRange": "Secondary (11+ years)",
-      "name": "Psychology",
-      "route": "Higher Education programme",
-      "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "B38",
-      "programmeCode": "32LN",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "Bishop Grosseteste College, Lincoln, Lincolnshire, LN1 3DY",
-          "code": ""
-        }
-      ],
-      "options": [
-        "PGCE with QTS full time"
-      ]
-    },
-    {
-      "regions": "East Midlands",
-      "accrediting": "Bishop Grosseteste University",
+      "regions": "Yorkshire & the Humber",
+      "accrediting": "Leeds Trinity University",
       "subjects": "Religious education, Secondary",
       "ageRange": "Secondary (11+ years)",
       "name": "Religious Education",
-      "route": "Higher Education programme",
+      "route": "School Direct training programme",
       "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "B38",
-      "programmeCode": "2GRF",
+      "providerCode": "1EP",
+      "programmeCode": "2S3J",
       "schools": [
         {
           "name": "Main Site",
-          "address": "Bishop Grosseteste College, Lincoln, Lincolnshire, LN1 3DY",
-          "code": ""
+          "address": "Ripley Street, Bradford, BD5 7RR",
+          "code": "-"
         }
       ],
       "options": [
@@ -703,20 +325,20 @@
       ]
     },
     {
-      "regions": "East Midlands",
-      "accrediting": "Bishop Grosseteste University",
+      "regions": "Yorkshire & the Humber",
+      "accrediting": "Leeds Trinity University",
       "subjects": "Secondary, Social science",
       "ageRange": "Secondary (11+ years)",
-      "name": "Social Science",
-      "route": "Higher Education programme",
-      "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "B38",
-      "programmeCode": "2W6T",
+      "name": "Social Sciences",
+      "route": "School Direct training programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "1EP",
+      "programmeCode": "2JGZ",
       "schools": [
         {
           "name": "Main Site",
-          "address": "Bishop Grosseteste College, Lincoln, Lincolnshire, LN1 3DY",
-          "code": ""
+          "address": "Ripley Street, Bradford, BD5 7RR",
+          "code": "-"
         }
       ],
       "options": [
@@ -727,38 +349,38 @@
   "schools": [
     {
       "name": "Main Site",
-      "address": "Bishop Grosseteste College, Lincoln, Lincolnshire, LN1 3DY",
-      "code": ""
+      "address": "Ripley Street, Bradford, BD5 7RR",
+      "code": "-"
     }
   ],
   "accreditors": [
     {
-      "name": "Bishop Grosseteste University",
-      "slug": "bishop-grosseteste-university",
+      "name": "Leeds Trinity University",
+      "slug": "leeds-trinity-university",
       "subjects": [
         {
           "name": "Art and Design",
           "slug": "art-and-design"
         },
         {
+          "name": "Biology",
+          "slug": "biology"
+        },
+        {
           "name": "Business Studies",
           "slug": "business-studies"
         },
         {
-          "name": "Classics",
-          "slug": "classics"
+          "name": "Chemistry",
+          "slug": "chemistry"
         },
         {
           "name": "Computing",
           "slug": "computing"
         },
         {
-          "name": "Dance",
-          "slug": "dance"
-        },
-        {
-          "name": "Drama",
-          "slug": "drama"
+          "name": "Design and Technology (Product Design)",
+          "slug": "design-and-technology--product-design-"
         },
         {
           "name": "English",
@@ -773,32 +395,8 @@
           "slug": "history"
         },
         {
-          "name": "Lower Primary (3-7)",
-          "slug": "lower-primary--3-7-"
-        },
-        {
-          "name": "Lower Primary (3-7) (Flexible/Part time)",
-          "slug": "lower-primary--3-7---flexible-part-time-"
-        },
-        {
           "name": "Mathematics",
           "slug": "mathematics"
-        },
-        {
-          "name": "Mathematics (Part time)",
-          "slug": "mathematics--part-time-"
-        },
-        {
-          "name": "Modern Languages (French)",
-          "slug": "modern-languages--french-"
-        },
-        {
-          "name": "Modern Languages (German)",
-          "slug": "modern-languages--german-"
-        },
-        {
-          "name": "Modern Languages (Spanish German French)",
-          "slug": "modern-languages--spanish-german-french-"
         },
         {
           "name": "Modern Languages (Spanish)",
@@ -813,36 +411,16 @@
           "slug": "physical-education"
         },
         {
-          "name": "Psychology",
-          "slug": "psychology"
+          "name": "Physics",
+          "slug": "physics"
         },
         {
           "name": "Religious Education",
           "slug": "religious-education"
         },
         {
-          "name": "Science with Biology",
-          "slug": "science-with-biology"
-        },
-        {
-          "name": "Science with Chemistry",
-          "slug": "science-with-chemistry"
-        },
-        {
-          "name": "Science with Physics",
-          "slug": "science-with-physics"
-        },
-        {
-          "name": "Social Science",
-          "slug": "social-science"
-        },
-        {
-          "name": "Upper Primary (5-11)",
-          "slug": "upper-primary--5-11-"
-        },
-        {
-          "name": "Upper Primary (5-11) (Flexible/Part time)",
-          "slug": "upper-primary--5-11---flexible-part-time-"
+          "name": "Social Sciences",
+          "slug": "social-sciences"
         }
       ]
     }
@@ -853,24 +431,24 @@
       "slug": "art-and-design"
     },
     {
+      "name": "Biology",
+      "slug": "biology"
+    },
+    {
       "name": "Business Studies",
       "slug": "business-studies"
     },
     {
-      "name": "Classics",
-      "slug": "classics"
+      "name": "Chemistry",
+      "slug": "chemistry"
     },
     {
       "name": "Computing",
       "slug": "computing"
     },
     {
-      "name": "Dance",
-      "slug": "dance"
-    },
-    {
-      "name": "Drama",
-      "slug": "drama"
+      "name": "Design and Technology (Product Design)",
+      "slug": "design-and-technology--product-design-"
     },
     {
       "name": "English",
@@ -885,32 +463,8 @@
       "slug": "history"
     },
     {
-      "name": "Lower Primary (3-7)",
-      "slug": "lower-primary--3-7-"
-    },
-    {
-      "name": "Lower Primary (3-7) (Flexible/Part time)",
-      "slug": "lower-primary--3-7---flexible-part-time-"
-    },
-    {
       "name": "Mathematics",
       "slug": "mathematics"
-    },
-    {
-      "name": "Mathematics (Part time)",
-      "slug": "mathematics--part-time-"
-    },
-    {
-      "name": "Modern Languages (French)",
-      "slug": "modern-languages--french-"
-    },
-    {
-      "name": "Modern Languages (German)",
-      "slug": "modern-languages--german-"
-    },
-    {
-      "name": "Modern Languages (Spanish German French)",
-      "slug": "modern-languages--spanish-german-french-"
     },
     {
       "name": "Modern Languages (Spanish)",
@@ -925,45 +479,46 @@
       "slug": "physical-education"
     },
     {
-      "name": "Psychology",
-      "slug": "psychology"
+      "name": "Physics",
+      "slug": "physics"
     },
     {
       "name": "Religious Education",
       "slug": "religious-education"
     },
     {
-      "name": "Science with Biology",
-      "slug": "science-with-biology"
-    },
-    {
-      "name": "Science with Chemistry",
-      "slug": "science-with-chemistry"
-    },
-    {
-      "name": "Science with Physics",
-      "slug": "science-with-physics"
-    },
-    {
-      "name": "Social Science",
-      "slug": "social-science"
-    },
-    {
-      "name": "Upper Primary (5-11)",
-      "slug": "upper-primary--5-11-"
-    },
-    {
-      "name": "Upper Primary (5-11) (Flexible/Part time)",
-      "slug": "upper-primary--5-11---flexible-part-time-"
+      "name": "Social Sciences",
+      "slug": "social-sciences"
     }
   ],
   "folded_courses": {
-    "Bishop Grosseteste University": [
+    "Leeds Trinity University": [
       {
         "name": "Art and Design",
         "courses": 1,
         "accrediting": [
-          "Bishop Grosseteste University"
+          "Leeds Trinity University"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Main Site"
+        ],
+        "options": [
+          "PGCE with QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Biology",
+        "courses": 1,
+        "accrediting": [
+          "Leeds Trinity University"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
@@ -984,7 +539,7 @@
         "name": "Business Studies",
         "courses": 1,
         "accrediting": [
-          "Bishop Grosseteste University"
+          "Leeds Trinity University"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
@@ -1002,10 +557,10 @@
         }
       },
       {
-        "name": "Classics",
+        "name": "Chemistry",
         "courses": 1,
         "accrediting": [
-          "Bishop Grosseteste University"
+          "Leeds Trinity University"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
@@ -1026,7 +581,7 @@
         "name": "Computing",
         "courses": 1,
         "accrediting": [
-          "Bishop Grosseteste University"
+          "Leeds Trinity University"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
@@ -1044,31 +599,10 @@
         }
       },
       {
-        "name": "Dance",
+        "name": "Design and Technology (Product Design)",
         "courses": 1,
         "accrediting": [
-          "Bishop Grosseteste University"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Main Site"
-        ],
-        "options": [
-          "PGCE with QTS full time"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": false,
-          "qualifications": false
-        }
-      },
-      {
-        "name": "Drama",
-        "courses": 1,
-        "accrediting": [
-          "Bishop Grosseteste University"
+          "Leeds Trinity University"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
@@ -1089,7 +623,7 @@
         "name": "English",
         "courses": 1,
         "accrediting": [
-          "Bishop Grosseteste University"
+          "Leeds Trinity University"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
@@ -1110,7 +644,7 @@
         "name": "Geography",
         "courses": 1,
         "accrediting": [
-          "Bishop Grosseteste University"
+          "Leeds Trinity University"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
@@ -1131,7 +665,7 @@
         "name": "History",
         "courses": 1,
         "accrediting": [
-          "Bishop Grosseteste University"
+          "Leeds Trinity University"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
@@ -1141,48 +675,6 @@
         ],
         "options": [
           "PGCE with QTS full time"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": false,
-          "qualifications": false
-        }
-      },
-      {
-        "name": "Lower Primary (3-7)",
-        "courses": 1,
-        "accrediting": [
-          "Bishop Grosseteste University"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Main Site"
-        ],
-        "options": [
-          "PGCE with QTS full time"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": false,
-          "qualifications": false
-        }
-      },
-      {
-        "name": "Lower Primary (3-7) (Flexible/Part time)",
-        "courses": 1,
-        "accrediting": [
-          "Bishop Grosseteste University"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Main Site"
-        ],
-        "options": [
-          "PGCE with QTS part time"
         ],
         "flags": {
           "partTime": false,
@@ -1194,7 +686,7 @@
         "name": "Mathematics",
         "courses": 1,
         "accrediting": [
-          "Bishop Grosseteste University"
+          "Leeds Trinity University"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
@@ -1212,10 +704,10 @@
         }
       },
       {
-        "name": "Mathematics (Part time)",
+        "name": "Modern Languages (Spanish)",
         "courses": 1,
         "accrediting": [
-          "Bishop Grosseteste University"
+          "Leeds Trinity University"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
@@ -1224,95 +716,7 @@
           "Main Site"
         ],
         "options": [
-          "PGCE with QTS part time"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": false,
-          "qualifications": false
-        }
-      },
-      {
-        "name": "Modern Languages (French)",
-        "courses": 2,
-        "accrediting": [
-          "Bishop Grosseteste University"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Main Site"
-        ],
-        "options": [
-          "PGCE with QTS full time",
-          "PGCE with QTS part time"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": false,
-          "qualifications": false
-        }
-      },
-      {
-        "name": "Modern Languages (German)",
-        "courses": 2,
-        "accrediting": [
-          "Bishop Grosseteste University"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Main Site"
-        ],
-        "options": [
-          "PGCE with QTS full time",
-          "PGCE with QTS part time"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": false,
-          "qualifications": false
-        }
-      },
-      {
-        "name": "Modern Languages (Spanish German French)",
-        "courses": 2,
-        "accrediting": [
-          "Bishop Grosseteste University"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Main Site"
-        ],
-        "options": [
-          "PGCE with QTS full time",
-          "PGCE with QTS part time"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": false,
-          "qualifications": false
-        }
-      },
-      {
-        "name": "Modern Languages (Spanish)",
-        "courses": 2,
-        "accrediting": [
-          "Bishop Grosseteste University"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Main Site"
-        ],
-        "options": [
-          "PGCE with QTS full time",
-          "PGCE with QTS part time"
+          "PGCE with QTS full time"
         ],
         "flags": {
           "partTime": false,
@@ -1324,7 +728,7 @@
         "name": "Music",
         "courses": 1,
         "accrediting": [
-          "Bishop Grosseteste University"
+          "Leeds Trinity University"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
@@ -1345,7 +749,7 @@
         "name": "Physical Education",
         "courses": 1,
         "accrediting": [
-          "Bishop Grosseteste University"
+          "Leeds Trinity University"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
@@ -1363,10 +767,10 @@
         }
       },
       {
-        "name": "Psychology",
+        "name": "Physics",
         "courses": 1,
         "accrediting": [
-          "Bishop Grosseteste University"
+          "Leeds Trinity University"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
@@ -1387,7 +791,7 @@
         "name": "Religious Education",
         "courses": 1,
         "accrediting": [
-          "Bishop Grosseteste University"
+          "Leeds Trinity University"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
@@ -1405,76 +809,10 @@
         }
       },
       {
-        "name": "Science with Biology",
-        "courses": 2,
-        "accrediting": [
-          "Bishop Grosseteste University"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Main Site"
-        ],
-        "options": [
-          "PGCE with QTS full time",
-          "PGCE with QTS part time"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": false,
-          "qualifications": false
-        }
-      },
-      {
-        "name": "Science with Chemistry",
-        "courses": 2,
-        "accrediting": [
-          "Bishop Grosseteste University"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Main Site"
-        ],
-        "options": [
-          "PGCE with QTS full time",
-          "PGCE with QTS part time"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": false,
-          "qualifications": false
-        }
-      },
-      {
-        "name": "Science with Physics",
-        "courses": 2,
-        "accrediting": [
-          "Bishop Grosseteste University"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Main Site"
-        ],
-        "options": [
-          "PGCE with QTS full time",
-          "PGCE with QTS part time"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": false,
-          "qualifications": false
-        }
-      },
-      {
-        "name": "Social Science",
+        "name": "Social Sciences",
         "courses": 1,
         "accrediting": [
-          "Bishop Grosseteste University"
+          "Leeds Trinity University"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
@@ -1484,48 +822,6 @@
         ],
         "options": [
           "PGCE with QTS full time"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": false,
-          "qualifications": false
-        }
-      },
-      {
-        "name": "Upper Primary (5-11)",
-        "courses": 1,
-        "accrediting": [
-          "Bishop Grosseteste University"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Main Site"
-        ],
-        "options": [
-          "PGCE with QTS full time"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": false,
-          "qualifications": false
-        }
-      },
-      {
-        "name": "Upper Primary (5-11) (Flexible/Part time)",
-        "courses": 1,
-        "accrediting": [
-          "Bishop Grosseteste University"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Main Site"
-        ],
-        "options": [
-          "PGCE with QTS part time"
         ],
         "flags": {
           "partTime": false,
