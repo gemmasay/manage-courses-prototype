@@ -5,7 +5,7 @@ require 'json'
 
 file = File.read('courses-clean.json')
 data = JSON.parse(file)
-provider = 'Catholic Teaching Alliance (South East London)'
+provider = 'Bishop Grosseteste University'
 courses = data.select {|c| c['provider'] == provider }
 
 prototype_data = {
@@ -77,7 +77,7 @@ prototype_data['accreditors'].sort_by! { |k| k[:name] }
 prototype_data['subjects'] = courses.uniq {|c| c['name'] }.map  do |c|
   {
     name: c['name'],
-    slug: c['name'].downcase.gsub(' ', '-')
+    slug: c['name'].downcase.gsub(/[^a-zA-Z0-9]/, '-')
   }
 end
 
