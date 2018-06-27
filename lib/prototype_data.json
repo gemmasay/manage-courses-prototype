@@ -1,7 +1,7 @@
 {
-  "training-provider-name": "Gorse SCITT",
-  "provider-code-name": "A1774",
-  "provider-code": "1N1",
+  "training-provider-name": "St Mary's University, Twickenham",
+  "provider-code-name": "SMARY",
+  "provider-code": "S64",
   "address-line-1": "123 Baker Street",
   "town": "London",
   "postcode": "SW1 1AA",
@@ -10,35 +10,41 @@
   "website": "http://www.a-provider-website.org.uk/",
   "ucasCourses": [
     {
-      "regions": "Yorkshire & the Humber",
-      "accrediting": "Gorse SCITT",
+      "regions": "London",
+      "accrediting": "St Mary's University, Twickenham",
+      "subjects": "Physical education, Primary",
+      "ageRange": "Primary (c3 - 11/12 years)",
+      "name": "PGCE Primary with PE Specialism",
+      "route": "Higher Education programme",
+      "qualifications": "QTS, Postgraduate, Professional",
+      "providerCode": "S64",
+      "programmeCode": "2TYR",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "",
+          "code": ""
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "London",
+      "accrediting": "St Mary's University, Twickenham",
       "subjects": "Primary",
       "ageRange": "Primary (c3 - 11/12 years)",
       "name": "Primary",
-      "route": "SCITT (School Centred Initial Teacher Training) programme",
+      "route": "Higher Education programme",
       "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "1N1",
-      "programmeCode": "2XT2",
+      "providerCode": "S64",
+      "programmeCode": "X100",
       "schools": [
         {
-          "name": "Morley Newlands Academy",
-          "address": "Wide Lane, Morley, Leeds, LS27 8PG",
-          "code": "C"
-        },
-        {
-          "name": "Hillcrest Academy",
-          "address": "Cowper Street, Leeds, LS7 4DR",
-          "code": "D"
-        },
-        {
-          "name": "Ryecroft Academy",
-          "address": "Stonebridge Grove, Farnley, Leeds, LS12 5AW",
-          "code": "E"
-        },
-        {
-          "name": "Middleton Primary School",
-          "address": "Middleton Park Avenue, Leeds, LS10 4HU",
-          "code": "F"
+          "name": "Main Site",
+          "address": "",
+          "code": ""
         }
       ],
       "options": [
@@ -46,106 +52,41 @@
       ]
     },
     {
-      "regions": "Yorkshire & the Humber",
-      "accrediting": "Gorse SCITT",
-      "subjects": "Art / art & design, Secondary",
-      "ageRange": "Secondary (11+ years)",
-      "name": "Art and Design",
-      "route": "SCITT (School Centred Initial Teacher Training) programme",
+      "regions": "London",
+      "accrediting": "St Mary's University, Twickenham",
+      "subjects": "Primary",
+      "ageRange": "Primary (c3 - 11/12 years)",
+      "name": "Primary",
+      "route": "Higher Education programme",
       "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "1N1",
-      "programmeCode": "238T",
+      "providerCode": "S64",
+      "programmeCode": "X103",
       "schools": [
         {
-          "name": "The Morley Academy",
-          "address": "Fountain Street, Morley, Leeds, LS27 0PD",
-          "code": "1"
-        },
-        {
-          "name": "The Farnley Academy",
-          "address": "Chapel Lane, Farnley, Leeds, LS12 5EU",
-          "code": "2"
-        },
-        {
-          "name": "The Ruth Gorse Academy",
-          "address": "Black Bull Street, Leeds, LS10",
-          "code": "4"
-        },
-        {
-          "name": "Bruntcliffe Academy",
-          "address": "Bruntcliffe Lane, Morley, Leeds, LS27 0LZ",
-          "code": "5"
-        },
-        {
-          "name": "Cockburn School",
-          "address": "Parkside, Gipsy Lane, Leeds, West Yorkshire, LS11 5TT",
-          "code": "7"
-        },
-        {
-          "name": "Whitcliffe Mount School",
-          "address": "Turnsteads Avenue, Cleckheaton, BD19 3AQ",
-          "code": "8"
-        },
-        {
-          "name": "Leeds West Academy",
-          "address": "Intake Lane, Leeds, LS13 1DQ",
-          "code": "9"
-        },
-        {
-          "name": "Boston Spa School",
-          "address": "Clifford Moor Road, Boston Spa, West Yorkshire, LS23 6RW",
-          "code": "G"
+          "name": "Main Site",
+          "address": "",
+          "code": ""
         }
       ],
       "options": [
-        "PGCE with QTS full time"
+        "PGCE with QTS part time"
       ]
     },
     {
-      "regions": "Yorkshire & the Humber",
-      "accrediting": "Gorse SCITT",
+      "regions": "London",
+      "accrediting": "St Mary's University, Twickenham",
       "subjects": "Biology, Science, Secondary",
       "ageRange": "Secondary (11+ years)",
-      "name": "Biology",
-      "route": "SCITT (School Centred Initial Teacher Training) programme",
+      "name": "Science with Biology",
+      "route": "Higher Education programme",
       "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "1N1",
-      "programmeCode": "2392",
+      "providerCode": "S64",
+      "programmeCode": "C1X1",
       "schools": [
         {
-          "name": "The Morley Academy",
-          "address": "Fountain Street, Morley, Leeds, LS27 0PD",
-          "code": "1"
-        },
-        {
-          "name": "The Farnley Academy",
-          "address": "Chapel Lane, Farnley, Leeds, LS12 5EU",
-          "code": "2"
-        },
-        {
-          "name": "The Ruth Gorse Academy",
-          "address": "Black Bull Street, Leeds, LS10",
-          "code": "4"
-        },
-        {
-          "name": "Cockburn School",
-          "address": "Parkside, Gipsy Lane, Leeds, West Yorkshire, LS11 5TT",
-          "code": "7"
-        },
-        {
-          "name": "Whitcliffe Mount School",
-          "address": "Turnsteads Avenue, Cleckheaton, BD19 3AQ",
-          "code": "8"
-        },
-        {
-          "name": "Leeds West Academy",
-          "address": "Intake Lane, Leeds, LS13 1DQ",
-          "code": "9"
-        },
-        {
-          "name": "Leeds East Academy",
-          "address": "South Parkway, Seacroft, Leeds, LS14 6TY",
-          "code": "A"
+          "name": "Main Site",
+          "address": "",
+          "code": ""
         }
       ],
       "options": [
@@ -153,91 +94,20 @@
       ]
     },
     {
-      "regions": "Yorkshire & the Humber",
-      "accrediting": "Gorse SCITT",
-      "subjects": "Business education, Secondary",
-      "ageRange": "Secondary (11+ years)",
-      "name": "Business Studies",
-      "route": "SCITT (School Centred Initial Teacher Training) programme",
-      "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "1N1",
-      "programmeCode": "2393",
-      "schools": [
-        {
-          "name": "The Morley Academy",
-          "address": "Fountain Street, Morley, Leeds, LS27 0PD",
-          "code": "1"
-        },
-        {
-          "name": "The Farnley Academy",
-          "address": "Chapel Lane, Farnley, Leeds, LS12 5EU",
-          "code": "2"
-        },
-        {
-          "name": "The Elliott Hudson College",
-          "address": "Phoenix House, Global Avenue, Leeds, LS11 8PG",
-          "code": "6"
-        },
-        {
-          "name": "Whitcliffe Mount School",
-          "address": "Turnsteads Avenue, Cleckheaton, BD19 3AQ",
-          "code": "8"
-        },
-        {
-          "name": "Leeds West Academy",
-          "address": "Intake Lane, Leeds, LS13 1DQ",
-          "code": "9"
-        }
-      ],
-      "options": [
-        "PGCE with QTS full time"
-      ]
-    },
-    {
-      "regions": "Yorkshire & the Humber",
-      "accrediting": "Gorse SCITT",
+      "regions": "London",
+      "accrediting": "St Mary's University, Twickenham",
       "subjects": "Chemistry, Science, Secondary",
       "ageRange": "Secondary (11+ years)",
-      "name": "Chemistry",
-      "route": "SCITT (School Centred Initial Teacher Training) programme",
+      "name": "Science with Chemistry",
+      "route": "Higher Education programme",
       "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "1N1",
-      "programmeCode": "2394",
+      "providerCode": "S64",
+      "programmeCode": "F1X1",
       "schools": [
         {
-          "name": "The Morley Academy",
-          "address": "Fountain Street, Morley, Leeds, LS27 0PD",
-          "code": "1"
-        },
-        {
-          "name": "The Farnley Academy",
-          "address": "Chapel Lane, Farnley, Leeds, LS12 5EU",
-          "code": "2"
-        },
-        {
-          "name": "Bruntcliffe Academy",
-          "address": "Bruntcliffe Lane, Morley, Leeds, LS27 0LZ",
-          "code": "5"
-        },
-        {
-          "name": "Cockburn School",
-          "address": "Parkside, Gipsy Lane, Leeds, West Yorkshire, LS11 5TT",
-          "code": "7"
-        },
-        {
-          "name": "Whitcliffe Mount School",
-          "address": "Turnsteads Avenue, Cleckheaton, BD19 3AQ",
-          "code": "8"
-        },
-        {
-          "name": "Leeds West Academy",
-          "address": "Intake Lane, Leeds, LS13 1DQ",
-          "code": "9"
-        },
-        {
-          "name": "Boston Spa School",
-          "address": "Clifford Moor Road, Boston Spa, West Yorkshire, LS23 6RW",
-          "code": "G"
+          "name": "Main Site",
+          "address": "",
+          "code": ""
         }
       ],
       "options": [
@@ -245,280 +115,20 @@
       ]
     },
     {
-      "regions": "Yorkshire & the Humber",
-      "accrediting": "Gorse SCITT",
-      "subjects": "Classics, Secondary",
-      "ageRange": "Secondary (11+ years)",
-      "name": "Classics",
-      "route": "SCITT (School Centred Initial Teacher Training) programme",
-      "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "1N1",
-      "programmeCode": "38HB",
-      "schools": [
-        {
-          "name": "The Morley Academy",
-          "address": "Fountain Street, Morley, Leeds, LS27 0PD",
-          "code": "1"
-        },
-        {
-          "name": "The Elliott Hudson College",
-          "address": "Phoenix House, Global Avenue, Leeds, LS11 8PG",
-          "code": "6"
-        }
-      ],
-      "options": [
-        "PGCE with QTS full time"
-      ]
-    },
-    {
-      "regions": "Yorkshire & the Humber",
-      "accrediting": "Gorse SCITT",
-      "subjects": "Computer studies, Secondary",
-      "ageRange": "Secondary (11+ years)",
-      "name": "Computing",
-      "route": "SCITT (School Centred Initial Teacher Training) programme",
-      "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "1N1",
-      "programmeCode": "2395",
-      "schools": [
-        {
-          "name": "The Morley Academy",
-          "address": "Fountain Street, Morley, Leeds, LS27 0PD",
-          "code": "1"
-        },
-        {
-          "name": "The Farnley Academy",
-          "address": "Chapel Lane, Farnley, Leeds, LS12 5EU",
-          "code": "2"
-        },
-        {
-          "name": "The Ruth Gorse Academy",
-          "address": "Black Bull Street, Leeds, LS10",
-          "code": "4"
-        },
-        {
-          "name": "Cockburn School",
-          "address": "Parkside, Gipsy Lane, Leeds, West Yorkshire, LS11 5TT",
-          "code": "7"
-        },
-        {
-          "name": "Whitcliffe Mount School",
-          "address": "Turnsteads Avenue, Cleckheaton, BD19 3AQ",
-          "code": "8"
-        },
-        {
-          "name": "Leeds West Academy",
-          "address": "Intake Lane, Leeds, LS13 1DQ",
-          "code": "9"
-        }
-      ],
-      "options": [
-        "PGCE with QTS full time"
-      ]
-    },
-    {
-      "regions": "Yorkshire & the Humber",
-      "accrediting": "Gorse SCITT",
-      "subjects": "Design and technology, Secondary",
-      "ageRange": "Secondary (11+ years)",
-      "name": "Design And Technology",
-      "route": "SCITT (School Centred Initial Teacher Training) programme",
-      "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "1N1",
-      "programmeCode": "2396",
-      "schools": [
-        {
-          "name": "The Morley Academy",
-          "address": "Fountain Street, Morley, Leeds, LS27 0PD",
-          "code": "1"
-        },
-        {
-          "name": "The Farnley Academy",
-          "address": "Chapel Lane, Farnley, Leeds, LS12 5EU",
-          "code": "2"
-        },
-        {
-          "name": "The Ruth Gorse Academy",
-          "address": "Black Bull Street, Leeds, LS10",
-          "code": "4"
-        },
-        {
-          "name": "Cockburn School",
-          "address": "Parkside, Gipsy Lane, Leeds, West Yorkshire, LS11 5TT",
-          "code": "7"
-        },
-        {
-          "name": "Whitcliffe Mount School",
-          "address": "Turnsteads Avenue, Cleckheaton, BD19 3AQ",
-          "code": "8"
-        },
-        {
-          "name": "Leeds West Academy",
-          "address": "Intake Lane, Leeds, LS13 1DQ",
-          "code": "9"
-        },
-        {
-          "name": "Boston Spa School",
-          "address": "Clifford Moor Road, Boston Spa, West Yorkshire, LS23 6RW",
-          "code": "G"
-        }
-      ],
-      "options": [
-        "PGCE with QTS full time"
-      ]
-    },
-    {
-      "regions": "Yorkshire & the Humber",
-      "accrediting": "Gorse SCITT",
-      "subjects": "Drama and theatre studies, Secondary",
-      "ageRange": "Secondary (11+ years)",
-      "name": "Drama",
-      "route": "SCITT (School Centred Initial Teacher Training) programme",
-      "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "1N1",
-      "programmeCode": "2397",
-      "schools": [
-        {
-          "name": "The Morley Academy",
-          "address": "Fountain Street, Morley, Leeds, LS27 0PD",
-          "code": "1"
-        },
-        {
-          "name": "The Farnley Academy",
-          "address": "Chapel Lane, Farnley, Leeds, LS12 5EU",
-          "code": "2"
-        },
-        {
-          "name": "The Ruth Gorse Academy",
-          "address": "Black Bull Street, Leeds, LS10",
-          "code": "4"
-        },
-        {
-          "name": "Leeds West Academy",
-          "address": "Intake Lane, Leeds, LS13 1DQ",
-          "code": "9"
-        }
-      ],
-      "options": [
-        "PGCE with QTS full time"
-      ]
-    },
-    {
-      "regions": "Yorkshire & the Humber",
-      "accrediting": "Gorse SCITT",
-      "subjects": "English, Secondary",
-      "ageRange": "Secondary (11+ years)",
-      "name": "English",
-      "route": "SCITT (School Centred Initial Teacher Training) programme",
-      "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "1N1",
-      "programmeCode": "2398",
-      "schools": [
-        {
-          "name": "The Morley Academy",
-          "address": "Fountain Street, Morley, Leeds, LS27 0PD",
-          "code": "1"
-        },
-        {
-          "name": "The Farnley Academy",
-          "address": "Chapel Lane, Farnley, Leeds, LS12 5EU",
-          "code": "2"
-        },
-        {
-          "name": "The Ruth Gorse Academy",
-          "address": "Black Bull Street, Leeds, LS10",
-          "code": "4"
-        },
-        {
-          "name": "Bruntcliffe Academy",
-          "address": "Bruntcliffe Lane, Morley, Leeds, LS27 0LZ",
-          "code": "5"
-        },
-        {
-          "name": "Cockburn School",
-          "address": "Parkside, Gipsy Lane, Leeds, West Yorkshire, LS11 5TT",
-          "code": "7"
-        },
-        {
-          "name": "Whitcliffe Mount School",
-          "address": "Turnsteads Avenue, Cleckheaton, BD19 3AQ",
-          "code": "8"
-        },
-        {
-          "name": "Leeds West Academy",
-          "address": "Intake Lane, Leeds, LS13 1DQ",
-          "code": "9"
-        },
-        {
-          "name": "Leeds East Academy",
-          "address": "South Parkway, Seacroft, Leeds, LS14 6TY",
-          "code": "A"
-        },
-        {
-          "name": "Leeds City Academy",
-          "address": "Bedford Field, Woodhouse Cliff, Leeds, LS6 2LG",
-          "code": "B"
-        },
-        {
-          "name": "Boston Spa School",
-          "address": "Clifford Moor Road, Boston Spa, West Yorkshire, LS23 6RW",
-          "code": "G"
-        }
-      ],
-      "options": [
-        "PGCE with QTS full time"
-      ]
-    },
-    {
-      "regions": "Yorkshire & the Humber",
-      "accrediting": "Gorse SCITT",
+      "regions": "London",
+      "accrediting": "St Mary's University, Twickenham",
       "subjects": "Geography, Secondary",
       "ageRange": "Secondary (11+ years)",
       "name": "Geography",
-      "route": "SCITT (School Centred Initial Teacher Training) programme",
+      "route": "Higher Education programme",
       "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "1N1",
-      "programmeCode": "2399",
+      "providerCode": "S64",
+      "programmeCode": "F8X1",
       "schools": [
         {
-          "name": "The Morley Academy",
-          "address": "Fountain Street, Morley, Leeds, LS27 0PD",
-          "code": "1"
-        },
-        {
-          "name": "The Farnley Academy",
-          "address": "Chapel Lane, Farnley, Leeds, LS12 5EU",
-          "code": "2"
-        },
-        {
-          "name": "Bruntcliffe Academy",
-          "address": "Bruntcliffe Lane, Morley, Leeds, LS27 0LZ",
-          "code": "5"
-        },
-        {
-          "name": "Cockburn School",
-          "address": "Parkside, Gipsy Lane, Leeds, West Yorkshire, LS11 5TT",
-          "code": "7"
-        },
-        {
-          "name": "Whitcliffe Mount School",
-          "address": "Turnsteads Avenue, Cleckheaton, BD19 3AQ",
-          "code": "8"
-        },
-        {
-          "name": "Leeds West Academy",
-          "address": "Intake Lane, Leeds, LS13 1DQ",
-          "code": "9"
-        },
-        {
-          "name": "Leeds East Academy",
-          "address": "South Parkway, Seacroft, Leeds, LS14 6TY",
-          "code": "A"
-        },
-        {
-          "name": "Boston Spa School",
-          "address": "Clifford Moor Road, Boston Spa, West Yorkshire, LS23 6RW",
-          "code": "G"
+          "name": "Main Site",
+          "address": "",
+          "code": ""
         }
       ],
       "options": [
@@ -526,111 +136,20 @@
       ]
     },
     {
-      "regions": "Yorkshire & the Humber",
-      "accrediting": "Gorse SCITT",
-      "subjects": "History, Secondary",
-      "ageRange": "Secondary (11+ years)",
-      "name": "History",
-      "route": "SCITT (School Centred Initial Teacher Training) programme",
-      "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "1N1",
-      "programmeCode": "239C",
-      "schools": [
-        {
-          "name": "The Morley Academy",
-          "address": "Fountain Street, Morley, Leeds, LS27 0PD",
-          "code": "1"
-        },
-        {
-          "name": "The Farnley Academy",
-          "address": "Chapel Lane, Farnley, Leeds, LS12 5EU",
-          "code": "2"
-        },
-        {
-          "name": "The Ruth Gorse Academy",
-          "address": "Black Bull Street, Leeds, LS10",
-          "code": "4"
-        },
-        {
-          "name": "Bruntcliffe Academy",
-          "address": "Bruntcliffe Lane, Morley, Leeds, LS27 0LZ",
-          "code": "5"
-        },
-        {
-          "name": "Cockburn School",
-          "address": "Parkside, Gipsy Lane, Leeds, West Yorkshire, LS11 5TT",
-          "code": "7"
-        },
-        {
-          "name": "Whitcliffe Mount School",
-          "address": "Turnsteads Avenue, Cleckheaton, BD19 3AQ",
-          "code": "8"
-        },
-        {
-          "name": "Leeds West Academy",
-          "address": "Intake Lane, Leeds, LS13 1DQ",
-          "code": "9"
-        },
-        {
-          "name": "Leeds East Academy",
-          "address": "South Parkway, Seacroft, Leeds, LS14 6TY",
-          "code": "A"
-        },
-        {
-          "name": "Boston Spa School",
-          "address": "Clifford Moor Road, Boston Spa, West Yorkshire, LS23 6RW",
-          "code": "G"
-        }
-      ],
-      "options": [
-        "PGCE with QTS full time"
-      ]
-    },
-    {
-      "regions": "Yorkshire & the Humber",
-      "accrediting": "Gorse SCITT",
-      "subjects": "Languages, Secondary",
+      "regions": "London",
+      "accrediting": "St Mary's University, Twickenham",
+      "subjects": "Languages, Languages (european), Secondary",
       "ageRange": "Secondary (11+ years)",
       "name": "Modern Languages",
-      "route": "SCITT (School Centred Initial Teacher Training) programme",
+      "route": "Higher Education programme",
       "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "1N1",
-      "programmeCode": "239F",
+      "providerCode": "S64",
+      "programmeCode": "R9X1",
       "schools": [
         {
-          "name": "The Morley Academy",
-          "address": "Fountain Street, Morley, Leeds, LS27 0PD",
-          "code": "1"
-        },
-        {
-          "name": "The Farnley Academy",
-          "address": "Chapel Lane, Farnley, Leeds, LS12 5EU",
-          "code": "2"
-        },
-        {
-          "name": "The Ruth Gorse Academy",
-          "address": "Black Bull Street, Leeds, LS10",
-          "code": "4"
-        },
-        {
-          "name": "Bruntcliffe Academy",
-          "address": "Bruntcliffe Lane, Morley, Leeds, LS27 0LZ",
-          "code": "5"
-        },
-        {
-          "name": "Whitcliffe Mount School",
-          "address": "Turnsteads Avenue, Cleckheaton, BD19 3AQ",
-          "code": "8"
-        },
-        {
-          "name": "Leeds West Academy",
-          "address": "Intake Lane, Leeds, LS13 1DQ",
-          "code": "9"
-        },
-        {
-          "name": "Boston Spa School",
-          "address": "Clifford Moor Road, Boston Spa, West Yorkshire, LS23 6RW",
-          "code": "G"
+          "name": "Main Site",
+          "address": "",
+          "code": ""
         }
       ],
       "options": [
@@ -638,65 +157,20 @@
       ]
     },
     {
-      "regions": "Yorkshire & the Humber",
-      "accrediting": "Gorse SCITT",
+      "regions": "London",
+      "accrediting": "St Mary's University, Twickenham",
       "subjects": "Mathematics, Secondary",
       "ageRange": "Secondary (11+ years)",
       "name": "Mathematics",
-      "route": "SCITT (School Centred Initial Teacher Training) programme",
+      "route": "Higher Education programme",
       "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "1N1",
-      "programmeCode": "239D",
+      "providerCode": "S64",
+      "programmeCode": "G1X1",
       "schools": [
         {
-          "name": "The Morley Academy",
-          "address": "Fountain Street, Morley, Leeds, LS27 0PD",
-          "code": "1"
-        },
-        {
-          "name": "The Farnley Academy",
-          "address": "Chapel Lane, Farnley, Leeds, LS12 5EU",
-          "code": "2"
-        },
-        {
-          "name": "The Ruth Gorse Academy",
-          "address": "Black Bull Street, Leeds, LS10",
-          "code": "4"
-        },
-        {
-          "name": "Bruntcliffe Academy",
-          "address": "Bruntcliffe Lane, Morley, Leeds, LS27 0LZ",
-          "code": "5"
-        },
-        {
-          "name": "Cockburn School",
-          "address": "Parkside, Gipsy Lane, Leeds, West Yorkshire, LS11 5TT",
-          "code": "7"
-        },
-        {
-          "name": "Whitcliffe Mount School",
-          "address": "Turnsteads Avenue, Cleckheaton, BD19 3AQ",
-          "code": "8"
-        },
-        {
-          "name": "Leeds West Academy",
-          "address": "Intake Lane, Leeds, LS13 1DQ",
-          "code": "9"
-        },
-        {
-          "name": "Leeds East Academy",
-          "address": "South Parkway, Seacroft, Leeds, LS14 6TY",
-          "code": "A"
-        },
-        {
-          "name": "Leeds City Academy",
-          "address": "Bedford Field, Woodhouse Cliff, Leeds, LS6 2LG",
-          "code": "B"
-        },
-        {
-          "name": "Boston Spa School",
-          "address": "Clifford Moor Road, Boston Spa, West Yorkshire, LS23 6RW",
-          "code": "G"
+          "name": "Main Site",
+          "address": "",
+          "code": ""
         }
       ],
       "options": [
@@ -704,106 +178,20 @@
       ]
     },
     {
-      "regions": "Yorkshire & the Humber",
-      "accrediting": "Gorse SCITT",
-      "subjects": "Music, Secondary",
-      "ageRange": "Secondary (11+ years)",
-      "name": "Music",
-      "route": "SCITT (School Centred Initial Teacher Training) programme",
-      "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "1N1",
-      "programmeCode": "239G",
-      "schools": [
-        {
-          "name": "The Morley Academy",
-          "address": "Fountain Street, Morley, Leeds, LS27 0PD",
-          "code": "1"
-        },
-        {
-          "name": "The Farnley Academy",
-          "address": "Chapel Lane, Farnley, Leeds, LS12 5EU",
-          "code": "2"
-        },
-        {
-          "name": "The Ruth Gorse Academy",
-          "address": "Black Bull Street, Leeds, LS10",
-          "code": "4"
-        },
-        {
-          "name": "Bruntcliffe Academy",
-          "address": "Bruntcliffe Lane, Morley, Leeds, LS27 0LZ",
-          "code": "5"
-        },
-        {
-          "name": "Whitcliffe Mount School",
-          "address": "Turnsteads Avenue, Cleckheaton, BD19 3AQ",
-          "code": "8"
-        },
-        {
-          "name": "Leeds West Academy",
-          "address": "Intake Lane, Leeds, LS13 1DQ",
-          "code": "9"
-        }
-      ],
-      "options": [
-        "PGCE with QTS full time"
-      ]
-    },
-    {
-      "regions": "Yorkshire & the Humber",
-      "accrediting": "Gorse SCITT",
+      "regions": "London",
+      "accrediting": "St Mary's University, Twickenham",
       "subjects": "Physical education, Secondary",
       "ageRange": "Secondary (11+ years)",
       "name": "Physical Education",
-      "route": "SCITT (School Centred Initial Teacher Training) programme",
-      "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "1N1",
-      "programmeCode": "239K",
+      "route": "Higher Education programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "S64",
+      "programmeCode": "C6XC",
       "schools": [
         {
-          "name": "The Morley Academy",
-          "address": "Fountain Street, Morley, Leeds, LS27 0PD",
-          "code": "1"
-        },
-        {
-          "name": "The Farnley Academy",
-          "address": "Chapel Lane, Farnley, Leeds, LS12 5EU",
-          "code": "2"
-        },
-        {
-          "name": "The Ruth Gorse Academy",
-          "address": "Black Bull Street, Leeds, LS10",
-          "code": "4"
-        },
-        {
-          "name": "Bruntcliffe Academy",
-          "address": "Bruntcliffe Lane, Morley, Leeds, LS27 0LZ",
-          "code": "5"
-        },
-        {
-          "name": "Cockburn School",
-          "address": "Parkside, Gipsy Lane, Leeds, West Yorkshire, LS11 5TT",
-          "code": "7"
-        },
-        {
-          "name": "Whitcliffe Mount School",
-          "address": "Turnsteads Avenue, Cleckheaton, BD19 3AQ",
-          "code": "8"
-        },
-        {
-          "name": "Leeds West Academy",
-          "address": "Intake Lane, Leeds, LS13 1DQ",
-          "code": "9"
-        },
-        {
-          "name": "Leeds East Academy",
-          "address": "South Parkway, Seacroft, Leeds, LS14 6TY",
-          "code": "A"
-        },
-        {
-          "name": "Boston Spa School",
-          "address": "Clifford Moor Road, Boston Spa, West Yorkshire, LS23 6RW",
-          "code": "G"
+          "name": "Main Site",
+          "address": "",
+          "code": ""
         }
       ],
       "options": [
@@ -811,50 +199,20 @@
       ]
     },
     {
-      "regions": "Yorkshire & the Humber",
-      "accrediting": "Gorse SCITT",
+      "regions": "London",
+      "accrediting": "St Mary's University, Twickenham",
       "subjects": "Physics, Science, Secondary",
       "ageRange": "Secondary (11+ years)",
-      "name": "Physics",
-      "route": "SCITT (School Centred Initial Teacher Training) programme",
+      "name": "Science with Physics",
+      "route": "Higher Education programme",
       "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "1N1",
-      "programmeCode": "239L",
+      "providerCode": "S64",
+      "programmeCode": "F3X1",
       "schools": [
         {
-          "name": "The Morley Academy",
-          "address": "Fountain Street, Morley, Leeds, LS27 0PD",
-          "code": "1"
-        },
-        {
-          "name": "The Farnley Academy",
-          "address": "Chapel Lane, Farnley, Leeds, LS12 5EU",
-          "code": "2"
-        },
-        {
-          "name": "Bruntcliffe Academy",
-          "address": "Bruntcliffe Lane, Morley, Leeds, LS27 0LZ",
-          "code": "5"
-        },
-        {
-          "name": "Whitcliffe Mount School",
-          "address": "Turnsteads Avenue, Cleckheaton, BD19 3AQ",
-          "code": "8"
-        },
-        {
-          "name": "Leeds West Academy",
-          "address": "Intake Lane, Leeds, LS13 1DQ",
-          "code": "9"
-        },
-        {
-          "name": "Leeds East Academy",
-          "address": "South Parkway, Seacroft, Leeds, LS14 6TY",
-          "code": "A"
-        },
-        {
-          "name": "Leeds City Academy",
-          "address": "Bedford Field, Woodhouse Cliff, Leeds, LS6 2LG",
-          "code": "B"
+          "name": "Main Site",
+          "address": "",
+          "code": ""
         }
       ],
       "options": [
@@ -862,66 +220,20 @@
       ]
     },
     {
-      "regions": "Yorkshire & the Humber",
-      "accrediting": "Gorse SCITT",
+      "regions": "London",
+      "accrediting": "St Mary's University, Twickenham",
       "subjects": "Religious education, Secondary",
       "ageRange": "Secondary (11+ years)",
       "name": "Religious Education",
-      "route": "SCITT (School Centred Initial Teacher Training) programme",
+      "route": "Higher Education programme",
       "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "1N1",
-      "programmeCode": "23B3",
+      "providerCode": "S64",
+      "programmeCode": "V6X1",
       "schools": [
         {
-          "name": "The Morley Academy",
-          "address": "Fountain Street, Morley, Leeds, LS27 0PD",
-          "code": "1"
-        },
-        {
-          "name": "The Farnley Academy",
-          "address": "Chapel Lane, Farnley, Leeds, LS12 5EU",
-          "code": "2"
-        },
-        {
-          "name": "Cockburn School",
-          "address": "Parkside, Gipsy Lane, Leeds, West Yorkshire, LS11 5TT",
-          "code": "7"
-        },
-        {
-          "name": "Whitcliffe Mount School",
-          "address": "Turnsteads Avenue, Cleckheaton, BD19 3AQ",
-          "code": "8"
-        }
-      ],
-      "options": [
-        "PGCE with QTS full time"
-      ]
-    },
-    {
-      "regions": "Yorkshire & the Humber",
-      "accrediting": "Gorse SCITT",
-      "subjects": "Secondary, Social science",
-      "ageRange": "Secondary (11+ years)",
-      "name": "Social Sciences",
-      "route": "SCITT (School Centred Initial Teacher Training) programme",
-      "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "1N1",
-      "programmeCode": "2FL4",
-      "schools": [
-        {
-          "name": "Bruntcliffe Academy",
-          "address": "Bruntcliffe Lane, Morley, Leeds, LS27 0LZ",
-          "code": "5"
-        },
-        {
-          "name": "The Elliott Hudson College",
-          "address": "Phoenix House, Global Avenue, Leeds, LS11 8PG",
-          "code": "6"
-        },
-        {
-          "name": "Leeds West Academy",
-          "address": "Intake Lane, Leeds, LS13 1DQ",
-          "code": "9"
+          "name": "Main Site",
+          "address": "",
+          "code": ""
         }
       ],
       "options": [
@@ -931,129 +243,19 @@
   ],
   "schools": [
     {
-      "name": "Boston Spa School",
-      "address": "Clifford Moor Road, Boston Spa, West Yorkshire, LS23 6RW",
-      "code": "G"
-    },
-    {
-      "name": "Bruntcliffe Academy",
-      "address": "Bruntcliffe Lane, Morley, Leeds, LS27 0LZ",
-      "code": "5"
-    },
-    {
-      "name": "Cockburn School",
-      "address": "Parkside, Gipsy Lane, Leeds, West Yorkshire, LS11 5TT",
-      "code": "7"
-    },
-    {
-      "name": "Hillcrest Academy",
-      "address": "Cowper Street, Leeds, LS7 4DR",
-      "code": "D"
-    },
-    {
-      "name": "Leeds City Academy",
-      "address": "Bedford Field, Woodhouse Cliff, Leeds, LS6 2LG",
-      "code": "B"
-    },
-    {
-      "name": "Leeds East Academy",
-      "address": "South Parkway, Seacroft, Leeds, LS14 6TY",
-      "code": "A"
-    },
-    {
-      "name": "Leeds West Academy",
-      "address": "Intake Lane, Leeds, LS13 1DQ",
-      "code": "9"
-    },
-    {
-      "name": "Middleton Primary School",
-      "address": "Middleton Park Avenue, Leeds, LS10 4HU",
-      "code": "F"
-    },
-    {
-      "name": "Morley Newlands Academy",
-      "address": "Wide Lane, Morley, Leeds, LS27 8PG",
-      "code": "C"
-    },
-    {
-      "name": "Ryecroft Academy",
-      "address": "Stonebridge Grove, Farnley, Leeds, LS12 5AW",
-      "code": "E"
-    },
-    {
-      "name": "The Elliott Hudson College",
-      "address": "Phoenix House, Global Avenue, Leeds, LS11 8PG",
-      "code": "6"
-    },
-    {
-      "name": "The Farnley Academy",
-      "address": "Chapel Lane, Farnley, Leeds, LS12 5EU",
-      "code": "2"
-    },
-    {
-      "name": "The Morley Academy",
-      "address": "Fountain Street, Morley, Leeds, LS27 0PD",
-      "code": "1"
-    },
-    {
-      "name": "The Ruth Gorse Academy",
-      "address": "Black Bull Street, Leeds, LS10",
-      "code": "4"
-    },
-    {
-      "name": "Whitcliffe Mount School",
-      "address": "Turnsteads Avenue, Cleckheaton, BD19 3AQ",
-      "code": "8"
+      "name": "Main Site",
+      "address": "",
+      "code": ""
     }
   ],
   "accreditors": [
     {
-      "name": "Gorse SCITT",
-      "slug": "gorse-scitt",
+      "name": "St Mary's University, Twickenham",
+      "slug": "st-mary-s-university--twickenham",
       "subjects": [
-        {
-          "name": "Classics",
-          "slug": "classics"
-        },
-        {
-          "name": "Art and Design",
-          "slug": "art-and-design"
-        },
-        {
-          "name": "Biology",
-          "slug": "biology"
-        },
-        {
-          "name": "Business Studies",
-          "slug": "business-studies"
-        },
-        {
-          "name": "Chemistry",
-          "slug": "chemistry"
-        },
-        {
-          "name": "Computing",
-          "slug": "computing"
-        },
-        {
-          "name": "Design And Technology",
-          "slug": "design-and-technology"
-        },
-        {
-          "name": "Drama",
-          "slug": "drama"
-        },
-        {
-          "name": "English",
-          "slug": "english"
-        },
         {
           "name": "Geography",
           "slug": "geography"
-        },
-        {
-          "name": "History",
-          "slug": "history"
         },
         {
           "name": "Mathematics",
@@ -1064,16 +266,12 @@
           "slug": "modern-languages"
         },
         {
-          "name": "Music",
-          "slug": "music"
+          "name": "PGCE Primary with PE Specialism",
+          "slug": "pgce-primary-with-pe-specialism"
         },
         {
           "name": "Physical Education",
           "slug": "physical-education"
-        },
-        {
-          "name": "Physics",
-          "slug": "physics"
         },
         {
           "name": "Primary",
@@ -1084,56 +282,24 @@
           "slug": "religious-education"
         },
         {
-          "name": "Social Sciences",
-          "slug": "social-sciences"
+          "name": "Science with Biology",
+          "slug": "science-with-biology"
+        },
+        {
+          "name": "Science with Chemistry",
+          "slug": "science-with-chemistry"
+        },
+        {
+          "name": "Science with Physics",
+          "slug": "science-with-physics"
         }
       ]
     }
   ],
   "subjects": [
     {
-      "name": "Art and Design",
-      "slug": "art-and-design"
-    },
-    {
-      "name": "Biology",
-      "slug": "biology"
-    },
-    {
-      "name": "Business Studies",
-      "slug": "business-studies"
-    },
-    {
-      "name": "Chemistry",
-      "slug": "chemistry"
-    },
-    {
-      "name": "Classics",
-      "slug": "classics"
-    },
-    {
-      "name": "Computing",
-      "slug": "computing"
-    },
-    {
-      "name": "Design And Technology",
-      "slug": "design-and-technology"
-    },
-    {
-      "name": "Drama",
-      "slug": "drama"
-    },
-    {
-      "name": "English",
-      "slug": "english"
-    },
-    {
       "name": "Geography",
       "slug": "geography"
-    },
-    {
-      "name": "History",
-      "slug": "history"
     },
     {
       "name": "Mathematics",
@@ -1144,16 +310,12 @@
       "slug": "modern-languages"
     },
     {
-      "name": "Music",
-      "slug": "music"
+      "name": "PGCE Primary with PE Specialism",
+      "slug": "pgce-primary-with-pe-specialism"
     },
     {
       "name": "Physical Education",
       "slug": "physical-education"
-    },
-    {
-      "name": "Physics",
-      "slug": "physics"
     },
     {
       "name": "Primary",
@@ -1164,297 +326,31 @@
       "slug": "religious-education"
     },
     {
-      "name": "Social Sciences",
-      "slug": "social-sciences"
+      "name": "Science with Biology",
+      "slug": "science-with-biology"
+    },
+    {
+      "name": "Science with Chemistry",
+      "slug": "science-with-chemistry"
+    },
+    {
+      "name": "Science with Physics",
+      "slug": "science-with-physics"
     }
   ],
   "folded_courses": {
-    "Gorse SCITT": [
-      {
-        "name": "Classics",
-        "courses": 1,
-        "accrediting": [
-          "Gorse SCITT"
-        ],
-        "applicationsOpen": [
-          "23 Nov 2017"
-        ],
-        "schoolsWithVacancies": [
-          "The Elliott Hudson College",
-          "The Morley Academy"
-        ],
-        "options": [
-          "PGCE with QTS full time"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": false,
-          "qualifications": false
-        }
-      }
-    ],
-    "Gorse SCITT": [
-      {
-        "name": "Art and Design",
-        "courses": 1,
-        "accrediting": [
-          "Gorse SCITT"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Boston Spa School",
-          "Bruntcliffe Academy",
-          "Cockburn School",
-          "Leeds West Academy",
-          "The Farnley Academy",
-          "The Morley Academy",
-          "The Ruth Gorse Academy",
-          "Whitcliffe Mount School"
-        ],
-        "options": [
-          "PGCE with QTS full time"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": false,
-          "qualifications": false
-        }
-      },
-      {
-        "name": "Biology",
-        "courses": 1,
-        "accrediting": [
-          "Gorse SCITT"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Cockburn School",
-          "Leeds East Academy",
-          "Leeds West Academy",
-          "The Farnley Academy",
-          "The Morley Academy",
-          "The Ruth Gorse Academy",
-          "Whitcliffe Mount School"
-        ],
-        "options": [
-          "PGCE with QTS full time"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": false,
-          "qualifications": false
-        }
-      },
-      {
-        "name": "Business Studies",
-        "courses": 1,
-        "accrediting": [
-          "Gorse SCITT"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Leeds West Academy",
-          "The Elliott Hudson College",
-          "The Farnley Academy",
-          "The Morley Academy",
-          "Whitcliffe Mount School"
-        ],
-        "options": [
-          "PGCE with QTS full time"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": false,
-          "qualifications": false
-        }
-      },
-      {
-        "name": "Chemistry",
-        "courses": 1,
-        "accrediting": [
-          "Gorse SCITT"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Boston Spa School",
-          "Bruntcliffe Academy",
-          "Cockburn School",
-          "Leeds West Academy",
-          "The Farnley Academy",
-          "The Morley Academy",
-          "Whitcliffe Mount School"
-        ],
-        "options": [
-          "PGCE with QTS full time"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": false,
-          "qualifications": false
-        }
-      },
-      {
-        "name": "Computing",
-        "courses": 1,
-        "accrediting": [
-          "Gorse SCITT"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Cockburn School",
-          "Leeds West Academy",
-          "The Farnley Academy",
-          "The Morley Academy",
-          "The Ruth Gorse Academy",
-          "Whitcliffe Mount School"
-        ],
-        "options": [
-          "PGCE with QTS full time"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": false,
-          "qualifications": false
-        }
-      },
-      {
-        "name": "Design And Technology",
-        "courses": 1,
-        "accrediting": [
-          "Gorse SCITT"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Boston Spa School",
-          "Cockburn School",
-          "Leeds West Academy",
-          "The Farnley Academy",
-          "The Morley Academy",
-          "The Ruth Gorse Academy",
-          "Whitcliffe Mount School"
-        ],
-        "options": [
-          "PGCE with QTS full time"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": false,
-          "qualifications": false
-        }
-      },
-      {
-        "name": "Drama",
-        "courses": 1,
-        "accrediting": [
-          "Gorse SCITT"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Leeds West Academy",
-          "The Farnley Academy",
-          "The Morley Academy",
-          "The Ruth Gorse Academy"
-        ],
-        "options": [
-          "PGCE with QTS full time"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": false,
-          "qualifications": false
-        }
-      },
-      {
-        "name": "English",
-        "courses": 1,
-        "accrediting": [
-          "Gorse SCITT"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Boston Spa School",
-          "Bruntcliffe Academy",
-          "Cockburn School",
-          "Leeds City Academy",
-          "Leeds East Academy",
-          "Leeds West Academy",
-          "The Farnley Academy",
-          "The Morley Academy",
-          "The Ruth Gorse Academy",
-          "Whitcliffe Mount School"
-        ],
-        "options": [
-          "PGCE with QTS full time"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": false,
-          "qualifications": false
-        }
-      },
+    "St Mary's University, Twickenham": [
       {
         "name": "Geography",
         "courses": 1,
         "accrediting": [
-          "Gorse SCITT"
+          "St Mary's University, Twickenham"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
         ],
         "schoolsWithVacancies": [
-          "Boston Spa School",
-          "Bruntcliffe Academy",
-          "Cockburn School",
-          "Leeds East Academy",
-          "Leeds West Academy",
-          "The Farnley Academy",
-          "The Morley Academy",
-          "Whitcliffe Mount School"
-        ],
-        "options": [
-          "PGCE with QTS full time"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": false,
-          "qualifications": false
-        }
-      },
-      {
-        "name": "History",
-        "courses": 1,
-        "accrediting": [
-          "Gorse SCITT"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Boston Spa School",
-          "Bruntcliffe Academy",
-          "Cockburn School",
-          "Leeds East Academy",
-          "Leeds West Academy",
-          "The Farnley Academy",
-          "The Morley Academy",
-          "The Ruth Gorse Academy",
-          "Whitcliffe Mount School"
+          "Main Site"
         ],
         "options": [
           "PGCE with QTS full time"
@@ -1469,22 +365,13 @@
         "name": "Mathematics",
         "courses": 1,
         "accrediting": [
-          "Gorse SCITT"
+          "St Mary's University, Twickenham"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
         ],
         "schoolsWithVacancies": [
-          "Boston Spa School",
-          "Bruntcliffe Academy",
-          "Cockburn School",
-          "Leeds City Academy",
-          "Leeds East Academy",
-          "Leeds West Academy",
-          "The Farnley Academy",
-          "The Morley Academy",
-          "The Ruth Gorse Academy",
-          "Whitcliffe Mount School"
+          "Main Site"
         ],
         "options": [
           "PGCE with QTS full time"
@@ -1499,19 +386,13 @@
         "name": "Modern Languages",
         "courses": 1,
         "accrediting": [
-          "Gorse SCITT"
+          "St Mary's University, Twickenham"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
         ],
         "schoolsWithVacancies": [
-          "Boston Spa School",
-          "Bruntcliffe Academy",
-          "Leeds West Academy",
-          "The Farnley Academy",
-          "The Morley Academy",
-          "The Ruth Gorse Academy",
-          "Whitcliffe Mount School"
+          "Main Site"
         ],
         "options": [
           "PGCE with QTS full time"
@@ -1523,21 +404,16 @@
         }
       },
       {
-        "name": "Music",
+        "name": "PGCE Primary with PE Specialism",
         "courses": 1,
         "accrediting": [
-          "Gorse SCITT"
+          "St Mary's University, Twickenham"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
         ],
         "schoolsWithVacancies": [
-          "Bruntcliffe Academy",
-          "Leeds West Academy",
-          "The Farnley Academy",
-          "The Morley Academy",
-          "The Ruth Gorse Academy",
-          "Whitcliffe Mount School"
+          "Main Site"
         ],
         "options": [
           "PGCE with QTS full time"
@@ -1552,48 +428,13 @@
         "name": "Physical Education",
         "courses": 1,
         "accrediting": [
-          "Gorse SCITT"
+          "St Mary's University, Twickenham"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
         ],
         "schoolsWithVacancies": [
-          "Boston Spa School",
-          "Bruntcliffe Academy",
-          "Cockburn School",
-          "Leeds East Academy",
-          "Leeds West Academy",
-          "The Farnley Academy",
-          "The Morley Academy",
-          "The Ruth Gorse Academy",
-          "Whitcliffe Mount School"
-        ],
-        "options": [
-          "PGCE with QTS full time"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": false,
-          "qualifications": false
-        }
-      },
-      {
-        "name": "Physics",
-        "courses": 1,
-        "accrediting": [
-          "Gorse SCITT"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Bruntcliffe Academy",
-          "Leeds City Academy",
-          "Leeds East Academy",
-          "Leeds West Academy",
-          "The Farnley Academy",
-          "The Morley Academy",
-          "Whitcliffe Mount School"
+          "Main Site"
         ],
         "options": [
           "PGCE with QTS full time"
@@ -1606,21 +447,19 @@
       },
       {
         "name": "Primary",
-        "courses": 1,
+        "courses": 2,
         "accrediting": [
-          "Gorse SCITT"
+          "St Mary's University, Twickenham"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
         ],
         "schoolsWithVacancies": [
-          "Hillcrest Academy",
-          "Middleton Primary School",
-          "Morley Newlands Academy",
-          "Ryecroft Academy"
+          "Main Site"
         ],
         "options": [
-          "PGCE with QTS full time"
+          "PGCE with QTS full time",
+          "PGCE with QTS part time"
         ],
         "flags": {
           "partTime": false,
@@ -1632,16 +471,13 @@
         "name": "Religious Education",
         "courses": 1,
         "accrediting": [
-          "Gorse SCITT"
+          "St Mary's University, Twickenham"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
         ],
         "schoolsWithVacancies": [
-          "Cockburn School",
-          "The Farnley Academy",
-          "The Morley Academy",
-          "Whitcliffe Mount School"
+          "Main Site"
         ],
         "options": [
           "PGCE with QTS full time"
@@ -1653,18 +489,58 @@
         }
       },
       {
-        "name": "Social Sciences",
+        "name": "Science with Biology",
         "courses": 1,
         "accrediting": [
-          "Gorse SCITT"
+          "St Mary's University, Twickenham"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
         ],
         "schoolsWithVacancies": [
-          "Bruntcliffe Academy",
-          "Leeds West Academy",
-          "The Elliott Hudson College"
+          "Main Site"
+        ],
+        "options": [
+          "PGCE with QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Science with Chemistry",
+        "courses": 1,
+        "accrediting": [
+          "St Mary's University, Twickenham"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Main Site"
+        ],
+        "options": [
+          "PGCE with QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Science with Physics",
+        "courses": 1,
+        "accrediting": [
+          "St Mary's University, Twickenham"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Main Site"
         ],
         "options": [
           "PGCE with QTS full time"
