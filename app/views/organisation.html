@@ -37,6 +37,23 @@
   </div>
 
   <h2 class="heading-large">
+    About your organisation
+  </h2>
+  <a href="/course/about-this-provider">Edit organisation</a>
+
+  <h2 class="heading-large">
+    Templates
+  </h2>
+
+  <p>Use templates to share information between courses</p>
+
+  <ul class="list">
+    {% for option in data['options'] %}
+      <li><a href="#">{{ option }}</a></li>
+    {% endfor %}
+  </ul>
+
+  <h2 class="heading-large">
     Courses
   </h2>
 
@@ -47,13 +64,39 @@
         {{ accrediting.name }}
       </h3>
     {% endif %}
-    <ul class="list listing-example">
+
+    <table class="ucas-info-table">
+      <thead>
+        <tr>
+          <th class="subject-col">Subject</th>
+          <th class="code-col">UCAS code</th>
+          <th class="type-col">Template</th>
+          <th></th>
+        </tr>
+      </thead>
+      <tbody>
+        {% set subjectName = '' %}
+        {% for course in data['ucasCourses'] %}
+          {% if course.accrediting == accrediting.name %}
+            <tr>
+              <td>{{ course.name }}</td>
+              <td>{{ course.programmeCode }}</td>
+              <td>{{ course.options }}</td>
+              <td class="ucas-view-link"><a href="/course/{{ accrediting.slug }}/{{ course.slug }}/ucas/{{ course.programmeCode }}">Edit course</a></td>
+            </tr>
+            {% set subjectName = course.name %}
+          {% endif %}
+        {% endfor %}
+      </tbody>
+    </table>
+
+    <!-- <ul class="list listing-example">
       {% for result in accrediting.subjects %}
         <li>
           <a href="/course/{{ accrediting.slug}}/{{ result.slug }}">{{ result.name }}</a>
         </li>
       {% endfor %}
-    </ul>
+    </ul> -->
   {% endfor %}
 </main>
 

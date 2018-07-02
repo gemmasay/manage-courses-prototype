@@ -224,6 +224,20 @@ dl.aligned dd {
   text-align: right;
 }
 
+.ucas-info-table  {
+  .subject-col {
+    width: 30%;
+  }
+
+  .code-col {
+    width: 20%;
+  }
+
+  .ucas-view-link {
+    text-align: right;
+  }
+}
+
 .missing-section {
   border: 5px solid $border-colour;
   padding: $gutter / 2;

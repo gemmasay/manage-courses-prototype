@@ -5,7 +5,7 @@ require 'json'
 
 file = File.read('courses-clean.json')
 data = JSON.parse(file)
-provider = 'Catholic Teaching Alliance (South East London)'
+provider = 'Bath Spa University'
 courses = data.select {|c| c['provider'] == provider }
 
 prototype_data = {
@@ -25,7 +25,7 @@ prototype_data = {
 prototype_data['ucasCourses'] = courses.map do |c|
 
   options = []
-  qual = c['qualifications'].include?('Postgraduate') ? 'PGCE with QTS' : 'QTS'
+  qual = (c['qualifications'].include?('Postgraduate') || c['qualifications'].include?('Professional')) ? 'PGCE with QTS' : 'QTS'
   partTime = c['campuses'].map {|g| g['partTime'] }.uniq.reject {|r| r == "n/a"}.count > 0
   fullTime = c['campuses'].map {|g| g['fullTime'] }.uniq.reject {|r| r == "n/a"}.count > 0
   salaried = c['route'] == "School Direct training programme (salaried)" ? ' with salary' : ''
@@ -52,6 +52,8 @@ prototype_data['ucasCourses'] = courses.map do |c|
     options: options
   }
 end
+
+prototype_data['ucasCourses'].sort_by! { |k| k[:name] }
 
 # Find all schools across all courses and flatten into array of schools
 prototype_data['schools'] = courses.map { |c| c['campuses'].map { |a| { name: a['name'], address: a['address'], code: a['code'] } } }.flatten.uniq
@@ -112,6 +114,7 @@ end
 prototype_data['accreditors'].each {|a| a[:subjects].sort_by! { |k| k[:name] }.uniq! }
 
 prototype_data['folded_courses'] = {}
+prototype_data['options'] = []
 
 # Fold courses
 courses_by_accreditor_and_subject.each do |accrediting, courses_by_subject|
@@ -130,10 +133,12 @@ courses_by_accreditor_and_subject.each do |accrediting, courses_by_subject|
 
       if partTime
         options << "#{qual} part time#{salaried}"
+        prototype_data['options'] << "#{qual} part time#{salaried}"
       end
 
       if fullTime
         options << "#{qual} full time#{salaried}"
+        prototype_data['options'] << "#{qual} full time#{salaried}"
       end
     end
 
@@ -154,6 +159,8 @@ courses_by_accreditor_and_subject.each do |accrediting, courses_by_subject|
     prototype_data['folded_courses'][accrediting] << folded_course if folded_course[:courses] > 0
   end
 end
+
+prototype_data['options'].uniq!
 
 # Output to copy and paste into prototype
 # puts "#{courses.count} courses folded into #{prototype_data['folded_courses'].count}"
