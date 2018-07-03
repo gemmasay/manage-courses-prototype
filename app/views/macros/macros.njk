@@ -176,15 +176,17 @@
 
 {% macro coursePart(id, label) %}
 <div>
-  <h3 class="heading-large">
+  <dt class="course-part-label">
     {{ label }}
-  </h3>
+  </dt>
   {% if (value(id)) %}
-    <pre class="preview-pre">{{ value(id) }}</pre>
+    <dd class="course-part-value">
+      {{ value(id) }}
+    </dd>
   {% else %}
-    <p class="empty lede">
+    <dd class="course-part-value course-part-value--empty">
       This field is empty
-    </p>
+    </dd>
   {% endif %}
 </div>
 {% endmacro %}
