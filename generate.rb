@@ -44,6 +44,7 @@ prototype_data['ucasCourses'] = courses.map do |c|
     subjects: c['subjects'].map {|s| s.downcase.capitalize }.join(', '),
     ageRange: c['ageRange'].capitalize,
     name: c['name'],
+    slug: c['name'].downcase.gsub(/[^a-zA-Z0-9]/, '-').gsub(/--*/, '-'),
     route: c['route'],
     qualifications: c['qualifications'].join(', '),
     providerCode: c['providerCode'],
@@ -69,7 +70,7 @@ prototype_data['accreditors'] = courses.uniq {|c| c['accrediting'] }.map  do |c|
 
   {
     name: accrediting,
-    slug: accrediting.downcase.gsub(/[^a-zA-Z0-9]/, '-'),
+    slug: accrediting.downcase.gsub(/[^a-zA-Z0-9]/, '-').gsub(/--*/, '-'),
     subjects: []
   }
 end
@@ -80,7 +81,7 @@ prototype_data['accreditors'].sort_by! { |k| k[:name] }
 prototype_data['subjects'] = courses.uniq {|c| c['name'] }.map  do |c|
   {
     name: c['name'],
-    slug: c['name'].downcase.gsub(' ', '-')
+    slug: c['name'].downcase.gsub(/[^a-zA-Z0-9]/, '-').gsub(/--*/, '-')
   }
 end
 

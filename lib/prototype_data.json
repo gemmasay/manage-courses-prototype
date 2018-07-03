@@ -16,6 +16,7 @@
       "subjects": "Art / art & design, Secondary",
       "ageRange": "Secondary (11+ years)",
       "name": "Art and Design",
+      "slug": "art-and-design",
       "route": "Higher Education programme",
       "qualifications": "QTS, Postgraduate, Professional",
       "providerCode": "B20",
@@ -37,6 +38,7 @@
       "subjects": "Biology, Science, Secondary",
       "ageRange": "Secondary (11+ years)",
       "name": "Biology",
+      "slug": "biology",
       "route": "Higher Education programme",
       "qualifications": "QTS, Postgraduate, Professional",
       "providerCode": "B20",
@@ -58,6 +60,7 @@
       "subjects": "Business education, Secondary",
       "ageRange": "Secondary (11+ years)",
       "name": "Business Studies",
+      "slug": "business-studies",
       "route": "Higher Education programme",
       "qualifications": "QTS",
       "providerCode": "B20",
@@ -79,6 +82,7 @@
       "subjects": "Computer studies, Secondary",
       "ageRange": "Secondary (11+ years)",
       "name": "Computing",
+      "slug": "computing",
       "route": "Higher Education programme",
       "qualifications": "QTS, Postgraduate, Professional",
       "providerCode": "B20",
@@ -100,6 +104,7 @@
       "subjects": "Design and technology, Secondary",
       "ageRange": "Secondary (11+ years)",
       "name": "Design and Technology",
+      "slug": "design-and-technology",
       "route": "Higher Education programme",
       "qualifications": "QTS, Postgraduate, Professional",
       "providerCode": "B20",
@@ -121,6 +126,7 @@
       "subjects": "Drama and theatre studies, Secondary",
       "ageRange": "Secondary (11+ years)",
       "name": "Drama",
+      "slug": "drama",
       "route": "Higher Education programme",
       "qualifications": "QTS",
       "providerCode": "B20",
@@ -142,6 +148,7 @@
       "subjects": "English, Secondary",
       "ageRange": "Secondary (11+ years)",
       "name": "English",
+      "slug": "english",
       "route": "Higher Education programme",
       "qualifications": "QTS, Postgraduate, Professional",
       "providerCode": "B20",
@@ -163,6 +170,7 @@
       "subjects": "Geography, Secondary",
       "ageRange": "Secondary (11+ years)",
       "name": "Geography",
+      "slug": "geography",
       "route": "Higher Education programme",
       "qualifications": "QTS",
       "providerCode": "B20",
@@ -184,6 +192,7 @@
       "subjects": "History, Secondary",
       "ageRange": "Secondary (11+ years)",
       "name": "History",
+      "slug": "history",
       "route": "Higher Education programme",
       "qualifications": "QTS",
       "providerCode": "B20",
@@ -205,6 +214,7 @@
       "subjects": "Mathematics, Secondary",
       "ageRange": "Secondary (11+ years)",
       "name": "Mathematics",
+      "slug": "mathematics",
       "route": "Higher Education programme",
       "qualifications": "QTS, Postgraduate, Professional",
       "providerCode": "B20",
@@ -226,6 +236,7 @@
       "subjects": "Languages, Secondary",
       "ageRange": "Secondary (11+ years)",
       "name": "Modern Languages",
+      "slug": "modern-languages",
       "route": "Higher Education programme",
       "qualifications": "QTS, Postgraduate, Professional",
       "providerCode": "B20",
@@ -247,6 +258,7 @@
       "subjects": "Music, Secondary",
       "ageRange": "Secondary (11+ years)",
       "name": "Music",
+      "slug": "music",
       "route": "Higher Education programme",
       "qualifications": "QTS, Postgraduate, Professional",
       "providerCode": "B20",
@@ -268,6 +280,7 @@
       "subjects": "Physical education, Secondary",
       "ageRange": "Secondary (11+ years)",
       "name": "Physical Education",
+      "slug": "physical-education",
       "route": "Higher Education programme",
       "qualifications": "QTS, Postgraduate, Professional",
       "providerCode": "B20",
@@ -289,6 +302,7 @@
       "subjects": "Primary",
       "ageRange": "Primary (c3 - 11/12 years)",
       "name": "Primary (7-11)",
+      "slug": "primary-7-11-",
       "route": "Higher Education programme",
       "qualifications": "QTS, Postgraduate, Professional",
       "providerCode": "B20",
@@ -310,6 +324,7 @@
       "subjects": "Primary",
       "ageRange": "Primary (c3 - 11/12 years)",
       "name": "Primary FS/KS1",
+      "slug": "primary-fs-ks1",
       "route": "Higher Education programme",
       "qualifications": "QTS, Postgraduate, Professional",
       "providerCode": "B20",
@@ -331,6 +346,7 @@
       "subjects": "Early years, Primary",
       "ageRange": "Primary (c3 - 11/12 years)",
       "name": "Primary and Early Years Education (5-11)",
+      "slug": "primary-and-early-years-education-5-11-",
       "route": "Higher Education programme",
       "qualifications": "QTS, Postgraduate, Professional",
       "providerCode": "B20",
@@ -352,6 +368,7 @@
       "subjects": "Religious education, Secondary",
       "ageRange": "Secondary (11+ years)",
       "name": "Religious Education",
+      "slug": "religious-education",
       "route": "Higher Education programme",
       "qualifications": "QTS, Postgraduate, Professional",
       "providerCode": "B20",
@@ -373,6 +390,7 @@
       "subjects": "Chemistry, Science, Secondary",
       "ageRange": "Secondary (11+ years)",
       "name": "Science with Chemistry",
+      "slug": "science-with-chemistry",
       "route": "Higher Education programme",
       "qualifications": "QTS, Postgraduate, Professional",
       "providerCode": "B20",
@@ -394,6 +412,7 @@
       "subjects": "Physics, Science, Secondary",
       "ageRange": "Secondary (11+ years)",
       "name": "Science with Physics",
+      "slug": "science-with-physics",
       "route": "Higher Education programme",
       "qualifications": "QTS, Postgraduate, Professional",
       "providerCode": "B20",
@@ -476,15 +495,15 @@
         },
         {
           "name": "Primary (7-11)",
-          "slug": "primary-(7-11)"
+          "slug": "primary-7-11-"
         },
         {
           "name": "Primary FS/KS1",
-          "slug": "primary-fs/ks1"
+          "slug": "primary-fs-ks1"
         },
         {
           "name": "Primary and Early Years Education (5-11)",
-          "slug": "primary-and-early-years-education-(5-11)"
+          "slug": "primary-and-early-years-education-5-11-"
         },
         {
           "name": "Religious Education",
@@ -556,15 +575,15 @@
     },
     {
       "name": "Primary (7-11)",
-      "slug": "primary-(7-11)"
+      "slug": "primary-7-11-"
     },
     {
       "name": "Primary FS/KS1",
-      "slug": "primary-fs/ks1"
+      "slug": "primary-fs-ks1"
     },
     {
       "name": "Primary and Early Years Education (5-11)",
-      "slug": "primary-and-early-years-education-(5-11)"
+      "slug": "primary-and-early-years-education-5-11-"
     },
     {
       "name": "Religious Education",

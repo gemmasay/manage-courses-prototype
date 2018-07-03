@@ -6,20 +6,16 @@
 
 <main id="content" role="main">
   {% include "includes/phase_banner_beta.html" %}
-  <a href="/course/{{ accrediting.slug }}/{{ subject.slug }}" class="link-back">Back</a>
+  <a href="/" class="link-back">Back</a>
 
   <h1 class="heading-xlarge">
     <span class="heading-secondary">{{ subject.name }}</span>
     {{ ucasCourse.options }} ({{ ucasCourse.programmeCode }})
   </h1>
 
-  <div class="grid-row">
-    <div class="column-two-thirds">
-      <p class="lede">
-        Information imported from UCAS for course {{ ucasCourse.programmeCode }}.
-      </p>
-    </div>
-  </div>
+  <p style="margin-top: -30px; margin-bottom: 60px">
+    <a href="/course/{{ accrediting.slug }}/{{ subject.slug }}/option/1" class="button">Edit course</a>
+  </p>
 
   <dl class="aligned add-top-margin">
     <dt>Name:</dt>
@@ -42,36 +38,49 @@
     <dd>{{ ucasCourse.regions }}</dd>
   </dl>
 
-  <h3 class="heading-medium">Training locations</h3>
-  <table>
-    <thead>
-      <tr>
-        <th>Location name</th>
-        <th>Address</th>
-        <th>Code</th>
-        <th>Full time vacancies</th>
-        <th>Part time vacancies</th>
-        <th>Applications accepted from</th>
-      </tr>
-    </thead>
-    <tbody>
-      {% for school in ucasCourse.schools %}
-      <tr>
-        <td>{{ school.name }}</td>
-        <td>{{ school.address }}</td>
-        <td>{{ school.code }}</td>
-        <td>Vacancies</td>
-        <td>Not applicable</td>
-        <td>26 Oct 2018</td>
-      </tr>
+  <div class="grid-row">
+    <div class="column-two-thirds">
+      {% for option in subject.folded_course.options %}
+        {{ macros.coursePart(subject.slug + '-' + accrediting.slug + '-' + loop.index + '-about-this-course', 'About this course') }}
+        {{ macros.coursePart(subject.slug + '-' + accrediting.slug + '-' + loop.index + '-course-website', 'Webpage (optional)') }}
+        {{ macros.coursePart(subject.slug + '-' + accrediting.slug + '-' + loop.index + '-fee', 'Fee for UK and EU students') }}
+        {{ macros.coursePart(subject.slug + '-' + accrediting.slug + '-' + loop.index + '-fee-international', 'Fee for international students (optional)') }}
+        {{ macros.coursePart(subject.slug + '-' + accrediting.slug + '-' + loop.index + '-duration', 'Duration') }}
+        {{ macros.coursePart(subject.slug + '-' + accrediting.slug + '-' + loop.index + '-interview-process', 'Interview process (optional)') }}
+        {{ macros.coursePart(subject.slug + '-' + accrediting.slug + '-' + loop.index + '-placement-school-policy', 'How school placements work') }}
       {% endfor %}
-    </tbody>
-  </table>
-
-  <div style="margin-top: 60px">
-    <a href="#" class="button">Edit course</a>
+    </div>
   </div>
 
+  <div class="grid-row">
+    <div class="column-full">
+      <h2 class="heading-large">Training locations</h2>
+      <table>
+        <thead>
+          <tr>
+            <th>Location name</th>
+            <th>Address</th>
+            <th>Code</th>
+            <th>Full time vacancies</th>
+            <th>Part time vacancies</th>
+            <th>Applications accepted from</th>
+          </tr>
+        </thead>
+        <tbody>
+          {% for school in ucasCourse.schools %}
+          <tr>
+            <td>{{ school.name }}</td>
+            <td>{{ school.address }}</td>
+            <td>{{ school.code }}</td>
+            <td>Vacancies</td>
+            <td>Not applicable</td>
+            <td>26 Oct 2018</td>
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    </div>
+  </div>
 </main>
 
 {% endblock %}
