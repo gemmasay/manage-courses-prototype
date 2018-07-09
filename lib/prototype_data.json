@@ -1,8 +1,8 @@
 {
   "multi-organisation": false,
-  "training-provider-name": "University of Sunderland",
-  "provider-code-name": "SUND",
-  "provider-code": "S84",
+  "training-provider-name": "Bromley Schools Collegiate",
+  "provider-code-name": "BROM",
+  "provider-code": "B91",
   "address-line-1": "123 Baker Street",
   "town": "London",
   "postcode": "SW1 1AA",
@@ -14,86 +14,20 @@
   ],
   "ucasCourses": [
     {
-      "regions": "North East",
-      "accrediting": "University of Sunderland",
-      "subjects": "Biology, Science, Secondary",
-      "ageRange": "Secondary (11+ years)",
-      "name": "Biology",
-      "slug": "biology",
-      "route": "Higher Education programme",
-      "qualifications": "QTS, Postgraduate",
-      "providerCode": "S84",
-      "programmeCode": "C1X1",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "The Student Gateway, Edinburgh Building, Chester Road, Sunderland, SR1 3SD",
-          "code": ""
-        }
-      ],
-      "options": [
-        "PGCE with QTS full time"
-      ]
-    },
-    {
-      "regions": "North East",
-      "accrediting": "University of Sunderland",
-      "subjects": "Business education, Secondary",
-      "ageRange": "Secondary (11+ years)",
-      "name": "Business Studies",
-      "slug": "business-studies",
-      "route": "Higher Education programme",
-      "qualifications": "QTS, Professional",
-      "providerCode": "S84",
-      "programmeCode": "N1X1",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "The Student Gateway, Edinburgh Building, Chester Road, Sunderland, SR1 3SD",
-          "code": ""
-        }
-      ],
-      "options": [
-        "PGCE with QTS full time"
-      ]
-    },
-    {
-      "regions": "North East",
-      "accrediting": "University of Sunderland",
-      "subjects": "Chemistry, Science, Secondary",
-      "ageRange": "Secondary (11+ years)",
-      "name": "Chemistry",
-      "slug": "chemistry",
-      "route": "Higher Education programme",
-      "qualifications": "QTS, Postgraduate",
-      "providerCode": "S84",
-      "programmeCode": "F1X1",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "The Student Gateway, Edinburgh Building, Chester Road, Sunderland, SR1 3SD",
-          "code": ""
-        }
-      ],
-      "options": [
-        "PGCE with QTS full time"
-      ]
-    },
-    {
-      "regions": "North East",
-      "accrediting": "University of Sunderland",
+      "regions": "London",
+      "accrediting": "Bromley Schools Collegiate",
       "subjects": "Computer studies, Secondary",
       "ageRange": "Secondary (11+ years)",
       "name": "Computer Science",
       "slug": "computer-science",
-      "route": "Higher Education programme",
-      "qualifications": "QTS, Postgraduate",
-      "providerCode": "S84",
+      "route": "SCITT (School Centred Initial Teacher Training) programme",
+      "qualifications": "QTS, Postgraduate, Professional",
+      "providerCode": "B91",
       "programmeCode": "IX99",
       "schools": [
         {
           "name": "Main Site",
-          "address": "The Student Gateway, Edinburgh Building, Chester Road, Sunderland, SR1 3SD",
+          "address": "Beaverwood School, Beaverwood Road, Chislehurst, Kent, BR7 6HE",
           "code": ""
         }
       ],
@@ -102,20 +36,42 @@
       ]
     },
     {
-      "regions": "North East",
-      "accrediting": "University of Sunderland",
+      "regions": "London",
+      "accrediting": "Bromley Schools Collegiate",
+      "subjects": "Drama and theatre studies, Secondary",
+      "ageRange": "Secondary (11+ years)",
+      "name": "Drama",
+      "slug": "drama",
+      "route": "SCITT (School Centred Initial Teacher Training) programme",
+      "qualifications": "QTS, Postgraduate, Professional",
+      "providerCode": "B91",
+      "programmeCode": "2YDF",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "Beaverwood School, Beaverwood Road, Chislehurst, Kent, BR7 6HE",
+          "code": ""
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "London",
+      "accrediting": "Bromley Schools Collegiate",
       "subjects": "English, Secondary",
       "ageRange": "Secondary (11+ years)",
       "name": "English",
       "slug": "english",
-      "route": "Higher Education programme",
-      "qualifications": "QTS, Postgraduate",
-      "providerCode": "S84",
+      "route": "SCITT (School Centred Initial Teacher Training) programme",
+      "qualifications": "QTS, Postgraduate, Professional",
+      "providerCode": "B91",
       "programmeCode": "Q3X1",
       "schools": [
         {
           "name": "Main Site",
-          "address": "The Student Gateway, Edinburgh Building, Chester Road, Sunderland, SR1 3SD",
+          "address": "Beaverwood School, Beaverwood Road, Chislehurst, Kent, BR7 6HE",
           "code": ""
         }
       ],
@@ -124,42 +80,20 @@
       ]
     },
     {
-      "regions": "North East",
-      "accrediting": "University of Sunderland",
-      "subjects": "Primary",
-      "ageRange": "Primary (c3 - 11/12 years)",
-      "name": "General Primary",
-      "slug": "general-primary",
-      "route": "Higher Education programme",
-      "qualifications": "QTS, Postgraduate",
-      "providerCode": "S84",
-      "programmeCode": "X100",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "The Student Gateway, Edinburgh Building, Chester Road, Sunderland, SR1 3SD",
-          "code": ""
-        }
-      ],
-      "options": [
-        "PGCE with QTS full time"
-      ]
-    },
-    {
-      "regions": "North East",
-      "accrediting": "University of Sunderland",
+      "regions": "London",
+      "accrediting": "Bromley Schools Collegiate",
       "subjects": "Geography, Secondary",
       "ageRange": "Secondary (11+ years)",
       "name": "Geography",
       "slug": "geography",
-      "route": "Higher Education programme",
-      "qualifications": "QTS, Postgraduate",
-      "providerCode": "S84",
-      "programmeCode": "F8X1",
+      "route": "SCITT (School Centred Initial Teacher Training) programme",
+      "qualifications": "QTS, Postgraduate, Professional",
+      "providerCode": "B91",
+      "programmeCode": "2YDH",
       "schools": [
         {
           "name": "Main Site",
-          "address": "The Student Gateway, Edinburgh Building, Chester Road, Sunderland, SR1 3SD",
+          "address": "Beaverwood School, Beaverwood Road, Chislehurst, Kent, BR7 6HE",
           "code": ""
         }
       ],
@@ -168,20 +102,42 @@
       ]
     },
     {
-      "regions": "North East",
-      "accrediting": "University of Sunderland",
+      "regions": "London",
+      "accrediting": "Bromley Schools Collegiate",
+      "subjects": "History, Secondary",
+      "ageRange": "Secondary (11+ years)",
+      "name": "History",
+      "slug": "history",
+      "route": "SCITT (School Centred Initial Teacher Training) programme",
+      "qualifications": "QTS, Postgraduate, Professional",
+      "providerCode": "B91",
+      "programmeCode": "V1X1",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "Beaverwood School, Beaverwood Road, Chislehurst, Kent, BR7 6HE",
+          "code": ""
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "London",
+      "accrediting": "Bromley Schools Collegiate",
       "subjects": "Mathematics, Secondary",
       "ageRange": "Secondary (11+ years)",
       "name": "Mathematics",
       "slug": "mathematics",
-      "route": "Higher Education programme",
-      "qualifications": "QTS, Postgraduate",
-      "providerCode": "S84",
+      "route": "SCITT (School Centred Initial Teacher Training) programme",
+      "qualifications": "QTS, Postgraduate, Professional",
+      "providerCode": "B91",
       "programmeCode": "G1X1",
       "schools": [
         {
           "name": "Main Site",
-          "address": "The Student Gateway, Edinburgh Building, Chester Road, Sunderland, SR1 3SD",
+          "address": "Beaverwood School, Beaverwood Road, Chislehurst, Kent, BR7 6HE",
           "code": ""
         }
       ],
@@ -190,20 +146,86 @@
       ]
     },
     {
-      "regions": "North East",
-      "accrediting": "University of Sunderland",
+      "regions": "London",
+      "accrediting": "Bromley Schools Collegiate",
+      "subjects": "Languages, Secondary",
+      "ageRange": "Secondary (11+ years)",
+      "name": "Modern Languages",
+      "slug": "modern-languages",
+      "route": "SCITT (School Centred Initial Teacher Training) programme",
+      "qualifications": "QTS, Postgraduate, Professional",
+      "providerCode": "B91",
+      "programmeCode": "2YDJ",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "Beaverwood School, Beaverwood Road, Chislehurst, Kent, BR7 6HE",
+          "code": ""
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "London",
+      "accrediting": "Bromley Schools Collegiate",
+      "subjects": "Music, Secondary",
+      "ageRange": "Secondary (11+ years)",
+      "name": "Music",
+      "slug": "music",
+      "route": "SCITT (School Centred Initial Teacher Training) programme",
+      "qualifications": "QTS, Postgraduate, Professional",
+      "providerCode": "B91",
+      "programmeCode": "2YDK",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "Beaverwood School, Beaverwood Road, Chislehurst, Kent, BR7 6HE",
+          "code": ""
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "London",
+      "accrediting": "Bromley Schools Collegiate",
+      "subjects": "Physical education, Secondary",
+      "ageRange": "Secondary (11+ years)",
+      "name": "Physical Education",
+      "slug": "physical-education",
+      "route": "SCITT (School Centred Initial Teacher Training) programme",
+      "qualifications": "QTS, Postgraduate, Professional",
+      "providerCode": "B91",
+      "programmeCode": "2YDL",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "Beaverwood School, Beaverwood Road, Chislehurst, Kent, BR7 6HE",
+          "code": ""
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "London",
+      "accrediting": "Bromley Schools Collegiate",
       "subjects": "Physics, Science, Secondary",
       "ageRange": "Secondary (11+ years)",
       "name": "Physics",
       "slug": "physics",
-      "route": "Higher Education programme",
-      "qualifications": "QTS, Postgraduate",
-      "providerCode": "S84",
+      "route": "SCITT (School Centred Initial Teacher Training) programme",
+      "qualifications": "QTS, Postgraduate, Professional",
+      "providerCode": "B91",
       "programmeCode": "F3X1",
       "schools": [
         {
           "name": "Main Site",
-          "address": "The Student Gateway, Edinburgh Building, Chester Road, Sunderland, SR1 3SD",
+          "address": "Beaverwood School, Beaverwood Road, Chislehurst, Kent, BR7 6HE",
           "code": ""
         }
       ],
@@ -212,20 +234,42 @@
       ]
     },
     {
-      "regions": "North East",
-      "accrediting": "University of Sunderland",
-      "subjects": "Further education, Post-compulsory",
-      "ageRange": "Secondary (11+ years)",
-      "name": "Post-Compulsory Education and Training",
-      "slug": "post-compulsory-education-and-training",
-      "route": "Higher Education programme",
-      "qualifications": "QTS, Professional",
-      "providerCode": "S84",
-      "programmeCode": "X341",
+      "regions": "London",
+      "accrediting": "Bromley Schools Collegiate",
+      "subjects": "Primary",
+      "ageRange": "Primary (c3 - 11/12 years)",
+      "name": "Primary (5-11)",
+      "slug": "primary-5-11",
+      "route": "SCITT (School Centred Initial Teacher Training) programme",
+      "qualifications": "QTS, Postgraduate, Professional",
+      "providerCode": "B91",
+      "programmeCode": "X105",
       "schools": [
         {
           "name": "Main Site",
-          "address": "The Student Gateway, Edinburgh Building, Chester Road, Sunderland, SR1 3SD",
+          "address": "Beaverwood School, Beaverwood Road, Chislehurst, Kent, BR7 6HE",
+          "code": ""
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "London",
+      "accrediting": "Bromley Schools Collegiate",
+      "subjects": "Religious education, Secondary",
+      "ageRange": "Secondary (11+ years)",
+      "name": "Religious Education",
+      "slug": "religious-education",
+      "route": "SCITT (School Centred Initial Teacher Training) programme",
+      "qualifications": "QTS, Postgraduate, Professional",
+      "providerCode": "B91",
+      "programmeCode": "33YX",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "Beaverwood School, Beaverwood Road, Chislehurst, Kent, BR7 6HE",
           "code": ""
         }
       ],
@@ -237,54 +281,62 @@
   "schools": [
     {
       "name": "Main Site",
-      "address": "The Student Gateway, Edinburgh Building, Chester Road, Sunderland, SR1 3SD",
+      "address": "Beaverwood School, Beaverwood Road, Chislehurst, Kent, BR7 6HE",
       "code": ""
     }
   ],
   "accreditors": [
     {
-      "name": "University of Sunderland",
-      "slug": "university-of-sunderland",
+      "name": "Bromley Schools Collegiate",
+      "slug": "bromley-schools-collegiate",
       "subjects": [
-        {
-          "name": "Biology",
-          "slug": "biology"
-        },
-        {
-          "name": "Business Studies",
-          "slug": "business-studies"
-        },
-        {
-          "name": "Chemistry",
-          "slug": "chemistry"
-        },
         {
           "name": "Computer Science",
           "slug": "computer-science"
+        },
+        {
+          "name": "Drama",
+          "slug": "drama"
         },
         {
           "name": "English",
           "slug": "english"
         },
         {
-          "name": "General Primary",
-          "slug": "general-primary"
-        },
-        {
           "name": "Geography",
           "slug": "geography"
+        },
+        {
+          "name": "History",
+          "slug": "history"
         },
         {
           "name": "Mathematics",
           "slug": "mathematics"
         },
         {
+          "name": "Modern Languages",
+          "slug": "modern-languages"
+        },
+        {
+          "name": "Music",
+          "slug": "music"
+        },
+        {
+          "name": "Physical Education",
+          "slug": "physical-education"
+        },
+        {
           "name": "Physics",
           "slug": "physics"
         },
         {
-          "name": "Post-Compulsory Education and Training",
-          "slug": "post-compulsory-education-and-training"
+          "name": "Primary (5-11)",
+          "slug": "primary-5-11"
+        },
+        {
+          "name": "Religious Education",
+          "slug": "religious-education"
         }
       ]
     }
@@ -292,116 +344,82 @@
   "self_accrediting": true,
   "subjects": [
     {
-      "name": "Biology",
-      "slug": "biology"
-    },
-    {
-      "name": "Business Studies",
-      "slug": "business-studies"
-    },
-    {
-      "name": "Chemistry",
-      "slug": "chemistry"
-    },
-    {
       "name": "Computer Science",
       "slug": "computer-science"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
     },
     {
       "name": "English",
       "slug": "english"
     },
     {
-      "name": "General Primary",
-      "slug": "general-primary"
-    },
-    {
       "name": "Geography",
       "slug": "geography"
+    },
+    {
+      "name": "History",
+      "slug": "history"
     },
     {
       "name": "Mathematics",
       "slug": "mathematics"
     },
     {
+      "name": "Modern Languages",
+      "slug": "modern-languages"
+    },
+    {
+      "name": "Music",
+      "slug": "music"
+    },
+    {
+      "name": "Physical Education",
+      "slug": "physical-education"
+    },
+    {
       "name": "Physics",
       "slug": "physics"
     },
     {
-      "name": "Post-Compulsory Education and Training",
-      "slug": "post-compulsory-education-and-training"
+      "name": "Primary (5-11)",
+      "slug": "primary-5-11"
+    },
+    {
+      "name": "Religious Education",
+      "slug": "religious-education"
     }
   ],
   "folded_courses": {
-    "University of Sunderland": [
-      {
-        "name": "Biology",
-        "courses": 1,
-        "accrediting": [
-          "University of Sunderland"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Main Site"
-        ],
-        "options": [
-          "PGCE with QTS full time"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": false,
-          "qualifications": false
-        }
-      },
-      {
-        "name": "Business Studies",
-        "courses": 1,
-        "accrediting": [
-          "University of Sunderland"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Main Site"
-        ],
-        "options": [
-          "PGCE with QTS full time"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": false,
-          "qualifications": false
-        }
-      },
-      {
-        "name": "Chemistry",
-        "courses": 1,
-        "accrediting": [
-          "University of Sunderland"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Main Site"
-        ],
-        "options": [
-          "PGCE with QTS full time"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": false,
-          "qualifications": false
-        }
-      },
+    "Bromley Schools Collegiate": [
       {
         "name": "Computer Science",
         "courses": 1,
         "accrediting": [
-          "University of Sunderland"
+          "Bromley Schools Collegiate"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Main Site"
+        ],
+        "options": [
+          "PGCE with QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Drama",
+        "courses": 1,
+        "accrediting": [
+          "Bromley Schools Collegiate"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
@@ -422,28 +440,7 @@
         "name": "English",
         "courses": 1,
         "accrediting": [
-          "University of Sunderland"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Main Site"
-        ],
-        "options": [
-          "PGCE with QTS full time"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": false,
-          "qualifications": false
-        }
-      },
-      {
-        "name": "General Primary",
-        "courses": 1,
-        "accrediting": [
-          "University of Sunderland"
+          "Bromley Schools Collegiate"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
@@ -464,7 +461,28 @@
         "name": "Geography",
         "courses": 1,
         "accrediting": [
-          "University of Sunderland"
+          "Bromley Schools Collegiate"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Main Site"
+        ],
+        "options": [
+          "PGCE with QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "History",
+        "courses": 1,
+        "accrediting": [
+          "Bromley Schools Collegiate"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
@@ -485,7 +503,70 @@
         "name": "Mathematics",
         "courses": 1,
         "accrediting": [
-          "University of Sunderland"
+          "Bromley Schools Collegiate"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Main Site"
+        ],
+        "options": [
+          "PGCE with QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Modern Languages",
+        "courses": 1,
+        "accrediting": [
+          "Bromley Schools Collegiate"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Main Site"
+        ],
+        "options": [
+          "PGCE with QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Music",
+        "courses": 1,
+        "accrediting": [
+          "Bromley Schools Collegiate"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Main Site"
+        ],
+        "options": [
+          "PGCE with QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Physical Education",
+        "courses": 1,
+        "accrediting": [
+          "Bromley Schools Collegiate"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
@@ -506,7 +587,7 @@
         "name": "Physics",
         "courses": 1,
         "accrediting": [
-          "University of Sunderland"
+          "Bromley Schools Collegiate"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
@@ -524,10 +605,31 @@
         }
       },
       {
-        "name": "Post-Compulsory Education and Training",
+        "name": "Primary (5-11)",
         "courses": 1,
         "accrediting": [
-          "University of Sunderland"
+          "Bromley Schools Collegiate"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Main Site"
+        ],
+        "options": [
+          "PGCE with QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Religious Education",
+        "courses": 1,
+        "accrediting": [
+          "Bromley Schools Collegiate"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
