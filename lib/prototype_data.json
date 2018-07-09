@@ -1,8 +1,8 @@
 {
   "multi-organisation": false,
-  "training-provider-name": "Bracknell Forest Partnership",
-  "provider-code-name": "A2738",
-  "provider-code": "2FZ",
+  "training-provider-name": "The University of Reading",
+  "provider-code-name": "READG",
+  "provider-code": "R12",
   "address-line-1": "123 Baker Street",
   "town": "London",
   "postcode": "SW1 1AA",
@@ -18,105 +18,17 @@
       "accrediting": "The University of Reading",
       "subjects": "Art / art & design, Secondary",
       "ageRange": "Secondary (11+ years)",
-      "name": "Art & Design",
-      "slug": "art-design",
-      "route": "School Direct training programme",
-      "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "2FZ",
-      "programmeCode": "36W2",
+      "name": "Art and Design",
+      "slug": "art-and-design",
+      "route": "Higher Education programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "R12",
+      "programmeCode": "W1X1",
       "schools": [
         {
           "name": "Main Site",
-          "address": "Ranelagh Drive, Bracknell, Berkshire, RG12 9DA",
-          "code": "-"
-        }
-      ],
-      "options": [
-        "PGCE with QTS full time"
-      ]
-    },
-    {
-      "regions": "South East",
-      "accrediting": "The University of Reading",
-      "subjects": "Biology, Science, Secondary",
-      "ageRange": "Secondary (11+ years)",
-      "name": "Biology",
-      "slug": "biology",
-      "route": "School Direct training programme (salaried)",
-      "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "2FZ",
-      "programmeCode": "36W4",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "Ranelagh Drive, Bracknell, Berkshire, RG12 9DA",
-          "code": "-"
-        }
-      ],
-      "options": [
-        "PGCE with QTS full time with salary"
-      ]
-    },
-    {
-      "regions": "South East",
-      "accrediting": "The University of Reading",
-      "subjects": "Biology, Science, Secondary",
-      "ageRange": "Secondary (11+ years)",
-      "name": "Biology",
-      "slug": "biology",
-      "route": "School Direct training programme",
-      "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "2FZ",
-      "programmeCode": "36W6",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "Ranelagh Drive, Bracknell, Berkshire, RG12 9DA",
-          "code": "-"
-        }
-      ],
-      "options": [
-        "PGCE with QTS full time"
-      ]
-    },
-    {
-      "regions": "South East",
-      "accrediting": "The University of Reading",
-      "subjects": "Chemistry, Science, Secondary",
-      "ageRange": "Secondary (11+ years)",
-      "name": "Chemistry",
-      "slug": "chemistry",
-      "route": "School Direct training programme (salaried)",
-      "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "2FZ",
-      "programmeCode": "36WB",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "Ranelagh Drive, Bracknell, Berkshire, RG12 9DA",
-          "code": "-"
-        }
-      ],
-      "options": [
-        "PGCE with QTS full time with salary"
-      ]
-    },
-    {
-      "regions": "South East",
-      "accrediting": "The University of Reading",
-      "subjects": "Chemistry, Science, Secondary",
-      "ageRange": "Secondary (11+ years)",
-      "name": "Chemistry",
-      "slug": "chemistry",
-      "route": "School Direct training programme",
-      "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "2FZ",
-      "programmeCode": "36W9",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "Ranelagh Drive, Bracknell, Berkshire, RG12 9DA",
-          "code": "-"
+          "address": "",
+          "code": ""
         }
       ],
       "options": [
@@ -128,17 +40,17 @@
       "accrediting": "The University of Reading",
       "subjects": "Computer studies, Secondary",
       "ageRange": "Secondary (11+ years)",
-      "name": "Computing",
-      "slug": "computing",
-      "route": "School Direct training programme",
-      "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "2FZ",
-      "programmeCode": "36WG",
+      "name": "Computer Science",
+      "slug": "computer-science",
+      "route": "Higher Education programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "R12",
+      "programmeCode": "IX99",
       "schools": [
         {
           "name": "Main Site",
-          "address": "Ranelagh Drive, Bracknell, Berkshire, RG12 9DA",
-          "code": "-"
+          "address": "",
+          "code": ""
         }
       ],
       "options": [
@@ -148,41 +60,19 @@
     {
       "regions": "South East",
       "accrediting": "The University of Reading",
-      "subjects": "Design and technology, Secondary",
+      "subjects": "Design and technology, Design and technology (food), Design and technology (product design), Design and technology (systems and control), Design and technology (textiles), Secondary",
       "ageRange": "Secondary (11+ years)",
       "name": "Design and Technology",
       "slug": "design-and-technology",
-      "route": "School Direct training programme (salaried)",
-      "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "2FZ",
-      "programmeCode": "36WL",
+      "route": "Higher Education programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "R12",
+      "programmeCode": "2LYQ",
       "schools": [
         {
           "name": "Main Site",
-          "address": "Ranelagh Drive, Bracknell, Berkshire, RG12 9DA",
-          "code": "-"
-        }
-      ],
-      "options": [
-        "PGCE with QTS full time with salary"
-      ]
-    },
-    {
-      "regions": "South East",
-      "accrediting": "The University of Reading",
-      "subjects": "Design and technology, Secondary",
-      "ageRange": "Secondary (11+ years)",
-      "name": "Design and Technology",
-      "slug": "design-and-technology",
-      "route": "School Direct training programme",
-      "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "2FZ",
-      "programmeCode": "36WK",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "Ranelagh Drive, Bracknell, Berkshire, RG12 9DA",
-          "code": "-"
+          "address": "",
+          "code": ""
         }
       ],
       "options": [
@@ -196,15 +86,15 @@
       "ageRange": "Secondary (11+ years)",
       "name": "Drama",
       "slug": "drama",
-      "route": "School Direct training programme",
-      "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "2FZ",
-      "programmeCode": "36WM",
+      "route": "Higher Education programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "R12",
+      "programmeCode": "W4X1",
       "schools": [
         {
           "name": "Main Site",
-          "address": "Ranelagh Drive, Bracknell, Berkshire, RG12 9DA",
-          "code": "-"
+          "address": "",
+          "code": ""
         }
       ],
       "options": [
@@ -218,37 +108,15 @@
       "ageRange": "Secondary (11+ years)",
       "name": "English",
       "slug": "english",
-      "route": "School Direct training programme (salaried)",
-      "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "2FZ",
-      "programmeCode": "36WQ",
+      "route": "Higher Education programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "R12",
+      "programmeCode": "Q3X1",
       "schools": [
         {
           "name": "Main Site",
-          "address": "Ranelagh Drive, Bracknell, Berkshire, RG12 9DA",
-          "code": "-"
-        }
-      ],
-      "options": [
-        "PGCE with QTS full time with salary"
-      ]
-    },
-    {
-      "regions": "South East",
-      "accrediting": "The University of Reading",
-      "subjects": "English, Secondary",
-      "ageRange": "Secondary (11+ years)",
-      "name": "English",
-      "slug": "english",
-      "route": "School Direct training programme",
-      "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "2FZ",
-      "programmeCode": "36WP",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "Ranelagh Drive, Bracknell, Berkshire, RG12 9DA",
-          "code": "-"
+          "address": "",
+          "code": ""
         }
       ],
       "options": [
@@ -262,15 +130,15 @@
       "ageRange": "Secondary (11+ years)",
       "name": "Geography",
       "slug": "geography",
-      "route": "School Direct training programme",
-      "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "2FZ",
-      "programmeCode": "36WR",
+      "route": "Higher Education programme",
+      "qualifications": "QTS, Professional",
+      "providerCode": "R12",
+      "programmeCode": "2SZ2",
       "schools": [
         {
           "name": "Main Site",
-          "address": "Ranelagh Drive, Bracknell, Berkshire, RG12 9DA",
-          "code": "-"
+          "address": "",
+          "code": ""
         }
       ],
       "options": [
@@ -284,15 +152,15 @@
       "ageRange": "Secondary (11+ years)",
       "name": "History",
       "slug": "history",
-      "route": "School Direct training programme",
-      "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "2FZ",
-      "programmeCode": "36WT",
+      "route": "Higher Education programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "R12",
+      "programmeCode": "V1X1",
       "schools": [
         {
           "name": "Main Site",
-          "address": "Ranelagh Drive, Bracknell, Berkshire, RG12 9DA",
-          "code": "-"
+          "address": "",
+          "code": ""
         }
       ],
       "options": [
@@ -306,37 +174,15 @@
       "ageRange": "Secondary (11+ years)",
       "name": "Mathematics",
       "slug": "mathematics",
-      "route": "School Direct training programme (salaried)",
-      "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "2FZ",
-      "programmeCode": "36WX",
+      "route": "Higher Education programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "R12",
+      "programmeCode": "G1X1",
       "schools": [
         {
           "name": "Main Site",
-          "address": "Ranelagh Drive, Bracknell, Berkshire, RG12 9DA",
-          "code": "-"
-        }
-      ],
-      "options": [
-        "PGCE with QTS full time with salary"
-      ]
-    },
-    {
-      "regions": "South East",
-      "accrediting": "The University of Reading",
-      "subjects": "Mathematics, Secondary",
-      "ageRange": "Secondary (11+ years)",
-      "name": "Mathematics",
-      "slug": "mathematics",
-      "route": "School Direct training programme",
-      "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "2FZ",
-      "programmeCode": "36WW",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "Ranelagh Drive, Bracknell, Berkshire, RG12 9DA",
-          "code": "-"
+          "address": "",
+          "code": ""
         }
       ],
       "options": [
@@ -346,41 +192,19 @@
     {
       "regions": "South East",
       "accrediting": "The University of Reading",
-      "subjects": "French, German, Languages, Languages (european), Secondary",
+      "subjects": "French, Languages, Languages (european), Secondary",
       "ageRange": "Secondary (11+ years)",
-      "name": "Modern Lanaguages (French and German)",
-      "slug": "modern-lanaguages-french-and-german",
-      "route": "School Direct training programme (salaried)",
-      "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "2FZ",
-      "programmeCode": "36X5",
+      "name": "Modern Languages (French)",
+      "slug": "modern-languages-french",
+      "route": "Higher Education programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "R12",
+      "programmeCode": "R1X1",
       "schools": [
         {
           "name": "Main Site",
-          "address": "Ranelagh Drive, Bracknell, Berkshire, RG12 9DA",
-          "code": "-"
-        }
-      ],
-      "options": [
-        "PGCE with QTS full time with salary"
-      ]
-    },
-    {
-      "regions": "South East",
-      "accrediting": "The University of Reading",
-      "subjects": "French, German, Languages, Languages (european), Secondary",
-      "ageRange": "Secondary (11+ years)",
-      "name": "Modern Lanaguages (French and German)",
-      "slug": "modern-lanaguages-french-and-german",
-      "route": "School Direct training programme",
-      "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "2FZ",
-      "programmeCode": "36WY",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "Ranelagh Drive, Bracknell, Berkshire, RG12 9DA",
-          "code": "-"
+          "address": "",
+          "code": ""
         }
       ],
       "options": [
@@ -390,19 +214,19 @@
     {
       "regions": "South East",
       "accrediting": "The University of Reading",
-      "subjects": "German, Languages, Languages (european), Secondary, Spanish",
+      "subjects": "German, Languages, Languages (european), Secondary",
       "ageRange": "Secondary (11+ years)",
-      "name": "Modern Lanaguages (German and Spanish)",
-      "slug": "modern-lanaguages-german-and-spanish",
-      "route": "School Direct training programme",
-      "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "2FZ",
-      "programmeCode": "36X2",
+      "name": "Modern Languages (German)",
+      "slug": "modern-languages-german",
+      "route": "Higher Education programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "R12",
+      "programmeCode": "R2X1",
       "schools": [
         {
           "name": "Main Site",
-          "address": "Ranelagh Drive, Bracknell, Berkshire, RG12 9DA",
-          "code": "-"
+          "address": "",
+          "code": ""
         }
       ],
       "options": [
@@ -412,67 +236,23 @@
     {
       "regions": "South East",
       "accrediting": "The University of Reading",
-      "subjects": "French, Languages, Languages (european), Secondary, Spanish",
+      "subjects": "Languages, Languages (european), Secondary, Spanish",
       "ageRange": "Secondary (11+ years)",
-      "name": "Modern Languages (French and Spanish)",
-      "slug": "modern-languages-french-and-spanish",
-      "route": "School Direct training programme",
-      "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "2FZ",
-      "programmeCode": "36X3",
+      "name": "Modern Languages (Spanish)",
+      "slug": "modern-languages-spanish",
+      "route": "Higher Education programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "R12",
+      "programmeCode": "R4X1",
       "schools": [
         {
           "name": "Main Site",
-          "address": "Ranelagh Drive, Bracknell, Berkshire, RG12 9DA",
-          "code": "-"
+          "address": "",
+          "code": ""
         }
       ],
       "options": [
         "PGCE with QTS full time"
-      ]
-    },
-    {
-      "regions": "South East",
-      "accrediting": "The University of Reading",
-      "subjects": "French, Languages, Languages (european), Secondary, Spanish",
-      "ageRange": "Secondary (11+ years)",
-      "name": "Modern Languages (French and Spanish)",
-      "slug": "modern-languages-french-and-spanish",
-      "route": "School Direct training programme (salaried)",
-      "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "2FZ",
-      "programmeCode": "36X8",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "Ranelagh Drive, Bracknell, Berkshire, RG12 9DA",
-          "code": "-"
-        }
-      ],
-      "options": [
-        "PGCE with QTS full time with salary"
-      ]
-    },
-    {
-      "regions": "South East",
-      "accrediting": "The University of Reading",
-      "subjects": "German, Languages, Languages (european), Secondary, Spanish",
-      "ageRange": "Secondary (11+ years)",
-      "name": "Modern Languages (German and Spanish)",
-      "slug": "modern-languages-german-and-spanish",
-      "route": "School Direct training programme (salaried)",
-      "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "2FZ",
-      "programmeCode": "36X7",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "Ranelagh Drive, Bracknell, Berkshire, RG12 9DA",
-          "code": "-"
-        }
-      ],
-      "options": [
-        "PGCE with QTS full time with salary"
       ]
     },
     {
@@ -482,15 +262,15 @@
       "ageRange": "Secondary (11+ years)",
       "name": "Music",
       "slug": "music",
-      "route": "School Direct training programme",
-      "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "2FZ",
-      "programmeCode": "36X9",
+      "route": "Higher Education programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "R12",
+      "programmeCode": "W3X1",
       "schools": [
         {
           "name": "Main Site",
-          "address": "Ranelagh Drive, Bracknell, Berkshire, RG12 9DA",
-          "code": "-"
+          "address": "",
+          "code": ""
         }
       ],
       "options": [
@@ -504,15 +284,191 @@
       "ageRange": "Secondary (11+ years)",
       "name": "Physical Education",
       "slug": "physical-education",
-      "route": "School Direct training programme",
-      "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "2FZ",
-      "programmeCode": "36XC",
+      "route": "Higher Education programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "R12",
+      "programmeCode": "X9C6",
       "schools": [
         {
           "name": "Main Site",
-          "address": "Ranelagh Drive, Bracknell, Berkshire, RG12 9DA",
-          "code": "-"
+          "address": "",
+          "code": ""
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "South East",
+      "accrediting": "The University of Reading",
+      "subjects": "Mathematics, Physics, Science, Secondary",
+      "ageRange": "Secondary (11+ years)",
+      "name": "Physics with Mathematics",
+      "slug": "physics-with-mathematics",
+      "route": "Higher Education programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "R12",
+      "programmeCode": "F3GX",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "",
+          "code": ""
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "South East",
+      "accrediting": "The University of Reading",
+      "subjects": "Primary",
+      "ageRange": "Primary (c3 - 11/12 years)",
+      "name": "Primary",
+      "slug": "primary",
+      "route": "Higher Education programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "R12",
+      "programmeCode": "X100",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "",
+          "code": ""
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "South East",
+      "accrediting": "The University of Reading",
+      "subjects": "Early years, Primary",
+      "ageRange": "Primary (c3 - 11/12 years)",
+      "name": "Primary (Early Years)",
+      "slug": "primary-early-years",
+      "route": "Higher Education programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "R12",
+      "programmeCode": "X121",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "",
+          "code": ""
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "South East",
+      "accrediting": "The University of Reading",
+      "subjects": "Languages, Primary",
+      "ageRange": "Primary (c3 - 11/12 years)",
+      "name": "Primary with Leadership in Foreign Languages",
+      "slug": "primary-with-leadership-in-foreign-languages",
+      "route": "Higher Education programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "R12",
+      "programmeCode": "2VD6",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "",
+          "code": ""
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "South East",
+      "accrediting": "The University of Reading",
+      "subjects": "Mathematics, Primary",
+      "ageRange": "Primary (c3 - 11/12 years)",
+      "name": "Primary with Mathematics",
+      "slug": "primary-with-mathematics",
+      "route": "Higher Education programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "R12",
+      "programmeCode": "2V3Z",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "",
+          "code": ""
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "South East",
+      "accrediting": "The University of Reading",
+      "subjects": "Primary, Special educational needs",
+      "ageRange": "Primary (c3 - 11/12 years)",
+      "name": "Primary with Special Education Needs",
+      "slug": "primary-with-special-education-needs",
+      "route": "Higher Education programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "R12",
+      "programmeCode": "2VD7",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "",
+          "code": ""
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "South East",
+      "accrediting": "The University of Reading",
+      "subjects": "Biology, Science, Secondary",
+      "ageRange": "Secondary (11+ years)",
+      "name": "Science with Biology",
+      "slug": "science-with-biology",
+      "route": "Higher Education programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "R12",
+      "programmeCode": "C1X1",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "",
+          "code": ""
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "South East",
+      "accrediting": "The University of Reading",
+      "subjects": "Chemistry, Science, Secondary",
+      "ageRange": "Secondary (11+ years)",
+      "name": "Science with Chemistry",
+      "slug": "science-with-chemistry",
+      "route": "Higher Education programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "R12",
+      "programmeCode": "F1X1",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "",
+          "code": ""
         }
       ],
       "options": [
@@ -524,95 +480,29 @@
       "accrediting": "The University of Reading",
       "subjects": "Physics, Science, Secondary",
       "ageRange": "Secondary (11+ years)",
-      "name": "Physics",
-      "slug": "physics",
-      "route": "School Direct training programme (salaried)",
-      "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "2FZ",
-      "programmeCode": "36XG",
+      "name": "Science with Physics",
+      "slug": "science-with-physics",
+      "route": "Higher Education programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "R12",
+      "programmeCode": "F3X1",
       "schools": [
         {
           "name": "Main Site",
-          "address": "Ranelagh Drive, Bracknell, Berkshire, RG12 9DA",
-          "code": "-"
-        }
-      ],
-      "options": [
-        "PGCE with QTS full time with salary"
-      ]
-    },
-    {
-      "regions": "South East",
-      "accrediting": "The University of Reading",
-      "subjects": "Mathematics, Physics, Secondary",
-      "ageRange": "Secondary (11+ years)",
-      "name": "Physics with Mathematics",
-      "slug": "physics-with-mathematics",
-      "route": "School Direct training programme",
-      "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "2FZ",
-      "programmeCode": "36XK",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "Ranelagh Drive, Bracknell, Berkshire, RG12 9DA",
-          "code": "-"
+          "address": "",
+          "code": ""
         }
       ],
       "options": [
         "PGCE with QTS full time"
-      ]
-    },
-    {
-      "regions": "South East",
-      "accrediting": "The University of Reading",
-      "subjects": "Primary",
-      "ageRange": "Primary (c3 - 11/12 years)",
-      "name": "Primary",
-      "slug": "primary",
-      "route": "School Direct training programme (salaried)",
-      "qualifications": "QTS",
-      "providerCode": "2FZ",
-      "programmeCode": "36XQ",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "Ranelagh Drive, Bracknell, Berkshire, RG12 9DA",
-          "code": "-"
-        }
-      ],
-      "options": [
-        "QTS full time with salary"
-      ]
-    },
-    {
-      "regions": "South East",
-      "accrediting": "The University of Reading",
-      "subjects": "Primary",
-      "ageRange": "Primary (c3 - 11/12 years)",
-      "name": "Primary",
-      "slug": "primary",
-      "route": "School Direct training programme",
-      "qualifications": "QTS",
-      "providerCode": "2FZ",
-      "programmeCode": "36XP",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "Ranelagh Drive, Bracknell, Berkshire, RG12 9DA",
-          "code": "-"
-        }
-      ],
-      "options": [
-        "QTS full time"
       ]
     }
   ],
   "schools": [
     {
       "name": "Main Site",
-      "address": "Ranelagh Drive, Bracknell, Berkshire, RG12 9DA",
-      "code": "-"
+      "address": "",
+      "code": ""
     }
   ],
   "accreditors": [
@@ -621,20 +511,12 @@
       "slug": "the-university-of-reading",
       "subjects": [
         {
-          "name": "Art & Design",
-          "slug": "art-design"
+          "name": "Art and Design",
+          "slug": "art-and-design"
         },
         {
-          "name": "Biology",
-          "slug": "biology"
-        },
-        {
-          "name": "Chemistry",
-          "slug": "chemistry"
-        },
-        {
-          "name": "Computing",
-          "slug": "computing"
+          "name": "Computer Science",
+          "slug": "computer-science"
         },
         {
           "name": "Design and Technology",
@@ -661,20 +543,16 @@
           "slug": "mathematics"
         },
         {
-          "name": "Modern Lanaguages (French and German)",
-          "slug": "modern-lanaguages-french-and-german"
+          "name": "Modern Languages (French)",
+          "slug": "modern-languages-french"
         },
         {
-          "name": "Modern Lanaguages (German and Spanish)",
-          "slug": "modern-lanaguages-german-and-spanish"
+          "name": "Modern Languages (German)",
+          "slug": "modern-languages-german"
         },
         {
-          "name": "Modern Languages (French and Spanish)",
-          "slug": "modern-languages-french-and-spanish"
-        },
-        {
-          "name": "Modern Languages (German and Spanish)",
-          "slug": "modern-languages-german-and-spanish"
+          "name": "Modern Languages (Spanish)",
+          "slug": "modern-languages-spanish"
         },
         {
           "name": "Music",
@@ -685,37 +563,53 @@
           "slug": "physical-education"
         },
         {
-          "name": "Physics",
-          "slug": "physics"
-        },
-        {
           "name": "Physics with Mathematics",
           "slug": "physics-with-mathematics"
         },
         {
           "name": "Primary",
           "slug": "primary"
+        },
+        {
+          "name": "Primary (Early Years)",
+          "slug": "primary-early-years"
+        },
+        {
+          "name": "Primary with Leadership in Foreign Languages",
+          "slug": "primary-with-leadership-in-foreign-languages"
+        },
+        {
+          "name": "Primary with Mathematics",
+          "slug": "primary-with-mathematics"
+        },
+        {
+          "name": "Primary with Special Education Needs",
+          "slug": "primary-with-special-education-needs"
+        },
+        {
+          "name": "Science with Biology",
+          "slug": "science-with-biology"
+        },
+        {
+          "name": "Science with Chemistry",
+          "slug": "science-with-chemistry"
+        },
+        {
+          "name": "Science with Physics",
+          "slug": "science-with-physics"
         }
       ]
     }
   ],
-  "self_accrediting": false,
+  "self_accrediting": true,
   "subjects": [
     {
-      "name": "Art & Design",
-      "slug": "art-design"
+      "name": "Art and Design",
+      "slug": "art-and-design"
     },
     {
-      "name": "Biology",
-      "slug": "biology"
-    },
-    {
-      "name": "Chemistry",
-      "slug": "chemistry"
-    },
-    {
-      "name": "Computing",
-      "slug": "computing"
+      "name": "Computer Science",
+      "slug": "computer-science"
     },
     {
       "name": "Design and Technology",
@@ -742,20 +636,16 @@
       "slug": "mathematics"
     },
     {
-      "name": "Modern Lanaguages (French and German)",
-      "slug": "modern-lanaguages-french-and-german"
+      "name": "Modern Languages (French)",
+      "slug": "modern-languages-french"
     },
     {
-      "name": "Modern Lanaguages (German and Spanish)",
-      "slug": "modern-lanaguages-german-and-spanish"
+      "name": "Modern Languages (German)",
+      "slug": "modern-languages-german"
     },
     {
-      "name": "Modern Languages (French and Spanish)",
-      "slug": "modern-languages-french-and-spanish"
-    },
-    {
-      "name": "Modern Languages (German and Spanish)",
-      "slug": "modern-languages-german-and-spanish"
+      "name": "Modern Languages (Spanish)",
+      "slug": "modern-languages-spanish"
     },
     {
       "name": "Music",
@@ -766,22 +656,46 @@
       "slug": "physical-education"
     },
     {
-      "name": "Physics",
-      "slug": "physics"
-    },
-    {
       "name": "Physics with Mathematics",
       "slug": "physics-with-mathematics"
     },
     {
       "name": "Primary",
       "slug": "primary"
+    },
+    {
+      "name": "Primary (Early Years)",
+      "slug": "primary-early-years"
+    },
+    {
+      "name": "Primary with Leadership in Foreign Languages",
+      "slug": "primary-with-leadership-in-foreign-languages"
+    },
+    {
+      "name": "Primary with Mathematics",
+      "slug": "primary-with-mathematics"
+    },
+    {
+      "name": "Primary with Special Education Needs",
+      "slug": "primary-with-special-education-needs"
+    },
+    {
+      "name": "Science with Biology",
+      "slug": "science-with-biology"
+    },
+    {
+      "name": "Science with Chemistry",
+      "slug": "science-with-chemistry"
+    },
+    {
+      "name": "Science with Physics",
+      "slug": "science-with-physics"
     }
   ],
   "folded_courses": {
     "The University of Reading": [
       {
-        "name": "Art & Design",
+        "name": "Art and Design",
         "courses": 1,
         "accrediting": [
           "The University of Reading"
@@ -802,51 +716,7 @@
         }
       },
       {
-        "name": "Biology",
-        "courses": 2,
-        "accrediting": [
-          "The University of Reading"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Main Site"
-        ],
-        "options": [
-          "PGCE with QTS full time",
-          "PGCE with QTS full time with salary"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": true,
-          "qualifications": false
-        }
-      },
-      {
-        "name": "Chemistry",
-        "courses": 2,
-        "accrediting": [
-          "The University of Reading"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Main Site"
-        ],
-        "options": [
-          "PGCE with QTS full time",
-          "PGCE with QTS full time with salary"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": true,
-          "qualifications": false
-        }
-      },
-      {
-        "name": "Computing",
+        "name": "Computer Science",
         "courses": 1,
         "accrediting": [
           "The University of Reading"
@@ -868,29 +738,7 @@
       },
       {
         "name": "Design and Technology",
-        "courses": 2,
-        "accrediting": [
-          "The University of Reading"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Main Site"
-        ],
-        "options": [
-          "PGCE with QTS full time",
-          "PGCE with QTS full time with salary"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": true,
-          "qualifications": false
-        }
-      },
-      {
-        "name": "Drama",
-        "courses": 2,
+        "courses": 1,
         "accrediting": [
           "The University of Reading"
         ],
@@ -906,12 +754,12 @@
         "flags": {
           "partTime": false,
           "salary": false,
-          "qualifications": true
+          "qualifications": false
         }
       },
       {
-        "name": "English",
-        "courses": 2,
+        "name": "Drama",
+        "courses": 1,
         "accrediting": [
           "The University of Reading"
         ],
@@ -922,12 +770,32 @@
           "Main Site"
         ],
         "options": [
-          "PGCE with QTS full time",
-          "PGCE with QTS full time with salary"
+          "PGCE with QTS full time"
         ],
         "flags": {
           "partTime": false,
-          "salary": true,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "English",
+        "courses": 1,
+        "accrediting": [
+          "The University of Reading"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Main Site"
+        ],
+        "options": [
+          "PGCE with QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
           "qualifications": false
         }
       },
@@ -975,50 +843,6 @@
       },
       {
         "name": "Mathematics",
-        "courses": 2,
-        "accrediting": [
-          "The University of Reading"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Main Site"
-        ],
-        "options": [
-          "PGCE with QTS full time",
-          "PGCE with QTS full time with salary"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": true,
-          "qualifications": false
-        }
-      },
-      {
-        "name": "Modern Lanaguages (French and German)",
-        "courses": 2,
-        "accrediting": [
-          "The University of Reading"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Main Site"
-        ],
-        "options": [
-          "PGCE with QTS full time",
-          "PGCE with QTS full time with salary"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": true,
-          "qualifications": false
-        }
-      },
-      {
-        "name": "Modern Lanaguages (German and Spanish)",
         "courses": 1,
         "accrediting": [
           "The University of Reading"
@@ -1039,29 +863,7 @@
         }
       },
       {
-        "name": "Modern Languages (French and Spanish)",
-        "courses": 2,
-        "accrediting": [
-          "The University of Reading"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Main Site"
-        ],
-        "options": [
-          "PGCE with QTS full time",
-          "PGCE with QTS full time with salary"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": true,
-          "qualifications": false
-        }
-      },
-      {
-        "name": "Modern Languages (German and Spanish)",
+        "name": "Modern Languages (French)",
         "courses": 1,
         "accrediting": [
           "The University of Reading"
@@ -1073,11 +875,53 @@
           "Main Site"
         ],
         "options": [
-          "PGCE with QTS full time with salary"
+          "PGCE with QTS full time"
         ],
         "flags": {
           "partTime": false,
-          "salary": true,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Modern Languages (German)",
+        "courses": 1,
+        "accrediting": [
+          "The University of Reading"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Main Site"
+        ],
+        "options": [
+          "PGCE with QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Modern Languages (Spanish)",
+        "courses": 1,
+        "accrediting": [
+          "The University of Reading"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Main Site"
+        ],
+        "options": [
+          "PGCE with QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
           "qualifications": false
         }
       },
@@ -1124,27 +968,6 @@
         }
       },
       {
-        "name": "Physics",
-        "courses": 1,
-        "accrediting": [
-          "The University of Reading"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Main Site"
-        ],
-        "options": [
-          "PGCE with QTS full time with salary"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": true,
-          "qualifications": false
-        }
-      },
-      {
         "name": "Physics with Mathematics",
         "courses": 1,
         "accrediting": [
@@ -1167,7 +990,7 @@
       },
       {
         "name": "Primary",
-        "courses": 2,
+        "courses": 1,
         "accrediting": [
           "The University of Reading"
         ],
@@ -1178,21 +1001,164 @@
           "Main Site"
         ],
         "options": [
-          "QTS full time",
-          "QTS full time with salary"
+          "PGCE with QTS full time"
         ],
         "flags": {
           "partTime": false,
-          "salary": true,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Primary (Early Years)",
+        "courses": 1,
+        "accrediting": [
+          "The University of Reading"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Main Site"
+        ],
+        "options": [
+          "PGCE with QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Primary with Leadership in Foreign Languages",
+        "courses": 1,
+        "accrediting": [
+          "The University of Reading"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Main Site"
+        ],
+        "options": [
+          "PGCE with QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Primary with Mathematics",
+        "courses": 1,
+        "accrediting": [
+          "The University of Reading"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Main Site"
+        ],
+        "options": [
+          "PGCE with QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Primary with Special Education Needs",
+        "courses": 1,
+        "accrediting": [
+          "The University of Reading"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Main Site"
+        ],
+        "options": [
+          "PGCE with QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Science with Biology",
+        "courses": 1,
+        "accrediting": [
+          "The University of Reading"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Main Site"
+        ],
+        "options": [
+          "PGCE with QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Science with Chemistry",
+        "courses": 1,
+        "accrediting": [
+          "The University of Reading"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Main Site"
+        ],
+        "options": [
+          "PGCE with QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Science with Physics",
+        "courses": 1,
+        "accrediting": [
+          "The University of Reading"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Main Site"
+        ],
+        "options": [
+          "PGCE with QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
           "qualifications": false
         }
       }
     ]
   },
   "options": [
-    "PGCE with QTS full time",
-    "PGCE with QTS full time with salary",
-    "QTS full time",
-    "QTS full time with salary"
+    "PGCE with QTS full time"
   ]
 }
