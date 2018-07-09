@@ -1,8 +1,8 @@
 {
   "multi-organisation": false,
-  "training-provider-name": "Excalibur TSA",
-  "provider-code-name": "A2591",
-  "provider-code": "2BO",
+  "training-provider-name": "University of Sunderland",
+  "provider-code-name": "SUND",
+  "provider-code": "S84",
   "address-line-1": "123 Baker Street",
   "town": "London",
   "postcode": "SW1 1AA",
@@ -14,43 +14,21 @@
   ],
   "ucasCourses": [
     {
-      "regions": "South West",
-      "accrediting": "Bath Spa University",
-      "subjects": "Art / art & design, Secondary",
-      "ageRange": "Secondary (11+ years)",
-      "name": "Art and Design",
-      "slug": "art-and-design",
-      "route": "School Direct training programme",
-      "qualifications": "QTS, Postgraduate",
-      "providerCode": "2BO",
-      "programmeCode": "34SR",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "St John's Marlborough, Granham Hill, Marlborough, Wiltshire, SN8 4AX",
-          "code": "-"
-        }
-      ],
-      "options": [
-        "PGCE with QTS full time"
-      ]
-    },
-    {
-      "regions": "South West",
-      "accrediting": "Bath Spa University",
+      "regions": "North East",
+      "accrediting": "University of Sunderland",
       "subjects": "Biology, Science, Secondary",
       "ageRange": "Secondary (11+ years)",
       "name": "Biology",
       "slug": "biology",
-      "route": "School Direct training programme",
+      "route": "Higher Education programme",
       "qualifications": "QTS, Postgraduate",
-      "providerCode": "2BO",
-      "programmeCode": "2XMS",
+      "providerCode": "S84",
+      "programmeCode": "C1X1",
       "schools": [
         {
           "name": "Main Site",
-          "address": "St John's Marlborough, Granham Hill, Marlborough, Wiltshire, SN8 4AX",
-          "code": "-"
+          "address": "The Student Gateway, Edinburgh Building, Chester Road, Sunderland, SR1 3SD",
+          "code": ""
         }
       ],
       "options": [
@@ -58,21 +36,21 @@
       ]
     },
     {
-      "regions": "South West",
-      "accrediting": "University of Bristol",
-      "subjects": "Biology, Science, Secondary",
+      "regions": "North East",
+      "accrediting": "University of Sunderland",
+      "subjects": "Business education, Secondary",
       "ageRange": "Secondary (11+ years)",
-      "name": "Biology",
-      "slug": "biology",
-      "route": "School Direct training programme",
-      "qualifications": "QTS, Postgraduate",
-      "providerCode": "2BO",
-      "programmeCode": "2XN2",
+      "name": "Business Studies",
+      "slug": "business-studies",
+      "route": "Higher Education programme",
+      "qualifications": "QTS, Professional",
+      "providerCode": "S84",
+      "programmeCode": "N1X1",
       "schools": [
         {
-          "name": "Fairfield High School",
-          "address": "Allfoxton Road, Horfield, Bristol, BS7 9NL",
-          "code": "F"
+          "name": "Main Site",
+          "address": "The Student Gateway, Edinburgh Building, Chester Road, Sunderland, SR1 3SD",
+          "code": ""
         }
       ],
       "options": [
@@ -80,21 +58,21 @@
       ]
     },
     {
-      "regions": "South West",
-      "accrediting": "Bath Spa University",
+      "regions": "North East",
+      "accrediting": "University of Sunderland",
       "subjects": "Chemistry, Science, Secondary",
       "ageRange": "Secondary (11+ years)",
       "name": "Chemistry",
       "slug": "chemistry",
-      "route": "School Direct training programme",
+      "route": "Higher Education programme",
       "qualifications": "QTS, Postgraduate",
-      "providerCode": "2BO",
-      "programmeCode": "2XMR",
+      "providerCode": "S84",
+      "programmeCode": "F1X1",
       "schools": [
         {
           "name": "Main Site",
-          "address": "St John's Marlborough, Granham Hill, Marlborough, Wiltshire, SN8 4AX",
-          "code": "-"
+          "address": "The Student Gateway, Edinburgh Building, Chester Road, Sunderland, SR1 3SD",
+          "code": ""
         }
       ],
       "options": [
@@ -102,21 +80,21 @@
       ]
     },
     {
-      "regions": "South West",
-      "accrediting": "Bath Spa University",
+      "regions": "North East",
+      "accrediting": "University of Sunderland",
       "subjects": "Computer studies, Secondary",
       "ageRange": "Secondary (11+ years)",
-      "name": "Computing",
-      "slug": "computing",
-      "route": "School Direct training programme",
+      "name": "Computer Science",
+      "slug": "computer-science",
+      "route": "Higher Education programme",
       "qualifications": "QTS, Postgraduate",
-      "providerCode": "2BO",
-      "programmeCode": "34SM",
+      "providerCode": "S84",
+      "programmeCode": "IX99",
       "schools": [
         {
           "name": "Main Site",
-          "address": "St John's Marlborough, Granham Hill, Marlborough, Wiltshire, SN8 4AX",
-          "code": "-"
+          "address": "The Student Gateway, Edinburgh Building, Chester Road, Sunderland, SR1 3SD",
+          "code": ""
         }
       ],
       "options": [
@@ -124,65 +102,21 @@
       ]
     },
     {
-      "regions": "South West",
-      "accrediting": "Bath Spa University",
-      "subjects": "Design and technology, Secondary",
-      "ageRange": "Secondary (11+ years)",
-      "name": "Design and Technology",
-      "slug": "design-and-technology",
-      "route": "School Direct training programme",
-      "qualifications": "QTS, Postgraduate",
-      "providerCode": "2BO",
-      "programmeCode": "34SN",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "St John's Marlborough, Granham Hill, Marlborough, Wiltshire, SN8 4AX",
-          "code": "-"
-        }
-      ],
-      "options": [
-        "PGCE with QTS full time"
-      ]
-    },
-    {
-      "regions": "South West",
-      "accrediting": "Bath Spa University",
-      "subjects": "Drama and theatre studies, Secondary",
-      "ageRange": "Secondary (11+ years)",
-      "name": "Drama",
-      "slug": "drama",
-      "route": "School Direct training programme",
-      "qualifications": "QTS, Postgraduate",
-      "providerCode": "2BO",
-      "programmeCode": "34SQ",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "St John's Marlborough, Granham Hill, Marlborough, Wiltshire, SN8 4AX",
-          "code": "-"
-        }
-      ],
-      "options": [
-        "PGCE with QTS full time"
-      ]
-    },
-    {
-      "regions": "South West",
-      "accrediting": "Bath Spa University",
+      "regions": "North East",
+      "accrediting": "University of Sunderland",
       "subjects": "English, Secondary",
       "ageRange": "Secondary (11+ years)",
       "name": "English",
       "slug": "english",
-      "route": "School Direct training programme",
+      "route": "Higher Education programme",
       "qualifications": "QTS, Postgraduate",
-      "providerCode": "2BO",
-      "programmeCode": "2XMX",
+      "providerCode": "S84",
+      "programmeCode": "Q3X1",
       "schools": [
         {
           "name": "Main Site",
-          "address": "St John's Marlborough, Granham Hill, Marlborough, Wiltshire, SN8 4AX",
-          "code": "-"
+          "address": "The Student Gateway, Edinburgh Building, Chester Road, Sunderland, SR1 3SD",
+          "code": ""
         }
       ],
       "options": [
@@ -190,21 +124,21 @@
       ]
     },
     {
-      "regions": "South West",
-      "accrediting": "University of Bristol",
-      "subjects": "English, Secondary",
-      "ageRange": "Secondary (11+ years)",
-      "name": "English",
-      "slug": "english",
-      "route": "School Direct training programme",
+      "regions": "North East",
+      "accrediting": "University of Sunderland",
+      "subjects": "Primary",
+      "ageRange": "Primary (c3 - 11/12 years)",
+      "name": "General Primary",
+      "slug": "general-primary",
+      "route": "Higher Education programme",
       "qualifications": "QTS, Postgraduate",
-      "providerCode": "2BO",
-      "programmeCode": "2XN6",
+      "providerCode": "S84",
+      "programmeCode": "X100",
       "schools": [
         {
-          "name": "Fairfield High School",
-          "address": "Allfoxton Road, Horfield, Bristol, BS7 9NL",
-          "code": "F"
+          "name": "Main Site",
+          "address": "The Student Gateway, Edinburgh Building, Chester Road, Sunderland, SR1 3SD",
+          "code": ""
         }
       ],
       "options": [
@@ -212,21 +146,21 @@
       ]
     },
     {
-      "regions": "South West",
-      "accrediting": "Bath Spa University",
+      "regions": "North East",
+      "accrediting": "University of Sunderland",
       "subjects": "Geography, Secondary",
       "ageRange": "Secondary (11+ years)",
       "name": "Geography",
       "slug": "geography",
-      "route": "School Direct training programme",
+      "route": "Higher Education programme",
       "qualifications": "QTS, Postgraduate",
-      "providerCode": "2BO",
-      "programmeCode": "2XHT",
+      "providerCode": "S84",
+      "programmeCode": "F8X1",
       "schools": [
         {
           "name": "Main Site",
-          "address": "St John's Marlborough, Granham Hill, Marlborough, Wiltshire, SN8 4AX",
-          "code": "-"
+          "address": "The Student Gateway, Edinburgh Building, Chester Road, Sunderland, SR1 3SD",
+          "code": ""
         }
       ],
       "options": [
@@ -234,65 +168,21 @@
       ]
     },
     {
-      "regions": "South West",
-      "accrediting": "University of Bristol",
-      "subjects": "Geography, Secondary",
-      "ageRange": "Secondary (11+ years)",
-      "name": "Geography",
-      "slug": "geography",
-      "route": "School Direct training programme",
-      "qualifications": "QTS, Postgraduate",
-      "providerCode": "2BO",
-      "programmeCode": "2XN5",
-      "schools": [
-        {
-          "name": "Fairfield High School",
-          "address": "Allfoxton Road, Horfield, Bristol, BS7 9NL",
-          "code": "F"
-        }
-      ],
-      "options": [
-        "PGCE with QTS full time"
-      ]
-    },
-    {
-      "regions": "South West",
-      "accrediting": "University of Bristol",
-      "subjects": "History, Secondary",
-      "ageRange": "Secondary (11+ years)",
-      "name": "History",
-      "slug": "history",
-      "route": "School Direct training programme",
-      "qualifications": "QTS, Postgraduate",
-      "providerCode": "2BO",
-      "programmeCode": "2XN3",
-      "schools": [
-        {
-          "name": "Fairfield High School",
-          "address": "Allfoxton Road, Horfield, Bristol, BS7 9NL",
-          "code": "F"
-        }
-      ],
-      "options": [
-        "PGCE with QTS full time"
-      ]
-    },
-    {
-      "regions": "South West",
-      "accrediting": "Bath Spa University",
+      "regions": "North East",
+      "accrediting": "University of Sunderland",
       "subjects": "Mathematics, Secondary",
       "ageRange": "Secondary (11+ years)",
       "name": "Mathematics",
       "slug": "mathematics",
-      "route": "School Direct training programme",
+      "route": "Higher Education programme",
       "qualifications": "QTS, Postgraduate",
-      "providerCode": "2BO",
-      "programmeCode": "2XMW",
+      "providerCode": "S84",
+      "programmeCode": "G1X1",
       "schools": [
         {
           "name": "Main Site",
-          "address": "St John's Marlborough, Granham Hill, Marlborough, Wiltshire, SN8 4AX",
-          "code": "-"
+          "address": "The Student Gateway, Edinburgh Building, Chester Road, Sunderland, SR1 3SD",
+          "code": ""
         }
       ],
       "options": [
@@ -300,87 +190,21 @@
       ]
     },
     {
-      "regions": "South West",
-      "accrediting": "Bath Spa University",
-      "subjects": "Languages, Secondary",
-      "ageRange": "Secondary (11+ years)",
-      "name": "Modern Languages",
-      "slug": "modern-languages",
-      "route": "School Direct training programme",
-      "qualifications": "QTS, Postgraduate",
-      "providerCode": "2BO",
-      "programmeCode": "2XMV",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "St John's Marlborough, Granham Hill, Marlborough, Wiltshire, SN8 4AX",
-          "code": "-"
-        }
-      ],
-      "options": [
-        "PGCE with QTS full time"
-      ]
-    },
-    {
-      "regions": "South West",
-      "accrediting": "Bath Spa University",
-      "subjects": "Music, Secondary",
-      "ageRange": "Secondary (11+ years)",
-      "name": "Music",
-      "slug": "music",
-      "route": "School Direct training programme",
-      "qualifications": "QTS, Postgraduate",
-      "providerCode": "2BO",
-      "programmeCode": "34SP",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "St John's Marlborough, Granham Hill, Marlborough, Wiltshire, SN8 4AX",
-          "code": "-"
-        }
-      ],
-      "options": [
-        "PGCE with QTS full time"
-      ]
-    },
-    {
-      "regions": "South West",
-      "accrediting": "Bath Spa University",
-      "subjects": "Physical education, Secondary",
-      "ageRange": "Secondary (11+ years)",
-      "name": "Physical Education",
-      "slug": "physical-education",
-      "route": "School Direct training programme",
-      "qualifications": "QTS, Postgraduate",
-      "providerCode": "2BO",
-      "programmeCode": "2XMT",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "St John's Marlborough, Granham Hill, Marlborough, Wiltshire, SN8 4AX",
-          "code": "-"
-        }
-      ],
-      "options": [
-        "PGCE with QTS full time"
-      ]
-    },
-    {
-      "regions": "South West",
-      "accrediting": "Bath Spa University",
+      "regions": "North East",
+      "accrediting": "University of Sunderland",
       "subjects": "Physics, Science, Secondary",
       "ageRange": "Secondary (11+ years)",
       "name": "Physics",
       "slug": "physics",
-      "route": "School Direct training programme",
+      "route": "Higher Education programme",
       "qualifications": "QTS, Postgraduate",
-      "providerCode": "2BO",
-      "programmeCode": "2XMQ",
+      "providerCode": "S84",
+      "programmeCode": "F3X1",
       "schools": [
         {
           "name": "Main Site",
-          "address": "St John's Marlborough, Granham Hill, Marlborough, Wiltshire, SN8 4AX",
-          "code": "-"
+          "address": "The Student Gateway, Edinburgh Building, Chester Road, Sunderland, SR1 3SD",
+          "code": ""
         }
       ],
       "options": [
@@ -388,65 +212,21 @@
       ]
     },
     {
-      "regions": "South West",
-      "accrediting": "Bath Spa University",
-      "subjects": "Primary",
-      "ageRange": "Primary (c3 - 11/12 years)",
-      "name": "Primary",
-      "slug": "primary",
-      "route": "School Direct training programme",
-      "qualifications": "QTS, Postgraduate",
-      "providerCode": "2BO",
-      "programmeCode": "2XMY",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "St John's Marlborough, Granham Hill, Marlborough, Wiltshire, SN8 4AX",
-          "code": "-"
-        }
-      ],
-      "options": [
-        "PGCE with QTS full time"
-      ]
-    },
-    {
-      "regions": "South West",
-      "accrediting": "University of Bristol",
-      "subjects": "Religious education, Secondary",
+      "regions": "North East",
+      "accrediting": "University of Sunderland",
+      "subjects": "Further education, Post-compulsory",
       "ageRange": "Secondary (11+ years)",
-      "name": "Religious Education",
-      "slug": "religious-education",
-      "route": "School Direct training programme",
-      "qualifications": "QTS, Postgraduate",
-      "providerCode": "2BO",
-      "programmeCode": "2XN4",
-      "schools": [
-        {
-          "name": "Fairfield High School",
-          "address": "Allfoxton Road, Horfield, Bristol, BS7 9NL",
-          "code": "F"
-        }
-      ],
-      "options": [
-        "PGCE with QTS full time"
-      ]
-    },
-    {
-      "regions": "South West",
-      "accrediting": "Bath Spa University",
-      "subjects": "Religious education, Secondary",
-      "ageRange": "Secondary (11+ years)",
-      "name": "Religious Education",
-      "slug": "religious-education",
-      "route": "School Direct training programme",
-      "qualifications": "QTS, Postgraduate",
-      "providerCode": "2BO",
-      "programmeCode": "34SL",
+      "name": "Post-Compulsory Education and Training",
+      "slug": "post-compulsory-education-and-training",
+      "route": "Higher Education programme",
+      "qualifications": "QTS, Professional",
+      "providerCode": "S84",
+      "programmeCode": "X341",
       "schools": [
         {
           "name": "Main Site",
-          "address": "St John's Marlborough, Granham Hill, Marlborough, Wiltshire, SN8 4AX",
-          "code": "-"
+          "address": "The Student Gateway, Edinburgh Building, Chester Road, Sunderland, SR1 3SD",
+          "code": ""
         }
       ],
       "options": [
@@ -456,48 +236,39 @@
   ],
   "schools": [
     {
-      "name": "Fairfield High School",
-      "address": "Allfoxton Road, Horfield, Bristol, BS7 9NL",
-      "code": "F"
-    },
-    {
       "name": "Main Site",
-      "address": "St John's Marlborough, Granham Hill, Marlborough, Wiltshire, SN8 4AX",
-      "code": "-"
+      "address": "The Student Gateway, Edinburgh Building, Chester Road, Sunderland, SR1 3SD",
+      "code": ""
     }
   ],
   "accreditors": [
     {
-      "name": "Bath Spa University",
-      "slug": "bath-spa-university",
+      "name": "University of Sunderland",
+      "slug": "university-of-sunderland",
       "subjects": [
-        {
-          "name": "Art and Design",
-          "slug": "art-and-design"
-        },
         {
           "name": "Biology",
           "slug": "biology"
+        },
+        {
+          "name": "Business Studies",
+          "slug": "business-studies"
         },
         {
           "name": "Chemistry",
           "slug": "chemistry"
         },
         {
-          "name": "Computing",
-          "slug": "computing"
-        },
-        {
-          "name": "Design and Technology",
-          "slug": "design-and-technology"
-        },
-        {
-          "name": "Drama",
-          "slug": "drama"
+          "name": "Computer Science",
+          "slug": "computer-science"
         },
         {
           "name": "English",
           "slug": "english"
+        },
+        {
+          "name": "General Primary",
+          "slug": "general-primary"
         },
         {
           "name": "Geography",
@@ -508,132 +279,66 @@
           "slug": "mathematics"
         },
         {
-          "name": "Modern Languages",
-          "slug": "modern-languages"
-        },
-        {
-          "name": "Music",
-          "slug": "music"
-        },
-        {
-          "name": "Physical Education",
-          "slug": "physical-education"
-        },
-        {
           "name": "Physics",
           "slug": "physics"
         },
         {
-          "name": "Primary",
-          "slug": "primary"
-        },
-        {
-          "name": "Religious Education",
-          "slug": "religious-education"
-        }
-      ]
-    },
-    {
-      "name": "University of Bristol",
-      "slug": "university-of-bristol",
-      "subjects": [
-        {
-          "name": "Biology",
-          "slug": "biology"
-        },
-        {
-          "name": "English",
-          "slug": "english"
-        },
-        {
-          "name": "Geography",
-          "slug": "geography"
-        },
-        {
-          "name": "History",
-          "slug": "history"
-        },
-        {
-          "name": "Religious Education",
-          "slug": "religious-education"
+          "name": "Post-Compulsory Education and Training",
+          "slug": "post-compulsory-education-and-training"
         }
       ]
     }
   ],
-  "self_accrediting": false,
+  "self_accrediting": true,
   "subjects": [
-    {
-      "name": "Art and Design",
-      "slug": "art-and-design"
-    },
     {
       "name": "Biology",
       "slug": "biology"
+    },
+    {
+      "name": "Business Studies",
+      "slug": "business-studies"
     },
     {
       "name": "Chemistry",
       "slug": "chemistry"
     },
     {
-      "name": "Computing",
-      "slug": "computing"
-    },
-    {
-      "name": "Design and Technology",
-      "slug": "design-and-technology"
-    },
-    {
-      "name": "Drama",
-      "slug": "drama"
+      "name": "Computer Science",
+      "slug": "computer-science"
     },
     {
       "name": "English",
       "slug": "english"
     },
     {
-      "name": "Geography",
-      "slug": "geography"
+      "name": "General Primary",
+      "slug": "general-primary"
     },
     {
-      "name": "History",
-      "slug": "history"
+      "name": "Geography",
+      "slug": "geography"
     },
     {
       "name": "Mathematics",
       "slug": "mathematics"
     },
     {
-      "name": "Modern Languages",
-      "slug": "modern-languages"
-    },
-    {
-      "name": "Music",
-      "slug": "music"
-    },
-    {
-      "name": "Physical Education",
-      "slug": "physical-education"
-    },
-    {
       "name": "Physics",
       "slug": "physics"
     },
     {
-      "name": "Primary",
-      "slug": "primary"
-    },
-    {
-      "name": "Religious Education",
-      "slug": "religious-education"
+      "name": "Post-Compulsory Education and Training",
+      "slug": "post-compulsory-education-and-training"
     }
   ],
   "folded_courses": {
-    "Bath Spa University": [
+    "University of Sunderland": [
       {
-        "name": "Art and Design",
+        "name": "Biology",
         "courses": 1,
         "accrediting": [
-          "Bath Spa University"
+          "University of Sunderland"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
@@ -651,10 +356,10 @@
         }
       },
       {
-        "name": "Biology",
+        "name": "Business Studies",
         "courses": 1,
         "accrediting": [
-          "Bath Spa University"
+          "University of Sunderland"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
@@ -675,7 +380,7 @@
         "name": "Chemistry",
         "courses": 1,
         "accrediting": [
-          "Bath Spa University"
+          "University of Sunderland"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
@@ -693,52 +398,10 @@
         }
       },
       {
-        "name": "Computing",
+        "name": "Computer Science",
         "courses": 1,
         "accrediting": [
-          "Bath Spa University"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Main Site"
-        ],
-        "options": [
-          "PGCE with QTS full time"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": false,
-          "qualifications": false
-        }
-      },
-      {
-        "name": "Design and Technology",
-        "courses": 1,
-        "accrediting": [
-          "Bath Spa University"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Main Site"
-        ],
-        "options": [
-          "PGCE with QTS full time"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": false,
-          "qualifications": false
-        }
-      },
-      {
-        "name": "Drama",
-        "courses": 1,
-        "accrediting": [
-          "Bath Spa University"
+          "University of Sunderland"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
@@ -759,7 +422,28 @@
         "name": "English",
         "courses": 1,
         "accrediting": [
-          "Bath Spa University"
+          "University of Sunderland"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Main Site"
+        ],
+        "options": [
+          "PGCE with QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "General Primary",
+        "courses": 1,
+        "accrediting": [
+          "University of Sunderland"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
@@ -780,7 +464,7 @@
         "name": "Geography",
         "courses": 1,
         "accrediting": [
-          "Bath Spa University"
+          "University of Sunderland"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
@@ -801,70 +485,7 @@
         "name": "Mathematics",
         "courses": 1,
         "accrediting": [
-          "Bath Spa University"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Main Site"
-        ],
-        "options": [
-          "PGCE with QTS full time"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": false,
-          "qualifications": false
-        }
-      },
-      {
-        "name": "Modern Languages",
-        "courses": 1,
-        "accrediting": [
-          "Bath Spa University"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Main Site"
-        ],
-        "options": [
-          "PGCE with QTS full time"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": false,
-          "qualifications": false
-        }
-      },
-      {
-        "name": "Music",
-        "courses": 1,
-        "accrediting": [
-          "Bath Spa University"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Main Site"
-        ],
-        "options": [
-          "PGCE with QTS full time"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": false,
-          "qualifications": false
-        }
-      },
-      {
-        "name": "Physical Education",
-        "courses": 1,
-        "accrediting": [
-          "Bath Spa University"
+          "University of Sunderland"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
@@ -885,7 +506,7 @@
         "name": "Physics",
         "courses": 1,
         "accrediting": [
-          "Bath Spa University"
+          "University of Sunderland"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
@@ -903,144 +524,16 @@
         }
       },
       {
-        "name": "Primary",
+        "name": "Post-Compulsory Education and Training",
         "courses": 1,
         "accrediting": [
-          "Bath Spa University"
+          "University of Sunderland"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
         ],
         "schoolsWithVacancies": [
           "Main Site"
-        ],
-        "options": [
-          "PGCE with QTS full time"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": false,
-          "qualifications": false
-        }
-      },
-      {
-        "name": "Religious Education",
-        "courses": 1,
-        "accrediting": [
-          "Bath Spa University"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Main Site"
-        ],
-        "options": [
-          "PGCE with QTS full time"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": false,
-          "qualifications": false
-        }
-      }
-    ],
-    "University of Bristol": [
-      {
-        "name": "Biology",
-        "courses": 1,
-        "accrediting": [
-          "University of Bristol"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Fairfield High School"
-        ],
-        "options": [
-          "PGCE with QTS full time"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": false,
-          "qualifications": false
-        }
-      },
-      {
-        "name": "English",
-        "courses": 1,
-        "accrediting": [
-          "University of Bristol"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Fairfield High School"
-        ],
-        "options": [
-          "PGCE with QTS full time"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": false,
-          "qualifications": false
-        }
-      },
-      {
-        "name": "Geography",
-        "courses": 1,
-        "accrediting": [
-          "University of Bristol"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Fairfield High School"
-        ],
-        "options": [
-          "PGCE with QTS full time"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": false,
-          "qualifications": false
-        }
-      },
-      {
-        "name": "History",
-        "courses": 1,
-        "accrediting": [
-          "University of Bristol"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Fairfield High School"
-        ],
-        "options": [
-          "PGCE with QTS full time"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": false,
-          "qualifications": false
-        }
-      },
-      {
-        "name": "Religious Education",
-        "courses": 1,
-        "accrediting": [
-          "University of Bristol"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Fairfield High School"
         ],
         "options": [
           "PGCE with QTS full time"
