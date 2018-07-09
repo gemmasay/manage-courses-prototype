@@ -10,6 +10,10 @@ router.get('/', function (req, res) {
   }
 })
 
+router.get('/courses', function (req, res) {
+  res.redirect('/organisation');
+})
+
 router.post('/request-access', function (req, res) {
   res.render('request-access', { showMessage: true })
 })

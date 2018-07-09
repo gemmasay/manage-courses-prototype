@@ -9,7 +9,7 @@ provider = 'Bromley Schools Collegiate'
 courses = data.select {|c| c['provider'] == provider }
 
 prototype_data = {
-  'multi-organisation': false,
+  'multi-organisation': true,
   'training-provider-name': provider,
   'provider-code-name': courses.first['providerCodeName'],
   'provider-code': courses.first['providerCode'],
