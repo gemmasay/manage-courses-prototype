@@ -1,8 +1,8 @@
 {
   "multi-organisation": true,
-  "training-provider-name": "Bromley Schools Collegiate",
-  "provider-code-name": "BROM",
-  "provider-code": "B91",
+  "training-provider-name": "Education Teaching Alliance Lewisham",
+  "provider-code-name": "A1579",
+  "provider-code": "1GA",
   "address-line-1": "123 Baker Street",
   "town": "London",
   "postcode": "SW1 1AA",
@@ -16,221 +16,108 @@
     {
       "regions": "London",
       "accrediting": "Bromley Schools Collegiate",
-      "subjects": "Computer studies, Secondary",
-      "ageRange": "Secondary (11+ years)",
-      "name": "Computer Science",
-      "slug": "computer-science",
-      "route": "SCITT (School Centred Initial Teacher Training) programme",
-      "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "B91",
-      "programmeCode": "IX99",
+      "subjects": "Primary",
+      "ageRange": "Primary (c3 - 11/12 years)",
+      "name": "Primary",
+      "slug": "primary",
+      "route": "School Direct training programme (salaried)",
+      "qualifications": "QTS",
+      "providerCode": "1GA",
+      "programmeCode": "2W22",
       "schools": [
         {
           "name": "Main Site",
-          "address": "Beaverwood School, Beaverwood Road, Chislehurst, Kent, BR7 6HE",
-          "code": ""
-        }
-      ],
-      "options": [
-        "PGCE with QTS full time"
-      ]
-    },
-    {
-      "regions": "London",
-      "accrediting": "Bromley Schools Collegiate",
-      "subjects": "Drama and theatre studies, Secondary",
-      "ageRange": "Secondary (11+ years)",
-      "name": "Drama",
-      "slug": "drama",
-      "route": "SCITT (School Centred Initial Teacher Training) programme",
-      "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "B91",
-      "programmeCode": "2YDF",
-      "schools": [
+          "address": "Honor Oak Road, London, SE23 3SB",
+          "code": "-"
+        },
         {
-          "name": "Main Site",
-          "address": "Beaverwood School, Beaverwood Road, Chislehurst, Kent, BR7 6HE",
-          "code": ""
-        }
-      ],
-      "options": [
-        "PGCE with QTS full time"
-      ]
-    },
-    {
-      "regions": "London",
-      "accrediting": "Bromley Schools Collegiate",
-      "subjects": "English, Secondary",
-      "ageRange": "Secondary (11+ years)",
-      "name": "English",
-      "slug": "english",
-      "route": "SCITT (School Centred Initial Teacher Training) programme",
-      "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "B91",
-      "programmeCode": "Q3X1",
-      "schools": [
+          "name": "Haseltine Primary School",
+          "address": "Haseltine Road, London, SE26 5AD",
+          "code": "1"
+        },
         {
-          "name": "Main Site",
-          "address": "Beaverwood School, Beaverwood Road, Chislehurst, Kent, BR7 6HE",
-          "code": ""
-        }
-      ],
-      "options": [
-        "PGCE with QTS full time"
-      ]
-    },
-    {
-      "regions": "London",
-      "accrediting": "Bromley Schools Collegiate",
-      "subjects": "Geography, Secondary",
-      "ageRange": "Secondary (11+ years)",
-      "name": "Geography",
-      "slug": "geography",
-      "route": "SCITT (School Centred Initial Teacher Training) programme",
-      "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "B91",
-      "programmeCode": "2YDH",
-      "schools": [
+          "name": "Kilmorie Primary School",
+          "address": "Kilmorie Road, London, SE23 2SP",
+          "code": "2"
+        },
         {
-          "name": "Main Site",
-          "address": "Beaverwood School, Beaverwood Road, Chislehurst, Kent, BR7 6HE",
-          "code": ""
-        }
-      ],
-      "options": [
-        "PGCE with QTS full time"
-      ]
-    },
-    {
-      "regions": "London",
-      "accrediting": "Bromley Schools Collegiate",
-      "subjects": "History, Secondary",
-      "ageRange": "Secondary (11+ years)",
-      "name": "History",
-      "slug": "history",
-      "route": "SCITT (School Centred Initial Teacher Training) programme",
-      "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "B91",
-      "programmeCode": "V1X1",
-      "schools": [
+          "name": "Stillness Junior School",
+          "address": "Brockely Rise, Forest Hill, SE23 1NH",
+          "code": "3"
+        },
         {
-          "name": "Main Site",
-          "address": "Beaverwood School, Beaverwood Road, Chislehurst, Kent, BR7 6HE",
-          "code": ""
-        }
-      ],
-      "options": [
-        "PGCE with QTS full time"
-      ]
-    },
-    {
-      "regions": "London",
-      "accrediting": "Bromley Schools Collegiate",
-      "subjects": "Mathematics, Secondary",
-      "ageRange": "Secondary (11+ years)",
-      "name": "Mathematics",
-      "slug": "mathematics",
-      "route": "SCITT (School Centred Initial Teacher Training) programme",
-      "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "B91",
-      "programmeCode": "G1X1",
-      "schools": [
+          "name": "St Augustines Catholic Primary School",
+          "address": "Dunfield Road, London, SE26 3RD",
+          "code": "4"
+        },
         {
-          "name": "Main Site",
-          "address": "Beaverwood School, Beaverwood Road, Chislehurst, Kent, BR7 6HE",
-          "code": ""
-        }
-      ],
-      "options": [
-        "PGCE with QTS full time"
-      ]
-    },
-    {
-      "regions": "London",
-      "accrediting": "Bromley Schools Collegiate",
-      "subjects": "Languages, Secondary",
-      "ageRange": "Secondary (11+ years)",
-      "name": "Modern Languages",
-      "slug": "modern-languages",
-      "route": "SCITT (School Centred Initial Teacher Training) programme",
-      "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "B91",
-      "programmeCode": "2YDJ",
-      "schools": [
+          "name": "Turnham Primary School",
+          "address": "Turnham Road, SE6 2HH",
+          "code": "6"
+        },
         {
-          "name": "Main Site",
-          "address": "Beaverwood School, Beaverwood Road, Chislehurst, Kent, BR7 6HE",
-          "code": ""
-        }
-      ],
-      "options": [
-        "PGCE with QTS full time"
-      ]
-    },
-    {
-      "regions": "London",
-      "accrediting": "Bromley Schools Collegiate",
-      "subjects": "Music, Secondary",
-      "ageRange": "Secondary (11+ years)",
-      "name": "Music",
-      "slug": "music",
-      "route": "SCITT (School Centred Initial Teacher Training) programme",
-      "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "B91",
-      "programmeCode": "2YDK",
-      "schools": [
+          "name": "James Dixon Primary",
+          "address": "William Booth Road, Anerley, SE20 8BW",
+          "code": "7"
+        },
         {
-          "name": "Main Site",
-          "address": "Beaverwood School, Beaverwood Road, Chislehurst, Kent, BR7 6HE",
-          "code": ""
-        }
-      ],
-      "options": [
-        "PGCE with QTS full time"
-      ]
-    },
-    {
-      "regions": "London",
-      "accrediting": "Bromley Schools Collegiate",
-      "subjects": "Physical education, Secondary",
-      "ageRange": "Secondary (11+ years)",
-      "name": "Physical Education",
-      "slug": "physical-education",
-      "route": "SCITT (School Centred Initial Teacher Training) programme",
-      "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "B91",
-      "programmeCode": "2YDL",
-      "schools": [
+          "name": "Athelney Primary School",
+          "address": "Athelney Street, London, SE6 3LD",
+          "code": "8"
+        },
         {
-          "name": "Main Site",
-          "address": "Beaverwood School, Beaverwood Road, Chislehurst, Kent, BR7 6HE",
-          "code": ""
-        }
-      ],
-      "options": [
-        "PGCE with QTS full time"
-      ]
-    },
-    {
-      "regions": "London",
-      "accrediting": "Bromley Schools Collegiate",
-      "subjects": "Physics, Science, Secondary",
-      "ageRange": "Secondary (11+ years)",
-      "name": "Physics",
-      "slug": "physics",
-      "route": "SCITT (School Centred Initial Teacher Training) programme",
-      "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "B91",
-      "programmeCode": "F3X1",
-      "schools": [
+          "name": "Elfrida Primary School",
+          "address": "Elfreida Crescent, London, SE6 3EN",
+          "code": "9"
+        },
         {
-          "name": "Main Site",
-          "address": "Beaverwood School, Beaverwood Road, Chislehurst, Kent, BR7 6HE",
-          "code": ""
+          "name": "Rathfern Primary School",
+          "address": "Rathfern Road, London, SE6 4NL",
+          "code": "A"
+        },
+        {
+          "name": "Grinling Gibbons Primary School",
+          "address": "Clyde Street, SE8 5LW",
+          "code": "C"
+        },
+        {
+          "name": "Lucas Vale Primary School",
+          "address": "St Nicholas Street, SE8 4QF",
+          "code": "D"
+        },
+        {
+          "name": "Beecroft Garden Primary",
+          "address": "Beecroft Road, SE4 2BS",
+          "code": "E"
+        },
+        {
+          "name": "Perrymount Primary",
+          "address": "Sunderland Road, SE23 2PX",
+          "code": "F"
+        },
+        {
+          "name": "Stillness Infants",
+          "address": "SE23 1NH",
+          "code": "G"
+        },
+        {
+          "name": "Childeric Primary School",
+          "address": "Childeric Road, SE14 6DG",
+          "code": "L"
+        },
+        {
+          "name": "St Winifred's Catholic Primary School",
+          "address": "Newstead Road, Lee Green, London, SE12 0SJ",
+          "code": "M"
+        },
+        {
+          "name": "St Bartholomews CE Primary School",
+          "address": "The Peak, Sydenham, London, SE26 4LJ",
+          "code": "N"
         }
       ],
       "options": [
-        "PGCE with QTS full time"
+        "QTS full time with salary"
       ]
     },
     {
@@ -238,51 +125,184 @@
       "accrediting": "Bromley Schools Collegiate",
       "subjects": "Primary",
       "ageRange": "Primary (c3 - 11/12 years)",
-      "name": "Primary (5-11)",
-      "slug": "primary-5-11",
-      "route": "SCITT (School Centred Initial Teacher Training) programme",
-      "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "B91",
-      "programmeCode": "X105",
+      "name": "Primary",
+      "slug": "primary",
+      "route": "School Direct training programme",
+      "qualifications": "QTS",
+      "providerCode": "1GA",
+      "programmeCode": "2X7B",
       "schools": [
         {
           "name": "Main Site",
-          "address": "Beaverwood School, Beaverwood Road, Chislehurst, Kent, BR7 6HE",
-          "code": ""
-        }
-      ],
-      "options": [
-        "PGCE with QTS full time"
-      ]
-    },
-    {
-      "regions": "London",
-      "accrediting": "Bromley Schools Collegiate",
-      "subjects": "Religious education, Secondary",
-      "ageRange": "Secondary (11+ years)",
-      "name": "Religious Education",
-      "slug": "religious-education",
-      "route": "SCITT (School Centred Initial Teacher Training) programme",
-      "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "B91",
-      "programmeCode": "33YX",
-      "schools": [
+          "address": "Honor Oak Road, London, SE23 3SB",
+          "code": "-"
+        },
         {
-          "name": "Main Site",
-          "address": "Beaverwood School, Beaverwood Road, Chislehurst, Kent, BR7 6HE",
-          "code": ""
+          "name": "Haseltine Primary School",
+          "address": "Haseltine Road, London, SE26 5AD",
+          "code": "1"
+        },
+        {
+          "name": "Kilmorie Primary School",
+          "address": "Kilmorie Road, London, SE23 2SP",
+          "code": "2"
+        },
+        {
+          "name": "Stillness Junior School",
+          "address": "Brockely Rise, Forest Hill, SE23 1NH",
+          "code": "3"
+        },
+        {
+          "name": "St Augustines Catholic Primary School",
+          "address": "Dunfield Road, London, SE26 3RD",
+          "code": "4"
+        },
+        {
+          "name": "Turnham Primary School",
+          "address": "Turnham Road, SE6 2HH",
+          "code": "6"
+        },
+        {
+          "name": "James Dixon Primary",
+          "address": "William Booth Road, Anerley, SE20 8BW",
+          "code": "7"
+        },
+        {
+          "name": "Athelney Primary School",
+          "address": "Athelney Street, London, SE6 3LD",
+          "code": "8"
+        },
+        {
+          "name": "Elfrida Primary School",
+          "address": "Elfreida Crescent, London, SE6 3EN",
+          "code": "9"
+        },
+        {
+          "name": "Rathfern Primary School",
+          "address": "Rathfern Road, London, SE6 4NL",
+          "code": "A"
+        },
+        {
+          "name": "Grinling Gibbons Primary School",
+          "address": "Clyde Street, SE8 5LW",
+          "code": "C"
+        },
+        {
+          "name": "Lucas Vale Primary School",
+          "address": "St Nicholas Street, SE8 4QF",
+          "code": "D"
+        },
+        {
+          "name": "Beecroft Garden Primary",
+          "address": "Beecroft Road, SE4 2BS",
+          "code": "E"
+        },
+        {
+          "name": "Perrymount Primary",
+          "address": "Sunderland Road, SE23 2PX",
+          "code": "F"
+        },
+        {
+          "name": "Stillness Infants",
+          "address": "SE23 1NH",
+          "code": "G"
         }
       ],
       "options": [
-        "PGCE with QTS full time"
+        "QTS full time"
       ]
     }
   ],
   "schools": [
     {
+      "name": "Athelney Primary School",
+      "address": "Athelney Street, London, SE6 3LD",
+      "code": "8"
+    },
+    {
+      "name": "Beecroft Garden Primary",
+      "address": "Beecroft Road, SE4 2BS",
+      "code": "E"
+    },
+    {
+      "name": "Childeric Primary School",
+      "address": "Childeric Road, SE14 6DG",
+      "code": "L"
+    },
+    {
+      "name": "Elfrida Primary School",
+      "address": "Elfreida Crescent, London, SE6 3EN",
+      "code": "9"
+    },
+    {
+      "name": "Grinling Gibbons Primary School",
+      "address": "Clyde Street, SE8 5LW",
+      "code": "C"
+    },
+    {
+      "name": "Haseltine Primary School",
+      "address": "Haseltine Road, London, SE26 5AD",
+      "code": "1"
+    },
+    {
+      "name": "James Dixon Primary",
+      "address": "William Booth Road, Anerley, SE20 8BW",
+      "code": "7"
+    },
+    {
+      "name": "Kilmorie Primary School",
+      "address": "Kilmorie Road, London, SE23 2SP",
+      "code": "2"
+    },
+    {
+      "name": "Lucas Vale Primary School",
+      "address": "St Nicholas Street, SE8 4QF",
+      "code": "D"
+    },
+    {
       "name": "Main Site",
-      "address": "Beaverwood School, Beaverwood Road, Chislehurst, Kent, BR7 6HE",
-      "code": ""
+      "address": "Honor Oak Road, London, SE23 3SB",
+      "code": "-"
+    },
+    {
+      "name": "Perrymount Primary",
+      "address": "Sunderland Road, SE23 2PX",
+      "code": "F"
+    },
+    {
+      "name": "Rathfern Primary School",
+      "address": "Rathfern Road, London, SE6 4NL",
+      "code": "A"
+    },
+    {
+      "name": "St Augustines Catholic Primary School",
+      "address": "Dunfield Road, London, SE26 3RD",
+      "code": "4"
+    },
+    {
+      "name": "St Bartholomews CE Primary School",
+      "address": "The Peak, Sydenham, London, SE26 4LJ",
+      "code": "N"
+    },
+    {
+      "name": "St Winifred's Catholic Primary School",
+      "address": "Newstead Road, Lee Green, London, SE12 0SJ",
+      "code": "M"
+    },
+    {
+      "name": "Stillness Infants",
+      "address": "SE23 1NH",
+      "code": "G"
+    },
+    {
+      "name": "Stillness Junior School",
+      "address": "Brockely Rise, Forest Hill, SE23 1NH",
+      "code": "3"
+    },
+    {
+      "name": "Turnham Primary School",
+      "address": "Turnham Road, SE6 2HH",
+      "code": "6"
     }
   ],
   "accreditors": [
@@ -291,364 +311,66 @@
       "slug": "bromley-schools-collegiate",
       "subjects": [
         {
-          "name": "Computer Science",
-          "slug": "computer-science"
-        },
-        {
-          "name": "Drama",
-          "slug": "drama"
-        },
-        {
-          "name": "English",
-          "slug": "english"
-        },
-        {
-          "name": "Geography",
-          "slug": "geography"
-        },
-        {
-          "name": "History",
-          "slug": "history"
-        },
-        {
-          "name": "Mathematics",
-          "slug": "mathematics"
-        },
-        {
-          "name": "Modern Languages",
-          "slug": "modern-languages"
-        },
-        {
-          "name": "Music",
-          "slug": "music"
-        },
-        {
-          "name": "Physical Education",
-          "slug": "physical-education"
-        },
-        {
-          "name": "Physics",
-          "slug": "physics"
-        },
-        {
-          "name": "Primary (5-11)",
-          "slug": "primary-5-11"
-        },
-        {
-          "name": "Religious Education",
-          "slug": "religious-education"
+          "name": "Primary",
+          "slug": "primary"
         }
       ]
     }
   ],
-  "self_accrediting": true,
+  "self_accrediting": false,
   "subjects": [
     {
-      "name": "Computer Science",
-      "slug": "computer-science"
-    },
-    {
-      "name": "Drama",
-      "slug": "drama"
-    },
-    {
-      "name": "English",
-      "slug": "english"
-    },
-    {
-      "name": "Geography",
-      "slug": "geography"
-    },
-    {
-      "name": "History",
-      "slug": "history"
-    },
-    {
-      "name": "Mathematics",
-      "slug": "mathematics"
-    },
-    {
-      "name": "Modern Languages",
-      "slug": "modern-languages"
-    },
-    {
-      "name": "Music",
-      "slug": "music"
-    },
-    {
-      "name": "Physical Education",
-      "slug": "physical-education"
-    },
-    {
-      "name": "Physics",
-      "slug": "physics"
-    },
-    {
-      "name": "Primary (5-11)",
-      "slug": "primary-5-11"
-    },
-    {
-      "name": "Religious Education",
-      "slug": "religious-education"
+      "name": "Primary",
+      "slug": "primary"
     }
   ],
   "folded_courses": {
     "Bromley Schools Collegiate": [
       {
-        "name": "Computer Science",
-        "courses": 1,
+        "name": "Primary",
+        "courses": 2,
         "accrediting": [
           "Bromley Schools Collegiate"
         ],
         "applicationsOpen": [
-          "26 Oct 2017"
+          "26 Oct 2017",
+          "07 Dec 2017",
+          "17 Nov 2017"
         ],
         "schoolsWithVacancies": [
-          "Main Site"
+          "Athelney Primary School",
+          "Beecroft Garden Primary",
+          "Childeric Primary School",
+          "Elfrida Primary School",
+          "Grinling Gibbons Primary School",
+          "Haseltine Primary School",
+          "James Dixon Primary",
+          "Kilmorie Primary School",
+          "Lucas Vale Primary School",
+          "Main Site",
+          "Perrymount Primary",
+          "Rathfern Primary School",
+          "St Augustines Catholic Primary School",
+          "St Bartholomews CE Primary School",
+          "St Winifred's Catholic Primary School",
+          "Stillness Infants",
+          "Stillness Junior School",
+          "Turnham Primary School"
         ],
         "options": [
-          "PGCE with QTS full time"
+          "QTS full time",
+          "QTS full time with salary"
         ],
         "flags": {
           "partTime": false,
-          "salary": false,
-          "qualifications": false
-        }
-      },
-      {
-        "name": "Drama",
-        "courses": 1,
-        "accrediting": [
-          "Bromley Schools Collegiate"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Main Site"
-        ],
-        "options": [
-          "PGCE with QTS full time"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": false,
-          "qualifications": false
-        }
-      },
-      {
-        "name": "English",
-        "courses": 1,
-        "accrediting": [
-          "Bromley Schools Collegiate"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Main Site"
-        ],
-        "options": [
-          "PGCE with QTS full time"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": false,
-          "qualifications": false
-        }
-      },
-      {
-        "name": "Geography",
-        "courses": 1,
-        "accrediting": [
-          "Bromley Schools Collegiate"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Main Site"
-        ],
-        "options": [
-          "PGCE with QTS full time"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": false,
-          "qualifications": false
-        }
-      },
-      {
-        "name": "History",
-        "courses": 1,
-        "accrediting": [
-          "Bromley Schools Collegiate"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Main Site"
-        ],
-        "options": [
-          "PGCE with QTS full time"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": false,
-          "qualifications": false
-        }
-      },
-      {
-        "name": "Mathematics",
-        "courses": 1,
-        "accrediting": [
-          "Bromley Schools Collegiate"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Main Site"
-        ],
-        "options": [
-          "PGCE with QTS full time"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": false,
-          "qualifications": false
-        }
-      },
-      {
-        "name": "Modern Languages",
-        "courses": 1,
-        "accrediting": [
-          "Bromley Schools Collegiate"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Main Site"
-        ],
-        "options": [
-          "PGCE with QTS full time"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": false,
-          "qualifications": false
-        }
-      },
-      {
-        "name": "Music",
-        "courses": 1,
-        "accrediting": [
-          "Bromley Schools Collegiate"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Main Site"
-        ],
-        "options": [
-          "PGCE with QTS full time"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": false,
-          "qualifications": false
-        }
-      },
-      {
-        "name": "Physical Education",
-        "courses": 1,
-        "accrediting": [
-          "Bromley Schools Collegiate"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Main Site"
-        ],
-        "options": [
-          "PGCE with QTS full time"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": false,
-          "qualifications": false
-        }
-      },
-      {
-        "name": "Physics",
-        "courses": 1,
-        "accrediting": [
-          "Bromley Schools Collegiate"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Main Site"
-        ],
-        "options": [
-          "PGCE with QTS full time"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": false,
-          "qualifications": false
-        }
-      },
-      {
-        "name": "Primary (5-11)",
-        "courses": 1,
-        "accrediting": [
-          "Bromley Schools Collegiate"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Main Site"
-        ],
-        "options": [
-          "PGCE with QTS full time"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": false,
-          "qualifications": false
-        }
-      },
-      {
-        "name": "Religious Education",
-        "courses": 1,
-        "accrediting": [
-          "Bromley Schools Collegiate"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Main Site"
-        ],
-        "options": [
-          "PGCE with QTS full time"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": false,
+          "salary": true,
           "qualifications": false
         }
       }
     ]
   },
   "options": [
-    "PGCE with QTS full time"
+    "QTS full time with salary",
+    "QTS full time"
   ]
 }
