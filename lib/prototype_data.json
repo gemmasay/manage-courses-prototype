@@ -1,8 +1,8 @@
 {
   "multi-organisation": false,
-  "training-provider-name": "The University of Reading",
-  "provider-code-name": "READG",
-  "provider-code": "R12",
+  "training-provider-name": "Excalibur TSA",
+  "provider-code-name": "A2591",
+  "provider-code": "2BO",
   "address-line-1": "123 Baker Street",
   "town": "London",
   "postcode": "SW1 1AA",
@@ -14,21 +14,21 @@
   ],
   "ucasCourses": [
     {
-      "regions": "South East",
-      "accrediting": "The University of Reading",
+      "regions": "South West",
+      "accrediting": "Bath Spa University",
       "subjects": "Art / art & design, Secondary",
       "ageRange": "Secondary (11+ years)",
       "name": "Art and Design",
       "slug": "art-and-design",
-      "route": "Higher Education programme",
+      "route": "School Direct training programme",
       "qualifications": "QTS, Postgraduate",
-      "providerCode": "R12",
-      "programmeCode": "W1X1",
+      "providerCode": "2BO",
+      "programmeCode": "34SR",
       "schools": [
         {
           "name": "Main Site",
-          "address": "",
-          "code": ""
+          "address": "St John's Marlborough, Granham Hill, Marlborough, Wiltshire, SN8 4AX",
+          "code": "-"
         }
       ],
       "options": [
@@ -36,21 +36,87 @@
       ]
     },
     {
-      "regions": "South East",
-      "accrediting": "The University of Reading",
+      "regions": "South West",
+      "accrediting": "Bath Spa University",
+      "subjects": "Biology, Science, Secondary",
+      "ageRange": "Secondary (11+ years)",
+      "name": "Biology",
+      "slug": "biology",
+      "route": "School Direct training programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "2BO",
+      "programmeCode": "2XMS",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "St John's Marlborough, Granham Hill, Marlborough, Wiltshire, SN8 4AX",
+          "code": "-"
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "South West",
+      "accrediting": "University of Bristol",
+      "subjects": "Biology, Science, Secondary",
+      "ageRange": "Secondary (11+ years)",
+      "name": "Biology",
+      "slug": "biology",
+      "route": "School Direct training programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "2BO",
+      "programmeCode": "2XN2",
+      "schools": [
+        {
+          "name": "Fairfield High School",
+          "address": "Allfoxton Road, Horfield, Bristol, BS7 9NL",
+          "code": "F"
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "South West",
+      "accrediting": "Bath Spa University",
+      "subjects": "Chemistry, Science, Secondary",
+      "ageRange": "Secondary (11+ years)",
+      "name": "Chemistry",
+      "slug": "chemistry",
+      "route": "School Direct training programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "2BO",
+      "programmeCode": "2XMR",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "St John's Marlborough, Granham Hill, Marlborough, Wiltshire, SN8 4AX",
+          "code": "-"
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "South West",
+      "accrediting": "Bath Spa University",
       "subjects": "Computer studies, Secondary",
       "ageRange": "Secondary (11+ years)",
-      "name": "Computer Science",
-      "slug": "computer-science",
-      "route": "Higher Education programme",
+      "name": "Computing",
+      "slug": "computing",
+      "route": "School Direct training programme",
       "qualifications": "QTS, Postgraduate",
-      "providerCode": "R12",
-      "programmeCode": "IX99",
+      "providerCode": "2BO",
+      "programmeCode": "34SM",
       "schools": [
         {
           "name": "Main Site",
-          "address": "",
-          "code": ""
+          "address": "St John's Marlborough, Granham Hill, Marlborough, Wiltshire, SN8 4AX",
+          "code": "-"
         }
       ],
       "options": [
@@ -58,21 +124,21 @@
       ]
     },
     {
-      "regions": "South East",
-      "accrediting": "The University of Reading",
-      "subjects": "Design and technology, Design and technology (food), Design and technology (product design), Design and technology (systems and control), Design and technology (textiles), Secondary",
+      "regions": "South West",
+      "accrediting": "Bath Spa University",
+      "subjects": "Design and technology, Secondary",
       "ageRange": "Secondary (11+ years)",
       "name": "Design and Technology",
       "slug": "design-and-technology",
-      "route": "Higher Education programme",
+      "route": "School Direct training programme",
       "qualifications": "QTS, Postgraduate",
-      "providerCode": "R12",
-      "programmeCode": "2LYQ",
+      "providerCode": "2BO",
+      "programmeCode": "34SN",
       "schools": [
         {
           "name": "Main Site",
-          "address": "",
-          "code": ""
+          "address": "St John's Marlborough, Granham Hill, Marlborough, Wiltshire, SN8 4AX",
+          "code": "-"
         }
       ],
       "options": [
@@ -80,21 +146,21 @@
       ]
     },
     {
-      "regions": "South East",
-      "accrediting": "The University of Reading",
+      "regions": "South West",
+      "accrediting": "Bath Spa University",
       "subjects": "Drama and theatre studies, Secondary",
       "ageRange": "Secondary (11+ years)",
       "name": "Drama",
       "slug": "drama",
-      "route": "Higher Education programme",
+      "route": "School Direct training programme",
       "qualifications": "QTS, Postgraduate",
-      "providerCode": "R12",
-      "programmeCode": "W4X1",
+      "providerCode": "2BO",
+      "programmeCode": "34SQ",
       "schools": [
         {
           "name": "Main Site",
-          "address": "",
-          "code": ""
+          "address": "St John's Marlborough, Granham Hill, Marlborough, Wiltshire, SN8 4AX",
+          "code": "-"
         }
       ],
       "options": [
@@ -102,21 +168,21 @@
       ]
     },
     {
-      "regions": "South East",
-      "accrediting": "The University of Reading",
+      "regions": "South West",
+      "accrediting": "Bath Spa University",
       "subjects": "English, Secondary",
       "ageRange": "Secondary (11+ years)",
       "name": "English",
       "slug": "english",
-      "route": "Higher Education programme",
+      "route": "School Direct training programme",
       "qualifications": "QTS, Postgraduate",
-      "providerCode": "R12",
-      "programmeCode": "Q3X1",
+      "providerCode": "2BO",
+      "programmeCode": "2XMX",
       "schools": [
         {
           "name": "Main Site",
-          "address": "",
-          "code": ""
+          "address": "St John's Marlborough, Granham Hill, Marlborough, Wiltshire, SN8 4AX",
+          "code": "-"
         }
       ],
       "options": [
@@ -124,21 +190,43 @@
       ]
     },
     {
-      "regions": "South East",
-      "accrediting": "The University of Reading",
+      "regions": "South West",
+      "accrediting": "University of Bristol",
+      "subjects": "English, Secondary",
+      "ageRange": "Secondary (11+ years)",
+      "name": "English",
+      "slug": "english",
+      "route": "School Direct training programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "2BO",
+      "programmeCode": "2XN6",
+      "schools": [
+        {
+          "name": "Fairfield High School",
+          "address": "Allfoxton Road, Horfield, Bristol, BS7 9NL",
+          "code": "F"
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "South West",
+      "accrediting": "Bath Spa University",
       "subjects": "Geography, Secondary",
       "ageRange": "Secondary (11+ years)",
       "name": "Geography",
       "slug": "geography",
-      "route": "Higher Education programme",
-      "qualifications": "QTS, Professional",
-      "providerCode": "R12",
-      "programmeCode": "2SZ2",
+      "route": "School Direct training programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "2BO",
+      "programmeCode": "2XHT",
       "schools": [
         {
           "name": "Main Site",
-          "address": "",
-          "code": ""
+          "address": "St John's Marlborough, Granham Hill, Marlborough, Wiltshire, SN8 4AX",
+          "code": "-"
         }
       ],
       "options": [
@@ -146,21 +234,43 @@
       ]
     },
     {
-      "regions": "South East",
-      "accrediting": "The University of Reading",
+      "regions": "South West",
+      "accrediting": "University of Bristol",
+      "subjects": "Geography, Secondary",
+      "ageRange": "Secondary (11+ years)",
+      "name": "Geography",
+      "slug": "geography",
+      "route": "School Direct training programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "2BO",
+      "programmeCode": "2XN5",
+      "schools": [
+        {
+          "name": "Fairfield High School",
+          "address": "Allfoxton Road, Horfield, Bristol, BS7 9NL",
+          "code": "F"
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "South West",
+      "accrediting": "University of Bristol",
       "subjects": "History, Secondary",
       "ageRange": "Secondary (11+ years)",
       "name": "History",
       "slug": "history",
-      "route": "Higher Education programme",
+      "route": "School Direct training programme",
       "qualifications": "QTS, Postgraduate",
-      "providerCode": "R12",
-      "programmeCode": "V1X1",
+      "providerCode": "2BO",
+      "programmeCode": "2XN3",
       "schools": [
         {
-          "name": "Main Site",
-          "address": "",
-          "code": ""
+          "name": "Fairfield High School",
+          "address": "Allfoxton Road, Horfield, Bristol, BS7 9NL",
+          "code": "F"
         }
       ],
       "options": [
@@ -168,21 +278,21 @@
       ]
     },
     {
-      "regions": "South East",
-      "accrediting": "The University of Reading",
+      "regions": "South West",
+      "accrediting": "Bath Spa University",
       "subjects": "Mathematics, Secondary",
       "ageRange": "Secondary (11+ years)",
       "name": "Mathematics",
       "slug": "mathematics",
-      "route": "Higher Education programme",
+      "route": "School Direct training programme",
       "qualifications": "QTS, Postgraduate",
-      "providerCode": "R12",
-      "programmeCode": "G1X1",
+      "providerCode": "2BO",
+      "programmeCode": "2XMW",
       "schools": [
         {
           "name": "Main Site",
-          "address": "",
-          "code": ""
+          "address": "St John's Marlborough, Granham Hill, Marlborough, Wiltshire, SN8 4AX",
+          "code": "-"
         }
       ],
       "options": [
@@ -190,21 +300,21 @@
       ]
     },
     {
-      "regions": "South East",
-      "accrediting": "The University of Reading",
-      "subjects": "French, Languages, Languages (european), Secondary",
+      "regions": "South West",
+      "accrediting": "Bath Spa University",
+      "subjects": "Languages, Secondary",
       "ageRange": "Secondary (11+ years)",
-      "name": "Modern Languages (French)",
-      "slug": "modern-languages-french",
-      "route": "Higher Education programme",
+      "name": "Modern Languages",
+      "slug": "modern-languages",
+      "route": "School Direct training programme",
       "qualifications": "QTS, Postgraduate",
-      "providerCode": "R12",
-      "programmeCode": "R1X1",
+      "providerCode": "2BO",
+      "programmeCode": "2XMV",
       "schools": [
         {
           "name": "Main Site",
-          "address": "",
-          "code": ""
+          "address": "St John's Marlborough, Granham Hill, Marlborough, Wiltshire, SN8 4AX",
+          "code": "-"
         }
       ],
       "options": [
@@ -212,65 +322,21 @@
       ]
     },
     {
-      "regions": "South East",
-      "accrediting": "The University of Reading",
-      "subjects": "German, Languages, Languages (european), Secondary",
-      "ageRange": "Secondary (11+ years)",
-      "name": "Modern Languages (German)",
-      "slug": "modern-languages-german",
-      "route": "Higher Education programme",
-      "qualifications": "QTS, Postgraduate",
-      "providerCode": "R12",
-      "programmeCode": "R2X1",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "",
-          "code": ""
-        }
-      ],
-      "options": [
-        "PGCE with QTS full time"
-      ]
-    },
-    {
-      "regions": "South East",
-      "accrediting": "The University of Reading",
-      "subjects": "Languages, Languages (european), Secondary, Spanish",
-      "ageRange": "Secondary (11+ years)",
-      "name": "Modern Languages (Spanish)",
-      "slug": "modern-languages-spanish",
-      "route": "Higher Education programme",
-      "qualifications": "QTS, Postgraduate",
-      "providerCode": "R12",
-      "programmeCode": "R4X1",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "",
-          "code": ""
-        }
-      ],
-      "options": [
-        "PGCE with QTS full time"
-      ]
-    },
-    {
-      "regions": "South East",
-      "accrediting": "The University of Reading",
+      "regions": "South West",
+      "accrediting": "Bath Spa University",
       "subjects": "Music, Secondary",
       "ageRange": "Secondary (11+ years)",
       "name": "Music",
       "slug": "music",
-      "route": "Higher Education programme",
+      "route": "School Direct training programme",
       "qualifications": "QTS, Postgraduate",
-      "providerCode": "R12",
-      "programmeCode": "W3X1",
+      "providerCode": "2BO",
+      "programmeCode": "34SP",
       "schools": [
         {
           "name": "Main Site",
-          "address": "",
-          "code": ""
+          "address": "St John's Marlborough, Granham Hill, Marlborough, Wiltshire, SN8 4AX",
+          "code": "-"
         }
       ],
       "options": [
@@ -278,21 +344,21 @@
       ]
     },
     {
-      "regions": "South East",
-      "accrediting": "The University of Reading",
+      "regions": "South West",
+      "accrediting": "Bath Spa University",
       "subjects": "Physical education, Secondary",
       "ageRange": "Secondary (11+ years)",
       "name": "Physical Education",
       "slug": "physical-education",
-      "route": "Higher Education programme",
+      "route": "School Direct training programme",
       "qualifications": "QTS, Postgraduate",
-      "providerCode": "R12",
-      "programmeCode": "X9C6",
+      "providerCode": "2BO",
+      "programmeCode": "2XMT",
       "schools": [
         {
           "name": "Main Site",
-          "address": "",
-          "code": ""
+          "address": "St John's Marlborough, Granham Hill, Marlborough, Wiltshire, SN8 4AX",
+          "code": "-"
         }
       ],
       "options": [
@@ -300,21 +366,21 @@
       ]
     },
     {
-      "regions": "South East",
-      "accrediting": "The University of Reading",
-      "subjects": "Mathematics, Physics, Science, Secondary",
+      "regions": "South West",
+      "accrediting": "Bath Spa University",
+      "subjects": "Physics, Science, Secondary",
       "ageRange": "Secondary (11+ years)",
-      "name": "Physics with Mathematics",
-      "slug": "physics-with-mathematics",
-      "route": "Higher Education programme",
+      "name": "Physics",
+      "slug": "physics",
+      "route": "School Direct training programme",
       "qualifications": "QTS, Postgraduate",
-      "providerCode": "R12",
-      "programmeCode": "F3GX",
+      "providerCode": "2BO",
+      "programmeCode": "2XMQ",
       "schools": [
         {
           "name": "Main Site",
-          "address": "",
-          "code": ""
+          "address": "St John's Marlborough, Granham Hill, Marlborough, Wiltshire, SN8 4AX",
+          "code": "-"
         }
       ],
       "options": [
@@ -322,21 +388,21 @@
       ]
     },
     {
-      "regions": "South East",
-      "accrediting": "The University of Reading",
+      "regions": "South West",
+      "accrediting": "Bath Spa University",
       "subjects": "Primary",
       "ageRange": "Primary (c3 - 11/12 years)",
       "name": "Primary",
       "slug": "primary",
-      "route": "Higher Education programme",
+      "route": "School Direct training programme",
       "qualifications": "QTS, Postgraduate",
-      "providerCode": "R12",
-      "programmeCode": "X100",
+      "providerCode": "2BO",
+      "programmeCode": "2XMY",
       "schools": [
         {
           "name": "Main Site",
-          "address": "",
-          "code": ""
+          "address": "St John's Marlborough, Granham Hill, Marlborough, Wiltshire, SN8 4AX",
+          "code": "-"
         }
       ],
       "options": [
@@ -344,109 +410,21 @@
       ]
     },
     {
-      "regions": "South East",
-      "accrediting": "The University of Reading",
-      "subjects": "Early years, Primary",
-      "ageRange": "Primary (c3 - 11/12 years)",
-      "name": "Primary (Early Years)",
-      "slug": "primary-early-years",
-      "route": "Higher Education programme",
-      "qualifications": "QTS, Postgraduate",
-      "providerCode": "R12",
-      "programmeCode": "X121",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "",
-          "code": ""
-        }
-      ],
-      "options": [
-        "PGCE with QTS full time"
-      ]
-    },
-    {
-      "regions": "South East",
-      "accrediting": "The University of Reading",
-      "subjects": "Languages, Primary",
-      "ageRange": "Primary (c3 - 11/12 years)",
-      "name": "Primary with Leadership in Foreign Languages",
-      "slug": "primary-with-leadership-in-foreign-languages",
-      "route": "Higher Education programme",
-      "qualifications": "QTS, Postgraduate",
-      "providerCode": "R12",
-      "programmeCode": "2VD6",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "",
-          "code": ""
-        }
-      ],
-      "options": [
-        "PGCE with QTS full time"
-      ]
-    },
-    {
-      "regions": "South East",
-      "accrediting": "The University of Reading",
-      "subjects": "Mathematics, Primary",
-      "ageRange": "Primary (c3 - 11/12 years)",
-      "name": "Primary with Mathematics",
-      "slug": "primary-with-mathematics",
-      "route": "Higher Education programme",
-      "qualifications": "QTS, Postgraduate",
-      "providerCode": "R12",
-      "programmeCode": "2V3Z",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "",
-          "code": ""
-        }
-      ],
-      "options": [
-        "PGCE with QTS full time"
-      ]
-    },
-    {
-      "regions": "South East",
-      "accrediting": "The University of Reading",
-      "subjects": "Primary, Special educational needs",
-      "ageRange": "Primary (c3 - 11/12 years)",
-      "name": "Primary with Special Education Needs",
-      "slug": "primary-with-special-education-needs",
-      "route": "Higher Education programme",
-      "qualifications": "QTS, Postgraduate",
-      "providerCode": "R12",
-      "programmeCode": "2VD7",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "",
-          "code": ""
-        }
-      ],
-      "options": [
-        "PGCE with QTS full time"
-      ]
-    },
-    {
-      "regions": "South East",
-      "accrediting": "The University of Reading",
-      "subjects": "Biology, Science, Secondary",
+      "regions": "South West",
+      "accrediting": "University of Bristol",
+      "subjects": "Religious education, Secondary",
       "ageRange": "Secondary (11+ years)",
-      "name": "Science with Biology",
-      "slug": "science-with-biology",
-      "route": "Higher Education programme",
+      "name": "Religious Education",
+      "slug": "religious-education",
+      "route": "School Direct training programme",
       "qualifications": "QTS, Postgraduate",
-      "providerCode": "R12",
-      "programmeCode": "C1X1",
+      "providerCode": "2BO",
+      "programmeCode": "2XN4",
       "schools": [
         {
-          "name": "Main Site",
-          "address": "",
-          "code": ""
+          "name": "Fairfield High School",
+          "address": "Allfoxton Road, Horfield, Bristol, BS7 9NL",
+          "code": "F"
         }
       ],
       "options": [
@@ -454,43 +432,21 @@
       ]
     },
     {
-      "regions": "South East",
-      "accrediting": "The University of Reading",
-      "subjects": "Chemistry, Science, Secondary",
+      "regions": "South West",
+      "accrediting": "Bath Spa University",
+      "subjects": "Religious education, Secondary",
       "ageRange": "Secondary (11+ years)",
-      "name": "Science with Chemistry",
-      "slug": "science-with-chemistry",
-      "route": "Higher Education programme",
+      "name": "Religious Education",
+      "slug": "religious-education",
+      "route": "School Direct training programme",
       "qualifications": "QTS, Postgraduate",
-      "providerCode": "R12",
-      "programmeCode": "F1X1",
+      "providerCode": "2BO",
+      "programmeCode": "34SL",
       "schools": [
         {
           "name": "Main Site",
-          "address": "",
-          "code": ""
-        }
-      ],
-      "options": [
-        "PGCE with QTS full time"
-      ]
-    },
-    {
-      "regions": "South East",
-      "accrediting": "The University of Reading",
-      "subjects": "Physics, Science, Secondary",
-      "ageRange": "Secondary (11+ years)",
-      "name": "Science with Physics",
-      "slug": "science-with-physics",
-      "route": "Higher Education programme",
-      "qualifications": "QTS, Postgraduate",
-      "providerCode": "R12",
-      "programmeCode": "F3X1",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "",
-          "code": ""
+          "address": "St John's Marlborough, Granham Hill, Marlborough, Wiltshire, SN8 4AX",
+          "code": "-"
         }
       ],
       "options": [
@@ -500,23 +456,36 @@
   ],
   "schools": [
     {
+      "name": "Fairfield High School",
+      "address": "Allfoxton Road, Horfield, Bristol, BS7 9NL",
+      "code": "F"
+    },
+    {
       "name": "Main Site",
-      "address": "",
-      "code": ""
+      "address": "St John's Marlborough, Granham Hill, Marlborough, Wiltshire, SN8 4AX",
+      "code": "-"
     }
   ],
   "accreditors": [
     {
-      "name": "The University of Reading",
-      "slug": "the-university-of-reading",
+      "name": "Bath Spa University",
+      "slug": "bath-spa-university",
       "subjects": [
         {
           "name": "Art and Design",
           "slug": "art-and-design"
         },
         {
-          "name": "Computer Science",
-          "slug": "computer-science"
+          "name": "Biology",
+          "slug": "biology"
+        },
+        {
+          "name": "Chemistry",
+          "slug": "chemistry"
+        },
+        {
+          "name": "Computing",
+          "slug": "computing"
         },
         {
           "name": "Design and Technology",
@@ -535,24 +504,12 @@
           "slug": "geography"
         },
         {
-          "name": "History",
-          "slug": "history"
-        },
-        {
           "name": "Mathematics",
           "slug": "mathematics"
         },
         {
-          "name": "Modern Languages (French)",
-          "slug": "modern-languages-french"
-        },
-        {
-          "name": "Modern Languages (German)",
-          "slug": "modern-languages-german"
-        },
-        {
-          "name": "Modern Languages (Spanish)",
-          "slug": "modern-languages-spanish"
+          "name": "Modern Languages",
+          "slug": "modern-languages"
         },
         {
           "name": "Music",
@@ -563,53 +520,63 @@
           "slug": "physical-education"
         },
         {
-          "name": "Physics with Mathematics",
-          "slug": "physics-with-mathematics"
+          "name": "Physics",
+          "slug": "physics"
         },
         {
           "name": "Primary",
           "slug": "primary"
         },
         {
-          "name": "Primary (Early Years)",
-          "slug": "primary-early-years"
+          "name": "Religious Education",
+          "slug": "religious-education"
+        }
+      ]
+    },
+    {
+      "name": "University of Bristol",
+      "slug": "university-of-bristol",
+      "subjects": [
+        {
+          "name": "Biology",
+          "slug": "biology"
         },
         {
-          "name": "Primary with Leadership in Foreign Languages",
-          "slug": "primary-with-leadership-in-foreign-languages"
+          "name": "English",
+          "slug": "english"
         },
         {
-          "name": "Primary with Mathematics",
-          "slug": "primary-with-mathematics"
+          "name": "Geography",
+          "slug": "geography"
         },
         {
-          "name": "Primary with Special Education Needs",
-          "slug": "primary-with-special-education-needs"
+          "name": "History",
+          "slug": "history"
         },
         {
-          "name": "Science with Biology",
-          "slug": "science-with-biology"
-        },
-        {
-          "name": "Science with Chemistry",
-          "slug": "science-with-chemistry"
-        },
-        {
-          "name": "Science with Physics",
-          "slug": "science-with-physics"
+          "name": "Religious Education",
+          "slug": "religious-education"
         }
       ]
     }
   ],
-  "self_accrediting": true,
+  "self_accrediting": false,
   "subjects": [
     {
       "name": "Art and Design",
       "slug": "art-and-design"
     },
     {
-      "name": "Computer Science",
-      "slug": "computer-science"
+      "name": "Biology",
+      "slug": "biology"
+    },
+    {
+      "name": "Chemistry",
+      "slug": "chemistry"
+    },
+    {
+      "name": "Computing",
+      "slug": "computing"
     },
     {
       "name": "Design and Technology",
@@ -636,16 +603,8 @@
       "slug": "mathematics"
     },
     {
-      "name": "Modern Languages (French)",
-      "slug": "modern-languages-french"
-    },
-    {
-      "name": "Modern Languages (German)",
-      "slug": "modern-languages-german"
-    },
-    {
-      "name": "Modern Languages (Spanish)",
-      "slug": "modern-languages-spanish"
+      "name": "Modern Languages",
+      "slug": "modern-languages"
     },
     {
       "name": "Music",
@@ -656,49 +615,25 @@
       "slug": "physical-education"
     },
     {
-      "name": "Physics with Mathematics",
-      "slug": "physics-with-mathematics"
+      "name": "Physics",
+      "slug": "physics"
     },
     {
       "name": "Primary",
       "slug": "primary"
     },
     {
-      "name": "Primary (Early Years)",
-      "slug": "primary-early-years"
-    },
-    {
-      "name": "Primary with Leadership in Foreign Languages",
-      "slug": "primary-with-leadership-in-foreign-languages"
-    },
-    {
-      "name": "Primary with Mathematics",
-      "slug": "primary-with-mathematics"
-    },
-    {
-      "name": "Primary with Special Education Needs",
-      "slug": "primary-with-special-education-needs"
-    },
-    {
-      "name": "Science with Biology",
-      "slug": "science-with-biology"
-    },
-    {
-      "name": "Science with Chemistry",
-      "slug": "science-with-chemistry"
-    },
-    {
-      "name": "Science with Physics",
-      "slug": "science-with-physics"
+      "name": "Religious Education",
+      "slug": "religious-education"
     }
   ],
   "folded_courses": {
-    "The University of Reading": [
+    "Bath Spa University": [
       {
         "name": "Art and Design",
         "courses": 1,
         "accrediting": [
-          "The University of Reading"
+          "Bath Spa University"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
@@ -716,10 +651,52 @@
         }
       },
       {
-        "name": "Computer Science",
+        "name": "Biology",
         "courses": 1,
         "accrediting": [
-          "The University of Reading"
+          "Bath Spa University"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Main Site"
+        ],
+        "options": [
+          "PGCE with QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Chemistry",
+        "courses": 1,
+        "accrediting": [
+          "Bath Spa University"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Main Site"
+        ],
+        "options": [
+          "PGCE with QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Computing",
+        "courses": 1,
+        "accrediting": [
+          "Bath Spa University"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
@@ -740,7 +717,7 @@
         "name": "Design and Technology",
         "courses": 1,
         "accrediting": [
-          "The University of Reading"
+          "Bath Spa University"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
@@ -761,7 +738,7 @@
         "name": "Drama",
         "courses": 1,
         "accrediting": [
-          "The University of Reading"
+          "Bath Spa University"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
@@ -782,7 +759,7 @@
         "name": "English",
         "courses": 1,
         "accrediting": [
-          "The University of Reading"
+          "Bath Spa University"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
@@ -803,28 +780,7 @@
         "name": "Geography",
         "courses": 1,
         "accrediting": [
-          "The University of Reading"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Main Site"
-        ],
-        "options": [
-          "PGCE with QTS full time"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": false,
-          "qualifications": false
-        }
-      },
-      {
-        "name": "History",
-        "courses": 1,
-        "accrediting": [
-          "The University of Reading"
+          "Bath Spa University"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
@@ -845,7 +801,7 @@
         "name": "Mathematics",
         "courses": 1,
         "accrediting": [
-          "The University of Reading"
+          "Bath Spa University"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
@@ -863,52 +819,10 @@
         }
       },
       {
-        "name": "Modern Languages (French)",
+        "name": "Modern Languages",
         "courses": 1,
         "accrediting": [
-          "The University of Reading"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Main Site"
-        ],
-        "options": [
-          "PGCE with QTS full time"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": false,
-          "qualifications": false
-        }
-      },
-      {
-        "name": "Modern Languages (German)",
-        "courses": 1,
-        "accrediting": [
-          "The University of Reading"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Main Site"
-        ],
-        "options": [
-          "PGCE with QTS full time"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": false,
-          "qualifications": false
-        }
-      },
-      {
-        "name": "Modern Languages (Spanish)",
-        "courses": 1,
-        "accrediting": [
-          "The University of Reading"
+          "Bath Spa University"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
@@ -929,7 +843,7 @@
         "name": "Music",
         "courses": 1,
         "accrediting": [
-          "The University of Reading"
+          "Bath Spa University"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
@@ -950,7 +864,7 @@
         "name": "Physical Education",
         "courses": 1,
         "accrediting": [
-          "The University of Reading"
+          "Bath Spa University"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
@@ -968,10 +882,10 @@
         }
       },
       {
-        "name": "Physics with Mathematics",
+        "name": "Physics",
         "courses": 1,
         "accrediting": [
-          "The University of Reading"
+          "Bath Spa University"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
@@ -992,7 +906,7 @@
         "name": "Primary",
         "courses": 1,
         "accrediting": [
-          "The University of Reading"
+          "Bath Spa University"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
@@ -1010,10 +924,10 @@
         }
       },
       {
-        "name": "Primary (Early Years)",
+        "name": "Religious Education",
         "courses": 1,
         "accrediting": [
-          "The University of Reading"
+          "Bath Spa University"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
@@ -1029,18 +943,20 @@
           "salary": false,
           "qualifications": false
         }
-      },
+      }
+    ],
+    "University of Bristol": [
       {
-        "name": "Primary with Leadership in Foreign Languages",
+        "name": "Biology",
         "courses": 1,
         "accrediting": [
-          "The University of Reading"
+          "University of Bristol"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
         ],
         "schoolsWithVacancies": [
-          "Main Site"
+          "Fairfield High School"
         ],
         "options": [
           "PGCE with QTS full time"
@@ -1052,16 +968,16 @@
         }
       },
       {
-        "name": "Primary with Mathematics",
+        "name": "English",
         "courses": 1,
         "accrediting": [
-          "The University of Reading"
+          "University of Bristol"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
         ],
         "schoolsWithVacancies": [
-          "Main Site"
+          "Fairfield High School"
         ],
         "options": [
           "PGCE with QTS full time"
@@ -1073,16 +989,16 @@
         }
       },
       {
-        "name": "Primary with Special Education Needs",
+        "name": "Geography",
         "courses": 1,
         "accrediting": [
-          "The University of Reading"
+          "University of Bristol"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
         ],
         "schoolsWithVacancies": [
-          "Main Site"
+          "Fairfield High School"
         ],
         "options": [
           "PGCE with QTS full time"
@@ -1094,16 +1010,16 @@
         }
       },
       {
-        "name": "Science with Biology",
+        "name": "History",
         "courses": 1,
         "accrediting": [
-          "The University of Reading"
+          "University of Bristol"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
         ],
         "schoolsWithVacancies": [
-          "Main Site"
+          "Fairfield High School"
         ],
         "options": [
           "PGCE with QTS full time"
@@ -1115,37 +1031,16 @@
         }
       },
       {
-        "name": "Science with Chemistry",
+        "name": "Religious Education",
         "courses": 1,
         "accrediting": [
-          "The University of Reading"
+          "University of Bristol"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
         ],
         "schoolsWithVacancies": [
-          "Main Site"
-        ],
-        "options": [
-          "PGCE with QTS full time"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": false,
-          "qualifications": false
-        }
-      },
-      {
-        "name": "Science with Physics",
-        "courses": 1,
-        "accrediting": [
-          "The University of Reading"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Main Site"
+          "Fairfield High School"
         ],
         "options": [
           "PGCE with QTS full time"
