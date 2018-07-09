@@ -1,8 +1,8 @@
 {
   "multi-organisation": true,
-  "training-provider-name": "Darrick Wood School",
-  "provider-code-name": "A1442",
-  "provider-code": "1C9",
+  "training-provider-name": "Woolwich Poly",
+  "provider-code-name": "A1615",
+  "provider-code": "1HC",
   "address-line-1": "123 Baker Street",
   "town": "London",
   "postcode": "SW1 1AA",
@@ -16,18 +16,18 @@
     {
       "regions": "London",
       "accrediting": "Bromley Schools Collegiate",
-      "subjects": "Art / art & design, Secondary",
+      "subjects": "Biology, Science, Secondary",
       "ageRange": "Secondary (11+ years)",
-      "name": "Art and Design",
-      "slug": "art-and-design",
+      "name": "Biology",
+      "slug": "biology",
       "route": "School Direct training programme",
       "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "1C9",
-      "programmeCode": "2KT7",
+      "providerCode": "1HC",
+      "programmeCode": "26LR",
       "schools": [
         {
           "name": "Main Site",
-          "address": "Lovibonds Avenue, Orpington, BR6 8ER",
+          "address": "Hutchins Road, Thamesmead, London, SE28 8AT",
           "code": "-"
         }
       ],
@@ -42,36 +42,14 @@
       "ageRange": "Secondary (11+ years)",
       "name": "Biology",
       "slug": "biology",
-      "route": "School Direct training programme",
-      "qualifications": "QTS",
-      "providerCode": "1C9",
-      "programmeCode": "26NP",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "Lovibonds Avenue, Orpington, BR6 8ER",
-          "code": "-"
-        }
-      ],
-      "options": [
-        "QTS full time"
-      ]
-    },
-    {
-      "regions": "London",
-      "accrediting": "Bromley Schools Collegiate",
-      "subjects": "Biology, Science, Secondary",
-      "ageRange": "Secondary (11+ years)",
-      "name": "Biology",
-      "slug": "biology",
       "route": "School Direct training programme (salaried)",
       "qualifications": "QTS",
-      "providerCode": "1C9",
-      "programmeCode": "2SF4",
+      "providerCode": "1HC",
+      "programmeCode": "3454",
       "schools": [
         {
           "name": "Main Site",
-          "address": "Lovibonds Avenue, Orpington, BR6 8ER",
+          "address": "Hutchins Road, Thamesmead, London, SE28 8AT",
           "code": "-"
         }
       ],
@@ -88,12 +66,34 @@
       "slug": "business-studies",
       "route": "School Direct training programme",
       "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "1C9",
-      "programmeCode": "26N9",
+      "providerCode": "1HC",
+      "programmeCode": "2KVC",
       "schools": [
         {
           "name": "Main Site",
-          "address": "Lovibonds Avenue, Orpington, BR6 8ER",
+          "address": "Hutchins Road, Thamesmead, London, SE28 8AT",
+          "code": "-"
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "London",
+      "accrediting": "Bromley Schools Collegiate",
+      "subjects": "Chemistry, Science, Secondary",
+      "ageRange": "Secondary (11+ years)",
+      "name": "Chemistry",
+      "slug": "chemistry",
+      "route": "School Direct training programme",
+      "qualifications": "QTS, Postgraduate, Professional",
+      "providerCode": "1HC",
+      "programmeCode": "26LC",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "Hutchins Road, Thamesmead, London, SE28 8AT",
           "code": "-"
         }
       ],
@@ -110,56 +110,12 @@
       "slug": "chemistry",
       "route": "School Direct training programme (salaried)",
       "qualifications": "QTS",
-      "providerCode": "1C9",
-      "programmeCode": "26MH",
+      "providerCode": "1HC",
+      "programmeCode": "26LG",
       "schools": [
         {
           "name": "Main Site",
-          "address": "Lovibonds Avenue, Orpington, BR6 8ER",
-          "code": "-"
-        }
-      ],
-      "options": [
-        "QTS full time with salary"
-      ]
-    },
-    {
-      "regions": "London",
-      "accrediting": "Bromley Schools Collegiate",
-      "subjects": "Chemistry, Science, Secondary",
-      "ageRange": "Secondary (11+ years)",
-      "name": "Chemistry",
-      "slug": "chemistry",
-      "route": "School Direct training programme",
-      "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "1C9",
-      "programmeCode": "2M58",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "Lovibonds Avenue, Orpington, BR6 8ER",
-          "code": "-"
-        }
-      ],
-      "options": [
-        "PGCE with QTS full time"
-      ]
-    },
-    {
-      "regions": "London",
-      "accrediting": "Bromley Schools Collegiate",
-      "subjects": "Computer studies, Secondary",
-      "ageRange": "Secondary (11+ years)",
-      "name": "Computing",
-      "slug": "computing",
-      "route": "School Direct training programme (salaried)",
-      "qualifications": "QTS",
-      "providerCode": "1C9",
-      "programmeCode": "26NN",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "Lovibonds Avenue, Orpington, BR6 8ER",
+          "address": "Hutchins Road, Thamesmead, London, SE28 8AT",
           "code": "-"
         }
       ],
@@ -176,12 +132,12 @@
       "slug": "computing",
       "route": "School Direct training programme",
       "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "1C9",
-      "programmeCode": "2KT3",
+      "providerCode": "1HC",
+      "programmeCode": "2KVB",
       "schools": [
         {
           "name": "Main Site",
-          "address": "Lovibonds Avenue, Orpington, BR6 8ER",
+          "address": "Hutchins Road, Thamesmead, London, SE28 8AT",
           "code": "-"
         }
       ],
@@ -192,18 +148,40 @@
     {
       "regions": "London",
       "accrediting": "Bromley Schools Collegiate",
-      "subjects": "Dance and performance, Secondary",
+      "subjects": "Computer studies, Secondary",
       "ageRange": "Secondary (11+ years)",
-      "name": "Dance",
-      "slug": "dance",
-      "route": "School Direct training programme",
-      "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "1C9",
-      "programmeCode": "2SD5",
+      "name": "Computing",
+      "slug": "computing",
+      "route": "School Direct training programme (salaried)",
+      "qualifications": "QTS",
+      "providerCode": "1HC",
+      "programmeCode": "2M57",
       "schools": [
         {
           "name": "Main Site",
-          "address": "Lovibonds Avenue, Orpington, BR6 8ER",
+          "address": "Hutchins Road, Thamesmead, London, SE28 8AT",
+          "code": "-"
+        }
+      ],
+      "options": [
+        "QTS full time with salary"
+      ]
+    },
+    {
+      "regions": "London",
+      "accrediting": "Bromley Schools Collegiate",
+      "subjects": "Design and technology, Secondary",
+      "ageRange": "Secondary (11+ years)",
+      "name": "Design and Technology",
+      "slug": "design-and-technology",
+      "route": "School Direct training programme",
+      "qualifications": "QTS, Postgraduate, Professional",
+      "providerCode": "1HC",
+      "programmeCode": "2KV5",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "Hutchins Road, Thamesmead, London, SE28 8AT",
           "code": "-"
         }
       ],
@@ -218,14 +196,36 @@
       "ageRange": "Secondary (11+ years)",
       "name": "Design and Technology",
       "slug": "design-and-technology",
-      "route": "School Direct training programme",
-      "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "1C9",
-      "programmeCode": "2KT5",
+      "route": "School Direct training programme (salaried)",
+      "qualifications": "QTS",
+      "providerCode": "1HC",
+      "programmeCode": "2SHL",
       "schools": [
         {
           "name": "Main Site",
-          "address": "Lovibonds Avenue, Orpington, BR6 8ER",
+          "address": "Hutchins Road, Thamesmead, London, SE28 8AT",
+          "code": "-"
+        }
+      ],
+      "options": [
+        "QTS full time with salary"
+      ]
+    },
+    {
+      "regions": "London",
+      "accrediting": "Bromley Schools Collegiate",
+      "subjects": "Economics, Secondary",
+      "ageRange": "Secondary (11+ years)",
+      "name": "Economics",
+      "slug": "economics",
+      "route": "School Direct training programme",
+      "qualifications": "QTS, Postgraduate, Professional",
+      "providerCode": "1HC",
+      "programmeCode": "2SHR",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "Hutchins Road, Thamesmead, London, SE28 8AT",
           "code": "-"
         }
       ],
@@ -236,18 +236,18 @@
     {
       "regions": "London",
       "accrediting": "Bromley Schools Collegiate",
-      "subjects": "Design and technology, Secondary",
+      "subjects": "English, Secondary",
       "ageRange": "Secondary (11+ years)",
-      "name": "Design and Technology",
-      "slug": "design-and-technology",
+      "name": "English",
+      "slug": "english",
       "route": "School Direct training programme (salaried)",
       "qualifications": "QTS",
-      "providerCode": "1C9",
-      "programmeCode": "2SD8",
+      "providerCode": "1HC",
+      "programmeCode": "26L9",
       "schools": [
         {
           "name": "Main Site",
-          "address": "Lovibonds Avenue, Orpington, BR6 8ER",
+          "address": "Hutchins Road, Thamesmead, London, SE28 8AT",
           "code": "-"
         }
       ],
@@ -262,42 +262,18 @@
       "ageRange": "Secondary (11+ years)",
       "name": "English",
       "slug": "english",
-      "route": "School Direct training programme (salaried)",
-      "qualifications": "QTS",
-      "providerCode": "1C9",
-      "programmeCode": "26MN",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "Lovibonds Avenue, Orpington, BR6 8ER",
-          "code": "-"
-        }
-      ],
-      "options": [
-        "QTS part time with salary",
-        "QTS full time with salary"
-      ]
-    },
-    {
-      "regions": "London",
-      "accrediting": "Bromley Schools Collegiate",
-      "subjects": "English, Secondary",
-      "ageRange": "Secondary (11+ years)",
-      "name": "English",
-      "slug": "english",
       "route": "School Direct training programme",
       "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "1C9",
-      "programmeCode": "2SDY",
+      "providerCode": "1HC",
+      "programmeCode": "26LB",
       "schools": [
         {
           "name": "Main Site",
-          "address": "Lovibonds Avenue, Orpington, BR6 8ER",
+          "address": "Hutchins Road, Thamesmead, London, SE28 8AT",
           "code": "-"
         }
       ],
       "options": [
-        "PGCE with QTS part time",
         "PGCE with QTS full time"
       ]
     },
@@ -308,80 +284,14 @@
       "ageRange": "Secondary (11+ years)",
       "name": "Geography",
       "slug": "geography",
-      "route": "School Direct training programme (salaried)",
-      "qualifications": "QTS",
-      "providerCode": "1C9",
-      "programmeCode": "26MF",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "Lovibonds Avenue, Orpington, BR6 8ER",
-          "code": "-"
-        }
-      ],
-      "options": [
-        "QTS full time with salary"
-      ]
-    },
-    {
-      "regions": "London",
-      "accrediting": "Bromley Schools Collegiate",
-      "subjects": "Geography, Secondary",
-      "ageRange": "Secondary (11+ years)",
-      "name": "Geography",
-      "slug": "geography",
       "route": "School Direct training programme",
       "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "1C9",
-      "programmeCode": "2SDS",
+      "providerCode": "1HC",
+      "programmeCode": "26L6",
       "schools": [
         {
           "name": "Main Site",
-          "address": "Lovibonds Avenue, Orpington, BR6 8ER",
-          "code": "-"
-        }
-      ],
-      "options": [
-        "PGCE with QTS full time"
-      ]
-    },
-    {
-      "regions": "London",
-      "accrediting": "Bromley Schools Collegiate",
-      "subjects": "History, Secondary",
-      "ageRange": "Secondary (11+ years)",
-      "name": "History",
-      "slug": "history",
-      "route": "School Direct training programme (salaried)",
-      "qualifications": "QTS",
-      "providerCode": "1C9",
-      "programmeCode": "2SDF",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "Lovibonds Avenue, Orpington, BR6 8ER",
-          "code": "-"
-        }
-      ],
-      "options": [
-        "QTS full time with salary"
-      ]
-    },
-    {
-      "regions": "London",
-      "accrediting": "Bromley Schools Collegiate",
-      "subjects": "History, Secondary",
-      "ageRange": "Secondary (11+ years)",
-      "name": "History",
-      "slug": "history",
-      "route": "School Direct training programme",
-      "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "1C9",
-      "programmeCode": "26NJ",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "Lovibonds Avenue, Orpington, BR6 8ER",
+          "address": "Hutchins Road, Thamesmead, London, SE28 8AT",
           "code": "-"
         }
       ],
@@ -398,17 +308,16 @@
       "slug": "mathematics",
       "route": "School Direct training programme (salaried)",
       "qualifications": "QTS",
-      "providerCode": "1C9",
-      "programmeCode": "26MJ",
+      "providerCode": "1HC",
+      "programmeCode": "26KZ",
       "schools": [
         {
           "name": "Main Site",
-          "address": "Lovibonds Avenue, Orpington, BR6 8ER",
+          "address": "Hutchins Road, Thamesmead, London, SE28 8AT",
           "code": "-"
         }
       ],
       "options": [
-        "QTS part time with salary",
         "QTS full time with salary"
       ]
     },
@@ -421,35 +330,12 @@
       "slug": "mathematics",
       "route": "School Direct training programme",
       "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "1C9",
-      "programmeCode": "26NV",
+      "providerCode": "1HC",
+      "programmeCode": "26L3",
       "schools": [
         {
           "name": "Main Site",
-          "address": "Lovibonds Avenue, Orpington, BR6 8ER",
-          "code": "-"
-        }
-      ],
-      "options": [
-        "PGCE with QTS part time",
-        "PGCE with QTS full time"
-      ]
-    },
-    {
-      "regions": "London",
-      "accrediting": "Bromley Schools Collegiate",
-      "subjects": "Languages, Secondary",
-      "ageRange": "Secondary (11+ years)",
-      "name": "Modern Languages",
-      "slug": "modern-languages",
-      "route": "School Direct training programme",
-      "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "1C9",
-      "programmeCode": "2SDH",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "Lovibonds Avenue, Orpington, BR6 8ER",
+          "address": "Hutchins Road, Thamesmead, London, SE28 8AT",
           "code": "-"
         }
       ],
@@ -466,12 +352,12 @@
       "slug": "modern-languages",
       "route": "School Direct training programme (salaried)",
       "qualifications": "QTS",
-      "providerCode": "1C9",
-      "programmeCode": "2KT8",
+      "providerCode": "1HC",
+      "programmeCode": "26KQ",
       "schools": [
         {
           "name": "Main Site",
-          "address": "Lovibonds Avenue, Orpington, BR6 8ER",
+          "address": "Hutchins Road, Thamesmead, London, SE28 8AT",
           "code": "-"
         }
       ],
@@ -482,18 +368,18 @@
     {
       "regions": "London",
       "accrediting": "Bromley Schools Collegiate",
-      "subjects": "Music, Secondary",
+      "subjects": "Languages, Secondary",
       "ageRange": "Secondary (11+ years)",
-      "name": "Music",
-      "slug": "music",
+      "name": "Modern Languages",
+      "slug": "modern-languages",
       "route": "School Direct training programme",
       "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "1C9",
-      "programmeCode": "26NC",
+      "providerCode": "1HC",
+      "programmeCode": "26KT",
       "schools": [
         {
           "name": "Main Site",
-          "address": "Lovibonds Avenue, Orpington, BR6 8ER",
+          "address": "Hutchins Road, Thamesmead, London, SE28 8AT",
           "code": "-"
         }
       ],
@@ -504,86 +390,18 @@
     {
       "regions": "London",
       "accrediting": "Bromley Schools Collegiate",
-      "subjects": "Music, Secondary",
-      "ageRange": "Secondary (11+ years)",
-      "name": "Music",
-      "slug": "music",
-      "route": "School Direct training programme (salaried)",
-      "qualifications": "QTS",
-      "providerCode": "1C9",
-      "programmeCode": "26NF",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "Lovibonds Avenue, Orpington, BR6 8ER",
-          "code": "-"
-        }
-      ],
-      "options": [
-        "QTS full time with salary"
-      ]
-    },
-    {
-      "regions": "London",
-      "accrediting": "Bromley Schools Collegiate",
-      "subjects": "Physics, Science, Secondary",
-      "ageRange": "Secondary (11+ years)",
-      "name": "Physics",
-      "slug": "physics",
-      "route": "School Direct training programme",
-      "qualifications": "QTS",
-      "providerCode": "1C9",
-      "programmeCode": "2M59",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "Lovibonds Avenue, Orpington, BR6 8ER",
-          "code": "-"
-        }
-      ],
-      "options": [
-        "QTS part time",
-        "QTS full time"
-      ]
-    },
-    {
-      "regions": "London",
-      "accrediting": "Bromley Schools Collegiate",
       "subjects": "Physics, Science, Secondary",
       "ageRange": "Secondary (11+ years)",
       "name": "Physics",
       "slug": "physics",
       "route": "School Direct training programme (salaried)",
       "qualifications": "QTS",
-      "providerCode": "1C9",
-      "programmeCode": "26NR",
+      "providerCode": "1HC",
+      "programmeCode": "26KH",
       "schools": [
         {
           "name": "Main Site",
-          "address": "Lovibonds Avenue, Orpington, BR6 8ER",
-          "code": "-"
-        }
-      ],
-      "options": [
-        "QTS part time with salary",
-        "QTS full time with salary"
-      ]
-    },
-    {
-      "regions": "London",
-      "accrediting": "Bromley Schools Collegiate",
-      "subjects": "Primary",
-      "ageRange": "Primary (c3 - 11/12 years)",
-      "name": "Primary",
-      "slug": "primary",
-      "route": "School Direct training programme (salaried)",
-      "qualifications": "QTS",
-      "providerCode": "1C9",
-      "programmeCode": "26MD",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "Lovibonds Avenue, Orpington, BR6 8ER",
+          "address": "Hutchins Road, Thamesmead, London, SE28 8AT",
           "code": "-"
         }
       ],
@@ -594,18 +412,18 @@
     {
       "regions": "London",
       "accrediting": "Bromley Schools Collegiate",
-      "subjects": "Religious education, Secondary",
+      "subjects": "Psychology, Secondary",
       "ageRange": "Secondary (11+ years)",
-      "name": "Religious Education",
-      "slug": "religious-education",
+      "name": "Psychology",
+      "slug": "psychology",
       "route": "School Direct training programme",
       "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "1C9",
-      "programmeCode": "26N6",
+      "providerCode": "1HC",
+      "programmeCode": "26KC",
       "schools": [
         {
           "name": "Main Site",
-          "address": "Lovibonds Avenue, Orpington, BR6 8ER",
+          "address": "Hutchins Road, Thamesmead, London, SE28 8AT",
           "code": "-"
         }
       ],
@@ -617,7 +435,7 @@
   "schools": [
     {
       "name": "Main Site",
-      "address": "Lovibonds Avenue, Orpington, BR6 8ER",
+      "address": "Hutchins Road, Thamesmead, London, SE28 8AT",
       "code": "-"
     }
   ],
@@ -626,10 +444,6 @@
       "name": "Bromley Schools Collegiate",
       "slug": "bromley-schools-collegiate",
       "subjects": [
-        {
-          "name": "Art and Design",
-          "slug": "art-and-design"
-        },
         {
           "name": "Biology",
           "slug": "biology"
@@ -647,12 +461,12 @@
           "slug": "computing"
         },
         {
-          "name": "Dance",
-          "slug": "dance"
-        },
-        {
           "name": "Design and Technology",
           "slug": "design-and-technology"
+        },
+        {
+          "name": "Economics",
+          "slug": "economics"
         },
         {
           "name": "English",
@@ -663,10 +477,6 @@
           "slug": "geography"
         },
         {
-          "name": "History",
-          "slug": "history"
-        },
-        {
           "name": "Mathematics",
           "slug": "mathematics"
         },
@@ -675,30 +485,18 @@
           "slug": "modern-languages"
         },
         {
-          "name": "Music",
-          "slug": "music"
-        },
-        {
           "name": "Physics",
           "slug": "physics"
         },
         {
-          "name": "Primary",
-          "slug": "primary"
-        },
-        {
-          "name": "Religious Education",
-          "slug": "religious-education"
+          "name": "Psychology",
+          "slug": "psychology"
         }
       ]
     }
   ],
   "self_accrediting": false,
   "subjects": [
-    {
-      "name": "Art and Design",
-      "slug": "art-and-design"
-    },
     {
       "name": "Biology",
       "slug": "biology"
@@ -716,12 +514,12 @@
       "slug": "computing"
     },
     {
-      "name": "Dance",
-      "slug": "dance"
-    },
-    {
       "name": "Design and Technology",
       "slug": "design-and-technology"
+    },
+    {
+      "name": "Economics",
+      "slug": "economics"
     },
     {
       "name": "English",
@@ -732,10 +530,6 @@
       "slug": "geography"
     },
     {
-      "name": "History",
-      "slug": "history"
-    },
-    {
       "name": "Mathematics",
       "slug": "mathematics"
     },
@@ -744,45 +538,16 @@
       "slug": "modern-languages"
     },
     {
-      "name": "Music",
-      "slug": "music"
-    },
-    {
       "name": "Physics",
       "slug": "physics"
     },
     {
-      "name": "Primary",
-      "slug": "primary"
-    },
-    {
-      "name": "Religious Education",
-      "slug": "religious-education"
+      "name": "Psychology",
+      "slug": "psychology"
     }
   ],
   "folded_courses": {
     "Bromley Schools Collegiate": [
-      {
-        "name": "Art and Design",
-        "courses": 1,
-        "accrediting": [
-          "Bromley Schools Collegiate"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Main Site"
-        ],
-        "options": [
-          "PGCE with QTS full time"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": false,
-          "qualifications": false
-        }
-      },
       {
         "name": "Biology",
         "courses": 2,
@@ -796,13 +561,13 @@
           "Main Site"
         ],
         "options": [
-          "QTS full time",
+          "PGCE with QTS full time",
           "QTS full time with salary"
         ],
         "flags": {
           "partTime": false,
           "salary": true,
-          "qualifications": false
+          "qualifications": true
         }
       },
       {
@@ -871,27 +636,6 @@
         }
       },
       {
-        "name": "Dance",
-        "courses": 1,
-        "accrediting": [
-          "Bromley Schools Collegiate"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Main Site"
-        ],
-        "options": [
-          "PGCE with QTS full time"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": false,
-          "qualifications": false
-        }
-      },
-      {
         "name": "Design and Technology",
         "courses": 2,
         "accrediting": [
@@ -914,6 +658,27 @@
         }
       },
       {
+        "name": "Economics",
+        "courses": 1,
+        "accrediting": [
+          "Bromley Schools Collegiate"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Main Site"
+        ],
+        "options": [
+          "PGCE with QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
         "name": "English",
         "courses": 2,
         "accrediting": [
@@ -927,9 +692,7 @@
         ],
         "options": [
           "PGCE with QTS full time",
-          "PGCE with QTS part time",
-          "QTS full time with salary",
-          "QTS part time with salary"
+          "QTS full time with salary"
         ],
         "flags": {
           "partTime": false,
@@ -939,7 +702,7 @@
       },
       {
         "name": "Geography",
-        "courses": 2,
+        "courses": 1,
         "accrediting": [
           "Bromley Schools Collegiate"
         ],
@@ -950,35 +713,12 @@
           "Main Site"
         ],
         "options": [
-          "PGCE with QTS full time",
-          "QTS full time with salary"
+          "PGCE with QTS full time"
         ],
         "flags": {
           "partTime": false,
-          "salary": true,
-          "qualifications": true
-        }
-      },
-      {
-        "name": "History",
-        "courses": 2,
-        "accrediting": [
-          "Bromley Schools Collegiate"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Main Site"
-        ],
-        "options": [
-          "PGCE with QTS full time",
-          "QTS full time with salary"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": true,
-          "qualifications": true
+          "salary": false,
+          "qualifications": false
         }
       },
       {
@@ -995,9 +735,7 @@
         ],
         "options": [
           "PGCE with QTS full time",
-          "PGCE with QTS part time",
-          "QTS full time with salary",
-          "QTS part time with salary"
+          "QTS full time with salary"
         ],
         "flags": {
           "partTime": false,
@@ -1028,53 +766,7 @@
         }
       },
       {
-        "name": "Music",
-        "courses": 2,
-        "accrediting": [
-          "Bromley Schools Collegiate"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Main Site"
-        ],
-        "options": [
-          "PGCE with QTS full time",
-          "QTS full time with salary"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": true,
-          "qualifications": true
-        }
-      },
-      {
         "name": "Physics",
-        "courses": 2,
-        "accrediting": [
-          "Bromley Schools Collegiate"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Main Site"
-        ],
-        "options": [
-          "QTS full time",
-          "QTS full time with salary",
-          "QTS part time",
-          "QTS part time with salary"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": true,
-          "qualifications": false
-        }
-      },
-      {
-        "name": "Primary",
         "courses": 1,
         "accrediting": [
           "Bromley Schools Collegiate"
@@ -1095,7 +787,7 @@
         }
       },
       {
-        "name": "Religious Education",
+        "name": "Psychology",
         "courses": 1,
         "accrediting": [
           "Bromley Schools Collegiate"
@@ -1119,10 +811,6 @@
   },
   "options": [
     "PGCE with QTS full time",
-    "QTS full time",
-    "QTS full time with salary",
-    "QTS part time with salary",
-    "PGCE with QTS part time",
-    "QTS part time"
+    "QTS full time with salary"
   ]
 }
