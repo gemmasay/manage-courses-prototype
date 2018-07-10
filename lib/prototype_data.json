@@ -1,8 +1,8 @@
 {
   "multi-organisation": false,
-  "training-provider-name": "West London Teaching School Alliance (Secondary)",
-  "provider-code-name": "A2598",
-  "provider-code": "2BV",
+  "training-provider-name": "Catholic Teaching Alliance (South East London)",
+  "provider-code-name": "A1131",
+  "provider-code": "134",
   "address-line-1": "123 Baker Street",
   "town": "London",
   "postcode": "SW1 1AA",
@@ -14,36 +14,36 @@
   ],
   "ucasCourses": [
     {
-      "regions": "London",
-      "accrediting": "St Mary's University, Twickenham",
-      "subjects": "Biology, Science, Secondary",
+      "regions": "London, South East",
+      "accrediting": "Goldsmiths, University of London",
+      "subjects": "Art / art & design, Secondary",
       "ageRange": "Secondary (11+ years)",
-      "name": "Biology",
-      "slug": "biology",
+      "name": "Art and Design",
+      "slug": "art-and-design",
       "route": "School Direct training programme",
       "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "2BV",
-      "programmeCode": "2XVC",
+      "providerCode": "134",
+      "programmeCode": "2HCD",
       "schools": [
         {
-          "name": "Fulham College Boys' School SW6 6SN",
-          "address": "Kingswood Road, London, SW6 6SN",
-          "code": "4"
+          "name": "Saint John Bosco College",
+          "address": "Parkham Street, Battersea, London, SW11 3DQ",
+          "code": "3"
         },
         {
-          "name": "Drayton Manor High School",
-          "address": "Drayton Bridge Road, London, W7 1EU",
-          "code": "D"
+          "name": "Bonus Pastor Catholic College",
+          "address": "Winlaton Road, Bromley, BR1 5PZ",
+          "code": "B"
         },
         {
-          "name": "The Fulham Boys' School",
-          "address": "Mund Street, Gibbs Green, London, W14 9LY",
-          "code": "F"
+          "name": "St Ursula's Convent School",
+          "address": "70 Croom's Hill, Greenwich, London, SE10 8HN",
+          "code": "U"
         },
         {
-          "name": "St Mark's Roman Catholic School",
-          "address": "106 Bath Road, Hounslow, TW3 3EJ",
-          "code": "M"
+          "name": "Virgo Fidelis Convent Senior School",
+          "address": "Upper Norwood, London, SE19 1RS",
+          "code": "V"
         }
       ],
       "options": [
@@ -59,18 +59,13 @@
       "slug": "biology",
       "route": "School Direct training programme (salaried)",
       "qualifications": "QTS",
-      "providerCode": "2BV",
-      "programmeCode": "36B5",
+      "providerCode": "134",
+      "programmeCode": "2H5B",
       "schools": [
         {
-          "name": "The Fulham Boys' School",
-          "address": "Mund Street, Gibbs Green, London, W14 9LY",
-          "code": "F"
-        },
-        {
-          "name": "William Morris Sixth Form",
-          "address": "St Dunstan's Road, London, W6 8RB",
-          "code": "W"
+          "name": "St Mary's Catholic High School",
+          "address": "Woburn Road, Croydon, CR9 2EE",
+          "code": "S"
         }
       ],
       "options": [
@@ -78,21 +73,112 @@
       ]
     },
     {
+      "regions": "London, South East",
+      "accrediting": "UCL, University College London (University of London",
+      "subjects": "Biology, Science, Secondary",
+      "ageRange": "Secondary (11+ years)",
+      "name": "Biology",
+      "slug": "biology",
+      "route": "School Direct training programme",
+      "qualifications": "QTS, Postgraduate, Professional",
+      "providerCode": "134",
+      "programmeCode": "2YCG",
+      "schools": [
+        {
+          "name": "La Retraite Roman Catholic Girls' School",
+          "address": "Atkins Road, London, SW12 0AB",
+          "code": "4"
+        },
+        {
+          "name": "De La Salle School and Language College",
+          "address": "Ghyllgrove, Basildon, Essex, SS14 2LA",
+          "code": "D"
+        },
+        {
+          "name": "St Michael's Catholic College",
+          "address": "Llewellyn Street, Bermondsey, London, SE16 4UN",
+          "code": "M"
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
       "regions": "London",
+      "accrediting": "King's College London (University of London",
+      "subjects": "Biology, Science, Secondary",
+      "ageRange": "Secondary (11+ years)",
+      "name": "Biology",
+      "slug": "biology",
+      "route": "School Direct training programme",
+      "qualifications": "QTS, Postgraduate, Professional",
+      "providerCode": "134",
+      "programmeCode": "2Q5K",
+      "schools": [
+        {
+          "name": "Saint John Bosco College",
+          "address": "Parkham Street, Battersea, London, SW11 3DQ",
+          "code": "3"
+        },
+        {
+          "name": "Virgo Fidelis Convent Senior School",
+          "address": "Upper Norwood, London, SE19 1RS",
+          "code": "V"
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "London, South East",
+      "accrediting": "St Mary's University, Twickenham",
+      "subjects": "Biology, Science, Secondary",
+      "ageRange": "Secondary (11+ years)",
+      "name": "Biology",
+      "slug": "biology",
+      "route": "School Direct training programme",
+      "qualifications": "QTS, Postgraduate, Professional",
+      "providerCode": "134",
+      "programmeCode": "2HCQ",
+      "schools": [
+        {
+          "name": "Bonus Pastor Catholic College",
+          "address": "Winlaton Road, Bromley, BR1 5PZ",
+          "code": "B"
+        },
+        {
+          "name": "St Thomas the Apostle",
+          "address": "Hollydale Road,, Nunhead,, London, SE15 2EB",
+          "code": "T"
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "London, South East",
       "accrediting": "UCL, University College London (University of London",
       "subjects": "Business education, Secondary",
       "ageRange": "Secondary (11+ years)",
       "name": "Business Studies",
       "slug": "business-studies",
       "route": "School Direct training programme",
-      "qualifications": "QTS, Postgraduate",
-      "providerCode": "2BV",
-      "programmeCode": "37W9",
+      "qualifications": "QTS, Postgraduate, Professional",
+      "providerCode": "134",
+      "programmeCode": "2YCH",
       "schools": [
         {
-          "name": "Drayton Manor High School",
-          "address": "Drayton Bridge Road, London, W7 1EU",
+          "name": "De La Salle School and Language College",
+          "address": "Ghyllgrove, Basildon, Essex, SS14 2LA",
           "code": "D"
+        },
+        {
+          "name": "St Michael's Catholic College",
+          "address": "Llewellyn Street, Bermondsey, London, SE16 4UN",
+          "code": "M"
         }
       ],
       "options": [
@@ -100,7 +186,7 @@
       ]
     },
     {
-      "regions": "London",
+      "regions": "London, South East",
       "accrediting": "St Mary's University, Twickenham",
       "subjects": "Chemistry, Science, Secondary",
       "ageRange": "Secondary (11+ years)",
@@ -108,33 +194,87 @@
       "slug": "chemistry",
       "route": "School Direct training programme",
       "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "2BV",
-      "programmeCode": "2XVD",
+      "providerCode": "134",
+      "programmeCode": "2HCZ",
       "schools": [
         {
-          "name": "Sacred Heart High School",
-          "address": "212 Hammersmith Road, London, W6 7DG",
-          "code": "1"
+          "name": "Bonus Pastor Catholic College",
+          "address": "Winlaton Road, Bromley, BR1 5PZ",
+          "code": "B"
         },
         {
-          "name": "Fulham College Boys' School SW6 6SN",
-          "address": "Kingswood Road, London, SW6 6SN",
+          "name": "De La Salle School and Language College",
+          "address": "Ghyllgrove, Basildon, Essex, SS14 2LA",
+          "code": "D"
+        },
+        {
+          "name": "Virgo Fidelis Convent Senior School",
+          "address": "Upper Norwood, London, SE19 1RS",
+          "code": "V"
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "London, South East",
+      "accrediting": "King's College London (University of London",
+      "subjects": "Chemistry, Science, Secondary",
+      "ageRange": "Secondary (11+ years)",
+      "name": "Chemistry",
+      "slug": "chemistry",
+      "route": "School Direct training programme",
+      "qualifications": "QTS, Postgraduate, Professional",
+      "providerCode": "134",
+      "programmeCode": "2Q9Y",
+      "schools": [
+        {
+          "name": "De La Salle School and Language College",
+          "address": "Ghyllgrove, Basildon, Essex, SS14 2LA",
+          "code": "D"
+        },
+        {
+          "name": "St Michael's Catholic College",
+          "address": "Llewellyn Street, Bermondsey, London, SE16 4UN",
+          "code": "M"
+        },
+        {
+          "name": "St Thomas the Apostle",
+          "address": "Hollydale Road,, Nunhead,, London, SE15 2EB",
+          "code": "T"
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "London, South East",
+      "accrediting": "UCL, University College London (University of London",
+      "subjects": "Chemistry, Science, Secondary",
+      "ageRange": "Secondary (11+ years)",
+      "name": "Chemistry",
+      "slug": "chemistry",
+      "route": "School Direct training programme",
+      "qualifications": "QTS, Postgraduate, Professional",
+      "providerCode": "134",
+      "programmeCode": "2YCJ",
+      "schools": [
+        {
+          "name": "Saint John Bosco College",
+          "address": "Parkham Street, Battersea, London, SW11 3DQ",
+          "code": "3"
+        },
+        {
+          "name": "La Retraite Roman Catholic Girls' School",
+          "address": "Atkins Road, London, SW12 0AB",
           "code": "4"
         },
         {
-          "name": "The Fulham Boys' School",
-          "address": "Mund Street, Gibbs Green, London, W14 9LY",
-          "code": "F"
-        },
-        {
-          "name": "Lady Margaret School SW6 4UN",
-          "address": "Parsons Green, London, SW6 4UN",
+          "name": "St Columba's Catholic Boys' School",
+          "address": "Halcot Avenue, Bexleyheath, Kent, DA6 7QB",
           "code": "L"
-        },
-        {
-          "name": "St Mark's Roman Catholic School",
-          "address": "106 Bath Road, Hounslow, TW3 3EJ",
-          "code": "M"
         }
       ],
       "options": [
@@ -150,18 +290,13 @@
       "slug": "chemistry",
       "route": "School Direct training programme (salaried)",
       "qualifications": "QTS",
-      "providerCode": "2BV",
-      "programmeCode": "2XVH",
+      "providerCode": "134",
+      "programmeCode": "2H62",
       "schools": [
         {
-          "name": "The Fulham Boys' School",
-          "address": "Mund Street, Gibbs Green, London, W14 9LY",
-          "code": "F"
-        },
-        {
-          "name": "William Morris Sixth Form",
-          "address": "St Dunstan's Road, London, W6 8RB",
-          "code": "W"
+          "name": "St Mary's Catholic High School",
+          "address": "Woburn Road, Croydon, CR9 2EE",
+          "code": "S"
         }
       ],
       "options": [
@@ -170,20 +305,74 @@
     },
     {
       "regions": "London",
-      "accrediting": "Roehampton University",
+      "accrediting": "King's College London (University of London",
+      "subjects": "Classics, Secondary",
+      "ageRange": "Secondary (11+ years)",
+      "name": "Classics",
+      "slug": "classics",
+      "route": "School Direct training programme",
+      "qualifications": "QTS, Postgraduate, Professional",
+      "providerCode": "134",
+      "programmeCode": "35NG",
+      "schools": [
+        {
+          "name": "Virgo Fidelis Convent Senior School",
+          "address": "Upper Norwood, London, SE19 1RS",
+          "code": "V"
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "London",
+      "accrediting": "UCL, University College London (University of London",
       "subjects": "Computer studies, Secondary",
       "ageRange": "Secondary (11+ years)",
       "name": "Computing",
       "slug": "computing",
       "route": "School Direct training programme",
       "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "2BV",
-      "programmeCode": "36B7",
+      "providerCode": "134",
+      "programmeCode": "2YCK",
       "schools": [
         {
-          "name": "Drayton Manor High School",
-          "address": "Drayton Bridge Road, London, W7 1EU",
-          "code": "D"
+          "name": "St Thomas the Apostle",
+          "address": "Hollydale Road,, Nunhead,, London, SE15 2EB",
+          "code": "T"
+        },
+        {
+          "name": "St Ursula's Convent School",
+          "address": "70 Croom's Hill, Greenwich, London, SE10 8HN",
+          "code": "U"
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "London, South East",
+      "accrediting": "King's College London (University of London",
+      "subjects": "Computer studies, Secondary",
+      "ageRange": "Secondary (11+ years)",
+      "name": "Computing",
+      "slug": "computing",
+      "route": "School Direct training programme",
+      "qualifications": "QTS, Postgraduate, Professional",
+      "providerCode": "134",
+      "programmeCode": "2HD3",
+      "schools": [
+        {
+          "name": "Bishop Thomas Grant Catholic Secondary School",
+          "address": "Belltrees Grove, London, SW16 2HY",
+          "code": "5"
+        },
+        {
+          "name": "St Columba's Catholic Boys' School",
+          "address": "Halcot Avenue, Bexleyheath, Kent, DA6 7QB",
+          "code": "L"
         }
       ],
       "options": [
@@ -192,24 +381,19 @@
     },
     {
       "regions": "London",
-      "accrediting": "Roehampton University",
-      "subjects": "Design and technology, Secondary",
+      "accrediting": "Goldsmiths, University of London",
+      "subjects": "Design and technology, Design and technology (product design), Secondary",
       "ageRange": "Secondary (11+ years)",
-      "name": "Design and Technology",
-      "slug": "design-and-technology",
+      "name": "Design and Technology (Product Design)",
+      "slug": "design-and-technology-product-design",
       "route": "School Direct training programme",
       "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "2BV",
-      "programmeCode": "2XX2",
+      "providerCode": "134",
+      "programmeCode": "37ND",
       "schools": [
         {
-          "name": "Sacred Heart High School",
-          "address": "212 Hammersmith Road, London, W6 7DG",
-          "code": "1"
-        },
-        {
-          "name": "Fulham Cross Girls' School",
-          "address": "Munster Road, Fulham, SW6 6BP",
+          "name": "Saint John Bosco College",
+          "address": "Parkham Street, Battersea, London, SW11 3DQ",
           "code": "3"
         }
       ],
@@ -219,25 +403,20 @@
     },
     {
       "regions": "London",
-      "accrediting": "Roehampton University",
-      "subjects": "Drama and theatre studies, Secondary",
+      "accrediting": "Goldsmiths, University of London",
+      "subjects": "Design and technology, Design and technology (textiles), Secondary",
       "ageRange": "Secondary (11+ years)",
-      "name": "Drama",
-      "slug": "drama",
+      "name": "Design and Technology (Textiles)",
+      "slug": "design-and-technology-textiles",
       "route": "School Direct training programme",
       "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "2BV",
-      "programmeCode": "36BC",
+      "providerCode": "134",
+      "programmeCode": "37NF",
       "schools": [
         {
-          "name": "Sacred Heart High School",
-          "address": "212 Hammersmith Road, London, W6 7DG",
-          "code": "1"
-        },
-        {
-          "name": "The Fulham Boys' School",
-          "address": "Mund Street, Gibbs Green, London, W14 9LY",
-          "code": "F"
+          "name": "Virgo Fidelis Convent Senior School",
+          "address": "Upper Norwood, London, SE19 1RS",
+          "code": "V"
         }
       ],
       "options": [
@@ -245,61 +424,58 @@
       ]
     },
     {
-      "regions": "London",
-      "accrediting": "St Mary's University, Twickenham",
+      "regions": "London, South East",
+      "accrediting": "King's College London (University of London",
       "subjects": "English, Secondary",
       "ageRange": "Secondary (11+ years)",
       "name": "English",
       "slug": "english",
       "route": "School Direct training programme",
       "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "2BV",
-      "programmeCode": "2XVJ",
+      "providerCode": "134",
+      "programmeCode": "2HDH",
       "schools": [
         {
-          "name": "Sacred Heart High School",
-          "address": "212 Hammersmith Road, London, W6 7DG",
-          "code": "1"
-        },
-        {
-          "name": "Fulham Cross Girls' School",
-          "address": "Munster Road, Fulham, SW6 6BP",
-          "code": "3"
-        },
-        {
-          "name": "Fulham College Boys' School SW6 6SN",
-          "address": "Kingswood Road, London, SW6 6SN",
-          "code": "4"
-        },
-        {
-          "name": "Chelsea Academy SW10 0AB",
-          "address": "Lots Road, Chelsea, London, SW10 0AB",
-          "code": "C"
-        },
-        {
-          "name": "Drayton Manor High School",
-          "address": "Drayton Bridge Road, London, W7 1EU",
+          "name": "De La Salle School and Language College",
+          "address": "Ghyllgrove, Basildon, Essex, SS14 2LA",
           "code": "D"
         },
         {
-          "name": "The Fulham Boys' School",
-          "address": "Mund Street, Gibbs Green, London, W14 9LY",
-          "code": "F"
+          "name": "St Ursula's Convent School",
+          "address": "70 Croom's Hill, Greenwich, London, SE10 8HN",
+          "code": "U"
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "London, South East",
+      "accrediting": "UCL, University College London (University of London",
+      "subjects": "English, Secondary",
+      "ageRange": "Secondary (11+ years)",
+      "name": "English",
+      "slug": "english",
+      "route": "School Direct training programme",
+      "qualifications": "QTS, Postgraduate, Professional",
+      "providerCode": "134",
+      "programmeCode": "2YCM",
+      "schools": [
+        {
+          "name": "Saint John Bosco College",
+          "address": "Parkham Street, Battersea, London, SW11 3DQ",
+          "code": "3"
         },
         {
-          "name": "Hammersmith Academy W12 9JD",
-          "address": "25 Cathnor Road, Hammersmith, London, W12 9JD",
-          "code": "H"
+          "name": "La Retraite Roman Catholic Girls' School",
+          "address": "Atkins Road, London, SW12 0AB",
+          "code": "4"
         },
         {
-          "name": "Lady Margaret School SW6 4UN",
-          "address": "Parsons Green, London, SW6 4UN",
+          "name": "St Columba's Catholic Boys' School",
+          "address": "Halcot Avenue, Bexleyheath, Kent, DA6 7QB",
           "code": "L"
-        },
-        {
-          "name": "St Mark's Roman Catholic School",
-          "address": "106 Bath Road, Hounslow, TW3 3EJ",
-          "code": "M"
         }
       ],
       "options": [
@@ -315,18 +491,13 @@
       "slug": "english",
       "route": "School Direct training programme (salaried)",
       "qualifications": "QTS",
-      "providerCode": "2BV",
-      "programmeCode": "2XVP",
+      "providerCode": "134",
+      "programmeCode": "2QDR",
       "schools": [
         {
-          "name": "The Fulham Boys' School",
-          "address": "Mund Street, Gibbs Green, London, W14 9LY",
-          "code": "F"
-        },
-        {
-          "name": "Hammersmith Academy W12 9JD",
-          "address": "25 Cathnor Road, Hammersmith, London, W12 9JD",
-          "code": "H"
+          "name": "St Mary's Catholic High School",
+          "address": "Woburn Road, Croydon, CR9 2EE",
+          "code": "S"
         }
       ],
       "options": [
@@ -334,7 +505,56 @@
       ]
     },
     {
-      "regions": "London",
+      "regions": "London, South East",
+      "accrediting": "Goldsmiths, University of London",
+      "subjects": "English, Secondary",
+      "ageRange": "Secondary (11+ years)",
+      "name": "English",
+      "slug": "english",
+      "route": "School Direct training programme",
+      "qualifications": "QTS, Postgraduate, Professional",
+      "providerCode": "134",
+      "programmeCode": "2HDL",
+      "schools": [
+        {
+          "name": "Bonus Pastor Catholic College",
+          "address": "Winlaton Road, Bromley, BR1 5PZ",
+          "code": "B"
+        },
+        {
+          "name": "Virgo Fidelis Convent Senior School",
+          "address": "Upper Norwood, London, SE19 1RS",
+          "code": "V"
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "South East",
+      "accrediting": "UCL, University College London (University of London",
+      "subjects": "Drama and theatre studies, English, Secondary",
+      "ageRange": "Secondary (11+ years)",
+      "name": "English (with Drama)",
+      "slug": "english-with-drama",
+      "route": "School Direct training programme",
+      "qualifications": "QTS, Postgraduate, Professional",
+      "providerCode": "134",
+      "programmeCode": "2YCL",
+      "schools": [
+        {
+          "name": "St Catherine's Catholic School for Girls",
+          "address": "Watling Street, Bexleyheath, Kent, DA6 7QJ",
+          "code": "C"
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "London, South East",
       "accrediting": "St Mary's University, Twickenham",
       "subjects": "Geography, Secondary",
       "ageRange": "Secondary (11+ years)",
@@ -342,33 +562,23 @@
       "slug": "geography",
       "route": "School Direct training programme",
       "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "2BV",
-      "programmeCode": "2XVS",
+      "providerCode": "134",
+      "programmeCode": "2HDP",
       "schools": [
         {
-          "name": "Sacred Heart High School",
-          "address": "212 Hammersmith Road, London, W6 7DG",
-          "code": "1"
-        },
-        {
-          "name": "Chelsea Academy SW10 0AB",
-          "address": "Lots Road, Chelsea, London, SW10 0AB",
+          "name": "St Catherine's Catholic School for Girls",
+          "address": "Watling Street, Bexleyheath, Kent, DA6 7QJ",
           "code": "C"
         },
         {
-          "name": "Drayton Manor High School",
-          "address": "Drayton Bridge Road, London, W7 1EU",
-          "code": "D"
+          "name": "St Columba's Catholic Boys' School",
+          "address": "Halcot Avenue, Bexleyheath, Kent, DA6 7QB",
+          "code": "L"
         },
         {
-          "name": "The Fulham Boys' School",
-          "address": "Mund Street, Gibbs Green, London, W14 9LY",
-          "code": "F"
-        },
-        {
-          "name": "Hammersmith Academy W12 9JD",
-          "address": "25 Cathnor Road, Hammersmith, London, W12 9JD",
-          "code": "H"
+          "name": "Virgo Fidelis Convent Senior School",
+          "address": "Upper Norwood, London, SE19 1RS",
+          "code": "V"
         }
       ],
       "options": [
@@ -376,7 +586,34 @@
       ]
     },
     {
-      "regions": "London",
+      "regions": "London, South East",
+      "accrediting": "UCL, University College London (University of London",
+      "subjects": "Geography, Secondary",
+      "ageRange": "Secondary (11+ years)",
+      "name": "Geography",
+      "slug": "geography",
+      "route": "School Direct training programme",
+      "qualifications": "QTS, Postgraduate, Professional",
+      "providerCode": "134",
+      "programmeCode": "2YCS",
+      "schools": [
+        {
+          "name": "Bonus Pastor Catholic College",
+          "address": "Winlaton Road, Bromley, BR1 5PZ",
+          "code": "B"
+        },
+        {
+          "name": "St Ursula's Convent School",
+          "address": "70 Croom's Hill, Greenwich, London, SE10 8HN",
+          "code": "U"
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "London, South East",
       "accrediting": "St Mary's University, Twickenham",
       "subjects": "History, Secondary",
       "ageRange": "Secondary (11+ years)",
@@ -384,18 +621,18 @@
       "slug": "history",
       "route": "School Direct training programme",
       "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "2BV",
-      "programmeCode": "2XVZ",
+      "providerCode": "134",
+      "programmeCode": "2HDS",
       "schools": [
         {
-          "name": "Sacred Heart High School",
-          "address": "212 Hammersmith Road, London, W6 7DG",
-          "code": "1"
+          "name": "Bonus Pastor Catholic College",
+          "address": "Winlaton Road, Bromley, BR1 5PZ",
+          "code": "B"
         },
         {
-          "name": "Chelsea Academy SW10 0AB",
-          "address": "Lots Road, Chelsea, London, SW10 0AB",
-          "code": "C"
+          "name": "Virgo Fidelis Convent Senior School",
+          "address": "Upper Norwood, London, SE19 1RS",
+          "code": "V"
         }
       ],
       "options": [
@@ -403,7 +640,7 @@
       ]
     },
     {
-      "regions": "London",
+      "regions": "London, South East",
       "accrediting": "St Mary's University, Twickenham",
       "subjects": "Mathematics, Secondary",
       "ageRange": "Secondary (11+ years)",
@@ -411,48 +648,23 @@
       "slug": "mathematics",
       "route": "School Direct training programme",
       "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "2BV",
-      "programmeCode": "2XW2",
+      "providerCode": "134",
+      "programmeCode": "2HDW",
       "schools": [
         {
-          "name": "Sacred Heart High School",
-          "address": "212 Hammersmith Road, London, W6 7DG",
-          "code": "1"
+          "name": "Bishop Thomas Grant Catholic Secondary School",
+          "address": "Belltrees Grove, London, SW16 2HY",
+          "code": "5"
         },
         {
-          "name": "Fulham Cross Girls' School",
-          "address": "Munster Road, Fulham, SW6 6BP",
-          "code": "3"
-        },
-        {
-          "name": "Fulham College Boys' School SW6 6SN",
-          "address": "Kingswood Road, London, SW6 6SN",
-          "code": "4"
-        },
-        {
-          "name": "Chelsea Academy SW10 0AB",
-          "address": "Lots Road, Chelsea, London, SW10 0AB",
+          "name": "St Catherine's Catholic School for Girls",
+          "address": "Watling Street, Bexleyheath, Kent, DA6 7QJ",
           "code": "C"
         },
         {
-          "name": "Drayton Manor High School",
-          "address": "Drayton Bridge Road, London, W7 1EU",
-          "code": "D"
-        },
-        {
-          "name": "The Fulham Boys' School",
-          "address": "Mund Street, Gibbs Green, London, W14 9LY",
-          "code": "F"
-        },
-        {
-          "name": "Hammersmith Academy W12 9JD",
-          "address": "25 Cathnor Road, Hammersmith, London, W12 9JD",
-          "code": "H"
-        },
-        {
-          "name": "St Mark's Roman Catholic School",
-          "address": "106 Bath Road, Hounslow, TW3 3EJ",
-          "code": "M"
+          "name": "St Columba's Catholic Boys' School",
+          "address": "Halcot Avenue, Bexleyheath, Kent, DA6 7QB",
+          "code": "L"
         }
       ],
       "options": [
@@ -468,23 +680,13 @@
       "slug": "mathematics",
       "route": "School Direct training programme (salaried)",
       "qualifications": "QTS",
-      "providerCode": "2BV",
-      "programmeCode": "2XW3",
+      "providerCode": "134",
+      "programmeCode": "2H6F",
       "schools": [
         {
-          "name": "The Fulham Boys' School",
-          "address": "Mund Street, Gibbs Green, London, W14 9LY",
-          "code": "F"
-        },
-        {
-          "name": "Hammersmith Academy W12 9JD",
-          "address": "25 Cathnor Road, Hammersmith, London, W12 9JD",
-          "code": "H"
-        },
-        {
-          "name": "William Morris Sixth Form",
-          "address": "St Dunstan's Road, London, W6 8RB",
-          "code": "W"
+          "name": "St Mary's Catholic High School",
+          "address": "Woburn Road, Croydon, CR9 2EE",
+          "code": "S"
         }
       ],
       "options": [
@@ -492,31 +694,31 @@
       ]
     },
     {
-      "regions": "London",
-      "accrediting": "St Mary's University, Twickenham",
-      "subjects": "French, Languages, Languages (european), Secondary, Spanish",
+      "regions": "London, South East",
+      "accrediting": "King's College London (University of London",
+      "subjects": "Mathematics, Secondary",
       "ageRange": "Secondary (11+ years)",
-      "name": "Modern Languages (French and Spanish)",
-      "slug": "modern-languages-french-and-spanish",
+      "name": "Mathematics",
+      "slug": "mathematics",
       "route": "School Direct training programme",
       "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "2BV",
-      "programmeCode": "2XW5",
+      "providerCode": "134",
+      "programmeCode": "2QFM",
       "schools": [
         {
-          "name": "Sacred Heart High School",
-          "address": "212 Hammersmith Road, London, W6 7DG",
-          "code": "1"
+          "name": "Bishop Thomas Grant Catholic Secondary School",
+          "address": "Belltrees Grove, London, SW16 2HY",
+          "code": "5"
         },
         {
-          "name": "Fulham Cross Girls' School",
-          "address": "Munster Road, Fulham, SW6 6BP",
-          "code": "3"
+          "name": "Bonus Pastor Catholic College",
+          "address": "Winlaton Road, Bromley, BR1 5PZ",
+          "code": "B"
         },
         {
-          "name": "Chelsea Academy SW10 0AB",
-          "address": "Lots Road, Chelsea, London, SW10 0AB",
-          "code": "C"
+          "name": "De La Salle School and Language College",
+          "address": "Ghyllgrove, Basildon, Essex, SS14 2LA",
+          "code": "D"
         }
       ],
       "options": [
@@ -525,6 +727,151 @@
     },
     {
       "regions": "London",
+      "accrediting": "UCL, University College London (University of London",
+      "subjects": "Mathematics, Secondary",
+      "ageRange": "Secondary (11+ years)",
+      "name": "Mathematics",
+      "slug": "mathematics",
+      "route": "School Direct training programme",
+      "qualifications": "QTS, Postgraduate, Professional",
+      "providerCode": "134",
+      "programmeCode": "2YCQ",
+      "schools": [
+        {
+          "name": "Saint John Bosco College",
+          "address": "Parkham Street, Battersea, London, SW11 3DQ",
+          "code": "3"
+        },
+        {
+          "name": "La Retraite Roman Catholic Girls' School",
+          "address": "Atkins Road, London, SW12 0AB",
+          "code": "4"
+        },
+        {
+          "name": "St Michael's Catholic College",
+          "address": "Llewellyn Street, Bermondsey, London, SE16 4UN",
+          "code": "M"
+        },
+        {
+          "name": "St Thomas the Apostle",
+          "address": "Hollydale Road,, Nunhead,, London, SE15 2EB",
+          "code": "T"
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "London, South East",
+      "accrediting": "King's College London (University of London",
+      "subjects": "Languages, Secondary",
+      "ageRange": "Secondary (11+ years)",
+      "name": "Modern Languages",
+      "slug": "modern-languages",
+      "route": "School Direct training programme",
+      "qualifications": "QTS, Postgraduate, Professional",
+      "providerCode": "134",
+      "programmeCode": "2HDY",
+      "schools": [
+        {
+          "name": "De La Salle School and Language College",
+          "address": "Ghyllgrove, Basildon, Essex, SS14 2LA",
+          "code": "D"
+        },
+        {
+          "name": "Virgo Fidelis Convent Senior School",
+          "address": "Upper Norwood, London, SE19 1RS",
+          "code": "V"
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "South East",
+      "accrediting": "UCL, University College London (University of London",
+      "subjects": "Languages, Secondary",
+      "ageRange": "Secondary (11+ years)",
+      "name": "Modern Languages",
+      "slug": "modern-languages",
+      "route": "School Direct training programme",
+      "qualifications": "QTS, Postgraduate, Professional",
+      "providerCode": "134",
+      "programmeCode": "35XY",
+      "schools": [
+        {
+          "name": "De La Salle School and Language College",
+          "address": "Ghyllgrove, Basildon, Essex, SS14 2LA",
+          "code": "D"
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "London, South East",
+      "accrediting": "St Mary's University, Twickenham",
+      "subjects": "French, Languages, Languages (european), Secondary, Spanish",
+      "ageRange": "Secondary (11+ years)",
+      "name": "Modern Languages (French with Spanish)",
+      "slug": "modern-languages-french-with-spanish",
+      "route": "School Direct training programme",
+      "qualifications": "QTS, Postgraduate, Professional",
+      "providerCode": "134",
+      "programmeCode": "2HF3",
+      "schools": [
+        {
+          "name": "Bishop Thomas Grant Catholic Secondary School",
+          "address": "Belltrees Grove, London, SW16 2HY",
+          "code": "5"
+        },
+        {
+          "name": "Bonus Pastor Catholic College",
+          "address": "Winlaton Road, Bromley, BR1 5PZ",
+          "code": "B"
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "London, South East",
+      "accrediting": "UCL, University College London (University of London",
+      "subjects": "Music, Secondary",
+      "ageRange": "Secondary (11+ years)",
+      "name": "Music",
+      "slug": "music",
+      "route": "School Direct training programme",
+      "qualifications": "QTS, Postgraduate, Professional",
+      "providerCode": "134",
+      "programmeCode": "2YCR",
+      "schools": [
+        {
+          "name": "Bonus Pastor Catholic College",
+          "address": "Winlaton Road, Bromley, BR1 5PZ",
+          "code": "B"
+        },
+        {
+          "name": "St Catherine's Catholic School for Girls",
+          "address": "Watling Street, Bexleyheath, Kent, DA6 7QJ",
+          "code": "C"
+        },
+        {
+          "name": "Virgo Fidelis Convent Senior School",
+          "address": "Upper Norwood, London, SE19 1RS",
+          "code": "V"
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "London, South East",
       "accrediting": "St Mary's University, Twickenham",
       "subjects": "Physical education, Secondary",
       "ageRange": "Secondary (11+ years)",
@@ -532,13 +879,28 @@
       "slug": "physical-education",
       "route": "School Direct training programme",
       "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "2BV",
-      "programmeCode": "2Y38",
+      "providerCode": "134",
+      "programmeCode": "2HFD",
       "schools": [
         {
-          "name": "Sacred Heart High School",
-          "address": "212 Hammersmith Road, London, W6 7DG",
-          "code": "1"
+          "name": "Bonus Pastor Catholic College",
+          "address": "Winlaton Road, Bromley, BR1 5PZ",
+          "code": "B"
+        },
+        {
+          "name": "St Columba's Catholic Boys' School",
+          "address": "Halcot Avenue, Bexleyheath, Kent, DA6 7QB",
+          "code": "L"
+        },
+        {
+          "name": "St Ursula's Convent School",
+          "address": "70 Croom's Hill, Greenwich, London, SE10 8HN",
+          "code": "U"
+        },
+        {
+          "name": "Virgo Fidelis Convent Senior School",
+          "address": "Upper Norwood, London, SE19 1RS",
+          "code": "V"
         }
       ],
       "options": [
@@ -546,51 +908,63 @@
       ]
     },
     {
-      "regions": "London",
-      "accrediting": "St Mary's University, Twickenham",
+      "regions": "London, South East",
+      "accrediting": "King's College London (University of London",
       "subjects": "Physics, Science, Secondary",
       "ageRange": "Secondary (11+ years)",
       "name": "Physics",
       "slug": "physics",
       "route": "School Direct training programme",
       "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "2BV",
-      "programmeCode": "2XW6",
+      "providerCode": "134",
+      "programmeCode": "2HFF",
       "schools": [
         {
-          "name": "Sacred Heart High School",
-          "address": "212 Hammersmith Road, London, W6 7DG",
-          "code": "1"
+          "name": "Saint John Bosco College",
+          "address": "Parkham Street, Battersea, London, SW11 3DQ",
+          "code": "3"
         },
         {
-          "name": "Fulham College Boys' School SW6 6SN",
-          "address": "Kingswood Road, London, SW6 6SN",
-          "code": "4"
-        },
-        {
-          "name": "Drayton Manor High School",
-          "address": "Drayton Bridge Road, London, W7 1EU",
-          "code": "D"
-        },
-        {
-          "name": "The Fulham Boys' School",
-          "address": "Mund Street, Gibbs Green, London, W14 9LY",
-          "code": "F"
-        },
-        {
-          "name": "Hammersmith Academy W12 9JD",
-          "address": "25 Cathnor Road, Hammersmith, London, W12 9JD",
-          "code": "H"
-        },
-        {
-          "name": "Lady Margaret School SW6 4UN",
-          "address": "Parsons Green, London, SW6 4UN",
+          "name": "St Columba's Catholic Boys' School",
+          "address": "Halcot Avenue, Bexleyheath, Kent, DA6 7QB",
           "code": "L"
         },
         {
-          "name": "St Mark's Roman Catholic School",
-          "address": "106 Bath Road, Hounslow, TW3 3EJ",
+          "name": "St Michael's Catholic College",
+          "address": "Llewellyn Street, Bermondsey, London, SE16 4UN",
           "code": "M"
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "London, South East",
+      "accrediting": "UCL, University College London (University of London",
+      "subjects": "Physics, Science, Secondary",
+      "ageRange": "Secondary (11+ years)",
+      "name": "Physics",
+      "slug": "physics",
+      "route": "School Direct training programme",
+      "qualifications": "QTS, Postgraduate, Professional",
+      "providerCode": "134",
+      "programmeCode": "2YCT",
+      "schools": [
+        {
+          "name": "La Retraite Roman Catholic Girls' School",
+          "address": "Atkins Road, London, SW12 0AB",
+          "code": "4"
+        },
+        {
+          "name": "De La Salle School and Language College",
+          "address": "Ghyllgrove, Basildon, Essex, SS14 2LA",
+          "code": "D"
+        },
+        {
+          "name": "St Thomas the Apostle",
+          "address": "Hollydale Road,, Nunhead,, London, SE15 2EB",
+          "code": "T"
         }
       ],
       "options": [
@@ -606,17 +980,290 @@
       "slug": "physics",
       "route": "School Direct training programme (salaried)",
       "qualifications": "QTS",
-      "providerCode": "2BV",
-      "programmeCode": "2XW7",
+      "providerCode": "134",
+      "programmeCode": "2H6Y",
       "schools": [
         {
-          "name": "The Fulham Boys' School",
-          "address": "Mund Street, Gibbs Green, London, W14 9LY",
-          "code": "F"
+          "name": "St Mary's Catholic High School",
+          "address": "Woburn Road, Croydon, CR9 2EE",
+          "code": "S"
         }
       ],
       "options": [
         "QTS full time with salary"
+      ]
+    },
+    {
+      "regions": "London, South East",
+      "accrediting": "St Mary's University, Twickenham",
+      "subjects": "Physics, Science, Secondary",
+      "ageRange": "Secondary (11+ years)",
+      "name": "Physics",
+      "slug": "physics",
+      "route": "School Direct training programme",
+      "qualifications": "QTS, Postgraduate, Professional",
+      "providerCode": "134",
+      "programmeCode": "2HFH",
+      "schools": [
+        {
+          "name": "Bishop Thomas Grant Catholic Secondary School",
+          "address": "Belltrees Grove, London, SW16 2HY",
+          "code": "5"
+        },
+        {
+          "name": "Bonus Pastor Catholic College",
+          "address": "Winlaton Road, Bromley, BR1 5PZ",
+          "code": "B"
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "London",
+      "accrediting": "UCL, University College London (University of London",
+      "subjects": "Primary",
+      "ageRange": "Primary (c3 - 11/12 years)",
+      "name": "Primary",
+      "slug": "primary",
+      "route": "School Direct training programme (salaried)",
+      "qualifications": "QTS",
+      "providerCode": "134",
+      "programmeCode": "2YD7",
+      "schools": [
+        {
+          "name": "St James the Great Primary School",
+          "address": "Peckham Road,, Peckham, London, SE15 5LP",
+          "code": "G"
+        }
+      ],
+      "options": [
+        "QTS full time with salary"
+      ]
+    },
+    {
+      "regions": "London",
+      "accrediting": "St Mary's University, Twickenham",
+      "subjects": "Primary",
+      "ageRange": "Primary (c3 - 11/12 years)",
+      "name": "Primary",
+      "slug": "primary",
+      "route": "School Direct training programme (salaried)",
+      "qualifications": "QTS",
+      "providerCode": "134",
+      "programmeCode": "2H74",
+      "schools": [
+        {
+          "name": "St William of York Catholic Primary School",
+          "address": "Brockley Park, London, SE23 1PS",
+          "code": "6"
+        },
+        {
+          "name": "St Joseph's",
+          "address": "George Row, Bermondsey, Soutwark, London, SE16 4UP",
+          "code": "O"
+        },
+        {
+          "name": "St Patrick's Catholic Primary School",
+          "address": "Griffin Road, Plumstead, London, SE18 7QJ",
+          "code": "P"
+        }
+      ],
+      "options": [
+        "QTS full time with salary"
+      ]
+    },
+    {
+      "regions": "South East",
+      "accrediting": "Goldsmiths, University of London",
+      "subjects": "Primary",
+      "ageRange": "Primary (c3 - 11/12 years)",
+      "name": "Primary",
+      "slug": "primary",
+      "route": "School Direct training programme (salaried)",
+      "qualifications": "QTS, Postgraduate, Professional",
+      "providerCode": "134",
+      "programmeCode": "2QPJ",
+      "schools": [
+        {
+          "name": "St Fidelis Catholic Primary School",
+          "address": "Bexley Road, Erith, Kent, DA8 3HQ",
+          "code": "E"
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time with salary"
+      ]
+    },
+    {
+      "regions": "South East",
+      "accrediting": "St Mary's University, Twickenham",
+      "subjects": "Primary",
+      "ageRange": "Primary (c3 - 11/12 years)",
+      "name": "Primary",
+      "slug": "primary",
+      "route": "School Direct training programme",
+      "qualifications": "QTS, Postgraduate, Professional",
+      "providerCode": "134",
+      "programmeCode": "2QQ2",
+      "schools": [
+        {
+          "name": "St Peter Chanel Catholic Primary School - Sidcup",
+          "address": "Baugh Road, Rectory Lane, Sidcup, Kent, DA14 5ED",
+          "code": "1"
+        },
+        {
+          "name": "Our Lady of the Rosary Catholic Primary School, Sidcup",
+          "address": "Holbeach Gardens, Sidcup, Kent, DA15 8QW",
+          "code": "2"
+        },
+        {
+          "name": "St John Fisher Catholic Primary School",
+          "address": "Kale Road, Erith, Kent, DA18 4BA",
+          "code": "I"
+        },
+        {
+          "name": "St Stephen's Catholic Primary School",
+          "address": "Ruskin Avenue, Welling, Kent, DA16 3QG",
+          "code": "W"
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "London, South East",
+      "accrediting": "Goldsmiths, University of London",
+      "subjects": "Primary",
+      "ageRange": "Primary (c3 - 11/12 years)",
+      "name": "Primary",
+      "slug": "primary",
+      "route": "School Direct training programme",
+      "qualifications": "QTS, Postgraduate, Professional",
+      "providerCode": "134",
+      "programmeCode": "2HFJ",
+      "schools": [
+        {
+          "name": "Our Lady of the Rosary Catholic Primary School, Sidcup",
+          "address": "Holbeach Gardens, Sidcup, Kent, DA15 8QW",
+          "code": "2"
+        },
+        {
+          "name": "St Fidelis Catholic Primary School",
+          "address": "Bexley Road, Erith, Kent, DA8 3HQ",
+          "code": "E"
+        },
+        {
+          "name": "St John Fisher Catholic Primary School",
+          "address": "Kale Road, Erith, Kent, DA18 4BA",
+          "code": "I"
+        },
+        {
+          "name": "St Joseph's",
+          "address": "George Row, Bermondsey, Soutwark, London, SE16 4UP",
+          "code": "O"
+        },
+        {
+          "name": "St Patrick's Catholic Primary School",
+          "address": "Griffin Road, Plumstead, London, SE18 7QJ",
+          "code": "P"
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "London, South East",
+      "accrediting": "UCL, University College London (University of London",
+      "subjects": "Primary",
+      "ageRange": "Primary (c3 - 11/12 years)",
+      "name": "Primary",
+      "slug": "primary",
+      "route": "School Direct training programme",
+      "qualifications": "QTS, Postgraduate, Professional",
+      "providerCode": "134",
+      "programmeCode": "2YCX",
+      "schools": [
+        {
+          "name": "St Peter Chanel Catholic Primary School - Sidcup",
+          "address": "Baugh Road, Rectory Lane, Sidcup, Kent, DA14 5ED",
+          "code": "1"
+        },
+        {
+          "name": "St James the Great Primary School",
+          "address": "Peckham Road,, Peckham, London, SE15 5LP",
+          "code": "G"
+        },
+        {
+          "name": "St John's Catholic Primary School",
+          "address": "St Elmo's Road, Rotherhithe, London, SE16 6SD",
+          "code": "J"
+        },
+        {
+          "name": "St Stephen's Catholic Primary School",
+          "address": "Ruskin Avenue, Welling, Kent, DA16 3QG",
+          "code": "W"
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "South East",
+      "accrediting": "UCL, University College London (University of London",
+      "subjects": "Mathematics, Primary",
+      "ageRange": "Primary (c3 - 11/12 years)",
+      "name": "Primary Mathematics Specialist",
+      "slug": "primary-mathematics-specialist",
+      "route": "School Direct training programme",
+      "qualifications": "QTS, Postgraduate, Professional",
+      "providerCode": "134",
+      "programmeCode": "365H",
+      "schools": [
+        {
+          "name": "St James' Roman Catholic Primary School",
+          "address": "Maybury Close, Petts Wood, Orpington, Kent, BR5 1BL",
+          "code": "A"
+        },
+        {
+          "name": "St Joseph's Catholic Primary - Crayford",
+          "address": "Old Road, Crayford, Kent, DA1 4DZ",
+          "code": "Z"
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "South East",
+      "accrediting": "St Mary's University, Twickenham",
+      "subjects": "Physical education, Primary",
+      "ageRange": "Primary (c3 - 11/12 years)",
+      "name": "Primary Physical Education Specialist",
+      "slug": "primary-physical-education-specialist",
+      "route": "School Direct training programme",
+      "qualifications": "QTS, Postgraduate, Professional",
+      "providerCode": "134",
+      "programmeCode": "364X",
+      "schools": [
+        {
+          "name": "St James' Roman Catholic Primary School",
+          "address": "Maybury Close, Petts Wood, Orpington, Kent, BR5 1BL",
+          "code": "A"
+        },
+        {
+          "name": "St Joseph's Catholic Primary - Crayford",
+          "address": "Old Road, Crayford, Kent, DA1 4DZ",
+          "code": "Z"
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
       ]
     },
     {
@@ -627,14 +1274,36 @@
       "name": "Psychology",
       "slug": "psychology",
       "route": "School Direct training programme",
-      "qualifications": "QTS, Postgraduate",
-      "providerCode": "2BV",
-      "programmeCode": "36CJ",
+      "qualifications": "QTS, Postgraduate, Professional",
+      "providerCode": "134",
+      "programmeCode": "35XW",
       "schools": [
         {
-          "name": "Chelsea Academy SW10 0AB",
-          "address": "Lots Road, Chelsea, London, SW10 0AB",
-          "code": "C"
+          "name": "Bishop Thomas Grant Catholic Secondary School",
+          "address": "Belltrees Grove, London, SW16 2HY",
+          "code": "5"
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "South East",
+      "accrediting": "UCL, University College London (University of London",
+      "subjects": "Religious education, Secondary",
+      "ageRange": "Secondary (11+ years)",
+      "name": "Religious Education",
+      "slug": "religious-education",
+      "route": "School Direct training programme",
+      "qualifications": "QTS, Postgraduate, Professional",
+      "providerCode": "134",
+      "programmeCode": "2YCW",
+      "schools": [
+        {
+          "name": "De La Salle School and Language College",
+          "address": "Ghyllgrove, Basildon, Essex, SS14 2LA",
+          "code": "D"
         }
       ],
       "options": [
@@ -643,6 +1312,33 @@
     },
     {
       "regions": "London",
+      "accrediting": "King's College London (University of London",
+      "subjects": "Religious education, Secondary",
+      "ageRange": "Secondary (11+ years)",
+      "name": "Religious Education",
+      "slug": "religious-education",
+      "route": "School Direct training programme",
+      "qualifications": "QTS, Postgraduate, Professional",
+      "providerCode": "134",
+      "programmeCode": "2HFW",
+      "schools": [
+        {
+          "name": "Saint John Bosco College",
+          "address": "Parkham Street, Battersea, London, SW11 3DQ",
+          "code": "3"
+        },
+        {
+          "name": "St Ursula's Convent School",
+          "address": "70 Croom's Hill, Greenwich, London, SE10 8HN",
+          "code": "U"
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "London, South East",
       "accrediting": "St Mary's University, Twickenham",
       "subjects": "Religious education, Secondary",
       "ageRange": "Secondary (11+ years)",
@@ -650,23 +1346,33 @@
       "slug": "religious-education",
       "route": "School Direct training programme",
       "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "2BV",
-      "programmeCode": "2XW8",
+      "providerCode": "134",
+      "programmeCode": "2HFY",
       "schools": [
         {
-          "name": "Sacred Heart High School",
-          "address": "212 Hammersmith Road, London, W6 7DG",
-          "code": "1"
+          "name": "La Retraite Roman Catholic Girls' School",
+          "address": "Atkins Road, London, SW12 0AB",
+          "code": "4"
         },
         {
-          "name": "Chelsea Academy SW10 0AB",
-          "address": "Lots Road, Chelsea, London, SW10 0AB",
-          "code": "C"
+          "name": "Bishop Thomas Grant Catholic Secondary School",
+          "address": "Belltrees Grove, London, SW16 2HY",
+          "code": "5"
         },
         {
-          "name": "St Mark's Roman Catholic School",
-          "address": "106 Bath Road, Hounslow, TW3 3EJ",
-          "code": "M"
+          "name": "Bonus Pastor Catholic College",
+          "address": "Winlaton Road, Bromley, BR1 5PZ",
+          "code": "B"
+        },
+        {
+          "name": "St Columba's Catholic Boys' School",
+          "address": "Halcot Avenue, Bexleyheath, Kent, DA6 7QB",
+          "code": "L"
+        },
+        {
+          "name": "St Thomas the Apostle",
+          "address": "Hollydale Road,, Nunhead,, London, SE15 2EB",
+          "code": "T"
         }
       ],
       "options": [
@@ -682,13 +1388,13 @@
       "slug": "religious-education",
       "route": "School Direct training programme (salaried)",
       "qualifications": "QTS",
-      "providerCode": "2BV",
-      "programmeCode": "36CW",
+      "providerCode": "134",
+      "programmeCode": "2QH3",
       "schools": [
         {
-          "name": "The Fulham Boys' School",
-          "address": "Mund Street, Gibbs Green, London, W14 9LY",
-          "code": "F"
+          "name": "St Mary's Catholic High School",
+          "address": "Woburn Road, Croydon, CR9 2EE",
+          "code": "S"
         }
       ],
       "options": [
@@ -698,72 +1404,192 @@
   ],
   "schools": [
     {
-      "name": "Chelsea Academy SW10 0AB",
-      "address": "Lots Road, Chelsea, London, SW10 0AB",
-      "code": "C"
+      "name": "Bishop Thomas Grant Catholic Secondary School",
+      "address": "Belltrees Grove, London, SW16 2HY",
+      "code": "5"
     },
     {
-      "name": "Drayton Manor High School",
-      "address": "Drayton Bridge Road, London, W7 1EU",
+      "name": "Bonus Pastor Catholic College",
+      "address": "Winlaton Road, Bromley, BR1 5PZ",
+      "code": "B"
+    },
+    {
+      "name": "De La Salle School and Language College",
+      "address": "Ghyllgrove, Basildon, Essex, SS14 2LA",
       "code": "D"
     },
     {
-      "name": "Fulham College Boys' School SW6 6SN",
-      "address": "Kingswood Road, London, SW6 6SN",
+      "name": "La Retraite Roman Catholic Girls' School",
+      "address": "Atkins Road, London, SW12 0AB",
       "code": "4"
     },
     {
-      "name": "Fulham Cross Girls' School",
-      "address": "Munster Road, Fulham, SW6 6BP",
+      "name": "Our Lady of the Rosary Catholic Primary School, Sidcup",
+      "address": "Holbeach Gardens, Sidcup, Kent, DA15 8QW",
+      "code": "2"
+    },
+    {
+      "name": "Saint John Bosco College",
+      "address": "Parkham Street, Battersea, London, SW11 3DQ",
       "code": "3"
     },
     {
-      "name": "Hammersmith Academy W12 9JD",
-      "address": "25 Cathnor Road, Hammersmith, London, W12 9JD",
-      "code": "H"
+      "name": "St Catherine's Catholic School for Girls",
+      "address": "Watling Street, Bexleyheath, Kent, DA6 7QJ",
+      "code": "C"
     },
     {
-      "name": "Lady Margaret School SW6 4UN",
-      "address": "Parsons Green, London, SW6 4UN",
+      "name": "St Columba's Catholic Boys' School",
+      "address": "Halcot Avenue, Bexleyheath, Kent, DA6 7QB",
       "code": "L"
     },
     {
-      "name": "Sacred Heart High School",
-      "address": "212 Hammersmith Road, London, W6 7DG",
-      "code": "1"
+      "name": "St Fidelis Catholic Primary School",
+      "address": "Bexley Road, Erith, Kent, DA8 3HQ",
+      "code": "E"
     },
     {
-      "name": "St Mark's Roman Catholic School",
-      "address": "106 Bath Road, Hounslow, TW3 3EJ",
+      "name": "St James the Great Primary School",
+      "address": "Peckham Road,, Peckham, London, SE15 5LP",
+      "code": "G"
+    },
+    {
+      "name": "St James' Roman Catholic Primary School",
+      "address": "Maybury Close, Petts Wood, Orpington, Kent, BR5 1BL",
+      "code": "A"
+    },
+    {
+      "name": "St John Fisher Catholic Primary School",
+      "address": "Kale Road, Erith, Kent, DA18 4BA",
+      "code": "I"
+    },
+    {
+      "name": "St John's Catholic Primary School",
+      "address": "St Elmo's Road, Rotherhithe, London, SE16 6SD",
+      "code": "J"
+    },
+    {
+      "name": "St Joseph's",
+      "address": "George Row, Bermondsey, Soutwark, London, SE16 4UP",
+      "code": "O"
+    },
+    {
+      "name": "St Joseph's Catholic Primary - Crayford",
+      "address": "Old Road, Crayford, Kent, DA1 4DZ",
+      "code": "Z"
+    },
+    {
+      "name": "St Mary's Catholic High School",
+      "address": "Woburn Road, Croydon, CR9 2EE",
+      "code": "S"
+    },
+    {
+      "name": "St Michael's Catholic College",
+      "address": "Llewellyn Street, Bermondsey, London, SE16 4UN",
       "code": "M"
     },
     {
-      "name": "The Fulham Boys' School",
-      "address": "Mund Street, Gibbs Green, London, W14 9LY",
-      "code": "F"
+      "name": "St Patrick's Catholic Primary School",
+      "address": "Griffin Road, Plumstead, London, SE18 7QJ",
+      "code": "P"
     },
     {
-      "name": "William Morris Sixth Form",
-      "address": "St Dunstan's Road, London, W6 8RB",
+      "name": "St Peter Chanel Catholic Primary School - Sidcup",
+      "address": "Baugh Road, Rectory Lane, Sidcup, Kent, DA14 5ED",
+      "code": "1"
+    },
+    {
+      "name": "St Stephen's Catholic Primary School",
+      "address": "Ruskin Avenue, Welling, Kent, DA16 3QG",
       "code": "W"
+    },
+    {
+      "name": "St Thomas the Apostle",
+      "address": "Hollydale Road,, Nunhead,, London, SE15 2EB",
+      "code": "T"
+    },
+    {
+      "name": "St Ursula's Convent School",
+      "address": "70 Croom's Hill, Greenwich, London, SE10 8HN",
+      "code": "U"
+    },
+    {
+      "name": "St William of York Catholic Primary School",
+      "address": "Brockley Park, London, SE23 1PS",
+      "code": "6"
+    },
+    {
+      "name": "Virgo Fidelis Convent Senior School",
+      "address": "Upper Norwood, London, SE19 1RS",
+      "code": "V"
     }
   ],
   "accreditors": [
     {
-      "name": "Roehampton University",
-      "slug": "roehampton-university",
+      "name": "Goldsmiths, University of London",
+      "slug": "goldsmiths-university-of-london",
       "subjects": [
+        {
+          "name": "Art and Design",
+          "slug": "art-and-design"
+        },
+        {
+          "name": "Design and Technology (Product Design)",
+          "slug": "design-and-technology-product-design"
+        },
+        {
+          "name": "Design and Technology (Textiles)",
+          "slug": "design-and-technology-textiles"
+        },
+        {
+          "name": "English",
+          "slug": "english"
+        },
+        {
+          "name": "Primary",
+          "slug": "primary"
+        }
+      ]
+    },
+    {
+      "name": "King's College London (University of London",
+      "slug": "king-s-college-london-university-of-london",
+      "subjects": [
+        {
+          "name": "Biology",
+          "slug": "biology"
+        },
+        {
+          "name": "Chemistry",
+          "slug": "chemistry"
+        },
+        {
+          "name": "Classics",
+          "slug": "classics"
+        },
         {
           "name": "Computing",
           "slug": "computing"
         },
         {
-          "name": "Design and Technology",
-          "slug": "design-and-technology"
+          "name": "English",
+          "slug": "english"
         },
         {
-          "name": "Drama",
-          "slug": "drama"
+          "name": "Mathematics",
+          "slug": "mathematics"
+        },
+        {
+          "name": "Modern Languages",
+          "slug": "modern-languages"
+        },
+        {
+          "name": "Physics",
+          "slug": "physics"
+        },
+        {
+          "name": "Religious Education",
+          "slug": "religious-education"
         }
       ]
     },
@@ -796,8 +1622,8 @@
           "slug": "mathematics"
         },
         {
-          "name": "Modern Languages (French and Spanish)",
-          "slug": "modern-languages-french-and-spanish"
+          "name": "Modern Languages (French with Spanish)",
+          "slug": "modern-languages-french-with-spanish"
         },
         {
           "name": "Physical Education",
@@ -806,6 +1632,14 @@
         {
           "name": "Physics",
           "slug": "physics"
+        },
+        {
+          "name": "Primary",
+          "slug": "primary"
+        },
+        {
+          "name": "Primary Physical Education Specialist",
+          "slug": "primary-physical-education-specialist"
         },
         {
           "name": "Religious Education",
@@ -818,18 +1652,74 @@
       "slug": "ucl-university-college-london-university-of-london",
       "subjects": [
         {
+          "name": "Biology",
+          "slug": "biology"
+        },
+        {
           "name": "Business Studies",
           "slug": "business-studies"
         },
         {
+          "name": "Chemistry",
+          "slug": "chemistry"
+        },
+        {
+          "name": "Computing",
+          "slug": "computing"
+        },
+        {
+          "name": "English",
+          "slug": "english"
+        },
+        {
+          "name": "English (with Drama)",
+          "slug": "english-with-drama"
+        },
+        {
+          "name": "Geography",
+          "slug": "geography"
+        },
+        {
+          "name": "Mathematics",
+          "slug": "mathematics"
+        },
+        {
+          "name": "Modern Languages",
+          "slug": "modern-languages"
+        },
+        {
+          "name": "Music",
+          "slug": "music"
+        },
+        {
+          "name": "Physics",
+          "slug": "physics"
+        },
+        {
+          "name": "Primary",
+          "slug": "primary"
+        },
+        {
+          "name": "Primary Mathematics Specialist",
+          "slug": "primary-mathematics-specialist"
+        },
+        {
           "name": "Psychology",
           "slug": "psychology"
+        },
+        {
+          "name": "Religious Education",
+          "slug": "religious-education"
         }
       ]
     }
   ],
   "self_accrediting": false,
   "subjects": [
+    {
+      "name": "Art and Design",
+      "slug": "art-and-design"
+    },
     {
       "name": "Biology",
       "slug": "biology"
@@ -843,20 +1733,28 @@
       "slug": "chemistry"
     },
     {
+      "name": "Classics",
+      "slug": "classics"
+    },
+    {
       "name": "Computing",
       "slug": "computing"
     },
     {
-      "name": "Design and Technology",
-      "slug": "design-and-technology"
+      "name": "Design and Technology (Product Design)",
+      "slug": "design-and-technology-product-design"
     },
     {
-      "name": "Drama",
-      "slug": "drama"
+      "name": "Design and Technology (Textiles)",
+      "slug": "design-and-technology-textiles"
     },
     {
       "name": "English",
       "slug": "english"
+    },
+    {
+      "name": "English (with Drama)",
+      "slug": "english-with-drama"
     },
     {
       "name": "Geography",
@@ -871,8 +1769,16 @@
       "slug": "mathematics"
     },
     {
-      "name": "Modern Languages (French and Spanish)",
-      "slug": "modern-languages-french-and-spanish"
+      "name": "Modern Languages",
+      "slug": "modern-languages"
+    },
+    {
+      "name": "Modern Languages (French with Spanish)",
+      "slug": "modern-languages-french-with-spanish"
+    },
+    {
+      "name": "Music",
+      "slug": "music"
     },
     {
       "name": "Physical Education",
@@ -881,6 +1787,18 @@
     {
       "name": "Physics",
       "slug": "physics"
+    },
+    {
+      "name": "Primary",
+      "slug": "primary"
+    },
+    {
+      "name": "Primary Mathematics Specialist",
+      "slug": "primary-mathematics-specialist"
+    },
+    {
+      "name": "Primary Physical Education Specialist",
+      "slug": "primary-physical-education-specialist"
     },
     {
       "name": "Psychology",
@@ -892,18 +1810,201 @@
     }
   ],
   "folded_courses": {
-    "Roehampton University": [
+    "Goldsmiths, University of London": [
+      {
+        "name": "Art and Design",
+        "courses": 1,
+        "accrediting": [
+          "Goldsmiths, University of London"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Bonus Pastor Catholic College",
+          "Saint John Bosco College",
+          "St Ursula's Convent School",
+          "Virgo Fidelis Convent Senior School"
+        ],
+        "options": [
+          "PGCE with QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Design and Technology (Product Design)",
+        "courses": 1,
+        "accrediting": [
+          "Goldsmiths, University of London"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Saint John Bosco College"
+        ],
+        "options": [
+          "PGCE with QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Design and Technology (Textiles)",
+        "courses": 1,
+        "accrediting": [
+          "Goldsmiths, University of London"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Virgo Fidelis Convent Senior School"
+        ],
+        "options": [
+          "PGCE with QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "English",
+        "courses": 1,
+        "accrediting": [
+          "Goldsmiths, University of London"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Bonus Pastor Catholic College",
+          "Virgo Fidelis Convent Senior School"
+        ],
+        "options": [
+          "PGCE with QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Primary",
+        "courses": 2,
+        "accrediting": [
+          "Goldsmiths, University of London"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Our Lady of the Rosary Catholic Primary School, Sidcup",
+          "St Fidelis Catholic Primary School",
+          "St John Fisher Catholic Primary School",
+          "St Joseph's",
+          "St Patrick's Catholic Primary School"
+        ],
+        "options": [
+          "PGCE with QTS full time",
+          "PGCE with QTS full time with salary"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": true,
+          "qualifications": false
+        }
+      }
+    ],
+    "King's College London (University of London": [
+      {
+        "name": "Biology",
+        "courses": 1,
+        "accrediting": [
+          "King's College London (University of London"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Saint John Bosco College",
+          "Virgo Fidelis Convent Senior School"
+        ],
+        "options": [
+          "PGCE with QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Chemistry",
+        "courses": 1,
+        "accrediting": [
+          "King's College London (University of London"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "De La Salle School and Language College",
+          "St Michael's Catholic College",
+          "St Thomas the Apostle"
+        ],
+        "options": [
+          "PGCE with QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Classics",
+        "courses": 1,
+        "accrediting": [
+          "King's College London (University of London"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Virgo Fidelis Convent Senior School"
+        ],
+        "options": [
+          "PGCE with QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
       {
         "name": "Computing",
         "courses": 1,
         "accrediting": [
-          "Roehampton University"
+          "King's College London (University of London"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
         ],
         "schoolsWithVacancies": [
-          "Drayton Manor High School"
+          "Bishop Thomas Grant Catholic Secondary School",
+          "St Columba's Catholic Boys' School"
         ],
         "options": [
           "PGCE with QTS full time"
@@ -915,17 +2016,17 @@
         }
       },
       {
-        "name": "Design and Technology",
+        "name": "English",
         "courses": 1,
         "accrediting": [
-          "Roehampton University"
+          "King's College London (University of London"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
         ],
         "schoolsWithVacancies": [
-          "Fulham Cross Girls' School",
-          "Sacred Heart High School"
+          "De La Salle School and Language College",
+          "St Ursula's Convent School"
         ],
         "options": [
           "PGCE with QTS full time"
@@ -937,17 +2038,85 @@
         }
       },
       {
-        "name": "Drama",
+        "name": "Mathematics",
         "courses": 1,
         "accrediting": [
-          "Roehampton University"
+          "King's College London (University of London"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
         ],
         "schoolsWithVacancies": [
-          "Sacred Heart High School",
-          "The Fulham Boys' School"
+          "Bishop Thomas Grant Catholic Secondary School",
+          "Bonus Pastor Catholic College",
+          "De La Salle School and Language College"
+        ],
+        "options": [
+          "PGCE with QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Modern Languages",
+        "courses": 1,
+        "accrediting": [
+          "King's College London (University of London"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "De La Salle School and Language College",
+          "Virgo Fidelis Convent Senior School"
+        ],
+        "options": [
+          "PGCE with QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Physics",
+        "courses": 1,
+        "accrediting": [
+          "King's College London (University of London"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Saint John Bosco College",
+          "St Columba's Catholic Boys' School",
+          "St Michael's Catholic College"
+        ],
+        "options": [
+          "PGCE with QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Religious Education",
+        "courses": 1,
+        "accrediting": [
+          "King's College London (University of London"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Saint John Bosco College",
+          "St Ursula's Convent School"
         ],
         "options": [
           "PGCE with QTS full time"
@@ -970,11 +2139,9 @@
           "26 Oct 2017"
         ],
         "schoolsWithVacancies": [
-          "Drayton Manor High School",
-          "Fulham College Boys' School SW6 6SN",
-          "St Mark's Roman Catholic School",
-          "The Fulham Boys' School",
-          "William Morris Sixth Form"
+          "Bonus Pastor Catholic College",
+          "St Mary's Catholic High School",
+          "St Thomas the Apostle"
         ],
         "options": [
           "PGCE with QTS full time",
@@ -996,12 +2163,10 @@
           "26 Oct 2017"
         ],
         "schoolsWithVacancies": [
-          "Fulham College Boys' School SW6 6SN",
-          "Lady Margaret School SW6 4UN",
-          "Sacred Heart High School",
-          "St Mark's Roman Catholic School",
-          "The Fulham Boys' School",
-          "William Morris Sixth Form"
+          "Bonus Pastor Catholic College",
+          "De La Salle School and Language College",
+          "St Mary's Catholic High School",
+          "Virgo Fidelis Convent Senior School"
         ],
         "options": [
           "PGCE with QTS full time",
@@ -1015,7 +2180,7 @@
       },
       {
         "name": "English",
-        "courses": 2,
+        "courses": 1,
         "accrediting": [
           "St Mary's University, Twickenham"
         ],
@@ -1023,24 +2188,15 @@
           "26 Oct 2017"
         ],
         "schoolsWithVacancies": [
-          "Chelsea Academy SW10 0AB",
-          "Drayton Manor High School",
-          "Fulham College Boys' School SW6 6SN",
-          "Fulham Cross Girls' School",
-          "Hammersmith Academy W12 9JD",
-          "Lady Margaret School SW6 4UN",
-          "Sacred Heart High School",
-          "St Mark's Roman Catholic School",
-          "The Fulham Boys' School"
+          "St Mary's Catholic High School"
         ],
         "options": [
-          "PGCE with QTS full time",
           "QTS full time with salary"
         ],
         "flags": {
           "partTime": false,
           "salary": true,
-          "qualifications": true
+          "qualifications": false
         }
       },
       {
@@ -1050,15 +2206,12 @@
           "St Mary's University, Twickenham"
         ],
         "applicationsOpen": [
-          "26 Oct 2017",
-          "07 Dec 2017"
+          "26 Oct 2017"
         ],
         "schoolsWithVacancies": [
-          "Chelsea Academy SW10 0AB",
-          "Drayton Manor High School",
-          "Hammersmith Academy W12 9JD",
-          "Sacred Heart High School",
-          "The Fulham Boys' School"
+          "St Catherine's Catholic School for Girls",
+          "St Columba's Catholic Boys' School",
+          "Virgo Fidelis Convent Senior School"
         ],
         "options": [
           "PGCE with QTS full time"
@@ -1079,8 +2232,8 @@
           "26 Oct 2017"
         ],
         "schoolsWithVacancies": [
-          "Chelsea Academy SW10 0AB",
-          "Sacred Heart High School"
+          "Bonus Pastor Catholic College",
+          "Virgo Fidelis Convent Senior School"
         ],
         "options": [
           "PGCE with QTS full time"
@@ -1101,15 +2254,10 @@
           "26 Oct 2017"
         ],
         "schoolsWithVacancies": [
-          "Chelsea Academy SW10 0AB",
-          "Drayton Manor High School",
-          "Fulham College Boys' School SW6 6SN",
-          "Fulham Cross Girls' School",
-          "Hammersmith Academy W12 9JD",
-          "Sacred Heart High School",
-          "St Mark's Roman Catholic School",
-          "The Fulham Boys' School",
-          "William Morris Sixth Form"
+          "Bishop Thomas Grant Catholic Secondary School",
+          "St Catherine's Catholic School for Girls",
+          "St Columba's Catholic Boys' School",
+          "St Mary's Catholic High School"
         ],
         "options": [
           "PGCE with QTS full time",
@@ -1122,7 +2270,7 @@
         }
       },
       {
-        "name": "Modern Languages (French and Spanish)",
+        "name": "Modern Languages (French with Spanish)",
         "courses": 1,
         "accrediting": [
           "St Mary's University, Twickenham"
@@ -1131,9 +2279,8 @@
           "26 Oct 2017"
         ],
         "schoolsWithVacancies": [
-          "Chelsea Academy SW10 0AB",
-          "Fulham Cross Girls' School",
-          "Sacred Heart High School"
+          "Bishop Thomas Grant Catholic Secondary School",
+          "Bonus Pastor Catholic College"
         ],
         "options": [
           "PGCE with QTS full time"
@@ -1154,7 +2301,10 @@
           "26 Oct 2017"
         ],
         "schoolsWithVacancies": [
-          "Sacred Heart High School"
+          "Bonus Pastor Catholic College",
+          "St Columba's Catholic Boys' School",
+          "St Ursula's Convent School",
+          "Virgo Fidelis Convent Senior School"
         ],
         "options": [
           "PGCE with QTS full time"
@@ -1175,13 +2325,9 @@
           "26 Oct 2017"
         ],
         "schoolsWithVacancies": [
-          "Drayton Manor High School",
-          "Fulham College Boys' School SW6 6SN",
-          "Hammersmith Academy W12 9JD",
-          "Lady Margaret School SW6 4UN",
-          "Sacred Heart High School",
-          "St Mark's Roman Catholic School",
-          "The Fulham Boys' School"
+          "Bishop Thomas Grant Catholic Secondary School",
+          "Bonus Pastor Catholic College",
+          "St Mary's Catholic High School"
         ],
         "options": [
           "PGCE with QTS full time",
@@ -1194,6 +2340,56 @@
         }
       },
       {
+        "name": "Primary",
+        "courses": 2,
+        "accrediting": [
+          "St Mary's University, Twickenham"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Our Lady of the Rosary Catholic Primary School, Sidcup",
+          "St John Fisher Catholic Primary School",
+          "St Joseph's",
+          "St Patrick's Catholic Primary School",
+          "St Peter Chanel Catholic Primary School - Sidcup",
+          "St Stephen's Catholic Primary School",
+          "St William of York Catholic Primary School"
+        ],
+        "options": [
+          "PGCE with QTS full time",
+          "QTS full time with salary"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": true,
+          "qualifications": true
+        }
+      },
+      {
+        "name": "Primary Physical Education Specialist",
+        "courses": 1,
+        "accrediting": [
+          "St Mary's University, Twickenham"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "St James' Roman Catholic Primary School",
+          "St Joseph's Catholic Primary - Crayford"
+        ],
+        "options": [
+          "PGCE with QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
         "name": "Religious Education",
         "courses": 2,
         "accrediting": [
@@ -1203,10 +2399,12 @@
           "26 Oct 2017"
         ],
         "schoolsWithVacancies": [
-          "Chelsea Academy SW10 0AB",
-          "Sacred Heart High School",
-          "St Mark's Roman Catholic School",
-          "The Fulham Boys' School"
+          "Bishop Thomas Grant Catholic Secondary School",
+          "Bonus Pastor Catholic College",
+          "La Retraite Roman Catholic Girls' School",
+          "St Columba's Catholic Boys' School",
+          "St Mary's Catholic High School",
+          "St Thomas the Apostle"
         ],
         "options": [
           "PGCE with QTS full time",
@@ -1221,6 +2419,29 @@
     ],
     "UCL, University College London (University of London": [
       {
+        "name": "Biology",
+        "courses": 1,
+        "accrediting": [
+          "UCL, University College London (University of London"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "De La Salle School and Language College",
+          "La Retraite Roman Catholic Girls' School",
+          "St Michael's Catholic College"
+        ],
+        "options": [
+          "PGCE with QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
         "name": "Business Studies",
         "courses": 1,
         "accrediting": [
@@ -1230,7 +2451,257 @@
           "26 Oct 2017"
         ],
         "schoolsWithVacancies": [
-          "Drayton Manor High School"
+          "De La Salle School and Language College",
+          "St Michael's Catholic College"
+        ],
+        "options": [
+          "PGCE with QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Chemistry",
+        "courses": 1,
+        "accrediting": [
+          "UCL, University College London (University of London"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "La Retraite Roman Catholic Girls' School",
+          "Saint John Bosco College",
+          "St Columba's Catholic Boys' School"
+        ],
+        "options": [
+          "PGCE with QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Computing",
+        "courses": 1,
+        "accrediting": [
+          "UCL, University College London (University of London"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "St Thomas the Apostle",
+          "St Ursula's Convent School"
+        ],
+        "options": [
+          "PGCE with QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "English",
+        "courses": 1,
+        "accrediting": [
+          "UCL, University College London (University of London"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "La Retraite Roman Catholic Girls' School",
+          "Saint John Bosco College",
+          "St Columba's Catholic Boys' School"
+        ],
+        "options": [
+          "PGCE with QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "English (with Drama)",
+        "courses": 1,
+        "accrediting": [
+          "UCL, University College London (University of London"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "St Catherine's Catholic School for Girls"
+        ],
+        "options": [
+          "PGCE with QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Geography",
+        "courses": 1,
+        "accrediting": [
+          "UCL, University College London (University of London"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Bonus Pastor Catholic College",
+          "St Ursula's Convent School"
+        ],
+        "options": [
+          "PGCE with QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Mathematics",
+        "courses": 1,
+        "accrediting": [
+          "UCL, University College London (University of London"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "La Retraite Roman Catholic Girls' School",
+          "Saint John Bosco College",
+          "St Michael's Catholic College",
+          "St Thomas the Apostle"
+        ],
+        "options": [
+          "PGCE with QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Modern Languages",
+        "courses": 1,
+        "accrediting": [
+          "UCL, University College London (University of London"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "De La Salle School and Language College"
+        ],
+        "options": [
+          "PGCE with QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Music",
+        "courses": 1,
+        "accrediting": [
+          "UCL, University College London (University of London"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Bonus Pastor Catholic College",
+          "St Catherine's Catholic School for Girls",
+          "Virgo Fidelis Convent Senior School"
+        ],
+        "options": [
+          "PGCE with QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Physics",
+        "courses": 1,
+        "accrediting": [
+          "UCL, University College London (University of London"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "De La Salle School and Language College",
+          "La Retraite Roman Catholic Girls' School",
+          "St Thomas the Apostle"
+        ],
+        "options": [
+          "PGCE with QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Primary",
+        "courses": 2,
+        "accrediting": [
+          "UCL, University College London (University of London"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "St James the Great Primary School",
+          "St John's Catholic Primary School",
+          "St Peter Chanel Catholic Primary School - Sidcup",
+          "St Stephen's Catholic Primary School"
+        ],
+        "options": [
+          "PGCE with QTS full time",
+          "QTS full time with salary"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": true,
+          "qualifications": true
+        }
+      },
+      {
+        "name": "Primary Mathematics Specialist",
+        "courses": 1,
+        "accrediting": [
+          "UCL, University College London (University of London"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "St James' Roman Catholic Primary School",
+          "St Joseph's Catholic Primary - Crayford"
         ],
         "options": [
           "PGCE with QTS full time"
@@ -1251,7 +2722,28 @@
           "26 Oct 2017"
         ],
         "schoolsWithVacancies": [
-          "Chelsea Academy SW10 0AB"
+          "Bishop Thomas Grant Catholic Secondary School"
+        ],
+        "options": [
+          "PGCE with QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Religious Education",
+        "courses": 1,
+        "accrediting": [
+          "UCL, University College London (University of London"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "De La Salle School and Language College"
         ],
         "options": [
           "PGCE with QTS full time"
@@ -1266,6 +2758,7 @@
   },
   "options": [
     "PGCE with QTS full time",
+    "PGCE with QTS full time with salary",
     "QTS full time with salary"
   ]
 }
