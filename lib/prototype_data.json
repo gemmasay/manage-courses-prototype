@@ -1,8 +1,8 @@
 {
   "multi-organisation": false,
-  "training-provider-name": "Benfleet Teaching School Alliance",
-  "provider-code-name": "A1654",
-  "provider-code": "1JH",
+  "training-provider-name": "University of East London",
+  "provider-code-name": "ELOND",
+  "provider-code": "E28",
   "address-line-1": "123 Baker Street",
   "town": "London",
   "postcode": "SW1 1AA",
@@ -14,43 +14,21 @@
   ],
   "ucasCourses": [
     {
-      "regions": "Eastern",
-      "accrediting": "Tes Institute",
-      "subjects": "Art / art & design, Secondary",
-      "ageRange": "Secondary (11+ years)",
-      "name": "Art and Design",
-      "slug": "art-and-design",
-      "route": "School Direct training programme",
-      "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "1JH",
-      "programmeCode": "2FTV",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "The Appleton School, Croft Road, Benfleet, SS7 5RN",
-          "code": "-"
-        }
-      ],
-      "options": [
-        "PGCE with QTS full time"
-      ]
-    },
-    {
-      "regions": "Eastern",
-      "accrediting": "Tes Institute",
+      "regions": "London",
+      "accrediting": "University of East London",
       "subjects": "Biology, Science, Secondary",
       "ageRange": "Secondary (11+ years)",
       "name": "Biology",
       "slug": "biology",
-      "route": "School Direct training programme",
-      "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "1JH",
-      "programmeCode": "2X4P",
+      "route": "Higher Education programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "E28",
+      "programmeCode": "C1X1",
       "schools": [
         {
           "name": "Main Site",
-          "address": "The Appleton School, Croft Road, Benfleet, SS7 5RN",
-          "code": "-"
+          "address": "Student Admissions Office, 4-6 University way, London, E16 2RD",
+          "code": ""
         }
       ],
       "options": [
@@ -58,21 +36,21 @@
       ]
     },
     {
-      "regions": "Eastern",
-      "accrediting": "Tes Institute",
+      "regions": "London",
+      "accrediting": "University of East London",
       "subjects": "Chemistry, Science, Secondary",
       "ageRange": "Secondary (11+ years)",
       "name": "Chemistry",
       "slug": "chemistry",
-      "route": "School Direct training programme",
-      "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "1JH",
-      "programmeCode": "26GR",
+      "route": "Higher Education programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "E28",
+      "programmeCode": "F1X1",
       "schools": [
         {
           "name": "Main Site",
-          "address": "The Appleton School, Croft Road, Benfleet, SS7 5RN",
-          "code": "-"
+          "address": "Student Admissions Office, 4-6 University way, London, E16 2RD",
+          "code": ""
         }
       ],
       "options": [
@@ -80,21 +58,43 @@
       ]
     },
     {
-      "regions": "Eastern",
-      "accrediting": "Tes Institute",
+      "regions": "London",
+      "accrediting": "University of East London",
+      "subjects": "Languages, Secondary",
+      "ageRange": "Secondary (11+ years)",
+      "name": "Community Languages",
+      "slug": "community-languages",
+      "route": "Higher Education programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "E28",
+      "programmeCode": "Q9X1",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "Student Admissions Office, 4-6 University way, London, E16 2RD",
+          "code": ""
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "London",
+      "accrediting": "University of East London",
       "subjects": "Computer studies, Secondary",
       "ageRange": "Secondary (11+ years)",
       "name": "Computing",
       "slug": "computing",
-      "route": "School Direct training programme",
-      "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "1JH",
-      "programmeCode": "2V3G",
+      "route": "Higher Education programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "E28",
+      "programmeCode": "IX99",
       "schools": [
         {
           "name": "Main Site",
-          "address": "The Appleton School, Croft Road, Benfleet, SS7 5RN",
-          "code": "-"
+          "address": "Student Admissions Office, 4-6 University way, London, E16 2RD",
+          "code": ""
         }
       ],
       "options": [
@@ -102,43 +102,21 @@
       ]
     },
     {
-      "regions": "Eastern",
-      "accrediting": "Tes Institute",
-      "subjects": "Design and technology, Design and technology (product design), Design and technology (textiles), Secondary",
-      "ageRange": "Secondary (11+ years)",
-      "name": "Design and Technology (Textiles & Product Design)",
-      "slug": "design-and-technology-textiles-product-design",
-      "route": "School Direct training programme",
-      "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "1JH",
-      "programmeCode": "26GP",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "The Appleton School, Croft Road, Benfleet, SS7 5RN",
-          "code": "-"
-        }
-      ],
-      "options": [
-        "PGCE with QTS full time"
-      ]
-    },
-    {
-      "regions": "Eastern",
-      "accrediting": "Tes Institute",
+      "regions": "London",
+      "accrediting": "University of East London",
       "subjects": "Drama and theatre studies, Secondary",
       "ageRange": "Secondary (11+ years)",
       "name": "Drama",
       "slug": "drama",
-      "route": "School Direct training programme",
-      "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "1JH",
-      "programmeCode": "3236",
+      "route": "Higher Education programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "E28",
+      "programmeCode": "2M8K",
       "schools": [
         {
           "name": "Main Site",
-          "address": "The Appleton School, Croft Road, Benfleet, SS7 5RN",
-          "code": "-"
+          "address": "Student Admissions Office, 4-6 University way, London, E16 2RD",
+          "code": ""
         }
       ],
       "options": [
@@ -146,21 +124,21 @@
       ]
     },
     {
-      "regions": "Eastern",
-      "accrediting": "Tes Institute",
+      "regions": "London",
+      "accrediting": "University of East London",
       "subjects": "English, Secondary",
       "ageRange": "Secondary (11+ years)",
       "name": "English",
       "slug": "english",
-      "route": "School Direct training programme",
-      "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "1JH",
-      "programmeCode": "26GL",
+      "route": "Higher Education programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "E28",
+      "programmeCode": "Q3X1",
       "schools": [
         {
           "name": "Main Site",
-          "address": "The Appleton School, Croft Road, Benfleet, SS7 5RN",
-          "code": "-"
+          "address": "Student Admissions Office, 4-6 University way, London, E16 2RD",
+          "code": ""
         }
       ],
       "options": [
@@ -168,21 +146,21 @@
       ]
     },
     {
-      "regions": "Eastern",
-      "accrediting": "Tes Institute",
+      "regions": "London",
+      "accrediting": "University of East London",
       "subjects": "Geography, Secondary",
       "ageRange": "Secondary (11+ years)",
       "name": "Geography",
       "slug": "geography",
-      "route": "School Direct training programme",
-      "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "1JH",
-      "programmeCode": "2PLS",
+      "route": "Higher Education programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "E28",
+      "programmeCode": "2NQC",
       "schools": [
         {
           "name": "Main Site",
-          "address": "The Appleton School, Croft Road, Benfleet, SS7 5RN",
-          "code": "-"
+          "address": "Student Admissions Office, 4-6 University way, London, E16 2RD",
+          "code": ""
         }
       ],
       "options": [
@@ -190,43 +168,21 @@
       ]
     },
     {
-      "regions": "Eastern",
-      "accrediting": "Tes Institute",
-      "subjects": "History, Secondary",
-      "ageRange": "Secondary (11+ years)",
-      "name": "History",
-      "slug": "history",
-      "route": "School Direct training programme",
-      "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "1JH",
-      "programmeCode": "3239",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "The Appleton School, Croft Road, Benfleet, SS7 5RN",
-          "code": "-"
-        }
-      ],
-      "options": [
-        "PGCE with QTS full time"
-      ]
-    },
-    {
-      "regions": "Eastern",
-      "accrediting": "Tes Institute",
+      "regions": "London",
+      "accrediting": "University of East London",
       "subjects": "Mathematics, Secondary",
       "ageRange": "Secondary (11+ years)",
       "name": "Mathematics",
       "slug": "mathematics",
-      "route": "School Direct training programme",
-      "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "1JH",
-      "programmeCode": "26GK",
+      "route": "Higher Education programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "E28",
+      "programmeCode": "G1X1",
       "schools": [
         {
           "name": "Main Site",
-          "address": "The Appleton School, Croft Road, Benfleet, SS7 5RN",
-          "code": "-"
+          "address": "Student Admissions Office, 4-6 University way, London, E16 2RD",
+          "code": ""
         }
       ],
       "options": [
@@ -234,21 +190,21 @@
       ]
     },
     {
-      "regions": "Eastern",
-      "accrediting": "Tes Institute",
-      "subjects": "French, German, Languages, Languages (european), Secondary, Spanish",
+      "regions": "London",
+      "accrediting": "University of East London",
+      "subjects": "French, German, Languages, Languages (european), Secondary",
       "ageRange": "Secondary (11+ years)",
-      "name": "Modern Languages (French, Spanish, German)",
-      "slug": "modern-languages-french-spanish-german",
-      "route": "School Direct training programme",
-      "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "1JH",
-      "programmeCode": "2V3K",
+      "name": "Modern Languages (French with German)",
+      "slug": "modern-languages-french-with-german",
+      "route": "Higher Education programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "E28",
+      "programmeCode": "RX11",
       "schools": [
         {
           "name": "Main Site",
-          "address": "The Appleton School, Croft Road, Benfleet, SS7 5RN",
-          "code": "-"
+          "address": "Student Admissions Office, 4-6 University way, London, E16 2RD",
+          "code": ""
         }
       ],
       "options": [
@@ -256,21 +212,131 @@
       ]
     },
     {
-      "regions": "Eastern",
-      "accrediting": "Tes Institute",
+      "regions": "London",
+      "accrediting": "University of East London",
+      "subjects": "French, Italian, Languages, Languages (european), Secondary",
+      "ageRange": "Secondary (11+ years)",
+      "name": "Modern Languages (French with Italian)",
+      "slug": "modern-languages-french-with-italian",
+      "route": "Higher Education programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "E28",
+      "programmeCode": "RX1C",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "Student Admissions Office, 4-6 University way, London, E16 2RD",
+          "code": ""
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "London",
+      "accrediting": "University of East London",
+      "subjects": "French, Languages, Languages (european), Secondary, Spanish",
+      "ageRange": "Secondary (11+ years)",
+      "name": "Modern Languages (French with Spanish)",
+      "slug": "modern-languages-french-with-spanish",
+      "route": "Higher Education programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "E28",
+      "programmeCode": "RXD1",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "Student Admissions Office, 4-6 University way, London, E16 2RD",
+          "code": ""
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "London",
+      "accrediting": "University of East London",
+      "subjects": "French, Languages, Languages (european), Secondary",
+      "ageRange": "Secondary (11+ years)",
+      "name": "Modern Languages (French)",
+      "slug": "modern-languages-french",
+      "route": "Higher Education programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "E28",
+      "programmeCode": "R1X1",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "Student Admissions Office, 4-6 University way, London, E16 2RD",
+          "code": ""
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "London",
+      "accrediting": "University of East London",
+      "subjects": "French, German, Languages, Languages (european), Secondary",
+      "ageRange": "Secondary (11+ years)",
+      "name": "Modern Languages (German with French)",
+      "slug": "modern-languages-german-with-french",
+      "route": "Higher Education programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "E28",
+      "programmeCode": "RX21",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "Student Admissions Office, 4-6 University way, London, E16 2RD",
+          "code": ""
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "London",
+      "accrediting": "University of East London",
+      "subjects": "French, Languages, Languages (european), Secondary, Spanish",
+      "ageRange": "Secondary (11+ years)",
+      "name": "Modern Languages (Spanish with French)",
+      "slug": "modern-languages-spanish-with-french",
+      "route": "Higher Education programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "E28",
+      "programmeCode": "RX41",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "Student Admissions Office, 4-6 University way, London, E16 2RD",
+          "code": ""
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "London",
+      "accrediting": "University of East London",
       "subjects": "Music, Secondary",
       "ageRange": "Secondary (11+ years)",
       "name": "Music",
       "slug": "music",
-      "route": "School Direct training programme",
-      "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "1JH",
-      "programmeCode": "28BD",
+      "route": "Higher Education programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "E28",
+      "programmeCode": "W3X1",
       "schools": [
         {
           "name": "Main Site",
-          "address": "The Appleton School, Croft Road, Benfleet, SS7 5RN",
-          "code": "-"
+          "address": "Student Admissions Office, 4-6 University way, London, E16 2RD",
+          "code": ""
         }
       ],
       "options": [
@@ -278,21 +344,21 @@
       ]
     },
     {
-      "regions": "Eastern",
-      "accrediting": "Tes Institute",
+      "regions": "London",
+      "accrediting": "University of East London",
       "subjects": "Physical education, Secondary",
       "ageRange": "Secondary (11+ years)",
       "name": "Physical Education",
       "slug": "physical-education",
-      "route": "School Direct training programme",
-      "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "1JH",
-      "programmeCode": "2ZZR",
+      "route": "Higher Education programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "E28",
+      "programmeCode": "X9C6",
       "schools": [
         {
           "name": "Main Site",
-          "address": "The Appleton School, Croft Road, Benfleet, SS7 5RN",
-          "code": "-"
+          "address": "Student Admissions Office, 4-6 University way, London, E16 2RD",
+          "code": ""
         }
       ],
       "options": [
@@ -300,21 +366,21 @@
       ]
     },
     {
-      "regions": "Eastern",
-      "accrediting": "Tes Institute",
+      "regions": "London",
+      "accrediting": "University of East London",
       "subjects": "Physics, Science, Secondary",
       "ageRange": "Secondary (11+ years)",
       "name": "Physics",
       "slug": "physics",
-      "route": "School Direct training programme",
-      "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "1JH",
-      "programmeCode": "2PLQ",
+      "route": "Higher Education programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "E28",
+      "programmeCode": "F3X1",
       "schools": [
         {
           "name": "Main Site",
-          "address": "The Appleton School, Croft Road, Benfleet, SS7 5RN",
-          "code": "-"
+          "address": "Student Admissions Office, 4-6 University way, London, E16 2RD",
+          "code": ""
         }
       ],
       "options": [
@@ -322,21 +388,21 @@
       ]
     },
     {
-      "regions": "South East",
-      "accrediting": "Tes Institute",
-      "subjects": "Primary",
+      "regions": "London",
+      "accrediting": "University of East London",
+      "subjects": "Early years, Primary",
       "ageRange": "Primary (c3 - 11/12 years)",
-      "name": "Primary",
-      "slug": "primary",
-      "route": "School Direct training programme",
-      "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "1JH",
-      "programmeCode": "323F",
+      "name": "Primary with Early Years (3-7)",
+      "slug": "primary-with-early-years-3-7",
+      "route": "Higher Education programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "E28",
+      "programmeCode": "X126",
       "schools": [
         {
-          "name": "Kingston Primary",
-          "address": "Church Road, Benfleet, Essex, SS7 3HG",
-          "code": "P"
+          "name": "Main Site",
+          "address": "Student Admissions Office, 4-6 University way, London, E16 2RD",
+          "code": ""
         }
       ],
       "options": [
@@ -344,21 +410,263 @@
       ]
     },
     {
-      "regions": "Eastern",
-      "accrediting": "Tes Institute",
+      "regions": "London",
+      "accrediting": "University of East London",
+      "subjects": "English, Primary",
+      "ageRange": "Primary (c3 - 11/12 years)",
+      "name": "Primary with English",
+      "slug": "primary-with-english",
+      "route": "Higher Education programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "E28",
+      "programmeCode": "XQ1H",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "Student Admissions Office, 4-6 University way, London, E16 2RD",
+          "code": ""
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "London",
+      "accrediting": "University of East London",
+      "subjects": "English as a second or other language, Primary",
+      "ageRange": "Primary (c3 - 11/12 years)",
+      "name": "Primary with English as an Additional Language",
+      "slug": "primary-with-english-as-an-additional-language",
+      "route": "Higher Education programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "E28",
+      "programmeCode": "X105",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "Student Admissions Office, 4-6 University way, London, E16 2RD",
+          "code": ""
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "London",
+      "accrediting": "University of East London",
+      "subjects": "Humanities, Primary, Religious education",
+      "ageRange": "Primary (c3 - 11/12 years)",
+      "name": "Primary with Humanities and Religious Education",
+      "slug": "primary-with-humanities-and-religious-education",
+      "route": "Higher Education programme",
+      "qualifications": "QTS",
+      "providerCode": "E28",
+      "programmeCode": "2CYZ",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "Student Admissions Office, 4-6 University way, London, E16 2RD",
+          "code": ""
+        }
+      ],
+      "options": [
+        "QTS full time"
+      ]
+    },
+    {
+      "regions": "London",
+      "accrediting": "University of East London",
+      "subjects": "Computer studies, Information communication technology, Primary",
+      "ageRange": "Primary (c3 - 11/12 years)",
+      "name": "Primary with ICT and Computing",
+      "slug": "primary-with-ict-and-computing",
+      "route": "Higher Education programme",
+      "qualifications": "QTS",
+      "providerCode": "E28",
+      "programmeCode": "2CZ2",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "Student Admissions Office, 4-6 University way, London, E16 2RD",
+          "code": ""
+        }
+      ],
+      "options": [
+        "QTS full time"
+      ]
+    },
+    {
+      "regions": "London",
+      "accrediting": "University of East London",
+      "subjects": "Mathematics, Primary",
+      "ageRange": "Primary (c3 - 11/12 years)",
+      "name": "Primary with Mathematics",
+      "slug": "primary-with-mathematics",
+      "route": "Higher Education programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "E28",
+      "programmeCode": "XG1C",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "Student Admissions Office, 4-6 University way, London, E16 2RD",
+          "code": ""
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "London",
+      "accrediting": "University of East London",
+      "subjects": "Languages, Primary",
+      "ageRange": "Primary (c3 - 11/12 years)",
+      "name": "Primary with Modern Languages",
+      "slug": "primary-with-modern-languages",
+      "route": "Higher Education programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "E28",
+      "programmeCode": "XRC9",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "Student Admissions Office, 4-6 University way, London, E16 2RD",
+          "code": ""
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "London",
+      "accrediting": "University of East London",
+      "subjects": "Music, Primary",
+      "ageRange": "Primary (c3 - 11/12 years)",
+      "name": "Primary with Music",
+      "slug": "primary-with-music",
+      "route": "Higher Education programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "E28",
+      "programmeCode": "2CYY",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "Student Admissions Office, 4-6 University way, London, E16 2RD",
+          "code": ""
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "London",
+      "accrediting": "University of East London",
+      "subjects": "Physical education, Primary",
+      "ageRange": "Primary (c3 - 11/12 years)",
+      "name": "Primary with Physical Education",
+      "slug": "primary-with-physical-education",
+      "route": "Higher Education programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "E28",
+      "programmeCode": "2MZL",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "Student Admissions Office, 4-6 University way, London, E16 2RD",
+          "code": ""
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "London",
+      "accrediting": "University of East London",
+      "subjects": "Primary, Special educational needs",
+      "ageRange": "Primary (c3 - 11/12 years)",
+      "name": "Primary with SEN (Inclusion)",
+      "slug": "primary-with-sen-inclusion",
+      "route": "Higher Education programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "E28",
+      "programmeCode": "X1L5",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "Student Admissions Office, 4-6 University way, London, E16 2RD",
+          "code": ""
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "London",
+      "accrediting": "University of East London",
+      "subjects": "Primary, Special educational needs",
+      "ageRange": "Primary (c3 - 11/12 years)",
+      "name": "Primary with SEN (Special Schools)",
+      "slug": "primary-with-sen-special-schools",
+      "route": "Higher Education programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "E28",
+      "programmeCode": "XL15",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "Student Admissions Office, 4-6 University way, London, E16 2RD",
+          "code": ""
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "London",
+      "accrediting": "University of East London",
+      "subjects": "Primary, Science",
+      "ageRange": "Primary (c3 - 11/12 years)",
+      "name": "Primary with Science",
+      "slug": "primary-with-science",
+      "route": "Higher Education programme",
+      "qualifications": "QTS",
+      "providerCode": "E28",
+      "programmeCode": "2CZ3",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "Student Admissions Office, 4-6 University way, London, E16 2RD",
+          "code": ""
+        }
+      ],
+      "options": [
+        "QTS full time"
+      ]
+    },
+    {
+      "regions": "London",
+      "accrediting": "University of East London",
       "subjects": "Religious education, Secondary",
       "ageRange": "Secondary (11+ years)",
       "name": "Religious Education",
       "slug": "religious-education",
-      "route": "School Direct training programme",
-      "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "1JH",
-      "programmeCode": "28BG",
+      "route": "Higher Education programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "E28",
+      "programmeCode": "V6X1",
       "schools": [
         {
           "name": "Main Site",
-          "address": "The Appleton School, Croft Road, Benfleet, SS7 5RN",
-          "code": "-"
+          "address": "Student Admissions Office, 4-6 University way, London, E16 2RD",
+          "code": ""
         }
       ],
       "options": [
@@ -368,25 +676,16 @@
   ],
   "schools": [
     {
-      "name": "Kingston Primary",
-      "address": "Church Road, Benfleet, Essex, SS7 3HG",
-      "code": "P"
-    },
-    {
       "name": "Main Site",
-      "address": "The Appleton School, Croft Road, Benfleet, SS7 5RN",
-      "code": "-"
+      "address": "Student Admissions Office, 4-6 University way, London, E16 2RD",
+      "code": ""
     }
   ],
   "accreditors": [
     {
-      "name": "Tes Institute",
-      "slug": "tes-institute",
+      "name": "University of East London",
+      "slug": "university-of-east-london",
       "subjects": [
-        {
-          "name": "Art and Design",
-          "slug": "art-and-design"
-        },
         {
           "name": "Biology",
           "slug": "biology"
@@ -396,12 +695,12 @@
           "slug": "chemistry"
         },
         {
-          "name": "Computing",
-          "slug": "computing"
+          "name": "Community Languages",
+          "slug": "community-languages"
         },
         {
-          "name": "Design and Technology (Textiles & Product Design)",
-          "slug": "design-and-technology-textiles-product-design"
+          "name": "Computing",
+          "slug": "computing"
         },
         {
           "name": "Drama",
@@ -416,16 +715,32 @@
           "slug": "geography"
         },
         {
-          "name": "History",
-          "slug": "history"
-        },
-        {
           "name": "Mathematics",
           "slug": "mathematics"
         },
         {
-          "name": "Modern Languages (French, Spanish, German)",
-          "slug": "modern-languages-french-spanish-german"
+          "name": "Modern Languages (French with German)",
+          "slug": "modern-languages-french-with-german"
+        },
+        {
+          "name": "Modern Languages (French with Italian)",
+          "slug": "modern-languages-french-with-italian"
+        },
+        {
+          "name": "Modern Languages (French with Spanish)",
+          "slug": "modern-languages-french-with-spanish"
+        },
+        {
+          "name": "Modern Languages (French)",
+          "slug": "modern-languages-french"
+        },
+        {
+          "name": "Modern Languages (German with French)",
+          "slug": "modern-languages-german-with-french"
+        },
+        {
+          "name": "Modern Languages (Spanish with French)",
+          "slug": "modern-languages-spanish-with-french"
         },
         {
           "name": "Music",
@@ -440,8 +755,52 @@
           "slug": "physics"
         },
         {
-          "name": "Primary",
-          "slug": "primary"
+          "name": "Primary with Early Years (3-7)",
+          "slug": "primary-with-early-years-3-7"
+        },
+        {
+          "name": "Primary with English",
+          "slug": "primary-with-english"
+        },
+        {
+          "name": "Primary with English as an Additional Language",
+          "slug": "primary-with-english-as-an-additional-language"
+        },
+        {
+          "name": "Primary with Humanities and Religious Education",
+          "slug": "primary-with-humanities-and-religious-education"
+        },
+        {
+          "name": "Primary with ICT and Computing",
+          "slug": "primary-with-ict-and-computing"
+        },
+        {
+          "name": "Primary with Mathematics",
+          "slug": "primary-with-mathematics"
+        },
+        {
+          "name": "Primary with Modern Languages",
+          "slug": "primary-with-modern-languages"
+        },
+        {
+          "name": "Primary with Music",
+          "slug": "primary-with-music"
+        },
+        {
+          "name": "Primary with Physical Education",
+          "slug": "primary-with-physical-education"
+        },
+        {
+          "name": "Primary with SEN (Inclusion)",
+          "slug": "primary-with-sen-inclusion"
+        },
+        {
+          "name": "Primary with SEN (Special Schools)",
+          "slug": "primary-with-sen-special-schools"
+        },
+        {
+          "name": "Primary with Science",
+          "slug": "primary-with-science"
         },
         {
           "name": "Religious Education",
@@ -450,12 +809,8 @@
       ]
     }
   ],
-  "self_accrediting": false,
+  "self_accrediting": true,
   "subjects": [
-    {
-      "name": "Art and Design",
-      "slug": "art-and-design"
-    },
     {
       "name": "Biology",
       "slug": "biology"
@@ -465,12 +820,12 @@
       "slug": "chemistry"
     },
     {
-      "name": "Computing",
-      "slug": "computing"
+      "name": "Community Languages",
+      "slug": "community-languages"
     },
     {
-      "name": "Design and Technology (Textiles & Product Design)",
-      "slug": "design-and-technology-textiles-product-design"
+      "name": "Computing",
+      "slug": "computing"
     },
     {
       "name": "Drama",
@@ -485,16 +840,32 @@
       "slug": "geography"
     },
     {
-      "name": "History",
-      "slug": "history"
-    },
-    {
       "name": "Mathematics",
       "slug": "mathematics"
     },
     {
-      "name": "Modern Languages (French, Spanish, German)",
-      "slug": "modern-languages-french-spanish-german"
+      "name": "Modern Languages (French with German)",
+      "slug": "modern-languages-french-with-german"
+    },
+    {
+      "name": "Modern Languages (French with Italian)",
+      "slug": "modern-languages-french-with-italian"
+    },
+    {
+      "name": "Modern Languages (French with Spanish)",
+      "slug": "modern-languages-french-with-spanish"
+    },
+    {
+      "name": "Modern Languages (French)",
+      "slug": "modern-languages-french"
+    },
+    {
+      "name": "Modern Languages (German with French)",
+      "slug": "modern-languages-german-with-french"
+    },
+    {
+      "name": "Modern Languages (Spanish with French)",
+      "slug": "modern-languages-spanish-with-french"
     },
     {
       "name": "Music",
@@ -509,8 +880,52 @@
       "slug": "physics"
     },
     {
-      "name": "Primary",
-      "slug": "primary"
+      "name": "Primary with Early Years (3-7)",
+      "slug": "primary-with-early-years-3-7"
+    },
+    {
+      "name": "Primary with English",
+      "slug": "primary-with-english"
+    },
+    {
+      "name": "Primary with English as an Additional Language",
+      "slug": "primary-with-english-as-an-additional-language"
+    },
+    {
+      "name": "Primary with Humanities and Religious Education",
+      "slug": "primary-with-humanities-and-religious-education"
+    },
+    {
+      "name": "Primary with ICT and Computing",
+      "slug": "primary-with-ict-and-computing"
+    },
+    {
+      "name": "Primary with Mathematics",
+      "slug": "primary-with-mathematics"
+    },
+    {
+      "name": "Primary with Modern Languages",
+      "slug": "primary-with-modern-languages"
+    },
+    {
+      "name": "Primary with Music",
+      "slug": "primary-with-music"
+    },
+    {
+      "name": "Primary with Physical Education",
+      "slug": "primary-with-physical-education"
+    },
+    {
+      "name": "Primary with SEN (Inclusion)",
+      "slug": "primary-with-sen-inclusion"
+    },
+    {
+      "name": "Primary with SEN (Special Schools)",
+      "slug": "primary-with-sen-special-schools"
+    },
+    {
+      "name": "Primary with Science",
+      "slug": "primary-with-science"
     },
     {
       "name": "Religious Education",
@@ -518,33 +933,12 @@
     }
   ],
   "folded_courses": {
-    "Tes Institute": [
-      {
-        "name": "Art and Design",
-        "courses": 1,
-        "accrediting": [
-          "Tes Institute"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Main Site"
-        ],
-        "options": [
-          "PGCE with QTS full time"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": false,
-          "qualifications": false
-        }
-      },
+    "University of East London": [
       {
         "name": "Biology",
         "courses": 1,
         "accrediting": [
-          "Tes Institute"
+          "University of East London"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
@@ -565,7 +959,28 @@
         "name": "Chemistry",
         "courses": 1,
         "accrediting": [
-          "Tes Institute"
+          "University of East London"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Main Site"
+        ],
+        "options": [
+          "PGCE with QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Community Languages",
+        "courses": 1,
+        "accrediting": [
+          "University of East London"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
@@ -586,28 +1001,7 @@
         "name": "Computing",
         "courses": 1,
         "accrediting": [
-          "Tes Institute"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Main Site"
-        ],
-        "options": [
-          "PGCE with QTS full time"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": false,
-          "qualifications": false
-        }
-      },
-      {
-        "name": "Design and Technology (Textiles & Product Design)",
-        "courses": 1,
-        "accrediting": [
-          "Tes Institute"
+          "University of East London"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
@@ -628,7 +1022,7 @@
         "name": "Drama",
         "courses": 1,
         "accrediting": [
-          "Tes Institute"
+          "University of East London"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
@@ -649,7 +1043,7 @@
         "name": "English",
         "courses": 1,
         "accrediting": [
-          "Tes Institute"
+          "University of East London"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
@@ -670,28 +1064,7 @@
         "name": "Geography",
         "courses": 1,
         "accrediting": [
-          "Tes Institute"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Main Site"
-        ],
-        "options": [
-          "PGCE with QTS full time"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": false,
-          "qualifications": false
-        }
-      },
-      {
-        "name": "History",
-        "courses": 1,
-        "accrediting": [
-          "Tes Institute"
+          "University of East London"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
@@ -712,7 +1085,7 @@
         "name": "Mathematics",
         "courses": 1,
         "accrediting": [
-          "Tes Institute"
+          "University of East London"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
@@ -730,10 +1103,115 @@
         }
       },
       {
-        "name": "Modern Languages (French, Spanish, German)",
+        "name": "Modern Languages (French with German)",
         "courses": 1,
         "accrediting": [
-          "Tes Institute"
+          "University of East London"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Main Site"
+        ],
+        "options": [
+          "PGCE with QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Modern Languages (French with Italian)",
+        "courses": 1,
+        "accrediting": [
+          "University of East London"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Main Site"
+        ],
+        "options": [
+          "PGCE with QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Modern Languages (French with Spanish)",
+        "courses": 1,
+        "accrediting": [
+          "University of East London"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Main Site"
+        ],
+        "options": [
+          "PGCE with QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Modern Languages (French)",
+        "courses": 1,
+        "accrediting": [
+          "University of East London"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Main Site"
+        ],
+        "options": [
+          "PGCE with QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Modern Languages (German with French)",
+        "courses": 1,
+        "accrediting": [
+          "University of East London"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Main Site"
+        ],
+        "options": [
+          "PGCE with QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Modern Languages (Spanish with French)",
+        "courses": 1,
+        "accrediting": [
+          "University of East London"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
@@ -754,7 +1232,7 @@
         "name": "Music",
         "courses": 1,
         "accrediting": [
-          "Tes Institute"
+          "University of East London"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
@@ -775,7 +1253,7 @@
         "name": "Physical Education",
         "courses": 1,
         "accrediting": [
-          "Tes Institute"
+          "University of East London"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
@@ -796,7 +1274,7 @@
         "name": "Physics",
         "courses": 1,
         "accrediting": [
-          "Tes Institute"
+          "University of East London"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
@@ -814,16 +1292,16 @@
         }
       },
       {
-        "name": "Primary",
+        "name": "Primary with Early Years (3-7)",
         "courses": 1,
         "accrediting": [
-          "Tes Institute"
+          "University of East London"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
         ],
         "schoolsWithVacancies": [
-          "Kingston Primary"
+          "Main Site"
         ],
         "options": [
           "PGCE with QTS full time"
@@ -835,10 +1313,241 @@
         }
       },
       {
+        "name": "Primary with English",
+        "courses": 1,
+        "accrediting": [
+          "University of East London"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Main Site"
+        ],
+        "options": [
+          "PGCE with QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Primary with English as an Additional Language",
+        "courses": 1,
+        "accrediting": [
+          "University of East London"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Main Site"
+        ],
+        "options": [
+          "PGCE with QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Primary with Humanities and Religious Education",
+        "courses": 1,
+        "accrediting": [
+          "University of East London"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Main Site"
+        ],
+        "options": [
+          "QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Primary with ICT and Computing",
+        "courses": 1,
+        "accrediting": [
+          "University of East London"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Main Site"
+        ],
+        "options": [
+          "QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Primary with Mathematics",
+        "courses": 1,
+        "accrediting": [
+          "University of East London"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Main Site"
+        ],
+        "options": [
+          "PGCE with QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Primary with Modern Languages",
+        "courses": 1,
+        "accrediting": [
+          "University of East London"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Main Site"
+        ],
+        "options": [
+          "PGCE with QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Primary with Music",
+        "courses": 1,
+        "accrediting": [
+          "University of East London"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Main Site"
+        ],
+        "options": [
+          "PGCE with QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Primary with Physical Education",
+        "courses": 1,
+        "accrediting": [
+          "University of East London"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Main Site"
+        ],
+        "options": [
+          "PGCE with QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Primary with SEN (Inclusion)",
+        "courses": 1,
+        "accrediting": [
+          "University of East London"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Main Site"
+        ],
+        "options": [
+          "PGCE with QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Primary with SEN (Special Schools)",
+        "courses": 1,
+        "accrediting": [
+          "University of East London"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Main Site"
+        ],
+        "options": [
+          "PGCE with QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Primary with Science",
+        "courses": 1,
+        "accrediting": [
+          "University of East London"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Main Site"
+        ],
+        "options": [
+          "QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
         "name": "Religious Education",
         "courses": 1,
         "accrediting": [
-          "Tes Institute"
+          "University of East London"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
@@ -858,6 +1567,7 @@
     ]
   },
   "options": [
-    "PGCE with QTS full time"
+    "PGCE with QTS full time",
+    "QTS full time"
   ]
 }
