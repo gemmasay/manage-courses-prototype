@@ -1,8 +1,8 @@
 {
   "multi-organisation": false,
-  "training-provider-name": "University of Sunderland",
-  "provider-code-name": "SUND",
-  "provider-code": "S84",
+  "training-provider-name": "University of the West of England, Bristol",
+  "provider-code-name": "BUWE",
+  "provider-code": "B80",
   "address-line-1": "123 Baker Street",
   "town": "London",
   "postcode": "SW1 1AA",
@@ -14,42 +14,64 @@
   ],
   "ucasCourses": [
     {
-      "regions": "North East",
-      "accrediting": "University of Sunderland",
+      "regions": "South West",
+      "accrediting": "University of the West of England, Bristol",
+      "subjects": "Art / art & design, Secondary",
+      "ageRange": "Secondary (11+ years)",
+      "name": "Art and Design (11+) Initial Teacher Education",
+      "slug": "art-and-design-11-initial-teacher-education",
+      "route": "Higher Education programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "B80",
+      "programmeCode": "W1X1",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "",
+          "code": ""
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "South West",
+      "accrediting": "University of the West of England, Bristol",
       "subjects": "Biology, Science, Secondary",
       "ageRange": "Secondary (11+ years)",
-      "name": "Biology",
-      "slug": "biology",
+      "name": "Biology with Science (11+) ITE",
+      "slug": "biology-with-science-11-ite",
       "route": "Higher Education programme",
-      "qualifications": "QTS, Postgraduate",
-      "providerCode": "S84",
-      "programmeCode": "C1X1",
+      "qualifications": "QTS",
+      "providerCode": "B80",
+      "programmeCode": "2WQH",
       "schools": [
         {
           "name": "Main Site",
-          "address": "The Student Gateway, Edinburgh Building, Chester Road, Sunderland, SR1 3SD",
+          "address": "",
           "code": ""
         }
       ],
       "options": [
-        "PGCE with QTS full time"
+        "QTS full time"
       ]
     },
     {
-      "regions": "North East",
-      "accrediting": "University of Sunderland",
+      "regions": "South West",
+      "accrediting": "University of the West of England, Bristol",
       "subjects": "Business education, Secondary",
       "ageRange": "Secondary (11+ years)",
-      "name": "Business Studies",
-      "slug": "business-studies",
+      "name": "Business (14-19) Initial Teacher Education",
+      "slug": "business-14-19-initial-teacher-education",
       "route": "Higher Education programme",
-      "qualifications": "QTS, Professional",
-      "providerCode": "S84",
-      "programmeCode": "N1X1",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "B80",
+      "programmeCode": "34FW",
       "schools": [
         {
           "name": "Main Site",
-          "address": "The Student Gateway, Edinburgh Building, Chester Road, Sunderland, SR1 3SD",
+          "address": "",
           "code": ""
         }
       ],
@@ -58,20 +80,20 @@
       ]
     },
     {
-      "regions": "North East",
-      "accrediting": "University of Sunderland",
+      "regions": "South West",
+      "accrediting": "University of the West of England, Bristol",
       "subjects": "Chemistry, Science, Secondary",
       "ageRange": "Secondary (11+ years)",
-      "name": "Chemistry",
-      "slug": "chemistry",
+      "name": "Chemistry with Science (11+) ITE",
+      "slug": "chemistry-with-science-11-ite",
       "route": "Higher Education programme",
       "qualifications": "QTS, Postgraduate",
-      "providerCode": "S84",
+      "providerCode": "B80",
       "programmeCode": "F1X1",
       "schools": [
         {
           "name": "Main Site",
-          "address": "The Student Gateway, Edinburgh Building, Chester Road, Sunderland, SR1 3SD",
+          "address": "",
           "code": ""
         }
       ],
@@ -80,20 +102,20 @@
       ]
     },
     {
-      "regions": "North East",
-      "accrediting": "University of Sunderland",
+      "regions": "South West",
+      "accrediting": "University of the West of England, Bristol",
       "subjects": "Computer studies, Secondary",
       "ageRange": "Secondary (11+ years)",
-      "name": "Computer Science",
-      "slug": "computer-science",
+      "name": "Computer Science (11+) Initial Teacher Education",
+      "slug": "computer-science-11-initial-teacher-education",
       "route": "Higher Education programme",
       "qualifications": "QTS, Postgraduate",
-      "providerCode": "S84",
-      "programmeCode": "IX99",
+      "providerCode": "B80",
+      "programmeCode": "2WQG",
       "schools": [
         {
           "name": "Main Site",
-          "address": "The Student Gateway, Edinburgh Building, Chester Road, Sunderland, SR1 3SD",
+          "address": "",
           "code": ""
         }
       ],
@@ -102,20 +124,20 @@
       ]
     },
     {
-      "regions": "North East",
-      "accrediting": "University of Sunderland",
+      "regions": "South West",
+      "accrediting": "University of the West of England, Bristol",
       "subjects": "English, Secondary",
       "ageRange": "Secondary (11+ years)",
-      "name": "English",
-      "slug": "english",
+      "name": "English (11+) Initial Teacher Education",
+      "slug": "english-11-initial-teacher-education",
       "route": "Higher Education programme",
       "qualifications": "QTS, Postgraduate",
-      "providerCode": "S84",
+      "providerCode": "B80",
       "programmeCode": "Q3X1",
       "schools": [
         {
           "name": "Main Site",
-          "address": "The Student Gateway, Edinburgh Building, Chester Road, Sunderland, SR1 3SD",
+          "address": "",
           "code": ""
         }
       ],
@@ -124,42 +146,20 @@
       ]
     },
     {
-      "regions": "North East",
-      "accrediting": "University of Sunderland",
-      "subjects": "Primary",
-      "ageRange": "Primary (c3 - 11/12 years)",
-      "name": "General Primary",
-      "slug": "general-primary",
-      "route": "Higher Education programme",
-      "qualifications": "QTS, Postgraduate",
-      "providerCode": "S84",
-      "programmeCode": "X100",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "The Student Gateway, Edinburgh Building, Chester Road, Sunderland, SR1 3SD",
-          "code": ""
-        }
-      ],
-      "options": [
-        "PGCE with QTS full time"
-      ]
-    },
-    {
-      "regions": "North East",
-      "accrediting": "University of Sunderland",
+      "regions": "South West",
+      "accrediting": "University of the West of England, Bristol",
       "subjects": "Geography, Secondary",
       "ageRange": "Secondary (11+ years)",
-      "name": "Geography",
-      "slug": "geography",
+      "name": "Geography (11+) Initial Teacher Education",
+      "slug": "geography-11-initial-teacher-education",
       "route": "Higher Education programme",
       "qualifications": "QTS, Postgraduate",
-      "providerCode": "S84",
+      "providerCode": "B80",
       "programmeCode": "F8X1",
       "schools": [
         {
           "name": "Main Site",
-          "address": "The Student Gateway, Edinburgh Building, Chester Road, Sunderland, SR1 3SD",
+          "address": "",
           "code": ""
         }
       ],
@@ -168,20 +168,42 @@
       ]
     },
     {
-      "regions": "North East",
-      "accrediting": "University of Sunderland",
-      "subjects": "Mathematics, Secondary",
+      "regions": "South West",
+      "accrediting": "University of the West of England, Bristol",
+      "subjects": "History, Secondary",
       "ageRange": "Secondary (11+ years)",
-      "name": "Mathematics",
-      "slug": "mathematics",
+      "name": "History (11+) Initial Teacher Education",
+      "slug": "history-11-initial-teacher-education",
       "route": "Higher Education programme",
       "qualifications": "QTS, Postgraduate",
-      "providerCode": "S84",
+      "providerCode": "B80",
+      "programmeCode": "V1X1",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "",
+          "code": ""
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "South West",
+      "accrediting": "University of the West of England, Bristol",
+      "subjects": "Mathematics, Secondary",
+      "ageRange": "Secondary (11+ years)",
+      "name": "Mathematics (11+) Initial Teacher Education",
+      "slug": "mathematics-11-initial-teacher-education",
+      "route": "Higher Education programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "B80",
       "programmeCode": "G1X1",
       "schools": [
         {
           "name": "Main Site",
-          "address": "The Student Gateway, Edinburgh Building, Chester Road, Sunderland, SR1 3SD",
+          "address": "",
           "code": ""
         }
       ],
@@ -190,20 +212,42 @@
       ]
     },
     {
-      "regions": "North East",
-      "accrediting": "University of Sunderland",
-      "subjects": "Physics, Science, Secondary",
+      "regions": "South West",
+      "accrediting": "University of the West of England, Bristol",
+      "subjects": "Languages, Secondary",
       "ageRange": "Secondary (11+ years)",
-      "name": "Physics",
-      "slug": "physics",
+      "name": "Modern Languages (11+) Initial Teacher Education",
+      "slug": "modern-languages-11-initial-teacher-education",
       "route": "Higher Education programme",
       "qualifications": "QTS, Postgraduate",
-      "providerCode": "S84",
+      "providerCode": "B80",
+      "programmeCode": "R9X1",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "",
+          "code": ""
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "South West",
+      "accrediting": "University of the West of England, Bristol",
+      "subjects": "Physics, Science, Secondary",
+      "ageRange": "Secondary (11+ years)",
+      "name": "Physics with Science (11+) ITE",
+      "slug": "physics-with-science-11-ite",
+      "route": "Higher Education programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "B80",
       "programmeCode": "F3X1",
       "schools": [
         {
           "name": "Main Site",
-          "address": "The Student Gateway, Edinburgh Building, Chester Road, Sunderland, SR1 3SD",
+          "address": "",
           "code": ""
         }
       ],
@@ -212,20 +256,42 @@
       ]
     },
     {
-      "regions": "North East",
-      "accrediting": "University of Sunderland",
-      "subjects": "Further education, Post-compulsory",
-      "ageRange": "Secondary (11+ years)",
-      "name": "Post-Compulsory Education and Training",
-      "slug": "post-compulsory-education-and-training",
+      "regions": "South West",
+      "accrediting": "University of the West of England, Bristol",
+      "subjects": "Primary",
+      "ageRange": "Primary (c3 - 11/12 years)",
+      "name": "Primary (5-11) Initial Teacher Education",
+      "slug": "primary-5-11-initial-teacher-education",
       "route": "Higher Education programme",
-      "qualifications": "QTS, Professional",
-      "providerCode": "S84",
-      "programmeCode": "X341",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "B80",
+      "programmeCode": "X171",
       "schools": [
         {
           "name": "Main Site",
-          "address": "The Student Gateway, Edinburgh Building, Chester Road, Sunderland, SR1 3SD",
+          "address": "",
+          "code": ""
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "South West",
+      "accrediting": "University of the West of England, Bristol",
+      "subjects": "Early years, Primary",
+      "ageRange": "Primary (c3 - 11/12 years)",
+      "name": "Primary Early Years (3-7) ITE",
+      "slug": "primary-early-years-3-7-ite",
+      "route": "Higher Education programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "B80",
+      "programmeCode": "X121",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "",
           "code": ""
         }
       ],
@@ -237,54 +303,66 @@
   "schools": [
     {
       "name": "Main Site",
-      "address": "The Student Gateway, Edinburgh Building, Chester Road, Sunderland, SR1 3SD",
+      "address": "",
       "code": ""
     }
   ],
   "accreditors": [
     {
-      "name": "University of Sunderland",
-      "slug": "university-of-sunderland",
+      "name": "University of the West of England, Bristol",
+      "slug": "university-of-the-west-of-england-bristol",
       "subjects": [
         {
-          "name": "Biology",
-          "slug": "biology"
+          "name": "Art and Design (11+) Initial Teacher Education",
+          "slug": "art-and-design-11-initial-teacher-education"
         },
         {
-          "name": "Business Studies",
-          "slug": "business-studies"
+          "name": "Biology with Science (11+) ITE",
+          "slug": "biology-with-science-11-ite"
         },
         {
-          "name": "Chemistry",
-          "slug": "chemistry"
+          "name": "Business (14-19) Initial Teacher Education",
+          "slug": "business-14-19-initial-teacher-education"
         },
         {
-          "name": "Computer Science",
-          "slug": "computer-science"
+          "name": "Chemistry with Science (11+) ITE",
+          "slug": "chemistry-with-science-11-ite"
         },
         {
-          "name": "English",
-          "slug": "english"
+          "name": "Computer Science (11+) Initial Teacher Education",
+          "slug": "computer-science-11-initial-teacher-education"
         },
         {
-          "name": "General Primary",
-          "slug": "general-primary"
+          "name": "English (11+) Initial Teacher Education",
+          "slug": "english-11-initial-teacher-education"
         },
         {
-          "name": "Geography",
-          "slug": "geography"
+          "name": "Geography (11+) Initial Teacher Education",
+          "slug": "geography-11-initial-teacher-education"
         },
         {
-          "name": "Mathematics",
-          "slug": "mathematics"
+          "name": "History (11+) Initial Teacher Education",
+          "slug": "history-11-initial-teacher-education"
         },
         {
-          "name": "Physics",
-          "slug": "physics"
+          "name": "Mathematics (11+) Initial Teacher Education",
+          "slug": "mathematics-11-initial-teacher-education"
         },
         {
-          "name": "Post-Compulsory Education and Training",
-          "slug": "post-compulsory-education-and-training"
+          "name": "Modern Languages (11+) Initial Teacher Education",
+          "slug": "modern-languages-11-initial-teacher-education"
+        },
+        {
+          "name": "Physics with Science (11+) ITE",
+          "slug": "physics-with-science-11-ite"
+        },
+        {
+          "name": "Primary (5-11) Initial Teacher Education",
+          "slug": "primary-5-11-initial-teacher-education"
+        },
+        {
+          "name": "Primary Early Years (3-7) ITE",
+          "slug": "primary-early-years-3-7-ite"
         }
       ]
     }
@@ -292,53 +370,65 @@
   "self_accrediting": true,
   "subjects": [
     {
-      "name": "Biology",
-      "slug": "biology"
+      "name": "Art and Design (11+) Initial Teacher Education",
+      "slug": "art-and-design-11-initial-teacher-education"
     },
     {
-      "name": "Business Studies",
-      "slug": "business-studies"
+      "name": "Biology with Science (11+) ITE",
+      "slug": "biology-with-science-11-ite"
     },
     {
-      "name": "Chemistry",
-      "slug": "chemistry"
+      "name": "Business (14-19) Initial Teacher Education",
+      "slug": "business-14-19-initial-teacher-education"
     },
     {
-      "name": "Computer Science",
-      "slug": "computer-science"
+      "name": "Chemistry with Science (11+) ITE",
+      "slug": "chemistry-with-science-11-ite"
     },
     {
-      "name": "English",
-      "slug": "english"
+      "name": "Computer Science (11+) Initial Teacher Education",
+      "slug": "computer-science-11-initial-teacher-education"
     },
     {
-      "name": "General Primary",
-      "slug": "general-primary"
+      "name": "English (11+) Initial Teacher Education",
+      "slug": "english-11-initial-teacher-education"
     },
     {
-      "name": "Geography",
-      "slug": "geography"
+      "name": "Geography (11+) Initial Teacher Education",
+      "slug": "geography-11-initial-teacher-education"
     },
     {
-      "name": "Mathematics",
-      "slug": "mathematics"
+      "name": "History (11+) Initial Teacher Education",
+      "slug": "history-11-initial-teacher-education"
     },
     {
-      "name": "Physics",
-      "slug": "physics"
+      "name": "Mathematics (11+) Initial Teacher Education",
+      "slug": "mathematics-11-initial-teacher-education"
     },
     {
-      "name": "Post-Compulsory Education and Training",
-      "slug": "post-compulsory-education-and-training"
+      "name": "Modern Languages (11+) Initial Teacher Education",
+      "slug": "modern-languages-11-initial-teacher-education"
+    },
+    {
+      "name": "Physics with Science (11+) ITE",
+      "slug": "physics-with-science-11-ite"
+    },
+    {
+      "name": "Primary (5-11) Initial Teacher Education",
+      "slug": "primary-5-11-initial-teacher-education"
+    },
+    {
+      "name": "Primary Early Years (3-7) ITE",
+      "slug": "primary-early-years-3-7-ite"
     }
   ],
   "folded_courses": {
-    "University of Sunderland": [
+    "University of the West of England, Bristol": [
       {
-        "name": "Biology",
+        "name": "Art and Design (11+) Initial Teacher Education",
         "courses": 1,
         "accrediting": [
-          "University of Sunderland"
+          "University of the West of England, Bristol"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
@@ -356,10 +446,31 @@
         }
       },
       {
-        "name": "Business Studies",
+        "name": "Biology with Science (11+) ITE",
         "courses": 1,
         "accrediting": [
-          "University of Sunderland"
+          "University of the West of England, Bristol"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Main Site"
+        ],
+        "options": [
+          "QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Business (14-19) Initial Teacher Education",
+        "courses": 1,
+        "accrediting": [
+          "University of the West of England, Bristol"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
@@ -377,10 +488,10 @@
         }
       },
       {
-        "name": "Chemistry",
+        "name": "Chemistry with Science (11+) ITE",
         "courses": 1,
         "accrediting": [
-          "University of Sunderland"
+          "University of the West of England, Bristol"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
@@ -398,10 +509,10 @@
         }
       },
       {
-        "name": "Computer Science",
+        "name": "Computer Science (11+) Initial Teacher Education",
         "courses": 1,
         "accrediting": [
-          "University of Sunderland"
+          "University of the West of England, Bristol"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
@@ -419,10 +530,10 @@
         }
       },
       {
-        "name": "English",
+        "name": "English (11+) Initial Teacher Education",
         "courses": 1,
         "accrediting": [
-          "University of Sunderland"
+          "University of the West of England, Bristol"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
@@ -440,10 +551,10 @@
         }
       },
       {
-        "name": "General Primary",
+        "name": "Geography (11+) Initial Teacher Education",
         "courses": 1,
         "accrediting": [
-          "University of Sunderland"
+          "University of the West of England, Bristol"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
@@ -461,10 +572,10 @@
         }
       },
       {
-        "name": "Geography",
+        "name": "History (11+) Initial Teacher Education",
         "courses": 1,
         "accrediting": [
-          "University of Sunderland"
+          "University of the West of England, Bristol"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
@@ -482,10 +593,10 @@
         }
       },
       {
-        "name": "Mathematics",
+        "name": "Mathematics (11+) Initial Teacher Education",
         "courses": 1,
         "accrediting": [
-          "University of Sunderland"
+          "University of the West of England, Bristol"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
@@ -503,10 +614,10 @@
         }
       },
       {
-        "name": "Physics",
+        "name": "Modern Languages (11+) Initial Teacher Education",
         "courses": 1,
         "accrediting": [
-          "University of Sunderland"
+          "University of the West of England, Bristol"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
@@ -524,10 +635,52 @@
         }
       },
       {
-        "name": "Post-Compulsory Education and Training",
+        "name": "Physics with Science (11+) ITE",
         "courses": 1,
         "accrediting": [
-          "University of Sunderland"
+          "University of the West of England, Bristol"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Main Site"
+        ],
+        "options": [
+          "PGCE with QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Primary (5-11) Initial Teacher Education",
+        "courses": 1,
+        "accrediting": [
+          "University of the West of England, Bristol"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Main Site"
+        ],
+        "options": [
+          "PGCE with QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Primary Early Years (3-7) ITE",
+        "courses": 1,
+        "accrediting": [
+          "University of the West of England, Bristol"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
@@ -547,6 +700,7 @@
     ]
   },
   "options": [
-    "PGCE with QTS full time"
+    "PGCE with QTS full time",
+    "QTS full time"
   ]
 }
