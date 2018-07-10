@@ -1,8 +1,8 @@
 {
   "multi-organisation": false,
-  "training-provider-name": "University of East Anglia",
-  "provider-code-name": "EANGL",
-  "provider-code": "E14",
+  "training-provider-name": "Surrey South Farnham SCITT (School Direct)",
+  "provider-code-name": "A1154",
+  "provider-code": "13S",
   "address-line-1": "123 Baker Street",
   "town": "London",
   "postcode": "SW1 1AA",
@@ -14,417 +14,43 @@
   ],
   "ucasCourses": [
     {
-      "regions": "Eastern",
-      "accrediting": "University of East Anglia",
-      "subjects": "Biology, Science, Secondary",
-      "ageRange": "Secondary (11+ years)",
-      "name": "Biology",
-      "slug": "biology",
-      "route": "Higher Education programme",
-      "qualifications": "QTS, Postgraduate",
-      "providerCode": "E14",
-      "programmeCode": "C1X1",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "University of East Anglia, Norwich, Norfolk, NR4 7TJ",
-          "code": ""
-        }
-      ],
-      "options": [
-        "PGCE with QTS full time"
-      ]
-    },
-    {
-      "regions": "Eastern",
-      "accrediting": "University of East Anglia",
-      "subjects": "Chemistry, Science, Secondary",
-      "ageRange": "Secondary (11+ years)",
-      "name": "Chemistry",
-      "slug": "chemistry",
-      "route": "Higher Education programme",
-      "qualifications": "QTS, Postgraduate",
-      "providerCode": "E14",
-      "programmeCode": "F1X1",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "University of East Anglia, Norwich, Norfolk, NR4 7TJ",
-          "code": ""
-        }
-      ],
-      "options": [
-        "PGCE with QTS full time"
-      ]
-    },
-    {
-      "regions": "Eastern",
-      "accrediting": "University of East Anglia",
-      "subjects": "English, Secondary",
-      "ageRange": "Secondary (11+ years)",
-      "name": "English",
-      "slug": "english",
-      "route": "Higher Education programme",
-      "qualifications": "QTS, Postgraduate",
-      "providerCode": "E14",
-      "programmeCode": "Q3X1",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "University of East Anglia, Norwich, Norfolk, NR4 7TJ",
-          "code": ""
-        }
-      ],
-      "options": [
-        "PGCE with QTS full time"
-      ]
-    },
-    {
-      "regions": "Eastern",
-      "accrediting": "University of East Anglia",
+      "regions": "South East",
+      "accrediting": "Surrey South Farnham SCITT",
       "subjects": "Primary",
       "ageRange": "Primary (c3 - 11/12 years)",
-      "name": "General Primary (with Key Stage 1 & 2 Specialism)",
-      "slug": "general-primary-with-key-stage-1-2-specialism",
-      "route": "Higher Education programme",
-      "qualifications": "QTS, Postgraduate",
-      "providerCode": "E14",
-      "programmeCode": "X100",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "University of East Anglia, Norwich, Norfolk, NR4 7TJ",
-          "code": ""
-        }
-      ],
-      "options": [
-        "PGCE with QTS full time"
-      ]
-    },
-    {
-      "regions": "Eastern",
-      "accrediting": "University of East Anglia",
-      "subjects": "Primary",
-      "ageRange": "Primary (c3 - 11/12 years)",
-      "name": "General Primary (with Key Stage 2 specialism)",
-      "slug": "general-primary-with-key-stage-2-specialism",
-      "route": "Higher Education programme",
-      "qualifications": "QTS, Postgraduate",
-      "providerCode": "E14",
-      "programmeCode": "X171",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "University of East Anglia, Norwich, Norfolk, NR4 7TJ",
-          "code": ""
-        }
-      ],
-      "options": [
-        "PGCE with QTS full time"
-      ]
-    },
-    {
-      "regions": "Eastern",
-      "accrediting": "University of East Anglia",
-      "subjects": "Geography, Secondary",
-      "ageRange": "Secondary (11+ years)",
-      "name": "Geography",
-      "slug": "geography",
-      "route": "Higher Education programme",
-      "qualifications": "QTS, Postgraduate",
-      "providerCode": "E14",
-      "programmeCode": "F8X1",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "University of East Anglia, Norwich, Norfolk, NR4 7TJ",
-          "code": ""
-        }
-      ],
-      "options": [
-        "PGCE with QTS full time"
-      ]
-    },
-    {
-      "regions": "Eastern",
-      "accrediting": "University of East Anglia",
-      "subjects": "History, Secondary",
-      "ageRange": "Secondary (11+ years)",
-      "name": "History",
-      "slug": "history",
-      "route": "Higher Education programme",
-      "qualifications": "QTS, Postgraduate",
-      "providerCode": "E14",
-      "programmeCode": "V1X1",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "University of East Anglia, Norwich, Norfolk, NR4 7TJ",
-          "code": ""
-        }
-      ],
-      "options": [
-        "PGCE with QTS full time"
-      ]
-    },
-    {
-      "regions": "Eastern",
-      "accrediting": "University of East Anglia",
-      "subjects": "Mathematics, Secondary",
-      "ageRange": "Secondary (11+ years)",
-      "name": "Mathematics",
-      "slug": "mathematics",
-      "route": "Higher Education programme",
-      "qualifications": "QTS, Postgraduate",
-      "providerCode": "E14",
-      "programmeCode": "G1X1",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "University of East Anglia, Norwich, Norfolk, NR4 7TJ",
-          "code": ""
-        }
-      ],
-      "options": [
-        "PGCE with QTS full time"
-      ]
-    },
-    {
-      "regions": "Eastern",
-      "accrediting": "University of East Anglia",
-      "subjects": "French, Languages, Languages (european), Secondary",
-      "ageRange": "Secondary (11+ years)",
-      "name": "Modern Languages (French)",
-      "slug": "modern-languages-french",
-      "route": "Higher Education programme",
-      "qualifications": "QTS, Postgraduate",
-      "providerCode": "E14",
-      "programmeCode": "R1X1",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "University of East Anglia, Norwich, Norfolk, NR4 7TJ",
-          "code": ""
-        }
-      ],
-      "options": [
-        "PGCE with QTS full time"
-      ]
-    },
-    {
-      "regions": "Eastern",
-      "accrediting": "University of East Anglia",
-      "subjects": "French, German, Languages, Languages (european), Secondary, Spanish",
-      "ageRange": "Secondary (11+ years)",
-      "name": "Modern Languages (French, German, Spanish)",
-      "slug": "modern-languages-french-german-spanish",
-      "route": "Higher Education programme",
-      "qualifications": "QTS, Postgraduate",
-      "providerCode": "E14",
-      "programmeCode": "R9X1",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "University of East Anglia, Norwich, Norfolk, NR4 7TJ",
-          "code": ""
-        }
-      ],
-      "options": [
-        "PGCE with QTS full time"
-      ]
-    },
-    {
-      "regions": "Eastern",
-      "accrediting": "University of East Anglia",
-      "subjects": "German, Languages, Languages (european), Secondary",
-      "ageRange": "Secondary (11+ years)",
-      "name": "Modern Languages (German)",
-      "slug": "modern-languages-german",
-      "route": "Higher Education programme",
-      "qualifications": "QTS, Postgraduate",
-      "providerCode": "E14",
-      "programmeCode": "R2X1",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "University of East Anglia, Norwich, Norfolk, NR4 7TJ",
-          "code": ""
-        }
-      ],
-      "options": [
-        "PGCE with QTS full time"
-      ]
-    },
-    {
-      "regions": "Eastern",
-      "accrediting": "University of East Anglia",
-      "subjects": "Languages, Languages (european), Secondary, Spanish",
-      "ageRange": "Secondary (11+ years)",
-      "name": "Modern Languages (Spanish)",
-      "slug": "modern-languages-spanish",
-      "route": "Higher Education programme",
-      "qualifications": "QTS, Postgraduate",
-      "providerCode": "E14",
-      "programmeCode": "R4X1",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "University of East Anglia, Norwich, Norfolk, NR4 7TJ",
-          "code": ""
-        }
-      ],
-      "options": [
-        "PGCE with QTS full time"
-      ]
-    },
-    {
-      "regions": "Eastern",
-      "accrediting": "University of East Anglia",
-      "subjects": "Physical education, Secondary",
-      "ageRange": "Secondary (11+ years)",
-      "name": "Physical Education",
-      "slug": "physical-education",
-      "route": "Higher Education programme",
-      "qualifications": "QTS, Postgraduate",
-      "providerCode": "E14",
-      "programmeCode": "X9C6",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "University of East Anglia, Norwich, Norfolk, NR4 7TJ",
-          "code": ""
-        }
-      ],
-      "options": [
-        "PGCE with QTS full time"
-      ]
-    },
-    {
-      "regions": "Eastern",
-      "accrediting": "University of East Anglia",
-      "subjects": "Physics, Science, Secondary",
-      "ageRange": "Secondary (11+ years)",
-      "name": "Physics",
-      "slug": "physics",
-      "route": "Higher Education programme",
-      "qualifications": "QTS, Postgraduate",
-      "providerCode": "E14",
-      "programmeCode": "F3X1",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "University of East Anglia, Norwich, Norfolk, NR4 7TJ",
-          "code": ""
-        }
-      ],
-      "options": [
-        "PGCE with QTS full time"
-      ]
-    },
-    {
-      "regions": "Eastern",
-      "accrediting": "University of East Anglia",
-      "subjects": "Mathematics, Physics, Science, Secondary",
-      "ageRange": "Secondary (11+ years)",
-      "name": "Physics with Mathematics",
-      "slug": "physics-with-mathematics",
-      "route": "Higher Education programme",
-      "qualifications": "QTS, Postgraduate",
-      "providerCode": "E14",
-      "programmeCode": "2DXM",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "University of East Anglia, Norwich, Norfolk, NR4 7TJ",
-          "code": ""
-        }
-      ],
-      "options": [
-        "PGCE with QTS full time"
-      ]
-    },
-    {
-      "regions": "Eastern",
-      "accrediting": "University of East Anglia",
-      "subjects": "Primary",
-      "ageRange": "Primary (c3 - 11/12 years)",
-      "name": "Primary - FS/KS1",
-      "slug": "primary-fs-ks1",
-      "route": "Higher Education programme",
-      "qualifications": "QTS, Postgraduate",
-      "providerCode": "E14",
-      "programmeCode": "X110",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "University of East Anglia, Norwich, Norfolk, NR4 7TJ",
-          "code": ""
-        }
-      ],
-      "options": [
-        "PGCE with QTS full time"
-      ]
-    },
-    {
-      "regions": "Eastern",
-      "accrediting": "University of East Anglia",
-      "subjects": "French, Languages, Languages (european), Primary",
-      "ageRange": "Primary (c3 - 11/12 years)",
-      "name": "Primary Specialising in French",
-      "slug": "primary-specialising-in-french",
-      "route": "Higher Education programme",
-      "qualifications": "QTS, Postgraduate",
-      "providerCode": "E14",
-      "programmeCode": "XR11",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "University of East Anglia, Norwich, Norfolk, NR4 7TJ",
-          "code": ""
-        }
-      ],
-      "options": [
-        "PGCE with QTS full time"
-      ]
-    },
-    {
-      "regions": "Eastern",
-      "accrediting": "University of East Anglia",
-      "subjects": "German, Languages, Languages (european), Primary",
-      "ageRange": "Primary (c3 - 11/12 years)",
-      "name": "Primary Specialising in German",
-      "slug": "primary-specialising-in-german",
-      "route": "Higher Education programme",
-      "qualifications": "QTS, Postgraduate",
-      "providerCode": "E14",
-      "programmeCode": "XR21",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "University of East Anglia, Norwich, Norfolk, NR4 7TJ",
-          "code": ""
-        }
-      ],
-      "options": [
-        "PGCE with QTS full time"
-      ]
-    },
-    {
-      "regions": "Eastern",
-      "accrediting": "University of East Anglia",
-      "subjects": "Mathematics, Primary",
-      "ageRange": "Primary (c3 - 11/12 years)",
-      "name": "Primary Specialising in Mathematics",
-      "slug": "primary-specialising-in-mathematics",
-      "route": "Higher Education programme",
+      "name": "Primary",
+      "slug": "primary",
+      "route": "School Direct training programme (salaried)",
       "qualifications": "QTS",
-      "providerCode": "E14",
-      "programmeCode": "2NQB",
+      "providerCode": "13S",
+      "programmeCode": "2ML4",
       "schools": [
         {
           "name": "Main Site",
-          "address": "University of East Anglia, Norwich, Norfolk, NR4 7TJ",
-          "code": ""
+          "address": "Menin Way, Farnham, GU9 8DY",
+          "code": "-"
+        }
+      ],
+      "options": [
+        "QTS full time with salary"
+      ]
+    },
+    {
+      "regions": "South East",
+      "accrediting": "Surrey South Farnham SCITT",
+      "subjects": "Primary",
+      "ageRange": "Primary (c3 - 11/12 years)",
+      "name": "Primary",
+      "slug": "primary",
+      "route": "School Direct training programme",
+      "qualifications": "QTS",
+      "providerCode": "13S",
+      "programmeCode": "2ML5",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "Menin Way, Farnham, GU9 8DY",
+          "code": "-"
         }
       ],
       "options": [
@@ -432,213 +58,113 @@
       ]
     },
     {
-      "regions": "Eastern",
-      "accrediting": "University of East Anglia",
-      "subjects": "Languages, Languages (european), Primary, Spanish",
+      "regions": "South East",
+      "accrediting": "Surrey South Farnham SCITT",
+      "subjects": "Primary",
       "ageRange": "Primary (c3 - 11/12 years)",
-      "name": "Primary Specialising in Spanish",
-      "slug": "primary-specialising-in-spanish",
-      "route": "Higher Education programme",
+      "name": "Primary",
+      "slug": "primary",
+      "route": "School Direct training programme",
       "qualifications": "QTS, Postgraduate",
-      "providerCode": "E14",
-      "programmeCode": "XR41",
+      "providerCode": "13S",
+      "programmeCode": "2NCQ",
       "schools": [
         {
           "name": "Main Site",
-          "address": "University of East Anglia, Norwich, Norfolk, NR4 7TJ",
-          "code": ""
+          "address": "Menin Way, Farnham, GU9 8DY",
+          "code": "-"
         }
       ],
       "options": [
         "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "South East",
+      "accrediting": "Surrey South Farnham SCITT",
+      "subjects": "Mathematics, Primary",
+      "ageRange": "Primary (c3 - 11/12 years)",
+      "name": "Primary - General (with Mathematics)",
+      "slug": "primary-general-with-mathematics",
+      "route": "School Direct training programme",
+      "qualifications": "QTS",
+      "providerCode": "13S",
+      "programmeCode": "2ML3",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "Menin Way, Farnham, GU9 8DY",
+          "code": "-"
+        }
+      ],
+      "options": [
+        "QTS full time"
+      ]
+    },
+    {
+      "regions": "South East",
+      "accrediting": "Surrey South Farnham SCITT",
+      "subjects": "Mathematics, Primary",
+      "ageRange": "Primary (c3 - 11/12 years)",
+      "name": "Primary - General (with Mathematics)",
+      "slug": "primary-general-with-mathematics",
+      "route": "School Direct training programme (salaried)",
+      "qualifications": "QTS",
+      "providerCode": "13S",
+      "programmeCode": "2ML6",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "Menin Way, Farnham, GU9 8DY",
+          "code": "-"
+        }
+      ],
+      "options": [
+        "QTS full time with salary"
       ]
     }
   ],
   "schools": [
     {
       "name": "Main Site",
-      "address": "University of East Anglia, Norwich, Norfolk, NR4 7TJ",
-      "code": ""
+      "address": "Menin Way, Farnham, GU9 8DY",
+      "code": "-"
     }
   ],
   "accreditors": [
     {
-      "name": "University of East Anglia",
-      "slug": "university-of-east-anglia",
+      "name": "Surrey South Farnham SCITT",
+      "slug": "surrey-south-farnham-scitt",
       "subjects": [
         {
-          "name": "Biology",
-          "slug": "biology"
+          "name": "Primary",
+          "slug": "primary"
         },
         {
-          "name": "Chemistry",
-          "slug": "chemistry"
-        },
-        {
-          "name": "English",
-          "slug": "english"
-        },
-        {
-          "name": "General Primary (with Key Stage 1 & 2 Specialism)",
-          "slug": "general-primary-with-key-stage-1-2-specialism"
-        },
-        {
-          "name": "General Primary (with Key Stage 2 specialism)",
-          "slug": "general-primary-with-key-stage-2-specialism"
-        },
-        {
-          "name": "Geography",
-          "slug": "geography"
-        },
-        {
-          "name": "History",
-          "slug": "history"
-        },
-        {
-          "name": "Mathematics",
-          "slug": "mathematics"
-        },
-        {
-          "name": "Modern Languages (French)",
-          "slug": "modern-languages-french"
-        },
-        {
-          "name": "Modern Languages (French, German, Spanish)",
-          "slug": "modern-languages-french-german-spanish"
-        },
-        {
-          "name": "Modern Languages (German)",
-          "slug": "modern-languages-german"
-        },
-        {
-          "name": "Modern Languages (Spanish)",
-          "slug": "modern-languages-spanish"
-        },
-        {
-          "name": "Physical Education",
-          "slug": "physical-education"
-        },
-        {
-          "name": "Physics",
-          "slug": "physics"
-        },
-        {
-          "name": "Physics with Mathematics",
-          "slug": "physics-with-mathematics"
-        },
-        {
-          "name": "Primary - FS/KS1",
-          "slug": "primary-fs-ks1"
-        },
-        {
-          "name": "Primary Specialising in French",
-          "slug": "primary-specialising-in-french"
-        },
-        {
-          "name": "Primary Specialising in German",
-          "slug": "primary-specialising-in-german"
-        },
-        {
-          "name": "Primary Specialising in Mathematics",
-          "slug": "primary-specialising-in-mathematics"
-        },
-        {
-          "name": "Primary Specialising in Spanish",
-          "slug": "primary-specialising-in-spanish"
+          "name": "Primary - General (with Mathematics)",
+          "slug": "primary-general-with-mathematics"
         }
       ]
     }
   ],
-  "self_accrediting": true,
+  "self_accrediting": false,
   "subjects": [
     {
-      "name": "Biology",
-      "slug": "biology"
+      "name": "Primary",
+      "slug": "primary"
     },
     {
-      "name": "Chemistry",
-      "slug": "chemistry"
-    },
-    {
-      "name": "English",
-      "slug": "english"
-    },
-    {
-      "name": "General Primary (with Key Stage 1 & 2 Specialism)",
-      "slug": "general-primary-with-key-stage-1-2-specialism"
-    },
-    {
-      "name": "General Primary (with Key Stage 2 specialism)",
-      "slug": "general-primary-with-key-stage-2-specialism"
-    },
-    {
-      "name": "Geography",
-      "slug": "geography"
-    },
-    {
-      "name": "History",
-      "slug": "history"
-    },
-    {
-      "name": "Mathematics",
-      "slug": "mathematics"
-    },
-    {
-      "name": "Modern Languages (French)",
-      "slug": "modern-languages-french"
-    },
-    {
-      "name": "Modern Languages (French, German, Spanish)",
-      "slug": "modern-languages-french-german-spanish"
-    },
-    {
-      "name": "Modern Languages (German)",
-      "slug": "modern-languages-german"
-    },
-    {
-      "name": "Modern Languages (Spanish)",
-      "slug": "modern-languages-spanish"
-    },
-    {
-      "name": "Physical Education",
-      "slug": "physical-education"
-    },
-    {
-      "name": "Physics",
-      "slug": "physics"
-    },
-    {
-      "name": "Physics with Mathematics",
-      "slug": "physics-with-mathematics"
-    },
-    {
-      "name": "Primary - FS/KS1",
-      "slug": "primary-fs-ks1"
-    },
-    {
-      "name": "Primary Specialising in French",
-      "slug": "primary-specialising-in-french"
-    },
-    {
-      "name": "Primary Specialising in German",
-      "slug": "primary-specialising-in-german"
-    },
-    {
-      "name": "Primary Specialising in Mathematics",
-      "slug": "primary-specialising-in-mathematics"
-    },
-    {
-      "name": "Primary Specialising in Spanish",
-      "slug": "primary-specialising-in-spanish"
+      "name": "Primary - General (with Mathematics)",
+      "slug": "primary-general-with-mathematics"
     }
   ],
   "folded_courses": {
-    "University of East Anglia": [
+    "Surrey South Farnham SCITT": [
       {
-        "name": "Biology",
-        "courses": 1,
+        "name": "Primary",
+        "courses": 3,
         "accrediting": [
-          "University of East Anglia"
+          "Surrey South Farnham SCITT"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
@@ -647,19 +173,21 @@
           "Main Site"
         ],
         "options": [
-          "PGCE with QTS full time"
+          "PGCE with QTS full time",
+          "QTS full time",
+          "QTS full time with salary"
         ],
         "flags": {
           "partTime": false,
-          "salary": false,
-          "qualifications": false
+          "salary": true,
+          "qualifications": true
         }
       },
       {
-        "name": "Chemistry",
-        "courses": 1,
+        "name": "Primary - General (with Mathematics)",
+        "courses": 2,
         "accrediting": [
-          "University of East Anglia"
+          "Surrey South Farnham SCITT"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
@@ -668,396 +196,20 @@
           "Main Site"
         ],
         "options": [
-          "PGCE with QTS full time"
+          "QTS full time",
+          "QTS full time with salary"
         ],
         "flags": {
           "partTime": false,
-          "salary": false,
-          "qualifications": false
-        }
-      },
-      {
-        "name": "English",
-        "courses": 1,
-        "accrediting": [
-          "University of East Anglia"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Main Site"
-        ],
-        "options": [
-          "PGCE with QTS full time"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": false,
-          "qualifications": false
-        }
-      },
-      {
-        "name": "General Primary (with Key Stage 1 & 2 Specialism)",
-        "courses": 1,
-        "accrediting": [
-          "University of East Anglia"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Main Site"
-        ],
-        "options": [
-          "PGCE with QTS full time"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": false,
-          "qualifications": false
-        }
-      },
-      {
-        "name": "General Primary (with Key Stage 2 specialism)",
-        "courses": 1,
-        "accrediting": [
-          "University of East Anglia"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Main Site"
-        ],
-        "options": [
-          "PGCE with QTS full time"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": false,
-          "qualifications": false
-        }
-      },
-      {
-        "name": "Geography",
-        "courses": 1,
-        "accrediting": [
-          "University of East Anglia"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Main Site"
-        ],
-        "options": [
-          "PGCE with QTS full time"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": false,
-          "qualifications": false
-        }
-      },
-      {
-        "name": "History",
-        "courses": 1,
-        "accrediting": [
-          "University of East Anglia"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Main Site"
-        ],
-        "options": [
-          "PGCE with QTS full time"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": false,
-          "qualifications": false
-        }
-      },
-      {
-        "name": "Mathematics",
-        "courses": 1,
-        "accrediting": [
-          "University of East Anglia"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Main Site"
-        ],
-        "options": [
-          "PGCE with QTS full time"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": false,
-          "qualifications": false
-        }
-      },
-      {
-        "name": "Modern Languages (French)",
-        "courses": 1,
-        "accrediting": [
-          "University of East Anglia"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Main Site"
-        ],
-        "options": [
-          "PGCE with QTS full time"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": false,
-          "qualifications": false
-        }
-      },
-      {
-        "name": "Modern Languages (French, German, Spanish)",
-        "courses": 1,
-        "accrediting": [
-          "University of East Anglia"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Main Site"
-        ],
-        "options": [
-          "PGCE with QTS full time"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": false,
-          "qualifications": false
-        }
-      },
-      {
-        "name": "Modern Languages (German)",
-        "courses": 1,
-        "accrediting": [
-          "University of East Anglia"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Main Site"
-        ],
-        "options": [
-          "PGCE with QTS full time"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": false,
-          "qualifications": false
-        }
-      },
-      {
-        "name": "Modern Languages (Spanish)",
-        "courses": 1,
-        "accrediting": [
-          "University of East Anglia"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Main Site"
-        ],
-        "options": [
-          "PGCE with QTS full time"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": false,
-          "qualifications": false
-        }
-      },
-      {
-        "name": "Physical Education",
-        "courses": 1,
-        "accrediting": [
-          "University of East Anglia"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Main Site"
-        ],
-        "options": [
-          "PGCE with QTS full time"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": false,
-          "qualifications": false
-        }
-      },
-      {
-        "name": "Physics",
-        "courses": 1,
-        "accrediting": [
-          "University of East Anglia"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Main Site"
-        ],
-        "options": [
-          "PGCE with QTS full time"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": false,
-          "qualifications": false
-        }
-      },
-      {
-        "name": "Physics with Mathematics",
-        "courses": 1,
-        "accrediting": [
-          "University of East Anglia"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Main Site"
-        ],
-        "options": [
-          "PGCE with QTS full time"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": false,
-          "qualifications": false
-        }
-      },
-      {
-        "name": "Primary - FS/KS1",
-        "courses": 1,
-        "accrediting": [
-          "University of East Anglia"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Main Site"
-        ],
-        "options": [
-          "PGCE with QTS full time"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": false,
-          "qualifications": false
-        }
-      },
-      {
-        "name": "Primary Specialising in French",
-        "courses": 1,
-        "accrediting": [
-          "University of East Anglia"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Main Site"
-        ],
-        "options": [
-          "PGCE with QTS full time"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": false,
-          "qualifications": false
-        }
-      },
-      {
-        "name": "Primary Specialising in German",
-        "courses": 1,
-        "accrediting": [
-          "University of East Anglia"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Main Site"
-        ],
-        "options": [
-          "PGCE with QTS full time"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": false,
-          "qualifications": false
-        }
-      },
-      {
-        "name": "Primary Specialising in Mathematics",
-        "courses": 1,
-        "accrediting": [
-          "University of East Anglia"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Main Site"
-        ],
-        "options": [
-          "QTS full time"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": false,
-          "qualifications": false
-        }
-      },
-      {
-        "name": "Primary Specialising in Spanish",
-        "courses": 1,
-        "accrediting": [
-          "University of East Anglia"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Main Site"
-        ],
-        "options": [
-          "PGCE with QTS full time"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": false,
+          "salary": true,
           "qualifications": false
         }
       }
     ]
   },
   "options": [
-    "PGCE with QTS full time",
-    "QTS full time"
+    "QTS full time with salary",
+    "QTS full time",
+    "PGCE with QTS full time"
   ]
 }
