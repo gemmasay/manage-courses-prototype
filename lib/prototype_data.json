@@ -1,8 +1,8 @@
 {
   "multi-organisation": true,
-  "training-provider-name": "Claydon High School",
-  "provider-code-name": "A2767",
-  "provider-code": "2GU",
+  "training-provider-name": "Bury St Edmunds County Upper School",
+  "provider-code-name": "A1841",
+  "provider-code": "1OZ",
   "address-line-1": "123 Baker Street",
   "town": "London",
   "postcode": "SW1 1AA",
@@ -18,17 +18,17 @@
       "accrediting": "Suffolk and Norfolk Secondary SCITT",
       "subjects": "Art / art & design, Secondary",
       "ageRange": "Secondary (11+ years)",
-      "name": "Art & Design",
-      "slug": "art-design",
+      "name": "Art and Design",
+      "slug": "art-and-design",
       "route": "School Direct training programme",
       "qualifications": "QTS, Postgraduate",
-      "providerCode": "2GU",
-      "programmeCode": "366T",
+      "providerCode": "1OZ",
+      "programmeCode": "28TZ",
       "schools": [
         {
-          "name": "Main Site",
-          "address": "Church Lane, Claydon, Ipswich, Suffolk, IP6 0EG",
-          "code": "-"
+          "name": "Suffolk and Norfolk Secondary SCITT",
+          "address": "University Campus Suffolk, West Building, Ipswich, IP4 1QJ",
+          "code": "S"
         }
       ],
       "options": [
@@ -44,13 +44,13 @@
       "slug": "biology",
       "route": "School Direct training programme",
       "qualifications": "QTS, Postgraduate",
-      "providerCode": "2GU",
-      "programmeCode": "368B",
+      "providerCode": "1OZ",
+      "programmeCode": "28TN",
       "schools": [
         {
-          "name": "Main Site",
-          "address": "Church Lane, Claydon, Ipswich, Suffolk, IP6 0EG",
-          "code": "-"
+          "name": "Suffolk and Norfolk Secondary SCITT",
+          "address": "University Campus Suffolk, West Building, Ipswich, IP4 1QJ",
+          "code": "S"
         }
       ],
       "options": [
@@ -59,41 +59,19 @@
     },
     {
       "regions": "Eastern",
-      "accrediting": "Suffolk and Norfolk Secondary SCITT",
-      "subjects": "Business education, Secondary",
+      "accrediting": "University of East Anglia",
+      "subjects": "Biology, Science, Secondary",
       "ageRange": "Secondary (11+ years)",
-      "name": "Business Studies",
-      "slug": "business-studies",
+      "name": "Biology",
+      "slug": "biology",
       "route": "School Direct training programme",
       "qualifications": "QTS, Postgraduate",
-      "providerCode": "2GU",
-      "programmeCode": "368C",
+      "providerCode": "1OZ",
+      "programmeCode": "2SJD",
       "schools": [
         {
           "name": "Main Site",
-          "address": "Church Lane, Claydon, Ipswich, Suffolk, IP6 0EG",
-          "code": "-"
-        }
-      ],
-      "options": [
-        "PGCE with QTS full time"
-      ]
-    },
-    {
-      "regions": "Eastern",
-      "accrediting": "Suffolk and Norfolk Secondary SCITT",
-      "subjects": "Chemistry, Science, Secondary",
-      "ageRange": "Secondary (11+ years)",
-      "name": "Chemistry",
-      "slug": "chemistry",
-      "route": "School Direct training programme",
-      "qualifications": "QTS, Postgraduate",
-      "providerCode": "2GU",
-      "programmeCode": "368D",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "Church Lane, Claydon, Ipswich, Suffolk, IP6 0EG",
+          "address": "Beetons Way, Bury St Edmunds, IP32 6RF",
           "code": "-"
         }
       ],
@@ -110,12 +88,56 @@
       "slug": "chemistry",
       "route": "School Direct training programme",
       "qualifications": "QTS, Postgraduate",
-      "providerCode": "2GU",
-      "programmeCode": "36DY",
+      "providerCode": "1OZ",
+      "programmeCode": "28TG",
+      "schools": [
+        {
+          "name": "Suffolk and Norfolk Secondary SCITT",
+          "address": "University Campus Suffolk, West Building, Ipswich, IP4 1QJ",
+          "code": "S"
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "Eastern",
+      "accrediting": "University of East Anglia",
+      "subjects": "Chemistry, Science, Secondary",
+      "ageRange": "Secondary (11+ years)",
+      "name": "Chemistry",
+      "slug": "chemistry",
+      "route": "School Direct training programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "1OZ",
+      "programmeCode": "2SJC",
       "schools": [
         {
           "name": "Main Site",
-          "address": "Church Lane, Claydon, Ipswich, Suffolk, IP6 0EG",
+          "address": "Beetons Way, Bury St Edmunds, IP32 6RF",
+          "code": "-"
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "Eastern",
+      "accrediting": "Suffolk and Norfolk Secondary SCITT",
+      "subjects": "Chemistry, Science, Secondary",
+      "ageRange": "Secondary (11+ years)",
+      "name": "Chemistry",
+      "slug": "chemistry",
+      "route": "School Direct training programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "1OZ",
+      "programmeCode": "36DB",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "Beetons Way, Bury St Edmunds, IP32 6RF",
           "code": "-"
         }
       ],
@@ -132,13 +154,13 @@
       "slug": "computing",
       "route": "School Direct training programme",
       "qualifications": "QTS, Postgraduate",
-      "providerCode": "2GU",
-      "programmeCode": "368F",
+      "providerCode": "1OZ",
+      "programmeCode": "28TT",
       "schools": [
         {
-          "name": "Main Site",
-          "address": "Church Lane, Claydon, Ipswich, Suffolk, IP6 0EG",
-          "code": "-"
+          "name": "Suffolk and Norfolk Secondary SCITT",
+          "address": "University Campus Suffolk, West Building, Ipswich, IP4 1QJ",
+          "code": "S"
         }
       ],
       "options": [
@@ -154,12 +176,12 @@
       "slug": "computing",
       "route": "School Direct training programme",
       "qualifications": "QTS, Postgraduate",
-      "providerCode": "2GU",
-      "programmeCode": "36DZ",
+      "providerCode": "1OZ",
+      "programmeCode": "36DG",
       "schools": [
         {
           "name": "Main Site",
-          "address": "Church Lane, Claydon, Ipswich, Suffolk, IP6 0EG",
+          "address": "Beetons Way, Bury St Edmunds, IP32 6RF",
           "code": "-"
         }
       ],
@@ -176,13 +198,13 @@
       "slug": "design-and-technology",
       "route": "School Direct training programme",
       "qualifications": "QTS, Postgraduate",
-      "providerCode": "2GU",
-      "programmeCode": "368G",
+      "providerCode": "1OZ",
+      "programmeCode": "28TY",
       "schools": [
         {
-          "name": "Main Site",
-          "address": "Church Lane, Claydon, Ipswich, Suffolk, IP6 0EG",
-          "code": "-"
+          "name": "Suffolk and Norfolk Secondary SCITT",
+          "address": "University Campus Suffolk, West Building, Ipswich, IP4 1QJ",
+          "code": "S"
         }
       ],
       "options": [
@@ -198,12 +220,56 @@
       "slug": "drama",
       "route": "School Direct training programme",
       "qualifications": "QTS, Postgraduate",
-      "providerCode": "2GU",
-      "programmeCode": "368H",
+      "providerCode": "1OZ",
+      "programmeCode": "28V2",
+      "schools": [
+        {
+          "name": "Suffolk and Norfolk Secondary SCITT",
+          "address": "University Campus Suffolk, West Building, Ipswich, IP4 1QJ",
+          "code": "S"
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "Eastern",
+      "accrediting": "Suffolk and Norfolk Secondary SCITT",
+      "subjects": "English, Secondary",
+      "ageRange": "Secondary (11+ years)",
+      "name": "English",
+      "slug": "english",
+      "route": "School Direct training programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "1OZ",
+      "programmeCode": "28TL",
+      "schools": [
+        {
+          "name": "Suffolk and Norfolk Secondary SCITT",
+          "address": "University Campus Suffolk, West Building, Ipswich, IP4 1QJ",
+          "code": "S"
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "Eastern",
+      "accrediting": "University of East Anglia",
+      "subjects": "English, Secondary",
+      "ageRange": "Secondary (11+ years)",
+      "name": "English",
+      "slug": "english",
+      "route": "School Direct training programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "1OZ",
+      "programmeCode": "2SJT",
       "schools": [
         {
           "name": "Main Site",
-          "address": "Church Lane, Claydon, Ipswich, Suffolk, IP6 0EG",
+          "address": "Beetons Way, Bury St Edmunds, IP32 6RF",
           "code": "-"
         }
       ],
@@ -220,34 +286,12 @@
       "slug": "english",
       "route": "School Direct training programme",
       "qualifications": "QTS, Postgraduate",
-      "providerCode": "2GU",
-      "programmeCode": "368J",
+      "providerCode": "1OZ",
+      "programmeCode": "36DJ",
       "schools": [
         {
           "name": "Main Site",
-          "address": "Church Lane, Claydon, Ipswich, Suffolk, IP6 0EG",
-          "code": "-"
-        }
-      ],
-      "options": [
-        "PGCE with QTS full time"
-      ]
-    },
-    {
-      "regions": "Eastern",
-      "accrediting": "Suffolk and Norfolk Secondary SCITT",
-      "subjects": "English, Secondary",
-      "ageRange": "Secondary (11+ years)",
-      "name": "English",
-      "slug": "english",
-      "route": "School Direct training programme",
-      "qualifications": "QTS, Postgraduate",
-      "providerCode": "2GU",
-      "programmeCode": "36F8",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "Church Lane, Claydon, Ipswich, Suffolk, IP6 0EG",
+          "address": "Beetons Way, Bury St Edmunds, IP32 6RF",
           "code": "-"
         }
       ],
@@ -264,17 +308,17 @@
       "slug": "geography",
       "route": "School Direct training programme",
       "qualifications": "QTS, Postgraduate",
-      "providerCode": "2GU",
-      "programmeCode": "368K",
+      "providerCode": "1OZ",
+      "programmeCode": "36DK",
       "schools": [
         {
           "name": "Main Site",
-          "address": "Church Lane, Claydon, Ipswich, Suffolk, IP6 0EG",
+          "address": "Beetons Way, Bury St Edmunds, IP32 6RF",
           "code": "-"
         }
       ],
       "options": [
-        "PGCE with QTS full time"
+        "PGCE with QTS part time"
       ]
     },
     {
@@ -286,17 +330,39 @@
       "slug": "geography",
       "route": "School Direct training programme",
       "qualifications": "QTS, Postgraduate",
-      "providerCode": "2GU",
-      "programmeCode": "36F5",
+      "providerCode": "1OZ",
+      "programmeCode": "28TX",
+      "schools": [
+        {
+          "name": "Suffolk and Norfolk Secondary SCITT",
+          "address": "University Campus Suffolk, West Building, Ipswich, IP4 1QJ",
+          "code": "S"
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "Eastern",
+      "accrediting": "University of East Anglia",
+      "subjects": "Geography, Secondary",
+      "ageRange": "Secondary (11+ years)",
+      "name": "Geography",
+      "slug": "geography",
+      "route": "School Direct training programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "1OZ",
+      "programmeCode": "2SJR",
       "schools": [
         {
           "name": "Main Site",
-          "address": "Church Lane, Claydon, Ipswich, Suffolk, IP6 0EG",
+          "address": "Beetons Way, Bury St Edmunds, IP32 6RF",
           "code": "-"
         }
       ],
       "options": [
-        "PGCE with QTS part time"
+        "PGCE with QTS full time"
       ]
     },
     {
@@ -308,12 +374,56 @@
       "slug": "history",
       "route": "School Direct training programme",
       "qualifications": "QTS, Postgraduate",
-      "providerCode": "2GU",
-      "programmeCode": "368L",
+      "providerCode": "1OZ",
+      "programmeCode": "28TW",
+      "schools": [
+        {
+          "name": "Suffolk and Norfolk Secondary SCITT",
+          "address": "University Campus Suffolk, West Building, Ipswich, IP4 1QJ",
+          "code": "S"
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "Eastern",
+      "accrediting": "University of East Anglia",
+      "subjects": "History, Secondary",
+      "ageRange": "Secondary (11+ years)",
+      "name": "History",
+      "slug": "history",
+      "route": "School Direct training programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "1OZ",
+      "programmeCode": "2SJQ",
       "schools": [
         {
           "name": "Main Site",
-          "address": "Church Lane, Claydon, Ipswich, Suffolk, IP6 0EG",
+          "address": "Beetons Way, Bury St Edmunds, IP32 6RF",
+          "code": "-"
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "Eastern",
+      "accrediting": "University of East Anglia",
+      "subjects": "Mathematics, Secondary",
+      "ageRange": "Secondary (11+ years)",
+      "name": "Mathematics",
+      "slug": "mathematics",
+      "route": "School Direct training programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "1OZ",
+      "programmeCode": "2SJP",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "Beetons Way, Bury St Edmunds, IP32 6RF",
           "code": "-"
         }
       ],
@@ -330,13 +440,13 @@
       "slug": "mathematics",
       "route": "School Direct training programme",
       "qualifications": "QTS, Postgraduate",
-      "providerCode": "2GU",
-      "programmeCode": "368M",
+      "providerCode": "1OZ",
+      "programmeCode": "28TB",
       "schools": [
         {
-          "name": "Main Site",
-          "address": "Church Lane, Claydon, Ipswich, Suffolk, IP6 0EG",
-          "code": "-"
+          "name": "Suffolk and Norfolk Secondary SCITT",
+          "address": "University Campus Suffolk, West Building, Ipswich, IP4 1QJ",
+          "code": "S"
         }
       ],
       "options": [
@@ -352,12 +462,12 @@
       "slug": "mathematics",
       "route": "School Direct training programme",
       "qualifications": "QTS, Postgraduate",
-      "providerCode": "2GU",
-      "programmeCode": "36DW",
+      "providerCode": "1OZ",
+      "programmeCode": "36D9",
       "schools": [
         {
           "name": "Main Site",
-          "address": "Church Lane, Claydon, Ipswich, Suffolk, IP6 0EG",
+          "address": "Beetons Way, Bury St Edmunds, IP32 6RF",
           "code": "-"
         }
       ],
@@ -374,12 +484,34 @@
       "slug": "modern-languages",
       "route": "School Direct training programme",
       "qualifications": "QTS, Postgraduate",
-      "providerCode": "2GU",
-      "programmeCode": "368N",
+      "providerCode": "1OZ",
+      "programmeCode": "28TK",
+      "schools": [
+        {
+          "name": "Suffolk and Norfolk Secondary SCITT",
+          "address": "University Campus Suffolk, West Building, Ipswich, IP4 1QJ",
+          "code": "S"
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "Eastern",
+      "accrediting": "University of East Anglia",
+      "subjects": "Languages, Secondary",
+      "ageRange": "Secondary (11+ years)",
+      "name": "Modern Languages",
+      "slug": "modern-languages",
+      "route": "School Direct training programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "1OZ",
+      "programmeCode": "2SJM",
       "schools": [
         {
           "name": "Main Site",
-          "address": "Church Lane, Claydon, Ipswich, Suffolk, IP6 0EG",
+          "address": "Beetons Way, Bury St Edmunds, IP32 6RF",
           "code": "-"
         }
       ],
@@ -392,16 +524,16 @@
       "accrediting": "Suffolk and Norfolk Secondary SCITT",
       "subjects": "French, German, Languages, Languages (european), Secondary, Spanish",
       "ageRange": "Secondary (11+ years)",
-      "name": "Modern Languages (French, Spanish, German)",
-      "slug": "modern-languages-french-spanish-german",
+      "name": "Modern Languages (French, German, Spanish)",
+      "slug": "modern-languages-french-german-spanish",
       "route": "School Direct training programme",
       "qualifications": "QTS, Postgraduate",
-      "providerCode": "2GU",
-      "programmeCode": "36F3",
+      "providerCode": "1OZ",
+      "programmeCode": "36DF",
       "schools": [
         {
           "name": "Main Site",
-          "address": "Church Lane, Claydon, Ipswich, Suffolk, IP6 0EG",
+          "address": "Beetons Way, Bury St Edmunds, IP32 6RF",
           "code": "-"
         }
       ],
@@ -418,13 +550,13 @@
       "slug": "music",
       "route": "School Direct training programme",
       "qualifications": "QTS, Postgraduate",
-      "providerCode": "2GU",
-      "programmeCode": "368P",
+      "providerCode": "1OZ",
+      "programmeCode": "28TS",
       "schools": [
         {
-          "name": "Main Site",
-          "address": "Church Lane, Claydon, Ipswich, Suffolk, IP6 0EG",
-          "code": "-"
+          "name": "Suffolk and Norfolk Secondary SCITT",
+          "address": "University Campus Suffolk, West Building, Ipswich, IP4 1QJ",
+          "code": "S"
         }
       ],
       "options": [
@@ -440,13 +572,13 @@
       "slug": "physical-education",
       "route": "School Direct training programme",
       "qualifications": "QTS, Postgraduate",
-      "providerCode": "2GU",
-      "programmeCode": "368Q",
+      "providerCode": "1OZ",
+      "programmeCode": "28TQ",
       "schools": [
         {
-          "name": "Main Site",
-          "address": "Church Lane, Claydon, Ipswich, Suffolk, IP6 0EG",
-          "code": "-"
+          "name": "Suffolk and Norfolk Secondary SCITT",
+          "address": "University Campus Suffolk, West Building, Ipswich, IP4 1QJ",
+          "code": "S"
         }
       ],
       "options": [
@@ -462,39 +594,83 @@
       "slug": "physics",
       "route": "School Direct training programme",
       "qualifications": "QTS, Postgraduate",
-      "providerCode": "2GU",
-      "programmeCode": "368R",
+      "providerCode": "1OZ",
+      "programmeCode": "36DC",
       "schools": [
         {
           "name": "Main Site",
-          "address": "Church Lane, Claydon, Ipswich, Suffolk, IP6 0EG",
-          "code": "-"
-        }
-      ],
-      "options": [
-        "PGCE with QTS full time"
-      ]
-    },
-    {
-      "regions": "Eastern",
-      "accrediting": "Suffolk and Norfolk Secondary SCITT",
-      "subjects": "Physics, Science, Secondary",
-      "ageRange": "Secondary (11+ years)",
-      "name": "Physics",
-      "slug": "physics",
-      "route": "School Direct training programme",
-      "qualifications": "QTS, Postgraduate",
-      "providerCode": "2GU",
-      "programmeCode": "36DX",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "Church Lane, Claydon, Ipswich, Suffolk, IP6 0EG",
+          "address": "Beetons Way, Bury St Edmunds, IP32 6RF",
           "code": "-"
         }
       ],
       "options": [
         "PGCE with QTS part time"
+      ]
+    },
+    {
+      "regions": "Eastern",
+      "accrediting": "Suffolk and Norfolk Secondary SCITT",
+      "subjects": "Physics, Science, Secondary",
+      "ageRange": "Secondary (11+ years)",
+      "name": "Physics",
+      "slug": "physics",
+      "route": "School Direct training programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "1OZ",
+      "programmeCode": "28TJ",
+      "schools": [
+        {
+          "name": "Suffolk and Norfolk Secondary SCITT",
+          "address": "University Campus Suffolk, West Building, Ipswich, IP4 1QJ",
+          "code": "S"
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "Eastern",
+      "accrediting": "University of East Anglia",
+      "subjects": "Physics, Science, Secondary",
+      "ageRange": "Secondary (11+ years)",
+      "name": "Physics",
+      "slug": "physics",
+      "route": "School Direct training programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "1OZ",
+      "programmeCode": "2SJB",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "Beetons Way, Bury St Edmunds, IP32 6RF",
+          "code": "-"
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "Eastern",
+      "accrediting": "University of East Anglia",
+      "subjects": "Mathematics, Physics, Science, Secondary",
+      "ageRange": "Secondary (11+ years)",
+      "name": "Physics with Mathematics",
+      "slug": "physics-with-mathematics",
+      "route": "School Direct training programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "1OZ",
+      "programmeCode": "2SJ8",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "Beetons Way, Bury St Edmunds, IP32 6RF",
+          "code": "-"
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
       ]
     },
     {
@@ -506,13 +682,13 @@
       "slug": "psychology",
       "route": "School Direct training programme",
       "qualifications": "QTS, Postgraduate",
-      "providerCode": "2GU",
-      "programmeCode": "37XZ",
+      "providerCode": "1OZ",
+      "programmeCode": "28V4",
       "schools": [
         {
-          "name": "Main Site",
-          "address": "Church Lane, Claydon, Ipswich, Suffolk, IP6 0EG",
-          "code": "-"
+          "name": "Suffolk and Norfolk Secondary SCITT",
+          "address": "University Campus Suffolk, West Building, Ipswich, IP4 1QJ",
+          "code": "S"
         }
       ],
       "options": [
@@ -528,13 +704,13 @@
       "slug": "religious-education",
       "route": "School Direct training programme",
       "qualifications": "QTS, Postgraduate",
-      "providerCode": "2GU",
-      "programmeCode": "368S",
+      "providerCode": "1OZ",
+      "programmeCode": "28V6",
       "schools": [
         {
-          "name": "Main Site",
-          "address": "Church Lane, Claydon, Ipswich, Suffolk, IP6 0EG",
-          "code": "-"
+          "name": "Suffolk and Norfolk Secondary SCITT",
+          "address": "University Campus Suffolk, West Building, Ipswich, IP4 1QJ",
+          "code": "S"
         }
       ],
       "options": [
@@ -546,17 +722,17 @@
       "accrediting": "Suffolk and Norfolk Secondary SCITT",
       "subjects": "Secondary, Social science",
       "ageRange": "Secondary (11+ years)",
-      "name": "Sociology",
-      "slug": "sociology",
+      "name": "Social Sciences",
+      "slug": "social-sciences",
       "route": "School Direct training programme",
       "qualifications": "QTS, Postgraduate",
-      "providerCode": "2GU",
-      "programmeCode": "37Y2",
+      "providerCode": "1OZ",
+      "programmeCode": "28V3",
       "schools": [
         {
-          "name": "Main Site",
-          "address": "Church Lane, Claydon, Ipswich, Suffolk, IP6 0EG",
-          "code": "-"
+          "name": "Suffolk and Norfolk Secondary SCITT",
+          "address": "University Campus Suffolk, West Building, Ipswich, IP4 1QJ",
+          "code": "S"
         }
       ],
       "options": [
@@ -567,8 +743,13 @@
   "schools": [
     {
       "name": "Main Site",
-      "address": "Church Lane, Claydon, Ipswich, Suffolk, IP6 0EG",
+      "address": "Beetons Way, Bury St Edmunds, IP32 6RF",
       "code": "-"
+    },
+    {
+      "name": "Suffolk and Norfolk Secondary SCITT",
+      "address": "University Campus Suffolk, West Building, Ipswich, IP4 1QJ",
+      "code": "S"
     }
   ],
   "accreditors": [
@@ -577,16 +758,12 @@
       "slug": "suffolk-and-norfolk-secondary-scitt",
       "subjects": [
         {
-          "name": "Art & Design",
-          "slug": "art-design"
+          "name": "Art and Design",
+          "slug": "art-and-design"
         },
         {
           "name": "Biology",
           "slug": "biology"
-        },
-        {
-          "name": "Business Studies",
-          "slug": "business-studies"
         },
         {
           "name": "Chemistry",
@@ -625,8 +802,8 @@
           "slug": "modern-languages"
         },
         {
-          "name": "Modern Languages (French, Spanish, German)",
-          "slug": "modern-languages-french-spanish-german"
+          "name": "Modern Languages (French, German, Spanish)",
+          "slug": "modern-languages-french-german-spanish"
         },
         {
           "name": "Music",
@@ -649,8 +826,50 @@
           "slug": "religious-education"
         },
         {
-          "name": "Sociology",
-          "slug": "sociology"
+          "name": "Social Sciences",
+          "slug": "social-sciences"
+        }
+      ]
+    },
+    {
+      "name": "University of East Anglia",
+      "slug": "university-of-east-anglia",
+      "subjects": [
+        {
+          "name": "Biology",
+          "slug": "biology"
+        },
+        {
+          "name": "Chemistry",
+          "slug": "chemistry"
+        },
+        {
+          "name": "English",
+          "slug": "english"
+        },
+        {
+          "name": "Geography",
+          "slug": "geography"
+        },
+        {
+          "name": "History",
+          "slug": "history"
+        },
+        {
+          "name": "Mathematics",
+          "slug": "mathematics"
+        },
+        {
+          "name": "Modern Languages",
+          "slug": "modern-languages"
+        },
+        {
+          "name": "Physics",
+          "slug": "physics"
+        },
+        {
+          "name": "Physics with Mathematics",
+          "slug": "physics-with-mathematics"
         }
       ]
     }
@@ -658,16 +877,12 @@
   "self_accrediting": false,
   "subjects": [
     {
-      "name": "Art & Design",
-      "slug": "art-design"
+      "name": "Art and Design",
+      "slug": "art-and-design"
     },
     {
       "name": "Biology",
       "slug": "biology"
-    },
-    {
-      "name": "Business Studies",
-      "slug": "business-studies"
     },
     {
       "name": "Chemistry",
@@ -706,8 +921,8 @@
       "slug": "modern-languages"
     },
     {
-      "name": "Modern Languages (French, Spanish, German)",
-      "slug": "modern-languages-french-spanish-german"
+      "name": "Modern Languages (French, German, Spanish)",
+      "slug": "modern-languages-french-german-spanish"
     },
     {
       "name": "Music",
@@ -722,6 +937,10 @@
       "slug": "physics"
     },
     {
+      "name": "Physics with Mathematics",
+      "slug": "physics-with-mathematics"
+    },
+    {
       "name": "Psychology",
       "slug": "psychology"
     },
@@ -730,14 +949,14 @@
       "slug": "religious-education"
     },
     {
-      "name": "Sociology",
-      "slug": "sociology"
+      "name": "Social Sciences",
+      "slug": "social-sciences"
     }
   ],
   "folded_courses": {
     "Suffolk and Norfolk Secondary SCITT": [
       {
-        "name": "Art & Design",
+        "name": "Art and Design",
         "courses": 1,
         "accrediting": [
           "Suffolk and Norfolk Secondary SCITT"
@@ -746,7 +965,7 @@
           "26 Oct 2017"
         ],
         "schoolsWithVacancies": [
-          "Main Site"
+          "Suffolk and Norfolk Secondary SCITT"
         ],
         "options": [
           "PGCE with QTS full time"
@@ -767,28 +986,7 @@
           "26 Oct 2017"
         ],
         "schoolsWithVacancies": [
-          "Main Site"
-        ],
-        "options": [
-          "PGCE with QTS full time"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": false,
-          "qualifications": false
-        }
-      },
-      {
-        "name": "Business Studies",
-        "courses": 1,
-        "accrediting": [
           "Suffolk and Norfolk Secondary SCITT"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Main Site"
         ],
         "options": [
           "PGCE with QTS full time"
@@ -809,7 +1007,8 @@
           "26 Oct 2017"
         ],
         "schoolsWithVacancies": [
-          "Main Site"
+          "Main Site",
+          "Suffolk and Norfolk Secondary SCITT"
         ],
         "options": [
           "PGCE with QTS full time",
@@ -831,7 +1030,8 @@
           "26 Oct 2017"
         ],
         "schoolsWithVacancies": [
-          "Main Site"
+          "Main Site",
+          "Suffolk and Norfolk Secondary SCITT"
         ],
         "options": [
           "PGCE with QTS full time",
@@ -853,7 +1053,7 @@
           "26 Oct 2017"
         ],
         "schoolsWithVacancies": [
-          "Main Site"
+          "Suffolk and Norfolk Secondary SCITT"
         ],
         "options": [
           "PGCE with QTS full time"
@@ -874,7 +1074,7 @@
           "26 Oct 2017"
         ],
         "schoolsWithVacancies": [
-          "Main Site"
+          "Suffolk and Norfolk Secondary SCITT"
         ],
         "options": [
           "PGCE with QTS full time"
@@ -895,7 +1095,8 @@
           "26 Oct 2017"
         ],
         "schoolsWithVacancies": [
-          "Main Site"
+          "Main Site",
+          "Suffolk and Norfolk Secondary SCITT"
         ],
         "options": [
           "PGCE with QTS full time",
@@ -917,7 +1118,8 @@
           "26 Oct 2017"
         ],
         "schoolsWithVacancies": [
-          "Main Site"
+          "Main Site",
+          "Suffolk and Norfolk Secondary SCITT"
         ],
         "options": [
           "PGCE with QTS full time",
@@ -939,7 +1141,7 @@
           "26 Oct 2017"
         ],
         "schoolsWithVacancies": [
-          "Main Site"
+          "Suffolk and Norfolk Secondary SCITT"
         ],
         "options": [
           "PGCE with QTS full time"
@@ -960,7 +1162,8 @@
           "26 Oct 2017"
         ],
         "schoolsWithVacancies": [
-          "Main Site"
+          "Main Site",
+          "Suffolk and Norfolk Secondary SCITT"
         ],
         "options": [
           "PGCE with QTS full time",
@@ -982,7 +1185,7 @@
           "26 Oct 2017"
         ],
         "schoolsWithVacancies": [
-          "Main Site"
+          "Suffolk and Norfolk Secondary SCITT"
         ],
         "options": [
           "PGCE with QTS full time"
@@ -994,7 +1197,7 @@
         }
       },
       {
-        "name": "Modern Languages (French, Spanish, German)",
+        "name": "Modern Languages (French, German, Spanish)",
         "courses": 1,
         "accrediting": [
           "Suffolk and Norfolk Secondary SCITT"
@@ -1024,7 +1227,7 @@
           "26 Oct 2017"
         ],
         "schoolsWithVacancies": [
-          "Main Site"
+          "Suffolk and Norfolk Secondary SCITT"
         ],
         "options": [
           "PGCE with QTS full time"
@@ -1045,7 +1248,7 @@
           "26 Oct 2017"
         ],
         "schoolsWithVacancies": [
-          "Main Site"
+          "Suffolk and Norfolk Secondary SCITT"
         ],
         "options": [
           "PGCE with QTS full time"
@@ -1066,7 +1269,8 @@
           "26 Oct 2017"
         ],
         "schoolsWithVacancies": [
-          "Main Site"
+          "Main Site",
+          "Suffolk and Norfolk Secondary SCITT"
         ],
         "options": [
           "PGCE with QTS full time",
@@ -1088,7 +1292,7 @@
           "26 Oct 2017"
         ],
         "schoolsWithVacancies": [
-          "Main Site"
+          "Suffolk and Norfolk Secondary SCITT"
         ],
         "options": [
           "PGCE with QTS full time"
@@ -1109,6 +1313,50 @@
           "26 Oct 2017"
         ],
         "schoolsWithVacancies": [
+          "Suffolk and Norfolk Secondary SCITT"
+        ],
+        "options": [
+          "PGCE with QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Social Sciences",
+        "courses": 1,
+        "accrediting": [
+          "Suffolk and Norfolk Secondary SCITT"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Suffolk and Norfolk Secondary SCITT"
+        ],
+        "options": [
+          "PGCE with QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      }
+    ],
+    "University of East Anglia": [
+      {
+        "name": "Biology",
+        "courses": 1,
+        "accrediting": [
+          "University of East Anglia"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
           "Main Site"
         ],
         "options": [
@@ -1121,10 +1369,157 @@
         }
       },
       {
-        "name": "Sociology",
+        "name": "Chemistry",
         "courses": 1,
         "accrediting": [
-          "Suffolk and Norfolk Secondary SCITT"
+          "University of East Anglia"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Main Site"
+        ],
+        "options": [
+          "PGCE with QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "English",
+        "courses": 1,
+        "accrediting": [
+          "University of East Anglia"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Main Site"
+        ],
+        "options": [
+          "PGCE with QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Geography",
+        "courses": 1,
+        "accrediting": [
+          "University of East Anglia"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Main Site"
+        ],
+        "options": [
+          "PGCE with QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "History",
+        "courses": 1,
+        "accrediting": [
+          "University of East Anglia"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Main Site"
+        ],
+        "options": [
+          "PGCE with QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Mathematics",
+        "courses": 1,
+        "accrediting": [
+          "University of East Anglia"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Main Site"
+        ],
+        "options": [
+          "PGCE with QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Modern Languages",
+        "courses": 1,
+        "accrediting": [
+          "University of East Anglia"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Main Site"
+        ],
+        "options": [
+          "PGCE with QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Physics",
+        "courses": 1,
+        "accrediting": [
+          "University of East Anglia"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Main Site"
+        ],
+        "options": [
+          "PGCE with QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Physics with Mathematics",
+        "courses": 1,
+        "accrediting": [
+          "University of East Anglia"
         ],
         "applicationsOpen": [
           "26 Oct 2017"

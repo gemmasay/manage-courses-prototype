@@ -5,7 +5,7 @@ require 'json'
 
 file = File.read('courses-clean.json')
 data = JSON.parse(file)
-provider = ARGV[0] || 'Claydon High School'
+provider = ARGV[0] || 'Bury St Edmunds County Upper School'
 courses = data.select {|c| c['provider'] == provider }
 
 # if courses.count == 0
