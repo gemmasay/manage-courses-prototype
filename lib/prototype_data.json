@@ -1,8 +1,8 @@
 {
   "multi-organisation": true,
-  "training-provider-name": "Suffolk and Norfolk Primary SCITT",
-  "provider-code-name": "A2104",
-  "provider-code": "S13",
+  "training-provider-name": "Claydon High School",
+  "provider-code-name": "A2767",
+  "provider-code": "2GU",
   "address-line-1": "123 Baker Street",
   "town": "London",
   "postcode": "SW1 1AA",
@@ -15,25 +15,20 @@
   "ucasCourses": [
     {
       "regions": "Eastern",
-      "accrediting": "Suffolk and Norfolk Primary SCITT",
-      "subjects": "Primary",
-      "ageRange": "Primary (c3 - 11/12 years)",
-      "name": "Primary General",
-      "slug": "primary-general",
-      "route": "SCITT (School Centred Initial Teacher Training) programme",
+      "accrediting": "Suffolk and Norfolk Secondary SCITT",
+      "subjects": "Art / art & design, Secondary",
+      "ageRange": "Secondary (11+ years)",
+      "name": "Art & Design",
+      "slug": "art-design",
+      "route": "School Direct training programme",
       "qualifications": "QTS, Postgraduate",
-      "providerCode": "S13",
-      "programmeCode": "2B3B",
+      "providerCode": "2GU",
+      "programmeCode": "366T",
       "schools": [
         {
-          "name": "Keswick Hall",
-          "address": "SCITT Training Room (9D), Keswick Hall, Norwich, Norfolk, NR4 6TJ",
-          "code": "K"
-        },
-        {
-          "name": "The SCITT Centre",
-          "address": "University of Suffolk, Ipswich, Suffolk, IP4 1QJ",
-          "code": "S"
+          "name": "Main Site",
+          "address": "Church Lane, Claydon, Ipswich, Suffolk, IP6 0EG",
+          "code": "-"
         }
       ],
       "options": [
@@ -42,25 +37,526 @@
     },
     {
       "regions": "Eastern",
-      "accrediting": "Suffolk and Norfolk Primary SCITT",
-      "subjects": "Mathematics, Primary",
-      "ageRange": "Primary (c3 - 11/12 years)",
-      "name": "Primary General (with mathematics)",
-      "slug": "primary-general-with-mathematics",
-      "route": "SCITT (School Centred Initial Teacher Training) programme",
+      "accrediting": "Suffolk and Norfolk Secondary SCITT",
+      "subjects": "Biology, Science, Secondary",
+      "ageRange": "Secondary (11+ years)",
+      "name": "Biology",
+      "slug": "biology",
+      "route": "School Direct training programme",
       "qualifications": "QTS, Postgraduate",
-      "providerCode": "S13",
-      "programmeCode": "33MT",
+      "providerCode": "2GU",
+      "programmeCode": "368B",
       "schools": [
         {
-          "name": "Keswick Hall",
-          "address": "SCITT Training Room (9D), Keswick Hall, Norwich, Norfolk, NR4 6TJ",
-          "code": "K"
-        },
+          "name": "Main Site",
+          "address": "Church Lane, Claydon, Ipswich, Suffolk, IP6 0EG",
+          "code": "-"
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "Eastern",
+      "accrediting": "Suffolk and Norfolk Secondary SCITT",
+      "subjects": "Business education, Secondary",
+      "ageRange": "Secondary (11+ years)",
+      "name": "Business Studies",
+      "slug": "business-studies",
+      "route": "School Direct training programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "2GU",
+      "programmeCode": "368C",
+      "schools": [
         {
-          "name": "The SCITT Centre",
-          "address": "University of Suffolk, Ipswich, Suffolk, IP4 1QJ",
-          "code": "S"
+          "name": "Main Site",
+          "address": "Church Lane, Claydon, Ipswich, Suffolk, IP6 0EG",
+          "code": "-"
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "Eastern",
+      "accrediting": "Suffolk and Norfolk Secondary SCITT",
+      "subjects": "Chemistry, Science, Secondary",
+      "ageRange": "Secondary (11+ years)",
+      "name": "Chemistry",
+      "slug": "chemistry",
+      "route": "School Direct training programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "2GU",
+      "programmeCode": "368D",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "Church Lane, Claydon, Ipswich, Suffolk, IP6 0EG",
+          "code": "-"
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "Eastern",
+      "accrediting": "Suffolk and Norfolk Secondary SCITT",
+      "subjects": "Chemistry, Science, Secondary",
+      "ageRange": "Secondary (11+ years)",
+      "name": "Chemistry",
+      "slug": "chemistry",
+      "route": "School Direct training programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "2GU",
+      "programmeCode": "36DY",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "Church Lane, Claydon, Ipswich, Suffolk, IP6 0EG",
+          "code": "-"
+        }
+      ],
+      "options": [
+        "PGCE with QTS part time"
+      ]
+    },
+    {
+      "regions": "Eastern",
+      "accrediting": "Suffolk and Norfolk Secondary SCITT",
+      "subjects": "Computer studies, Secondary",
+      "ageRange": "Secondary (11+ years)",
+      "name": "Computing",
+      "slug": "computing",
+      "route": "School Direct training programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "2GU",
+      "programmeCode": "368F",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "Church Lane, Claydon, Ipswich, Suffolk, IP6 0EG",
+          "code": "-"
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "Eastern",
+      "accrediting": "Suffolk and Norfolk Secondary SCITT",
+      "subjects": "Computer studies, Secondary",
+      "ageRange": "Secondary (11+ years)",
+      "name": "Computing",
+      "slug": "computing",
+      "route": "School Direct training programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "2GU",
+      "programmeCode": "36DZ",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "Church Lane, Claydon, Ipswich, Suffolk, IP6 0EG",
+          "code": "-"
+        }
+      ],
+      "options": [
+        "PGCE with QTS part time"
+      ]
+    },
+    {
+      "regions": "Eastern",
+      "accrediting": "Suffolk and Norfolk Secondary SCITT",
+      "subjects": "Design and technology, Secondary",
+      "ageRange": "Secondary (11+ years)",
+      "name": "Design and Technology",
+      "slug": "design-and-technology",
+      "route": "School Direct training programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "2GU",
+      "programmeCode": "368G",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "Church Lane, Claydon, Ipswich, Suffolk, IP6 0EG",
+          "code": "-"
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "Eastern",
+      "accrediting": "Suffolk and Norfolk Secondary SCITT",
+      "subjects": "Drama and theatre studies, Secondary",
+      "ageRange": "Secondary (11+ years)",
+      "name": "Drama",
+      "slug": "drama",
+      "route": "School Direct training programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "2GU",
+      "programmeCode": "368H",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "Church Lane, Claydon, Ipswich, Suffolk, IP6 0EG",
+          "code": "-"
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "Eastern",
+      "accrediting": "Suffolk and Norfolk Secondary SCITT",
+      "subjects": "English, Secondary",
+      "ageRange": "Secondary (11+ years)",
+      "name": "English",
+      "slug": "english",
+      "route": "School Direct training programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "2GU",
+      "programmeCode": "368J",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "Church Lane, Claydon, Ipswich, Suffolk, IP6 0EG",
+          "code": "-"
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "Eastern",
+      "accrediting": "Suffolk and Norfolk Secondary SCITT",
+      "subjects": "English, Secondary",
+      "ageRange": "Secondary (11+ years)",
+      "name": "English",
+      "slug": "english",
+      "route": "School Direct training programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "2GU",
+      "programmeCode": "36F8",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "Church Lane, Claydon, Ipswich, Suffolk, IP6 0EG",
+          "code": "-"
+        }
+      ],
+      "options": [
+        "PGCE with QTS part time"
+      ]
+    },
+    {
+      "regions": "Eastern",
+      "accrediting": "Suffolk and Norfolk Secondary SCITT",
+      "subjects": "Geography, Secondary",
+      "ageRange": "Secondary (11+ years)",
+      "name": "Geography",
+      "slug": "geography",
+      "route": "School Direct training programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "2GU",
+      "programmeCode": "368K",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "Church Lane, Claydon, Ipswich, Suffolk, IP6 0EG",
+          "code": "-"
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "Eastern",
+      "accrediting": "Suffolk and Norfolk Secondary SCITT",
+      "subjects": "Geography, Secondary",
+      "ageRange": "Secondary (11+ years)",
+      "name": "Geography",
+      "slug": "geography",
+      "route": "School Direct training programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "2GU",
+      "programmeCode": "36F5",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "Church Lane, Claydon, Ipswich, Suffolk, IP6 0EG",
+          "code": "-"
+        }
+      ],
+      "options": [
+        "PGCE with QTS part time"
+      ]
+    },
+    {
+      "regions": "Eastern",
+      "accrediting": "Suffolk and Norfolk Secondary SCITT",
+      "subjects": "History, Secondary",
+      "ageRange": "Secondary (11+ years)",
+      "name": "History",
+      "slug": "history",
+      "route": "School Direct training programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "2GU",
+      "programmeCode": "368L",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "Church Lane, Claydon, Ipswich, Suffolk, IP6 0EG",
+          "code": "-"
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "Eastern",
+      "accrediting": "Suffolk and Norfolk Secondary SCITT",
+      "subjects": "Mathematics, Secondary",
+      "ageRange": "Secondary (11+ years)",
+      "name": "Mathematics",
+      "slug": "mathematics",
+      "route": "School Direct training programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "2GU",
+      "programmeCode": "368M",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "Church Lane, Claydon, Ipswich, Suffolk, IP6 0EG",
+          "code": "-"
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "Eastern",
+      "accrediting": "Suffolk and Norfolk Secondary SCITT",
+      "subjects": "Mathematics, Secondary",
+      "ageRange": "Secondary (11+ years)",
+      "name": "Mathematics",
+      "slug": "mathematics",
+      "route": "School Direct training programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "2GU",
+      "programmeCode": "36DW",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "Church Lane, Claydon, Ipswich, Suffolk, IP6 0EG",
+          "code": "-"
+        }
+      ],
+      "options": [
+        "PGCE with QTS part time"
+      ]
+    },
+    {
+      "regions": "Eastern",
+      "accrediting": "Suffolk and Norfolk Secondary SCITT",
+      "subjects": "Languages, Secondary",
+      "ageRange": "Secondary (11+ years)",
+      "name": "Modern Languages",
+      "slug": "modern-languages",
+      "route": "School Direct training programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "2GU",
+      "programmeCode": "368N",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "Church Lane, Claydon, Ipswich, Suffolk, IP6 0EG",
+          "code": "-"
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "Eastern",
+      "accrediting": "Suffolk and Norfolk Secondary SCITT",
+      "subjects": "French, German, Languages, Languages (european), Secondary, Spanish",
+      "ageRange": "Secondary (11+ years)",
+      "name": "Modern Languages (French, Spanish, German)",
+      "slug": "modern-languages-french-spanish-german",
+      "route": "School Direct training programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "2GU",
+      "programmeCode": "36F3",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "Church Lane, Claydon, Ipswich, Suffolk, IP6 0EG",
+          "code": "-"
+        }
+      ],
+      "options": [
+        "PGCE with QTS part time"
+      ]
+    },
+    {
+      "regions": "Eastern",
+      "accrediting": "Suffolk and Norfolk Secondary SCITT",
+      "subjects": "Music, Secondary",
+      "ageRange": "Secondary (11+ years)",
+      "name": "Music",
+      "slug": "music",
+      "route": "School Direct training programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "2GU",
+      "programmeCode": "368P",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "Church Lane, Claydon, Ipswich, Suffolk, IP6 0EG",
+          "code": "-"
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "Eastern",
+      "accrediting": "Suffolk and Norfolk Secondary SCITT",
+      "subjects": "Physical education, Secondary",
+      "ageRange": "Secondary (11+ years)",
+      "name": "Physical Education",
+      "slug": "physical-education",
+      "route": "School Direct training programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "2GU",
+      "programmeCode": "368Q",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "Church Lane, Claydon, Ipswich, Suffolk, IP6 0EG",
+          "code": "-"
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "Eastern",
+      "accrediting": "Suffolk and Norfolk Secondary SCITT",
+      "subjects": "Physics, Science, Secondary",
+      "ageRange": "Secondary (11+ years)",
+      "name": "Physics",
+      "slug": "physics",
+      "route": "School Direct training programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "2GU",
+      "programmeCode": "368R",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "Church Lane, Claydon, Ipswich, Suffolk, IP6 0EG",
+          "code": "-"
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "Eastern",
+      "accrediting": "Suffolk and Norfolk Secondary SCITT",
+      "subjects": "Physics, Science, Secondary",
+      "ageRange": "Secondary (11+ years)",
+      "name": "Physics",
+      "slug": "physics",
+      "route": "School Direct training programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "2GU",
+      "programmeCode": "36DX",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "Church Lane, Claydon, Ipswich, Suffolk, IP6 0EG",
+          "code": "-"
+        }
+      ],
+      "options": [
+        "PGCE with QTS part time"
+      ]
+    },
+    {
+      "regions": "Eastern",
+      "accrediting": "Suffolk and Norfolk Secondary SCITT",
+      "subjects": "Psychology, Secondary",
+      "ageRange": "Secondary (11+ years)",
+      "name": "Psychology",
+      "slug": "psychology",
+      "route": "School Direct training programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "2GU",
+      "programmeCode": "37XZ",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "Church Lane, Claydon, Ipswich, Suffolk, IP6 0EG",
+          "code": "-"
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "Eastern",
+      "accrediting": "Suffolk and Norfolk Secondary SCITT",
+      "subjects": "Religious education, Secondary",
+      "ageRange": "Secondary (11+ years)",
+      "name": "Religious Education",
+      "slug": "religious-education",
+      "route": "School Direct training programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "2GU",
+      "programmeCode": "368S",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "Church Lane, Claydon, Ipswich, Suffolk, IP6 0EG",
+          "code": "-"
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "Eastern",
+      "accrediting": "Suffolk and Norfolk Secondary SCITT",
+      "subjects": "Secondary, Social science",
+      "ageRange": "Secondary (11+ years)",
+      "name": "Sociology",
+      "slug": "sociology",
+      "route": "School Direct training programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "2GU",
+      "programmeCode": "37Y2",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "Church Lane, Claydon, Ipswich, Suffolk, IP6 0EG",
+          "code": "-"
         }
       ],
       "options": [
@@ -70,57 +566,187 @@
   ],
   "schools": [
     {
-      "name": "Keswick Hall",
-      "address": "SCITT Training Room (9D), Keswick Hall, Norwich, Norfolk, NR4 6TJ",
-      "code": "K"
-    },
-    {
-      "name": "The SCITT Centre",
-      "address": "University of Suffolk, Ipswich, Suffolk, IP4 1QJ",
-      "code": "S"
+      "name": "Main Site",
+      "address": "Church Lane, Claydon, Ipswich, Suffolk, IP6 0EG",
+      "code": "-"
     }
   ],
   "accreditors": [
     {
-      "name": "Suffolk and Norfolk Primary SCITT",
-      "slug": "suffolk-and-norfolk-primary-scitt",
+      "name": "Suffolk and Norfolk Secondary SCITT",
+      "slug": "suffolk-and-norfolk-secondary-scitt",
       "subjects": [
         {
-          "name": "Primary General",
-          "slug": "primary-general"
+          "name": "Art & Design",
+          "slug": "art-design"
         },
         {
-          "name": "Primary General (with mathematics)",
-          "slug": "primary-general-with-mathematics"
+          "name": "Biology",
+          "slug": "biology"
+        },
+        {
+          "name": "Business Studies",
+          "slug": "business-studies"
+        },
+        {
+          "name": "Chemistry",
+          "slug": "chemistry"
+        },
+        {
+          "name": "Computing",
+          "slug": "computing"
+        },
+        {
+          "name": "Design and Technology",
+          "slug": "design-and-technology"
+        },
+        {
+          "name": "Drama",
+          "slug": "drama"
+        },
+        {
+          "name": "English",
+          "slug": "english"
+        },
+        {
+          "name": "Geography",
+          "slug": "geography"
+        },
+        {
+          "name": "History",
+          "slug": "history"
+        },
+        {
+          "name": "Mathematics",
+          "slug": "mathematics"
+        },
+        {
+          "name": "Modern Languages",
+          "slug": "modern-languages"
+        },
+        {
+          "name": "Modern Languages (French, Spanish, German)",
+          "slug": "modern-languages-french-spanish-german"
+        },
+        {
+          "name": "Music",
+          "slug": "music"
+        },
+        {
+          "name": "Physical Education",
+          "slug": "physical-education"
+        },
+        {
+          "name": "Physics",
+          "slug": "physics"
+        },
+        {
+          "name": "Psychology",
+          "slug": "psychology"
+        },
+        {
+          "name": "Religious Education",
+          "slug": "religious-education"
+        },
+        {
+          "name": "Sociology",
+          "slug": "sociology"
         }
       ]
     }
   ],
-  "self_accrediting": true,
+  "self_accrediting": false,
   "subjects": [
     {
-      "name": "Primary General",
-      "slug": "primary-general"
+      "name": "Art & Design",
+      "slug": "art-design"
     },
     {
-      "name": "Primary General (with mathematics)",
-      "slug": "primary-general-with-mathematics"
+      "name": "Biology",
+      "slug": "biology"
+    },
+    {
+      "name": "Business Studies",
+      "slug": "business-studies"
+    },
+    {
+      "name": "Chemistry",
+      "slug": "chemistry"
+    },
+    {
+      "name": "Computing",
+      "slug": "computing"
+    },
+    {
+      "name": "Design and Technology",
+      "slug": "design-and-technology"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "English",
+      "slug": "english"
+    },
+    {
+      "name": "Geography",
+      "slug": "geography"
+    },
+    {
+      "name": "History",
+      "slug": "history"
+    },
+    {
+      "name": "Mathematics",
+      "slug": "mathematics"
+    },
+    {
+      "name": "Modern Languages",
+      "slug": "modern-languages"
+    },
+    {
+      "name": "Modern Languages (French, Spanish, German)",
+      "slug": "modern-languages-french-spanish-german"
+    },
+    {
+      "name": "Music",
+      "slug": "music"
+    },
+    {
+      "name": "Physical Education",
+      "slug": "physical-education"
+    },
+    {
+      "name": "Physics",
+      "slug": "physics"
+    },
+    {
+      "name": "Psychology",
+      "slug": "psychology"
+    },
+    {
+      "name": "Religious Education",
+      "slug": "religious-education"
+    },
+    {
+      "name": "Sociology",
+      "slug": "sociology"
     }
   ],
   "folded_courses": {
-    "Suffolk and Norfolk Primary SCITT": [
+    "Suffolk and Norfolk Secondary SCITT": [
       {
-        "name": "Primary General",
+        "name": "Art & Design",
         "courses": 1,
         "accrediting": [
-          "Suffolk and Norfolk Primary SCITT"
+          "Suffolk and Norfolk Secondary SCITT"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
         ],
         "schoolsWithVacancies": [
-          "Keswick Hall",
-          "The SCITT Centre"
+          "Main Site"
         ],
         "options": [
           "PGCE with QTS full time"
@@ -132,17 +758,379 @@
         }
       },
       {
-        "name": "Primary General (with mathematics)",
+        "name": "Biology",
         "courses": 1,
         "accrediting": [
-          "Suffolk and Norfolk Primary SCITT"
+          "Suffolk and Norfolk Secondary SCITT"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
         ],
         "schoolsWithVacancies": [
-          "Keswick Hall",
-          "The SCITT Centre"
+          "Main Site"
+        ],
+        "options": [
+          "PGCE with QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Business Studies",
+        "courses": 1,
+        "accrediting": [
+          "Suffolk and Norfolk Secondary SCITT"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Main Site"
+        ],
+        "options": [
+          "PGCE with QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Chemistry",
+        "courses": 2,
+        "accrediting": [
+          "Suffolk and Norfolk Secondary SCITT"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Main Site"
+        ],
+        "options": [
+          "PGCE with QTS full time",
+          "PGCE with QTS part time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Computing",
+        "courses": 2,
+        "accrediting": [
+          "Suffolk and Norfolk Secondary SCITT"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Main Site"
+        ],
+        "options": [
+          "PGCE with QTS full time",
+          "PGCE with QTS part time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Design and Technology",
+        "courses": 1,
+        "accrediting": [
+          "Suffolk and Norfolk Secondary SCITT"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Main Site"
+        ],
+        "options": [
+          "PGCE with QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Drama",
+        "courses": 1,
+        "accrediting": [
+          "Suffolk and Norfolk Secondary SCITT"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Main Site"
+        ],
+        "options": [
+          "PGCE with QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "English",
+        "courses": 2,
+        "accrediting": [
+          "Suffolk and Norfolk Secondary SCITT"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Main Site"
+        ],
+        "options": [
+          "PGCE with QTS full time",
+          "PGCE with QTS part time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Geography",
+        "courses": 2,
+        "accrediting": [
+          "Suffolk and Norfolk Secondary SCITT"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Main Site"
+        ],
+        "options": [
+          "PGCE with QTS full time",
+          "PGCE with QTS part time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "History",
+        "courses": 1,
+        "accrediting": [
+          "Suffolk and Norfolk Secondary SCITT"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Main Site"
+        ],
+        "options": [
+          "PGCE with QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Mathematics",
+        "courses": 2,
+        "accrediting": [
+          "Suffolk and Norfolk Secondary SCITT"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Main Site"
+        ],
+        "options": [
+          "PGCE with QTS full time",
+          "PGCE with QTS part time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Modern Languages",
+        "courses": 1,
+        "accrediting": [
+          "Suffolk and Norfolk Secondary SCITT"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Main Site"
+        ],
+        "options": [
+          "PGCE with QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Modern Languages (French, Spanish, German)",
+        "courses": 1,
+        "accrediting": [
+          "Suffolk and Norfolk Secondary SCITT"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Main Site"
+        ],
+        "options": [
+          "PGCE with QTS part time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Music",
+        "courses": 1,
+        "accrediting": [
+          "Suffolk and Norfolk Secondary SCITT"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Main Site"
+        ],
+        "options": [
+          "PGCE with QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Physical Education",
+        "courses": 1,
+        "accrediting": [
+          "Suffolk and Norfolk Secondary SCITT"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Main Site"
+        ],
+        "options": [
+          "PGCE with QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Physics",
+        "courses": 2,
+        "accrediting": [
+          "Suffolk and Norfolk Secondary SCITT"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Main Site"
+        ],
+        "options": [
+          "PGCE with QTS full time",
+          "PGCE with QTS part time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Psychology",
+        "courses": 1,
+        "accrediting": [
+          "Suffolk and Norfolk Secondary SCITT"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Main Site"
+        ],
+        "options": [
+          "PGCE with QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Religious Education",
+        "courses": 1,
+        "accrediting": [
+          "Suffolk and Norfolk Secondary SCITT"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Main Site"
+        ],
+        "options": [
+          "PGCE with QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Sociology",
+        "courses": 1,
+        "accrediting": [
+          "Suffolk and Norfolk Secondary SCITT"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Main Site"
         ],
         "options": [
           "PGCE with QTS full time"
@@ -156,6 +1144,7 @@
     ]
   },
   "options": [
-    "PGCE with QTS full time"
+    "PGCE with QTS full time",
+    "PGCE with QTS part time"
   ]
 }
