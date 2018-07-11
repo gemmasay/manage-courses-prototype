@@ -15,36 +15,58 @@
       </h1>
 
       <ul class="list">
+
+        {% set orgs = [
+          { name: 'Barrow Church Of England Voluntary Controlled Primary School', subdomain: '', courses: 1 },
+          { name: 'Claydon High School', subdomain: '', courses: 25 },
+          { name: 'Bury St Edmunds County Upper School', subdomain: '', courses: 33 },
+          { name: 'Exning Primary School', subdomain: '', courses: 1 },
+          { name: 'Fairfield Infant School', subdomain: '', courses: 1 },
+          { name: 'Harleston CofE VA Primary School', subdomain: '', courses: 1 },
+          { name: 'Hartismere School', subdomain: '', courses: 9 },
+          { name: 'Highfield Nursery School IP1 6DW', subdomain: '', courses: 0 },
+          { name: 'Farlingaye & Kesgrave Teaching School Alliance', subdomain: '', courses: 36 },
+          { name: 'Linton Village College', subdomain: '', courses: 0 },
+          { name: 'Lionwood', subdomain: '', courses: 0 },
+          { name: 'Norwich Teaching School', subdomain: '', courses: 10 },
+          { name: 'Notre Dame High School Norwich', subdomain: '', courses: 42 },
+          { name: 'Ignite Teaching School Alliance', subdomain: '', courses: 21 },
+          { name: 'Rendlesham', subdomain: '', courses: 0 },
+          { name: 'Rosecroft Primary', subdomain: '', courses: 1 },
+          { name: 'Sheringham Community Primary School', subdomain: '', courses: 4 },
+          { name: 'Springfield Junior School', subdomain: '', courses: 1 },
+          { name: 'St Francis', subdomain: '', courses: 0 },
+          { name: 'St Helen’s ASSET Education', subdomain: '', courses: 2 },
+          { name: 'Stradbroke Primary School', subdomain: '', courses: 1 },
+          { name: 'Suffolk and Norfolk Primary SCITT', subdomain: '', courses: 2 },
+          { name: 'Tendring Tech', subdomain: '', courses: 0 },
+          { name: 'The Bawburgh School', subdomain: '', courses: 1 },
+          { name: 'Thorpe St Andrew School and Sixth Form', subdomain: '', courses: 36 },
+          { name: 'White Woman Lane Junior School', subdomain: '', courses: 2 },
+          { name: 'Wymondham College NR18 9SZ', subdomain: '', courses: 0 }
+        ] %}
+
+        {% for org in orgs %}
         <li>
           <h2 class="heading-medium remove-top-margin remove-bottom-margin">
-            <a href="https://publish-courses-bromley.herokuapp.com/organisation">Bromley Schools Collegiate</a>
+            {% if org.courses == 0 %}
+              {{ org.name }}
+            {% else %}
+              <a href="{% if org.subdomain %}https://publish-courses-{{ org.subdomain }}.herokuapp.com/organisation{% else %}#{% endif %}">{{ org.name }}</a>
+            {% endif %}
           </h2>
-          <p>12 courses</p>
+          <p>
+            {% if org.courses == 0 %}
+              No courses found
+            {% elseif org.courses == 1 %}
+               1 course
+            {% else %}
+              {{ org.courses }} courses
+            {% endif %}
+          </p>
+          <hr />
         </li>
-        <li>
-          <h2 class="heading-medium remove-top-margin remove-bottom-margin">
-            <a href="https://publish-courses-darrick.herokuapp.com/organisation">Darrick Wood School</a>
-          </h2>
-          <p>27 courses</p>
-        </li>
-        <li>
-          <h2 class="heading-medium remove-top-margin remove-bottom-margin">
-            <a href="https://publish-courses-lewisham.herokuapp.com/organisation">Education Teaching Alliance Lewisham</a>
-          </h2>
-          <p>2 courses</p>
-        </li>
-        <li>
-          <h2 class="heading-medium remove-top-margin remove-bottom-margin">
-            <a href="https://publish-courses-warren.herokuapp.com/organisation">Warren Road Primary</a>
-          </h2>
-          <p>3 courses</p>
-        </li>
-        <li>
-          <h2 class="heading-medium remove-top-margin remove-bottom-margin">
-            <a href="https://publish-courses-woolwich.herokuapp.com/organisation">Woolwich Poly</a>
-          </h2>
-          <p>19 courses</p>
-        </li>
+        {% endfor %}
       </ul>
     </div>
   </div>
