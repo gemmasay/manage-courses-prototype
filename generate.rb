@@ -5,8 +5,13 @@ require 'json'
 
 file = File.read('courses-clean.json')
 data = JSON.parse(file)
-provider = ARGV[0] || 'Claydon High School'
+provider = ARGV[0] || 'Suffolk and Norfolk Primary SCITT'
 courses = data.select {|c| c['provider'] == provider }
+
+# if courses.count == 0
+#   puts "{ name: '#{provider}', subdomain: '', courses: 0 },"
+#   exit
+# end
 
 prototype_data = {
   'multi-organisation': true,
@@ -174,6 +179,8 @@ courses_by_accreditor_and_subject.each do |accrediting, courses_by_subject|
 end
 
 prototype_data['options'].uniq!
+
+# puts "{ name: '#{provider}', subdomain: '', courses: #{prototype_data['ucasCourses'].count} },"
 
 # Output to copy and paste into prototype
 # puts "#{courses.count} courses folded into #{prototype_data['folded_courses'].count}"
