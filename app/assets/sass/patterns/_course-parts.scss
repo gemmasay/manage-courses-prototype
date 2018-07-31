@@ -69,23 +69,23 @@ $course-parts-indent: 35px;
       }
     }
 
-    @include media(desktop) {
-      &:first-child > * {
-        padding-top: 0;
-      }
+    // @include media(desktop) {
+    //   &:first-child > * {
+    //     padding-top: 0;
+    //   }
+    // }
+  }
+
+  .course-part-error {
+    dt, dd {
+      border-left: 5px solid $error-colour;
+      padding-left: 10px;
+    }
+
+    dt {
+      color: $error-colour;
     }
   }
-  //
-  // .course-part-error {
-  //   dt, dd {
-  //     border-left: 5px solid $error-colour;
-  //     padding-left: 10px;
-  //   }
-  //
-  //   dt {
-  //     color: $error-colour;
-  //   }
-  // }
 
   .course-part-label {
     float: none;
@@ -102,6 +102,11 @@ $course-parts-indent: 35px;
     margin-top: 0;
   }
 
+  .course-part-label-error {
+    font-weight: normal;
+    display: block;
+  }
+
   .course-part-value {
     float: none;
     display: block;
@@ -116,5 +121,9 @@ $course-parts-indent: 35px;
     &--empty {
       color: $grey-1;
     }
+
+    // &--error a {
+    //   color: $error-colour;
+    // }
   }
 }

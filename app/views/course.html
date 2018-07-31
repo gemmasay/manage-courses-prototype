@@ -64,7 +64,7 @@
     <p>
       Fix the following problems and try publishing again:
     </p>
-    <ul class="list bold remove-bottom-margin">
+    <ul class="error-summary-list">
       <li>
         <a href="#">Give details about this course</a>
       </li>
@@ -122,20 +122,20 @@
 
             <a class="course-part-task-action" href="/course/{{ accrediting.slug }}/{{ course.programmeCode }}/about-this-course">Edit</a>
             <dl class="course-part-tasks">
-              {{ macros.coursePart(course.programmeCode + '-about-this-course', 'About this course', true) }}
+              {{ macros.coursePart(course.programmeCode + '-about-this-course', 'About this course', 'Give details about this course') }}
               {{ macros.coursePart(course.programmeCode + '-interview-process', 'Interview process (optional)') }}
-              {{ macros.coursePart(course.programmeCode + '-placement-school-policy', 'How school placements work') }}
+              {{ macros.coursePart(course.programmeCode + '-placement-school-policy', 'How school placements work', 'Give details about how school placements work') }}
             </dl>
           </li>
           <li class="course-parts-item">
             <h3 class="course-part-task">Course length and {% if course.salaried %}salary{% else %}fees{% endif %}</h3>
             <a class="course-part-task-action" href="/course/{{ accrediting.slug }}/{{ course.programmeCode }}/fees-and-length">Edit</a>
             <dl class="course-part-tasks">
-              {{ macros.coursePart(course.programmeCode + '-duration', 'Course length') }}
+              {{ macros.coursePart(course.programmeCode + '-duration', 'Course length', 'Enter a course length') }}
               {% if course.salaried %}
                 {{ macros.coursePart(course.programmeCode + '-salary-details', 'Salary') }}
               {% else %}
-                {{ macros.feesCoursePart(course.programmeCode + '-fee', 'Fee for UK and EU students') }}
+                {{ macros.feesCoursePart(course.programmeCode + '-fee', 'Fee for UK and EU students', 'Enter course fees for UK and EU students') }}
                 {{ macros.feesCoursePart(course.programmeCode + '-fee-international', 'Fee for international students (optional)') }}
                 {{ macros.coursePart(course.programmeCode + '-fee-details', 'Fee details (optional)') }}
               {% endif %}
@@ -149,7 +149,7 @@
             <a class="course-part-task-action" href="/course/{{ accrediting.slug }}/{{ course.programmeCode }}/requirements">Edit</a>
 
             <dl class="course-part-tasks">
-              {{ macros.coursePart(course.programmeCode + '-qualifications-required', 'Qualifications needed') }}
+              {{ macros.coursePart(course.programmeCode + '-qualifications-required', 'Qualifications needed', 'Give details about the qualifications needed') }}
               {{ macros.coursePart(course.programmeCode + '-personal-qualities', 'Personal qualities (optional)') }}
               {{ macros.coursePart(course.programmeCode + '-other-requirements', 'Other requirements (optional)') }}
             </dl>
