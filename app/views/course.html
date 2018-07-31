@@ -57,14 +57,14 @@
   </div>
   {% endif %}
 
-  <!-- <div class="error-summary" role="alert" aria-labelledby="error-summary-heading-example-1" tabindex="-1" style="margin-bottom: 60px">
+  <div class="error-summary" role="alert" aria-labelledby="error-summary-heading-example-1" tabindex="-1" style="margin-bottom: 60px">
     <h3 class="heading-medium error-summary-heading" id="error-summary-heading-example-1">
       We couldn’t publish this course because some information was missing
     </h3>
     <p>
       Fix the following problems and try publishing again:
     </p>
-    <ul class="error-summary-list">
+    <ul class="list bold remove-bottom-margin">
       <li>
         <a href="#">Give details about this course</a>
       </li>
@@ -81,7 +81,7 @@
         <a href="#">Give details about the qualifications needed</a>
       </li>
     </ul>
-  </div> -->
+  </div>
 
   {% if data[subject.slug + '-' + accrediting.slug + '-qa'] == 'true' %}
     <div class="success-summary" role="alert" aria-labelledby="success-summary-heading-example-1" tabindex="-1" style="margin-bottom: 60px">
@@ -122,7 +122,7 @@
 
             <a class="course-part-task-action" href="/course/{{ accrediting.slug }}/{{ course.programmeCode }}/about-this-course">Edit</a>
             <dl class="course-part-tasks">
-              {{ macros.coursePart(course.programmeCode + '-about-this-course', 'About this course') }}
+              {{ macros.coursePart(course.programmeCode + '-about-this-course', 'About this course', true) }}
               {{ macros.coursePart(course.programmeCode + '-interview-process', 'Interview process (optional)') }}
               {{ macros.coursePart(course.programmeCode + '-placement-school-policy', 'How school placements work') }}
             </dl>

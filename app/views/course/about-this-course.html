@@ -12,6 +12,20 @@
     {{ title }}
   </h1>
 
+  <div class="error-summary" role="alert" aria-labelledby="error-summary-heading-example-1" tabindex="-1" style="margin-bottom: 60px">
+    <h3 class="heading-medium error-summary-heading" id="error-summary-heading-example-1">
+      We couldn’t publish this course because some information was missing
+    </h3>
+    <ul class="list bold remove-bottom-margin">
+      <li>
+        <a href="#{{ course.programmeCode }}-about-this-course">Give details about this course</a>
+      </li>
+      <li>
+        <a href="#{{ course.programmeCode }}-placement-school-policy">Give details about how school placements work</a>
+      </li>
+    </ul>
+  </div>
+
   <form action="/course/{{ accrediting.slug }}/{{ course.programmeCode }}" method="post">
     <div class="grid-row">
       <div class="column-two-thirds">
@@ -29,7 +43,7 @@
 
         <p>If you offer different courses in the same subject, be clear about how this course differs from the others (eg amount of time spent in school, course structure). This will help the applicant decide which course best suits them.</p>
 
-        {{ macros.textarea(course.programmeCode + '-about-this-course', 'About this course', 20, '', 400) }}
+        {{ macros.textarea(course.programmeCode + '-about-this-course', 'About this course', 20, '', 400, 'Give details about this course') }}
       </div>
     </div>
 
@@ -70,7 +84,7 @@
           <li>how much time candidates spend in each school</li>
         </ul>
 
-        {{ macros.textarea(course.programmeCode + '-placement-school-policy', 'How school placements work', 10, '', 250) }}
+        {{ macros.textarea(course.programmeCode + '-placement-school-policy', 'How school placements work', 10, '', 250, 'Give details about how school placements work') }}
       </div>
     </div>
 

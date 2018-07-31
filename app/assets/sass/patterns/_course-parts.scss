@@ -75,6 +75,17 @@ $course-parts-indent: 35px;
       }
     }
   }
+  //
+  // .course-part-error {
+  //   dt, dd {
+  //     border-left: 5px solid $error-colour;
+  //     padding-left: 10px;
+  //   }
+  //
+  //   dt {
+  //     color: $error-colour;
+  //   }
+  // }
 
   .course-part-label {
     float: none;

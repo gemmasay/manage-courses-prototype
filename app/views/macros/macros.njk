@@ -223,9 +223,14 @@
 </div>
 {% endmacro %}
 
-{% macro textarea(id, label, rows, helpText = false, maxWords = 50) %}
-<div class="form-group">
+{% macro textarea(id, label, rows, helpText = false, maxWords = 50, error = false) %}
+<div class="form-group{% if error %} form-group-error{% endif %}">
   <label class="form-label form-label-bold" for="{{id}}">{{label}}</label>
+  {% if error %}
+    <span class="error-message">
+      {{ error }}
+    </span>
+  {% endif %}
   {% if helpText %}
     <span class="form-hint">{{helpText}}</span>
   {% endif %}
@@ -260,8 +265,8 @@
 </div>
 {% endmacro %}
 
-{% macro coursePart(id, label) %}
-<div>
+{% macro coursePart(id, label, error = true) %}
+<div {% if error %}class="course-part-error"{% endif %}>
   <dt class="course-part-label">
     {{ label }}
   </dt>
