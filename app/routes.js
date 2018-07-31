@@ -82,6 +82,21 @@ router.get('/course/:accreditor/:code', function (req, res) {
   res.render('course', { course: c, accrediting: accreditor(req), template: template(req, c) })
 })
 
+router.get('/course/:accreditor/:code/publish', function (req, res) {
+  var c = course(req);
+  var locals = { course: c, accrediting: accreditor(req), template: template(req, c) };
+
+  validate(req, c, locals);
+
+  if (locals.success) {
+    req.session.data[req.params.code + '-show-errors'] = false;
+  } else {
+    req.session.data[req.params.code + '-show-errors'] = true;
+  }
+
+  res.redirect('/course/' + req.params.accreditor + '/' + req.params.code);
+})
+
 router.get('/preview/:accreditor/:code', function (req, res) {
   var c = course(req);
   var t = template(req, c);
@@ -93,7 +108,10 @@ router.get('/preview/:accreditor/:code', function (req, res) {
     prefix = c.programmeCode;
   }
 
-  res.render('preview', { course: c, accrediting: accreditor(req), template: t, prefix: prefix })
+  var locals = { course: c, accrediting: accreditor(req), template: t, prefix: prefix }
+  validate(req, c, locals);
+
+  res.render('preview', locals)
 })
 
 router.post('/course/:accreditor/:code', function (req, res) {
@@ -109,7 +127,11 @@ router.get('/course/:accreditor/:code/no-template', function (req, res) {
 
 router.get('/course/:accreditor/:code/:view', function (req, res) {
   var view = req.params.view;
-  res.render(`course/${view}`, { course: course(req), accrediting: accreditor(req) })
+  var c = course(req);
+  var locals = { course: c, accrediting: accreditor(req) }
+  validate(req, c, locals);
+
+  res.render(`course/${view}`, locals)
 })
 
 // router.get('/course/:accreditor/:subject/option/:index', function (req, res) {
