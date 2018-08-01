@@ -17,6 +17,23 @@
     {% endif %}
   {% endset %}
 
+  <div class="error-summary" role="alert" aria-labelledby="error-summary-heading-example-1" tabindex="-1">
+    <h3 class="heading-medium error-summary-heading" id="error-summary-heading-example-1">
+      We couldn’t publish this because some information was missing
+    </h3>
+    <p>
+      Fix the following problems and try publishing again:
+    </p>
+    <ul class="error-summary-list">
+      <li>
+        <a href="#">Give details about training with you</a>
+      </li>
+      <li>
+        <a href="#">Give details about training with a disability</a>
+      </li>
+    </ul>
+  </div>
+
   {{ macros.orgHeading('About your organisation', message) }}
 
   <h2 class="heading-large">
@@ -34,7 +51,7 @@
           <li>don’t say “our students are some of the happiest in the country”</li>
           <li>do say “the Times Educational Supplement ranked our students as 4th happiest in the country”</li>
         </ul>
-        {{ macros.textarea('about-organisation', 'Training with you', 14, '', 250) }}
+        {{ macros.textarea('about-organisation', 'Training with you', 14, '', 250, 'Give details about training with you') }}
 
         {{ macros.textbox('website', 'Your website', '', 'form-control-full')}}
       </div>
@@ -70,7 +87,7 @@
         <h3 class="heading-large remove-top-margin">Training with a disability</h3>
         <p>Here you should summarise the accessibility of your course. Bear in mind the range of disabilities that applicants may have (eg dyslexia, or physical, hearing and visual impairments). If accessibility varies between schools or other sites, give details. You could also offer examples of how you’ve accommodated candidates with particular accessibility needs.</p>
 
-        {{ macros.textarea('training-with-a-disability', 'Training with a disability', 14, '', 250) }}
+        {{ macros.textarea('training-with-a-disability', 'Training with a disability', 14, '', 250, 'Give details about training with a disability') }}
       </div>
     </div>
 
