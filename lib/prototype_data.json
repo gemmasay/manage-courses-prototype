@@ -1,34 +1,34 @@
 {
   "multi-organisation": false,
-  "training-provider-name": "Bracknell Forest Partnership",
-  "provider-code-name": "A2738",
-  "provider-code": "2FZ",
+  "training-provider-name": "The University of Hayes",
+  "provider-code-name": "HAYS",
+  "provider-code": "H01",
   "address-line-1": "123 Baker Street",
-  "town": "London",
-  "postcode": "SW1 1AA",
+  "town": "Hayes",
+  "postcode": "UB3 1AA",
   "telephone": "0208 123 4567",
-  "email": "someemail@not-an-email.com",
-  "website": "",
+  "email": "admissions@uni-hayes.ac.uk",
+  "website": "https://www.uni-hayes.ac.uk",
   "templates": [
 
   ],
   "ucasCourses": [
     {
-      "regions": "South East",
-      "accrediting": "The University of Reading",
+      "regions": "West Midlands",
+      "accrediting": "The University of Hayes",
       "subjects": "Art / art & design, Secondary",
       "ageRange": "Secondary (11+ years)",
-      "name": "Art & Design",
-      "slug": "art-design",
-      "route": "School Direct training programme",
-      "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "2FZ",
-      "programmeCode": "36W2",
+      "name": "Art and Design",
+      "slug": "art-and-design",
+      "route": "Higher Education programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "H01",
+      "programmeCode": "2WS6",
       "schools": [
         {
           "name": "Main Site",
-          "address": "Ranelagh Drive, Bracknell, Berkshire, RG12 9DA",
-          "code": "-"
+          "address": "Main Campus, 123 Baker Street, Hayes, UB3 1AA",
+          "code": ""
         }
       ],
       "options": [
@@ -36,109 +36,21 @@
       ]
     },
     {
-      "regions": "South East",
-      "accrediting": "The University of Reading",
-      "subjects": "Biology, Science, Secondary",
-      "ageRange": "Secondary (11+ years)",
-      "name": "Biology",
-      "slug": "biology",
-      "route": "School Direct training programme (salaried)",
-      "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "2FZ",
-      "programmeCode": "36W4",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "Ranelagh Drive, Bracknell, Berkshire, RG12 9DA",
-          "code": "-"
-        }
-      ],
-      "options": [
-        "PGCE with QTS full time with salary"
-      ]
-    },
-    {
-      "regions": "South East",
-      "accrediting": "The University of Reading",
-      "subjects": "Biology, Science, Secondary",
-      "ageRange": "Secondary (11+ years)",
-      "name": "Biology",
-      "slug": "biology",
-      "route": "School Direct training programme",
-      "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "2FZ",
-      "programmeCode": "36W6",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "Ranelagh Drive, Bracknell, Berkshire, RG12 9DA",
-          "code": "-"
-        }
-      ],
-      "options": [
-        "PGCE with QTS full time"
-      ]
-    },
-    {
-      "regions": "South East",
-      "accrediting": "The University of Reading",
-      "subjects": "Chemistry, Science, Secondary",
-      "ageRange": "Secondary (11+ years)",
-      "name": "Chemistry",
-      "slug": "chemistry",
-      "route": "School Direct training programme (salaried)",
-      "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "2FZ",
-      "programmeCode": "36WB",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "Ranelagh Drive, Bracknell, Berkshire, RG12 9DA",
-          "code": "-"
-        }
-      ],
-      "options": [
-        "PGCE with QTS full time with salary"
-      ]
-    },
-    {
-      "regions": "South East",
-      "accrediting": "The University of Reading",
-      "subjects": "Chemistry, Science, Secondary",
-      "ageRange": "Secondary (11+ years)",
-      "name": "Chemistry",
-      "slug": "chemistry",
-      "route": "School Direct training programme",
-      "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "2FZ",
-      "programmeCode": "36W9",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "Ranelagh Drive, Bracknell, Berkshire, RG12 9DA",
-          "code": "-"
-        }
-      ],
-      "options": [
-        "PGCE with QTS full time"
-      ]
-    },
-    {
-      "regions": "South East",
-      "accrediting": "The University of Reading",
+      "regions": "West Midlands",
+      "accrediting": "The University of Hayes",
       "subjects": "Computer studies, Secondary",
       "ageRange": "Secondary (11+ years)",
-      "name": "Computing",
-      "slug": "computing",
-      "route": "School Direct training programme",
-      "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "2FZ",
-      "programmeCode": "36WG",
+      "name": "Computer Science",
+      "slug": "computer-science",
+      "route": "Higher Education programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "H01",
+      "programmeCode": "2N37",
       "schools": [
         {
           "name": "Main Site",
-          "address": "Ranelagh Drive, Bracknell, Berkshire, RG12 9DA",
-          "code": "-"
+          "address": "Main Campus, 123 Baker Street, Hayes, UB3 1AA",
+          "code": ""
         }
       ],
       "options": [
@@ -146,43 +58,21 @@
       ]
     },
     {
-      "regions": "South East",
-      "accrediting": "The University of Reading",
+      "regions": "West Midlands",
+      "accrediting": "The University of Hayes",
       "subjects": "Design and technology, Secondary",
       "ageRange": "Secondary (11+ years)",
       "name": "Design and Technology",
       "slug": "design-and-technology",
-      "route": "School Direct training programme (salaried)",
-      "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "2FZ",
-      "programmeCode": "36WL",
+      "route": "Higher Education programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "H01",
+      "programmeCode": "2WS7",
       "schools": [
         {
           "name": "Main Site",
-          "address": "Ranelagh Drive, Bracknell, Berkshire, RG12 9DA",
-          "code": "-"
-        }
-      ],
-      "options": [
-        "PGCE with QTS full time with salary"
-      ]
-    },
-    {
-      "regions": "South East",
-      "accrediting": "The University of Reading",
-      "subjects": "Design and technology, Secondary",
-      "ageRange": "Secondary (11+ years)",
-      "name": "Design and Technology",
-      "slug": "design-and-technology",
-      "route": "School Direct training programme",
-      "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "2FZ",
-      "programmeCode": "36WK",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "Ranelagh Drive, Bracknell, Berkshire, RG12 9DA",
-          "code": "-"
+          "address": "Main Campus, 123 Baker Street, Hayes, UB3 1AA",
+          "code": ""
         }
       ],
       "options": [
@@ -190,21 +80,21 @@
       ]
     },
     {
-      "regions": "South East",
-      "accrediting": "The University of Reading",
+      "regions": "West Midlands",
+      "accrediting": "The University of Hayes",
       "subjects": "Drama and theatre studies, Secondary",
       "ageRange": "Secondary (11+ years)",
       "name": "Drama",
       "slug": "drama",
-      "route": "School Direct training programme",
-      "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "2FZ",
-      "programmeCode": "36WM",
+      "route": "Higher Education programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "H01",
+      "programmeCode": "2DMH",
       "schools": [
         {
           "name": "Main Site",
-          "address": "Ranelagh Drive, Bracknell, Berkshire, RG12 9DA",
-          "code": "-"
+          "address": "Main Campus, 123 Baker Street, Hayes, UB3 1AA",
+          "code": ""
         }
       ],
       "options": [
@@ -212,43 +102,21 @@
       ]
     },
     {
-      "regions": "South East",
-      "accrediting": "The University of Reading",
-      "subjects": "English, Secondary",
+      "regions": "West Midlands",
+      "accrediting": "The University of Hayes",
+      "subjects": "Drama and theatre studies, English, Secondary",
       "ageRange": "Secondary (11+ years)",
-      "name": "English",
-      "slug": "english",
-      "route": "School Direct training programme (salaried)",
-      "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "2FZ",
-      "programmeCode": "36WQ",
+      "name": "Drama with English",
+      "slug": "drama-with-english",
+      "route": "Higher Education programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "H01",
+      "programmeCode": "346V",
       "schools": [
         {
           "name": "Main Site",
-          "address": "Ranelagh Drive, Bracknell, Berkshire, RG12 9DA",
-          "code": "-"
-        }
-      ],
-      "options": [
-        "PGCE with QTS full time with salary"
-      ]
-    },
-    {
-      "regions": "South East",
-      "accrediting": "The University of Reading",
-      "subjects": "English, Secondary",
-      "ageRange": "Secondary (11+ years)",
-      "name": "English",
-      "slug": "english",
-      "route": "School Direct training programme",
-      "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "2FZ",
-      "programmeCode": "36WP",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "Ranelagh Drive, Bracknell, Berkshire, RG12 9DA",
-          "code": "-"
+          "address": "Main Campus, 123 Baker Street, Hayes, UB3 1AA",
+          "code": ""
         }
       ],
       "options": [
@@ -256,21 +124,65 @@
       ]
     },
     {
-      "regions": "South East",
-      "accrediting": "The University of Reading",
+      "regions": "West Midlands",
+      "accrediting": "The University of Hayes",
+      "subjects": "Early years, Primary",
+      "ageRange": "Primary (c3 - 11/12 years)",
+      "name": "Early Years Education",
+      "slug": "early-years-education",
+      "route": "Higher Education programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "H01",
+      "programmeCode": "X121",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "Main Campus, 123 Baker Street, Hayes, UB3 1AA",
+          "code": ""
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "West Midlands",
+      "accrediting": "The University of Hayes",
+      "subjects": "English, Secondary",
+      "ageRange": "Secondary (11+ years)",
+      "name": "English",
+      "slug": "english",
+      "route": "Higher Education programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "H01",
+      "programmeCode": "346S",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "Main Campus, 123 Baker Street, Hayes, UB3 1AA",
+          "code": ""
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "West Midlands",
+      "accrediting": "The University of Hayes",
       "subjects": "Geography, Secondary",
       "ageRange": "Secondary (11+ years)",
       "name": "Geography",
       "slug": "geography",
-      "route": "School Direct training programme",
-      "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "2FZ",
-      "programmeCode": "36WR",
+      "route": "Higher Education programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "H01",
+      "programmeCode": "2WS8",
       "schools": [
         {
           "name": "Main Site",
-          "address": "Ranelagh Drive, Bracknell, Berkshire, RG12 9DA",
-          "code": "-"
+          "address": "Main Campus, 123 Baker Street, Hayes, UB3 1AA",
+          "code": ""
         }
       ],
       "options": [
@@ -278,21 +190,21 @@
       ]
     },
     {
-      "regions": "South East",
-      "accrediting": "The University of Reading",
+      "regions": "West Midlands",
+      "accrediting": "The University of Hayes",
       "subjects": "History, Secondary",
       "ageRange": "Secondary (11+ years)",
       "name": "History",
       "slug": "history",
-      "route": "School Direct training programme",
-      "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "2FZ",
-      "programmeCode": "36WT",
+      "route": "Higher Education programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "H01",
+      "programmeCode": "346T",
       "schools": [
         {
           "name": "Main Site",
-          "address": "Ranelagh Drive, Bracknell, Berkshire, RG12 9DA",
-          "code": "-"
+          "address": "Main Campus, 123 Baker Street, Hayes, UB3 1AA",
+          "code": ""
         }
       ],
       "options": [
@@ -300,43 +212,21 @@
       ]
     },
     {
-      "regions": "South East",
-      "accrediting": "The University of Reading",
+      "regions": "West Midlands",
+      "accrediting": "The University of Hayes",
       "subjects": "Mathematics, Secondary",
       "ageRange": "Secondary (11+ years)",
       "name": "Mathematics",
       "slug": "mathematics",
-      "route": "School Direct training programme (salaried)",
-      "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "2FZ",
-      "programmeCode": "36WX",
+      "route": "Higher Education programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "H01",
+      "programmeCode": "G1X1",
       "schools": [
         {
           "name": "Main Site",
-          "address": "Ranelagh Drive, Bracknell, Berkshire, RG12 9DA",
-          "code": "-"
-        }
-      ],
-      "options": [
-        "PGCE with QTS full time with salary"
-      ]
-    },
-    {
-      "regions": "South East",
-      "accrediting": "The University of Reading",
-      "subjects": "Mathematics, Secondary",
-      "ageRange": "Secondary (11+ years)",
-      "name": "Mathematics",
-      "slug": "mathematics",
-      "route": "School Direct training programme",
-      "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "2FZ",
-      "programmeCode": "36WW",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "Ranelagh Drive, Bracknell, Berkshire, RG12 9DA",
-          "code": "-"
+          "address": "Main Campus, 123 Baker Street, Hayes, UB3 1AA",
+          "code": ""
         }
       ],
       "options": [
@@ -344,43 +234,21 @@
       ]
     },
     {
-      "regions": "South East",
-      "accrediting": "The University of Reading",
-      "subjects": "French, German, Languages, Languages (european), Secondary",
+      "regions": "West Midlands",
+      "accrediting": "The University of Hayes",
+      "subjects": "Communication and media studies, Secondary",
       "ageRange": "Secondary (11+ years)",
-      "name": "Modern Lanaguages (French and German)",
-      "slug": "modern-lanaguages-french-and-german",
-      "route": "School Direct training programme (salaried)",
-      "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "2FZ",
-      "programmeCode": "36X5",
+      "name": "Media",
+      "slug": "media",
+      "route": "Higher Education programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "H01",
+      "programmeCode": "2WSF",
       "schools": [
         {
           "name": "Main Site",
-          "address": "Ranelagh Drive, Bracknell, Berkshire, RG12 9DA",
-          "code": "-"
-        }
-      ],
-      "options": [
-        "PGCE with QTS full time with salary"
-      ]
-    },
-    {
-      "regions": "South East",
-      "accrediting": "The University of Reading",
-      "subjects": "French, German, Languages, Languages (european), Secondary",
-      "ageRange": "Secondary (11+ years)",
-      "name": "Modern Lanaguages (French and German)",
-      "slug": "modern-lanaguages-french-and-german",
-      "route": "School Direct training programme",
-      "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "2FZ",
-      "programmeCode": "36WY",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "Ranelagh Drive, Bracknell, Berkshire, RG12 9DA",
-          "code": "-"
+          "address": "Main Campus, 123 Baker Street, Hayes, UB3 1AA",
+          "code": ""
         }
       ],
       "options": [
@@ -388,21 +256,21 @@
       ]
     },
     {
-      "regions": "South East",
-      "accrediting": "The University of Reading",
-      "subjects": "German, Languages, Languages (european), Secondary, Spanish",
+      "regions": "West Midlands",
+      "accrediting": "The University of Hayes",
+      "subjects": "Languages, Secondary",
       "ageRange": "Secondary (11+ years)",
-      "name": "Modern Lanaguages (German and Spanish)",
-      "slug": "modern-lanaguages-german-and-spanish",
-      "route": "School Direct training programme",
-      "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "2FZ",
-      "programmeCode": "36X2",
+      "name": "Modern Foreign Languages",
+      "slug": "modern-foreign-languages",
+      "route": "Higher Education programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "H01",
+      "programmeCode": "2WS9",
       "schools": [
         {
           "name": "Main Site",
-          "address": "Ranelagh Drive, Bracknell, Berkshire, RG12 9DA",
-          "code": "-"
+          "address": "Main Campus, 123 Baker Street, Hayes, UB3 1AA",
+          "code": ""
         }
       ],
       "options": [
@@ -410,87 +278,21 @@
       ]
     },
     {
-      "regions": "South East",
-      "accrediting": "The University of Reading",
-      "subjects": "French, Languages, Languages (european), Secondary, Spanish",
-      "ageRange": "Secondary (11+ years)",
-      "name": "Modern Languages (French and Spanish)",
-      "slug": "modern-languages-french-and-spanish",
-      "route": "School Direct training programme",
-      "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "2FZ",
-      "programmeCode": "36X3",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "Ranelagh Drive, Bracknell, Berkshire, RG12 9DA",
-          "code": "-"
-        }
-      ],
-      "options": [
-        "PGCE with QTS full time"
-      ]
-    },
-    {
-      "regions": "South East",
-      "accrediting": "The University of Reading",
-      "subjects": "French, Languages, Languages (european), Secondary, Spanish",
-      "ageRange": "Secondary (11+ years)",
-      "name": "Modern Languages (French and Spanish)",
-      "slug": "modern-languages-french-and-spanish",
-      "route": "School Direct training programme (salaried)",
-      "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "2FZ",
-      "programmeCode": "36X8",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "Ranelagh Drive, Bracknell, Berkshire, RG12 9DA",
-          "code": "-"
-        }
-      ],
-      "options": [
-        "PGCE with QTS full time with salary"
-      ]
-    },
-    {
-      "regions": "South East",
-      "accrediting": "The University of Reading",
-      "subjects": "German, Languages, Languages (european), Secondary, Spanish",
-      "ageRange": "Secondary (11+ years)",
-      "name": "Modern Languages (German and Spanish)",
-      "slug": "modern-languages-german-and-spanish",
-      "route": "School Direct training programme (salaried)",
-      "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "2FZ",
-      "programmeCode": "36X7",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "Ranelagh Drive, Bracknell, Berkshire, RG12 9DA",
-          "code": "-"
-        }
-      ],
-      "options": [
-        "PGCE with QTS full time with salary"
-      ]
-    },
-    {
-      "regions": "South East",
-      "accrediting": "The University of Reading",
+      "regions": "West Midlands",
+      "accrediting": "The University of Hayes",
       "subjects": "Music, Secondary",
       "ageRange": "Secondary (11+ years)",
       "name": "Music",
       "slug": "music",
-      "route": "School Direct training programme",
-      "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "2FZ",
-      "programmeCode": "36X9",
+      "route": "Higher Education programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "H01",
+      "programmeCode": "2WSD",
       "schools": [
         {
           "name": "Main Site",
-          "address": "Ranelagh Drive, Bracknell, Berkshire, RG12 9DA",
-          "code": "-"
+          "address": "Main Campus, 123 Baker Street, Hayes, UB3 1AA",
+          "code": ""
         }
       ],
       "options": [
@@ -498,21 +300,43 @@
       ]
     },
     {
-      "regions": "South East",
-      "accrediting": "The University of Reading",
+      "regions": "West Midlands",
+      "accrediting": "The University of Hayes",
+      "subjects": "Further education",
+      "ageRange": "Secondary (11+ years)",
+      "name": "PGDE, FE and Skills",
+      "slug": "pgde-fe-and-skills",
+      "route": "Higher Education programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "H01",
+      "programmeCode": "2WCN",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "Main Campus, 123 Baker Street, Hayes, UB3 1AA",
+          "code": ""
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "West Midlands",
+      "accrediting": "The University of Hayes",
       "subjects": "Physical education, Secondary",
       "ageRange": "Secondary (11+ years)",
       "name": "Physical Education",
       "slug": "physical-education",
-      "route": "School Direct training programme",
-      "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "2FZ",
-      "programmeCode": "36XC",
+      "route": "Higher Education programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "H01",
+      "programmeCode": "2N39",
       "schools": [
         {
           "name": "Main Site",
-          "address": "Ranelagh Drive, Bracknell, Berkshire, RG12 9DA",
-          "code": "-"
+          "address": "Main Campus, 123 Baker Street, Hayes, UB3 1AA",
+          "code": ""
         }
       ],
       "options": [
@@ -520,43 +344,175 @@
       ]
     },
     {
-      "regions": "South East",
-      "accrediting": "The University of Reading",
+      "regions": "West Midlands",
+      "accrediting": "The University of Hayes",
+      "subjects": "Mathematics, Physics, Science, Secondary",
+      "ageRange": "Secondary (11+ years)",
+      "name": "Physics with Maths",
+      "slug": "physics-with-maths",
+      "route": "Higher Education programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "H01",
+      "programmeCode": "2WSC",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "Main Campus, 123 Baker Street, Hayes, UB3 1AA",
+          "code": ""
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "West Midlands",
+      "accrediting": "The University of Hayes",
+      "subjects": "English, Primary",
+      "ageRange": "Primary (c3 - 11/12 years)",
+      "name": "Primary with English Specialism",
+      "slug": "primary-with-english-specialism",
+      "route": "Higher Education programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "H01",
+      "programmeCode": "XQ1H",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "Main Campus, 123 Baker Street, Hayes, UB3 1AA",
+          "code": ""
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "West Midlands",
+      "accrediting": "The University of Hayes",
+      "subjects": "Mathematics, Primary",
+      "ageRange": "Primary (c3 - 11/12 years)",
+      "name": "Primary with Mathematics Specialism",
+      "slug": "primary-with-mathematics-specialism",
+      "route": "Higher Education programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "H01",
+      "programmeCode": "XG1C",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "Main Campus, 123 Baker Street, Hayes, UB3 1AA",
+          "code": ""
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "West Midlands",
+      "accrediting": "The University of Hayes",
+      "subjects": "Primary, Science",
+      "ageRange": "Primary (c3 - 11/12 years)",
+      "name": "Primary with Science Specialism",
+      "slug": "primary-with-science-specialism",
+      "route": "Higher Education programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "H01",
+      "programmeCode": "X1CF",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "Main Campus, 123 Baker Street, Hayes, UB3 1AA",
+          "code": ""
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "West Midlands",
+      "accrediting": "The University of Hayes",
+      "subjects": "Religious education, Secondary",
+      "ageRange": "Secondary (11+ years)",
+      "name": "Religious Education",
+      "slug": "religious-education",
+      "route": "Higher Education programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "H01",
+      "programmeCode": "2WSB",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "Main Campus, 123 Baker Street, Hayes, UB3 1AA",
+          "code": ""
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "West Midlands",
+      "accrediting": "The University of Hayes",
+      "subjects": "Biology, Science, Secondary",
+      "ageRange": "Secondary (11+ years)",
+      "name": "Science: Biology",
+      "slug": "science-biology",
+      "route": "Higher Education programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "H01",
+      "programmeCode": "C1X1",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "Main Campus, 123 Baker Street, Hayes, UB3 1AA",
+          "code": ""
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "West Midlands",
+      "accrediting": "The University of Hayes",
+      "subjects": "Chemistry, Science, Secondary",
+      "ageRange": "Secondary (11+ years)",
+      "name": "Science: Chemistry",
+      "slug": "science-chemistry",
+      "route": "Higher Education programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "H01",
+      "programmeCode": "F1X1",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "Main Campus, 123 Baker Street, Hayes, UB3 1AA",
+          "code": ""
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "West Midlands",
+      "accrediting": "The University of Hayes",
       "subjects": "Physics, Science, Secondary",
       "ageRange": "Secondary (11+ years)",
-      "name": "Physics",
-      "slug": "physics",
-      "route": "School Direct training programme (salaried)",
-      "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "2FZ",
-      "programmeCode": "36XG",
+      "name": "Science: Physics",
+      "slug": "science-physics",
+      "route": "Higher Education programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "H01",
+      "programmeCode": "F3X1",
       "schools": [
         {
           "name": "Main Site",
-          "address": "Ranelagh Drive, Bracknell, Berkshire, RG12 9DA",
-          "code": "-"
-        }
-      ],
-      "options": [
-        "PGCE with QTS full time with salary"
-      ]
-    },
-    {
-      "regions": "South East",
-      "accrediting": "The University of Reading",
-      "subjects": "Mathematics, Physics, Secondary",
-      "ageRange": "Secondary (11+ years)",
-      "name": "Physics with Mathematics",
-      "slug": "physics-with-mathematics",
-      "route": "School Direct training programme",
-      "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "2FZ",
-      "programmeCode": "36XK",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "Ranelagh Drive, Bracknell, Berkshire, RG12 9DA",
-          "code": "-"
+          "address": "Main Campus, 123 Baker Street, Hayes, UB3 1AA",
+          "code": ""
         }
       ],
       "options": [
@@ -564,77 +520,47 @@
       ]
     },
     {
-      "regions": "South East",
-      "accrediting": "The University of Reading",
-      "subjects": "Primary",
+      "regions": "West Midlands",
+      "accrediting": "The University of Hayes",
+      "subjects": "Primary, Special educational needs",
       "ageRange": "Primary (c3 - 11/12 years)",
-      "name": "Primary",
-      "slug": "primary",
-      "route": "School Direct training programme (salaried)",
-      "qualifications": "QTS",
-      "providerCode": "2FZ",
-      "programmeCode": "36XQ",
+      "name": "Special Education Needs Specialism",
+      "slug": "special-education-needs-specialism",
+      "route": "Higher Education programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "H01",
+      "programmeCode": "2W9G",
       "schools": [
         {
           "name": "Main Site",
-          "address": "Ranelagh Drive, Bracknell, Berkshire, RG12 9DA",
-          "code": "-"
+          "address": "Main Campus, 123 Baker Street, Hayes, UB3 1AA",
+          "code": ""
         }
       ],
       "options": [
-        "QTS full time with salary"
-      ]
-    },
-    {
-      "regions": "South East",
-      "accrediting": "The University of Reading",
-      "subjects": "Primary",
-      "ageRange": "Primary (c3 - 11/12 years)",
-      "name": "Primary",
-      "slug": "primary",
-      "route": "School Direct training programme",
-      "qualifications": "QTS",
-      "providerCode": "2FZ",
-      "programmeCode": "36XP",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "Ranelagh Drive, Bracknell, Berkshire, RG12 9DA",
-          "code": "-"
-        }
-      ],
-      "options": [
-        "QTS full time"
+        "PGCE with QTS full time"
       ]
     }
   ],
   "schools": [
     {
       "name": "Main Site",
-      "address": "Ranelagh Drive, Bracknell, Berkshire, RG12 9DA",
-      "code": "-"
+      "address": "Main Campus, 123 Baker Street, Hayes, UB3 1AA",
+      "code": ""
     }
   ],
   "accreditors": [
     {
-      "name": "The University of Reading",
-      "slug": "the-university-of-reading",
+      "name": "The University of Hayes",
+      "slug": "the-university-of-Hayes",
       "subjects": [
         {
-          "name": "Art & Design",
-          "slug": "art-design"
+          "name": "Art and Design",
+          "slug": "art-and-design"
         },
         {
-          "name": "Biology",
-          "slug": "biology"
-        },
-        {
-          "name": "Chemistry",
-          "slug": "chemistry"
-        },
-        {
-          "name": "Computing",
-          "slug": "computing"
+          "name": "Computer Science",
+          "slug": "computer-science"
         },
         {
           "name": "Design and Technology",
@@ -643,6 +569,14 @@
         {
           "name": "Drama",
           "slug": "drama"
+        },
+        {
+          "name": "Drama with English",
+          "slug": "drama-with-english"
+        },
+        {
+          "name": "Early Years Education",
+          "slug": "early-years-education"
         },
         {
           "name": "English",
@@ -661,61 +595,73 @@
           "slug": "mathematics"
         },
         {
-          "name": "Modern Lanaguages (French and German)",
-          "slug": "modern-lanaguages-french-and-german"
+          "name": "Media",
+          "slug": "media"
         },
         {
-          "name": "Modern Lanaguages (German and Spanish)",
-          "slug": "modern-lanaguages-german-and-spanish"
-        },
-        {
-          "name": "Modern Languages (French and Spanish)",
-          "slug": "modern-languages-french-and-spanish"
-        },
-        {
-          "name": "Modern Languages (German and Spanish)",
-          "slug": "modern-languages-german-and-spanish"
+          "name": "Modern Foreign Languages",
+          "slug": "modern-foreign-languages"
         },
         {
           "name": "Music",
           "slug": "music"
         },
         {
+          "name": "PGDE, FE and Skills",
+          "slug": "pgde-fe-and-skills"
+        },
+        {
           "name": "Physical Education",
           "slug": "physical-education"
         },
         {
-          "name": "Physics",
-          "slug": "physics"
+          "name": "Physics with Maths",
+          "slug": "physics-with-maths"
         },
         {
-          "name": "Physics with Mathematics",
-          "slug": "physics-with-mathematics"
+          "name": "Primary with English Specialism",
+          "slug": "primary-with-english-specialism"
         },
         {
-          "name": "Primary",
-          "slug": "primary"
+          "name": "Primary with Mathematics Specialism",
+          "slug": "primary-with-mathematics-specialism"
+        },
+        {
+          "name": "Primary with Science Specialism",
+          "slug": "primary-with-science-specialism"
+        },
+        {
+          "name": "Religious Education",
+          "slug": "religious-education"
+        },
+        {
+          "name": "Science: Biology",
+          "slug": "science-biology"
+        },
+        {
+          "name": "Science: Chemistry",
+          "slug": "science-chemistry"
+        },
+        {
+          "name": "Science: Physics",
+          "slug": "science-physics"
+        },
+        {
+          "name": "Special Education Needs Specialism",
+          "slug": "special-education-needs-specialism"
         }
       ]
     }
   ],
-  "self_accrediting": false,
+  "self_accrediting": true,
   "subjects": [
     {
-      "name": "Art & Design",
-      "slug": "art-design"
+      "name": "Art and Design",
+      "slug": "art-and-design"
     },
     {
-      "name": "Biology",
-      "slug": "biology"
-    },
-    {
-      "name": "Chemistry",
-      "slug": "chemistry"
-    },
-    {
-      "name": "Computing",
-      "slug": "computing"
+      "name": "Computer Science",
+      "slug": "computer-science"
     },
     {
       "name": "Design and Technology",
@@ -724,6 +670,14 @@
     {
       "name": "Drama",
       "slug": "drama"
+    },
+    {
+      "name": "Drama with English",
+      "slug": "drama-with-english"
+    },
+    {
+      "name": "Early Years Education",
+      "slug": "early-years-education"
     },
     {
       "name": "English",
@@ -742,49 +696,69 @@
       "slug": "mathematics"
     },
     {
-      "name": "Modern Lanaguages (French and German)",
-      "slug": "modern-lanaguages-french-and-german"
+      "name": "Media",
+      "slug": "media"
     },
     {
-      "name": "Modern Lanaguages (German and Spanish)",
-      "slug": "modern-lanaguages-german-and-spanish"
-    },
-    {
-      "name": "Modern Languages (French and Spanish)",
-      "slug": "modern-languages-french-and-spanish"
-    },
-    {
-      "name": "Modern Languages (German and Spanish)",
-      "slug": "modern-languages-german-and-spanish"
+      "name": "Modern Foreign Languages",
+      "slug": "modern-foreign-languages"
     },
     {
       "name": "Music",
       "slug": "music"
     },
     {
+      "name": "PGDE, FE and Skills",
+      "slug": "pgde-fe-and-skills"
+    },
+    {
       "name": "Physical Education",
       "slug": "physical-education"
     },
     {
-      "name": "Physics",
-      "slug": "physics"
+      "name": "Physics with Maths",
+      "slug": "physics-with-maths"
     },
     {
-      "name": "Physics with Mathematics",
-      "slug": "physics-with-mathematics"
+      "name": "Primary with English Specialism",
+      "slug": "primary-with-english-specialism"
     },
     {
-      "name": "Primary",
-      "slug": "primary"
+      "name": "Primary with Mathematics Specialism",
+      "slug": "primary-with-mathematics-specialism"
+    },
+    {
+      "name": "Primary with Science Specialism",
+      "slug": "primary-with-science-specialism"
+    },
+    {
+      "name": "Religious Education",
+      "slug": "religious-education"
+    },
+    {
+      "name": "Science: Biology",
+      "slug": "science-biology"
+    },
+    {
+      "name": "Science: Chemistry",
+      "slug": "science-chemistry"
+    },
+    {
+      "name": "Science: Physics",
+      "slug": "science-physics"
+    },
+    {
+      "name": "Special Education Needs Specialism",
+      "slug": "special-education-needs-specialism"
     }
   ],
   "folded_courses": {
-    "The University of Reading": [
+    "The University of Hayes": [
       {
-        "name": "Art & Design",
+        "name": "Art and Design",
         "courses": 1,
         "accrediting": [
-          "The University of Reading"
+          "The University of Hayes"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
@@ -802,54 +776,10 @@
         }
       },
       {
-        "name": "Biology",
-        "courses": 2,
-        "accrediting": [
-          "The University of Reading"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Main Site"
-        ],
-        "options": [
-          "PGCE with QTS full time",
-          "PGCE with QTS full time with salary"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": true,
-          "qualifications": false
-        }
-      },
-      {
-        "name": "Chemistry",
-        "courses": 2,
-        "accrediting": [
-          "The University of Reading"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Main Site"
-        ],
-        "options": [
-          "PGCE with QTS full time",
-          "PGCE with QTS full time with salary"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": true,
-          "qualifications": false
-        }
-      },
-      {
-        "name": "Computing",
+        "name": "Computer Science",
         "courses": 1,
         "accrediting": [
-          "The University of Reading"
+          "The University of Hayes"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
@@ -868,31 +798,9 @@
       },
       {
         "name": "Design and Technology",
-        "courses": 2,
+        "courses": 1,
         "accrediting": [
-          "The University of Reading"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Main Site"
-        ],
-        "options": [
-          "PGCE with QTS full time",
-          "PGCE with QTS full time with salary"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": true,
-          "qualifications": false
-        }
-      },
-      {
-        "name": "Drama",
-        "courses": 2,
-        "accrediting": [
-          "The University of Reading"
+          "The University of Hayes"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
@@ -906,14 +814,14 @@
         "flags": {
           "partTime": false,
           "salary": false,
-          "qualifications": true
+          "qualifications": false
         }
       },
       {
-        "name": "English",
-        "courses": 2,
+        "name": "Drama",
+        "courses": 1,
         "accrediting": [
-          "The University of Reading"
+          "The University of Hayes"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
@@ -922,12 +830,74 @@
           "Main Site"
         ],
         "options": [
-          "PGCE with QTS full time",
-          "PGCE with QTS full time with salary"
+          "PGCE with QTS full time"
         ],
         "flags": {
           "partTime": false,
-          "salary": true,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Drama with English",
+        "courses": 1,
+        "accrediting": [
+          "The University of Hayes"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Main Site"
+        ],
+        "options": [
+          "PGCE with QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Early Years Education",
+        "courses": 1,
+        "accrediting": [
+          "The University of Hayes"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Main Site"
+        ],
+        "options": [
+          "PGCE with QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "English",
+        "courses": 1,
+        "accrediting": [
+          "The University of Hayes"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Main Site"
+        ],
+        "options": [
+          "PGCE with QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
           "qualifications": false
         }
       },
@@ -935,7 +905,7 @@
         "name": "Geography",
         "courses": 1,
         "accrediting": [
-          "The University of Reading"
+          "The University of Hayes"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
@@ -956,7 +926,7 @@
         "name": "History",
         "courses": 1,
         "accrediting": [
-          "The University of Reading"
+          "The University of Hayes"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
@@ -975,53 +945,9 @@
       },
       {
         "name": "Mathematics",
-        "courses": 2,
-        "accrediting": [
-          "The University of Reading"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Main Site"
-        ],
-        "options": [
-          "PGCE with QTS full time",
-          "PGCE with QTS full time with salary"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": true,
-          "qualifications": false
-        }
-      },
-      {
-        "name": "Modern Lanaguages (French and German)",
-        "courses": 2,
-        "accrediting": [
-          "The University of Reading"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Main Site"
-        ],
-        "options": [
-          "PGCE with QTS full time",
-          "PGCE with QTS full time with salary"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": true,
-          "qualifications": false
-        }
-      },
-      {
-        "name": "Modern Lanaguages (German and Spanish)",
         "courses": 1,
         "accrediting": [
-          "The University of Reading"
+          "The University of Hayes"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
@@ -1039,10 +965,10 @@
         }
       },
       {
-        "name": "Modern Languages (French and Spanish)",
-        "courses": 2,
+        "name": "Media",
+        "courses": 1,
         "accrediting": [
-          "The University of Reading"
+          "The University of Hayes"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
@@ -1051,20 +977,19 @@
           "Main Site"
         ],
         "options": [
-          "PGCE with QTS full time",
-          "PGCE with QTS full time with salary"
+          "PGCE with QTS full time"
         ],
         "flags": {
           "partTime": false,
-          "salary": true,
+          "salary": false,
           "qualifications": false
         }
       },
       {
-        "name": "Modern Languages (German and Spanish)",
+        "name": "Modern Foreign Languages",
         "courses": 1,
         "accrediting": [
-          "The University of Reading"
+          "The University of Hayes"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
@@ -1073,11 +998,11 @@
           "Main Site"
         ],
         "options": [
-          "PGCE with QTS full time with salary"
+          "PGCE with QTS full time"
         ],
         "flags": {
           "partTime": false,
-          "salary": true,
+          "salary": false,
           "qualifications": false
         }
       },
@@ -1085,7 +1010,28 @@
         "name": "Music",
         "courses": 1,
         "accrediting": [
-          "The University of Reading"
+          "The University of Hayes"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Main Site"
+        ],
+        "options": [
+          "PGCE with QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "PGDE, FE and Skills",
+        "courses": 1,
+        "accrediting": [
+          "The University of Hayes"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
@@ -1106,7 +1052,28 @@
         "name": "Physical Education",
         "courses": 1,
         "accrediting": [
-          "The University of Reading"
+          "The University of Hayes"
+        ],
+        "applicationsOpen": [
+
+        ],
+        "schoolsWithVacancies": [
+          "Main Site"
+        ],
+        "options": [
+          "PGCE with QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Physics with Maths",
+        "courses": 1,
+        "accrediting": [
+          "The University of Hayes"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
@@ -1124,31 +1091,10 @@
         }
       },
       {
-        "name": "Physics",
+        "name": "Primary with English Specialism",
         "courses": 1,
         "accrediting": [
-          "The University of Reading"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Main Site"
-        ],
-        "options": [
-          "PGCE with QTS full time with salary"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": true,
-          "qualifications": false
-        }
-      },
-      {
-        "name": "Physics with Mathematics",
-        "courses": 1,
-        "accrediting": [
-          "The University of Reading"
+          "The University of Hayes"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
@@ -1166,10 +1112,10 @@
         }
       },
       {
-        "name": "Primary",
-        "courses": 2,
+        "name": "Primary with Mathematics Specialism",
+        "courses": 1,
         "accrediting": [
-          "The University of Reading"
+          "The University of Hayes"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
@@ -1178,21 +1124,143 @@
           "Main Site"
         ],
         "options": [
-          "QTS full time",
-          "QTS full time with salary"
+          "PGCE with QTS full time"
         ],
         "flags": {
           "partTime": false,
-          "salary": true,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Primary with Science Specialism",
+        "courses": 1,
+        "accrediting": [
+          "The University of Hayes"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Main Site"
+        ],
+        "options": [
+          "PGCE with QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Religious Education",
+        "courses": 1,
+        "accrediting": [
+          "The University of Hayes"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Main Site"
+        ],
+        "options": [
+          "PGCE with QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Science: Biology",
+        "courses": 1,
+        "accrediting": [
+          "The University of Hayes"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Main Site"
+        ],
+        "options": [
+          "PGCE with QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Science: Chemistry",
+        "courses": 1,
+        "accrediting": [
+          "The University of Hayes"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Main Site"
+        ],
+        "options": [
+          "PGCE with QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Science: Physics",
+        "courses": 1,
+        "accrediting": [
+          "The University of Hayes"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Main Site"
+        ],
+        "options": [
+          "PGCE with QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Special Education Needs Specialism",
+        "courses": 1,
+        "accrediting": [
+          "The University of Hayes"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Main Site"
+        ],
+        "options": [
+          "PGCE with QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
           "qualifications": false
         }
       }
     ]
   },
   "options": [
-    "PGCE with QTS full time",
-    "PGCE with QTS full time with salary",
-    "QTS full time",
-    "QTS full time with salary"
+    "PGCE with QTS full time"
   ]
 }
