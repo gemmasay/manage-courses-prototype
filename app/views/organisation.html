@@ -34,11 +34,11 @@
             {% if course.accrediting == accrediting.name %}
               <tr>
                 <td>{{ course.programmeCode }}</td>
-                <td><a href="/{% if loop.index % 7 == 0 or loop.index % 11 == 0 %}course-not-running{% else %}course{% endif %}/{{ accrediting.slug }}/{{ course.programmeCode }}">{{ course.name }}</a></td>
+                <td><a href="/{% if loop.index % 3 == 0 or loop.index % 5 == 0 %}course-not-running{% else %}course{% endif %}/{{ accrediting.slug }}/{{ course.programmeCode }}">{{ course.name }}</a></td>
                 <td>{{ course.options }}</td>
-                <td>{% if loop.index % 7 == 0 %}
+                <td>{% if loop.index % 3 == 0 %}
                       New – not yet running
-                    {% elseif loop.index % 11 == 0 %}
+                    {% elseif loop.index % 5 == 0 %}
                       Not running
                     {% else %}
                       Running

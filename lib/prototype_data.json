@@ -82,50 +82,6 @@
     {
       "regions": "West Midlands",
       "accrediting": "The University of Hayes",
-      "subjects": "Drama and theatre studies, Secondary",
-      "ageRange": "Secondary (11+ years)",
-      "name": "Drama",
-      "slug": "drama",
-      "route": "Higher Education programme",
-      "qualifications": "QTS, Postgraduate",
-      "providerCode": "H01",
-      "programmeCode": "2DMH",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "Main Campus, 123 Baker Street, Hayes, UB3 1AA",
-          "code": ""
-        }
-      ],
-      "options": [
-        "PGCE with QTS full time"
-      ]
-    },
-    {
-      "regions": "West Midlands",
-      "accrediting": "The University of Hayes",
-      "subjects": "Drama and theatre studies, English, Secondary",
-      "ageRange": "Secondary (11+ years)",
-      "name": "Drama with English",
-      "slug": "drama-with-english",
-      "route": "Higher Education programme",
-      "qualifications": "QTS, Postgraduate",
-      "providerCode": "H01",
-      "programmeCode": "346V",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "Main Campus, 123 Baker Street, Hayes, UB3 1AA",
-          "code": ""
-        }
-      ],
-      "options": [
-        "PGCE with QTS full time"
-      ]
-    },
-    {
-      "regions": "West Midlands",
-      "accrediting": "The University of Hayes",
       "subjects": "Early years, Primary",
       "ageRange": "Primary (c3 - 11/12 years)",
       "name": "Early Years Education",
@@ -134,28 +90,6 @@
       "qualifications": "QTS, Postgraduate",
       "providerCode": "H01",
       "programmeCode": "X121",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "Main Campus, 123 Baker Street, Hayes, UB3 1AA",
-          "code": ""
-        }
-      ],
-      "options": [
-        "PGCE with QTS full time"
-      ]
-    },
-    {
-      "regions": "West Midlands",
-      "accrediting": "The University of Hayes",
-      "subjects": "English, Secondary",
-      "ageRange": "Secondary (11+ years)",
-      "name": "English",
-      "slug": "english",
-      "route": "Higher Education programme",
-      "qualifications": "QTS, Postgraduate",
-      "providerCode": "H01",
-      "programmeCode": "346S",
       "schools": [
         {
           "name": "Main Site",
@@ -236,138 +170,6 @@
     {
       "regions": "West Midlands",
       "accrediting": "The University of Hayes",
-      "subjects": "Communication and media studies, Secondary",
-      "ageRange": "Secondary (11+ years)",
-      "name": "Media",
-      "slug": "media",
-      "route": "Higher Education programme",
-      "qualifications": "QTS, Postgraduate",
-      "providerCode": "H01",
-      "programmeCode": "2WSF",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "Main Campus, 123 Baker Street, Hayes, UB3 1AA",
-          "code": ""
-        }
-      ],
-      "options": [
-        "PGCE with QTS full time"
-      ]
-    },
-    {
-      "regions": "West Midlands",
-      "accrediting": "The University of Hayes",
-      "subjects": "Languages, Secondary",
-      "ageRange": "Secondary (11+ years)",
-      "name": "Modern Foreign Languages",
-      "slug": "modern-foreign-languages",
-      "route": "Higher Education programme",
-      "qualifications": "QTS, Postgraduate",
-      "providerCode": "H01",
-      "programmeCode": "2WS9",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "Main Campus, 123 Baker Street, Hayes, UB3 1AA",
-          "code": ""
-        }
-      ],
-      "options": [
-        "PGCE with QTS full time"
-      ]
-    },
-    {
-      "regions": "West Midlands",
-      "accrediting": "The University of Hayes",
-      "subjects": "Music, Secondary",
-      "ageRange": "Secondary (11+ years)",
-      "name": "Music",
-      "slug": "music",
-      "route": "Higher Education programme",
-      "qualifications": "QTS, Postgraduate",
-      "providerCode": "H01",
-      "programmeCode": "2WSD",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "Main Campus, 123 Baker Street, Hayes, UB3 1AA",
-          "code": ""
-        }
-      ],
-      "options": [
-        "PGCE with QTS full time"
-      ]
-    },
-    {
-      "regions": "West Midlands",
-      "accrediting": "The University of Hayes",
-      "subjects": "Further education",
-      "ageRange": "Secondary (11+ years)",
-      "name": "PGDE, FE and Skills",
-      "slug": "pgde-fe-and-skills",
-      "route": "Higher Education programme",
-      "qualifications": "QTS, Postgraduate",
-      "providerCode": "H01",
-      "programmeCode": "2WCN",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "Main Campus, 123 Baker Street, Hayes, UB3 1AA",
-          "code": ""
-        }
-      ],
-      "options": [
-        "PGCE with QTS full time"
-      ]
-    },
-    {
-      "regions": "West Midlands",
-      "accrediting": "The University of Hayes",
-      "subjects": "Physical education, Secondary",
-      "ageRange": "Secondary (11+ years)",
-      "name": "Physical Education",
-      "slug": "physical-education",
-      "route": "Higher Education programme",
-      "qualifications": "QTS, Postgraduate",
-      "providerCode": "H01",
-      "programmeCode": "2N39",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "Main Campus, 123 Baker Street, Hayes, UB3 1AA",
-          "code": ""
-        }
-      ],
-      "options": [
-        "PGCE with QTS full time"
-      ]
-    },
-    {
-      "regions": "West Midlands",
-      "accrediting": "The University of Hayes",
-      "subjects": "Mathematics, Physics, Science, Secondary",
-      "ageRange": "Secondary (11+ years)",
-      "name": "Physics with Maths",
-      "slug": "physics-with-maths",
-      "route": "Higher Education programme",
-      "qualifications": "QTS, Postgraduate",
-      "providerCode": "H01",
-      "programmeCode": "2WSC",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "Main Campus, 123 Baker Street, Hayes, UB3 1AA",
-          "code": ""
-        }
-      ],
-      "options": [
-        "PGCE with QTS full time"
-      ]
-    },
-    {
-      "regions": "West Midlands",
-      "accrediting": "The University of Hayes",
       "subjects": "English, Primary",
       "ageRange": "Primary (c3 - 11/12 years)",
       "name": "Primary with English Specialism",
@@ -376,50 +178,6 @@
       "qualifications": "QTS, Postgraduate",
       "providerCode": "H01",
       "programmeCode": "XQ1H",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "Main Campus, 123 Baker Street, Hayes, UB3 1AA",
-          "code": ""
-        }
-      ],
-      "options": [
-        "PGCE with QTS full time"
-      ]
-    },
-    {
-      "regions": "West Midlands",
-      "accrediting": "The University of Hayes",
-      "subjects": "Mathematics, Primary",
-      "ageRange": "Primary (c3 - 11/12 years)",
-      "name": "Primary with Mathematics Specialism",
-      "slug": "primary-with-mathematics-specialism",
-      "route": "Higher Education programme",
-      "qualifications": "QTS, Postgraduate",
-      "providerCode": "H01",
-      "programmeCode": "XG1C",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "Main Campus, 123 Baker Street, Hayes, UB3 1AA",
-          "code": ""
-        }
-      ],
-      "options": [
-        "PGCE with QTS full time"
-      ]
-    },
-    {
-      "regions": "West Midlands",
-      "accrediting": "The University of Hayes",
-      "subjects": "Primary, Science",
-      "ageRange": "Primary (c3 - 11/12 years)",
-      "name": "Primary with Science Specialism",
-      "slug": "primary-with-science-specialism",
-      "route": "Higher Education programme",
-      "qualifications": "QTS, Postgraduate",
-      "providerCode": "H01",
-      "programmeCode": "X1CF",
       "schools": [
         {
           "name": "Main Site",
@@ -464,50 +222,6 @@
       "qualifications": "QTS, Postgraduate",
       "providerCode": "H01",
       "programmeCode": "C1X1",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "Main Campus, 123 Baker Street, Hayes, UB3 1AA",
-          "code": ""
-        }
-      ],
-      "options": [
-        "PGCE with QTS full time"
-      ]
-    },
-    {
-      "regions": "West Midlands",
-      "accrediting": "The University of Hayes",
-      "subjects": "Chemistry, Science, Secondary",
-      "ageRange": "Secondary (11+ years)",
-      "name": "Science: Chemistry",
-      "slug": "science-chemistry",
-      "route": "Higher Education programme",
-      "qualifications": "QTS, Postgraduate",
-      "providerCode": "H01",
-      "programmeCode": "F1X1",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "Main Campus, 123 Baker Street, Hayes, UB3 1AA",
-          "code": ""
-        }
-      ],
-      "options": [
-        "PGCE with QTS full time"
-      ]
-    },
-    {
-      "regions": "West Midlands",
-      "accrediting": "The University of Hayes",
-      "subjects": "Physics, Science, Secondary",
-      "ageRange": "Secondary (11+ years)",
-      "name": "Science: Physics",
-      "slug": "science-physics",
-      "route": "Higher Education programme",
-      "qualifications": "QTS, Postgraduate",
-      "providerCode": "H01",
-      "programmeCode": "F3X1",
       "schools": [
         {
           "name": "Main Site",
