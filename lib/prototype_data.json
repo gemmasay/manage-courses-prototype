@@ -1,100 +1,34 @@
 {
   "multi-organisation": false,
-  "training-provider-name": "The University of Hayes",
-  "provider-code-name": "HAYS",
-  "provider-code": "H01",
+  "training-provider-name": "Keele and North Staffordshire Teacher Education",
+  "provider-code-name": "A2309",
+  "provider-code": "24J",
   "address-line-1": "123 Baker Street",
-  "town": "Hayes",
-  "postcode": "UB3 1AA",
+  "town": "London",
+  "postcode": "SW1 1AA",
   "telephone": "0208 123 4567",
-  "email": "admissions@uni-hayes.ac.uk",
-  "website": "https://www.uni-hayes.ac.uk",
+  "email": "someemail@not-an-email.com",
+  "website": "",
   "templates": [
 
   ],
   "ucasCourses": [
     {
       "regions": "West Midlands",
-      "accrediting": "The University of Hayes",
-      "subjects": "Art / art & design, Secondary",
-      "ageRange": "Secondary (11+ years)",
-      "name": "Art and Design",
-      "slug": "art-and-design",
-      "route": "Higher Education programme",
-      "qualifications": "QTS, Postgraduate",
-      "providerCode": "H01",
-      "programmeCode": "2WS6",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "Main Campus, 123 Baker Street, Hayes, UB3 1AA",
-          "code": ""
-        }
-      ],
-      "options": [
-        "PGCE with QTS full time"
-      ]
-    },
-    {
-      "regions": "West Midlands",
-      "accrediting": "The University of Hayes",
-      "subjects": "Computer studies, Secondary",
-      "ageRange": "Secondary (11+ years)",
-      "name": "Computer Science",
-      "slug": "computer-science",
-      "route": "Higher Education programme",
-      "qualifications": "QTS, Postgraduate",
-      "providerCode": "H01",
-      "programmeCode": "2N37",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "Main Campus, 123 Baker Street, Hayes, UB3 1AA",
-          "code": ""
-        }
-      ],
-      "options": [
-        "PGCE with QTS full time"
-      ]
-    },
-    {
-      "regions": "West Midlands",
-      "accrediting": "The University of Hayes",
-      "subjects": "Design and technology, Secondary",
-      "ageRange": "Secondary (11+ years)",
-      "name": "Design and Technology",
-      "slug": "design-and-technology",
-      "route": "Higher Education programme",
-      "qualifications": "QTS, Postgraduate",
-      "providerCode": "H01",
-      "programmeCode": "2WS7",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "Main Campus, 123 Baker Street, Hayes, UB3 1AA",
-          "code": ""
-        }
-      ],
-      "options": [
-        "PGCE with QTS full time"
-      ]
-    },
-    {
-      "regions": "West Midlands",
-      "accrediting": "The University of Hayes",
+      "accrediting": "Keele and North Staffordshire Teacher Education",
       "subjects": "Early years, Primary",
       "ageRange": "Primary (c3 - 11/12 years)",
-      "name": "Early Years Education",
-      "slug": "early-years-education",
-      "route": "Higher Education programme",
-      "qualifications": "QTS, Postgraduate",
-      "providerCode": "H01",
-      "programmeCode": "X121",
+      "name": "Primary (Early Years)",
+      "slug": "primary-early-years",
+      "route": "SCITT (School Centred Initial Teacher Training) programme",
+      "qualifications": "QTS, Postgraduate, Professional",
+      "providerCode": "24J",
+      "programmeCode": "2Q5R",
       "schools": [
         {
           "name": "Main Site",
-          "address": "Main Campus, 123 Baker Street, Hayes, UB3 1AA",
-          "code": ""
+          "address": "Roe Lane, Newcastle under Lyme, Staffordshire, ST5 3PJ",
+          "code": "-"
         }
       ],
       "options": [
@@ -103,20 +37,20 @@
     },
     {
       "regions": "West Midlands",
-      "accrediting": "The University of Hayes",
-      "subjects": "Geography, Secondary",
-      "ageRange": "Secondary (11+ years)",
-      "name": "Geography",
-      "slug": "geography",
-      "route": "Higher Education programme",
-      "qualifications": "QTS, Postgraduate",
-      "providerCode": "H01",
-      "programmeCode": "2WS8",
+      "accrediting": "Keele and North Staffordshire Teacher Education",
+      "subjects": "Geography, History, Primary",
+      "ageRange": "Primary (c3 - 11/12 years)",
+      "name": "Primary (Geography and History)",
+      "slug": "primary-geography-and-history",
+      "route": "SCITT (School Centred Initial Teacher Training) programme",
+      "qualifications": "QTS, Postgraduate, Professional",
+      "providerCode": "24J",
+      "programmeCode": "2KBH",
       "schools": [
         {
           "name": "Main Site",
-          "address": "Main Campus, 123 Baker Street, Hayes, UB3 1AA",
-          "code": ""
+          "address": "Roe Lane, Newcastle under Lyme, Staffordshire, ST5 3PJ",
+          "code": "-"
         }
       ],
       "options": [
@@ -125,20 +59,20 @@
     },
     {
       "regions": "West Midlands",
-      "accrediting": "The University of Hayes",
-      "subjects": "History, Secondary",
-      "ageRange": "Secondary (11+ years)",
-      "name": "History",
-      "slug": "history",
-      "route": "Higher Education programme",
-      "qualifications": "QTS, Postgraduate",
-      "providerCode": "H01",
-      "programmeCode": "346T",
+      "accrediting": "Keele and North Staffordshire Teacher Education",
+      "subjects": "Languages, Primary",
+      "ageRange": "Primary (c3 - 11/12 years)",
+      "name": "Primary (Modern Languages)",
+      "slug": "primary-modern-languages",
+      "route": "SCITT (School Centred Initial Teacher Training) programme",
+      "qualifications": "QTS, Postgraduate, Professional",
+      "providerCode": "24J",
+      "programmeCode": "2KBF",
       "schools": [
         {
           "name": "Main Site",
-          "address": "Main Campus, 123 Baker Street, Hayes, UB3 1AA",
-          "code": ""
+          "address": "Roe Lane, Newcastle under Lyme, Staffordshire, ST5 3PJ",
+          "code": "-"
         }
       ],
       "options": [
@@ -147,42 +81,20 @@
     },
     {
       "regions": "West Midlands",
-      "accrediting": "The University of Hayes",
-      "subjects": "Mathematics, Secondary",
-      "ageRange": "Secondary (11+ years)",
-      "name": "Mathematics",
-      "slug": "mathematics",
-      "route": "Higher Education programme",
-      "qualifications": "QTS, Postgraduate",
-      "providerCode": "H01",
-      "programmeCode": "G1X1",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "Main Campus, 123 Baker Street, Hayes, UB3 1AA",
-          "code": ""
-        }
-      ],
-      "options": [
-        "PGCE with QTS full time"
-      ]
-    },
-    {
-      "regions": "West Midlands",
-      "accrediting": "The University of Hayes",
+      "accrediting": "Keele and North Staffordshire Teacher Education",
       "subjects": "English, Primary",
       "ageRange": "Primary (c3 - 11/12 years)",
-      "name": "Primary with English Specialism",
-      "slug": "primary-with-english-specialism",
-      "route": "Higher Education programme",
-      "qualifications": "QTS, Postgraduate",
-      "providerCode": "H01",
-      "programmeCode": "XQ1H",
+      "name": "Primary (with English)",
+      "slug": "primary-with-english",
+      "route": "SCITT (School Centred Initial Teacher Training) programme",
+      "qualifications": "QTS, Postgraduate, Professional",
+      "providerCode": "24J",
+      "programmeCode": "2N2M",
       "schools": [
         {
           "name": "Main Site",
-          "address": "Main Campus, 123 Baker Street, Hayes, UB3 1AA",
-          "code": ""
+          "address": "Roe Lane, Newcastle under Lyme, Staffordshire, ST5 3PJ",
+          "code": "-"
         }
       ],
       "options": [
@@ -191,64 +103,64 @@
     },
     {
       "regions": "West Midlands",
-      "accrediting": "The University of Hayes",
-      "subjects": "Religious education, Secondary",
-      "ageRange": "Secondary (11+ years)",
-      "name": "Religious Education",
-      "slug": "religious-education",
-      "route": "Higher Education programme",
-      "qualifications": "QTS, Postgraduate",
-      "providerCode": "H01",
-      "programmeCode": "2WSB",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "Main Campus, 123 Baker Street, Hayes, UB3 1AA",
-          "code": ""
-        }
-      ],
-      "options": [
-        "PGCE with QTS full time"
-      ]
-    },
-    {
-      "regions": "West Midlands",
-      "accrediting": "The University of Hayes",
-      "subjects": "Biology, Science, Secondary",
-      "ageRange": "Secondary (11+ years)",
-      "name": "Science: Biology",
-      "slug": "science-biology",
-      "route": "Higher Education programme",
-      "qualifications": "QTS, Postgraduate",
-      "providerCode": "H01",
-      "programmeCode": "C1X1",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "Main Campus, 123 Baker Street, Hayes, UB3 1AA",
-          "code": ""
-        }
-      ],
-      "options": [
-        "PGCE with QTS full time"
-      ]
-    },
-    {
-      "regions": "West Midlands",
-      "accrediting": "The University of Hayes",
-      "subjects": "Primary, Special educational needs",
+      "accrediting": "Keele and North Staffordshire Teacher Education",
+      "subjects": "Primary, Science",
       "ageRange": "Primary (c3 - 11/12 years)",
-      "name": "Special Education Needs Specialism",
-      "slug": "special-education-needs-specialism",
-      "route": "Higher Education programme",
-      "qualifications": "QTS, Postgraduate",
-      "providerCode": "H01",
-      "programmeCode": "2W9G",
+      "name": "Primary (with Science)",
+      "slug": "primary-with-science",
+      "route": "SCITT (School Centred Initial Teacher Training) programme",
+      "qualifications": "QTS, Postgraduate, Professional",
+      "providerCode": "24J",
+      "programmeCode": "2KBY",
       "schools": [
         {
           "name": "Main Site",
-          "address": "Main Campus, 123 Baker Street, Hayes, UB3 1AA",
-          "code": ""
+          "address": "Roe Lane, Newcastle under Lyme, Staffordshire, ST5 3PJ",
+          "code": "-"
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "West Midlands",
+      "accrediting": "Keele and North Staffordshire Teacher Education",
+      "subjects": "Mathematics, Primary",
+      "ageRange": "Primary (c3 - 11/12 years)",
+      "name": "Primary General (with Mathematics)",
+      "slug": "primary-general-with-mathematics",
+      "route": "SCITT (School Centred Initial Teacher Training) programme",
+      "qualifications": "QTS, Postgraduate, Professional",
+      "providerCode": "24J",
+      "programmeCode": "2KBJ",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "Roe Lane, Newcastle under Lyme, Staffordshire, ST5 3PJ",
+          "code": "-"
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "West Midlands",
+      "accrediting": "Keele and North Staffordshire Teacher Education",
+      "subjects": "Physical education, Primary",
+      "ageRange": "Primary (c3 - 11/12 years)",
+      "name": "Primary Physical Education (PE)",
+      "slug": "primary-physical-education-pe",
+      "route": "SCITT (School Centred Initial Teacher Training) programme",
+      "qualifications": "QTS, Postgraduate, Professional",
+      "providerCode": "24J",
+      "programmeCode": "2KBS",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "Roe Lane, Newcastle under Lyme, Staffordshire, ST5 3PJ",
+          "code": "-"
         }
       ],
       "options": [
@@ -259,110 +171,42 @@
   "schools": [
     {
       "name": "Main Site",
-      "address": "Main Campus, 123 Baker Street, Hayes, UB3 1AA",
-      "code": ""
+      "address": "Roe Lane, Newcastle under Lyme, Staffordshire, ST5 3PJ",
+      "code": "-"
     }
   ],
   "accreditors": [
     {
-      "name": "The University of Hayes",
-      "slug": "the-university-of-Hayes",
+      "name": "Keele and North Staffordshire Teacher Education",
+      "slug": "keele-and-north-staffordshire-teacher-education",
       "subjects": [
         {
-          "name": "Art and Design",
-          "slug": "art-and-design"
+          "name": "Primary (Early Years)",
+          "slug": "primary-early-years"
         },
         {
-          "name": "Computer Science",
-          "slug": "computer-science"
+          "name": "Primary (Geography and History)",
+          "slug": "primary-geography-and-history"
         },
         {
-          "name": "Design and Technology",
-          "slug": "design-and-technology"
+          "name": "Primary (Modern Languages)",
+          "slug": "primary-modern-languages"
         },
         {
-          "name": "Drama",
-          "slug": "drama"
+          "name": "Primary (with English)",
+          "slug": "primary-with-english"
         },
         {
-          "name": "Drama with English",
-          "slug": "drama-with-english"
+          "name": "Primary (with Science)",
+          "slug": "primary-with-science"
         },
         {
-          "name": "Early Years Education",
-          "slug": "early-years-education"
+          "name": "Primary General (with Mathematics)",
+          "slug": "primary-general-with-mathematics"
         },
         {
-          "name": "English",
-          "slug": "english"
-        },
-        {
-          "name": "Geography",
-          "slug": "geography"
-        },
-        {
-          "name": "History",
-          "slug": "history"
-        },
-        {
-          "name": "Mathematics",
-          "slug": "mathematics"
-        },
-        {
-          "name": "Media",
-          "slug": "media"
-        },
-        {
-          "name": "Modern Foreign Languages",
-          "slug": "modern-foreign-languages"
-        },
-        {
-          "name": "Music",
-          "slug": "music"
-        },
-        {
-          "name": "PGDE, FE and Skills",
-          "slug": "pgde-fe-and-skills"
-        },
-        {
-          "name": "Physical Education",
-          "slug": "physical-education"
-        },
-        {
-          "name": "Physics with Maths",
-          "slug": "physics-with-maths"
-        },
-        {
-          "name": "Primary with English Specialism",
-          "slug": "primary-with-english-specialism"
-        },
-        {
-          "name": "Primary with Mathematics Specialism",
-          "slug": "primary-with-mathematics-specialism"
-        },
-        {
-          "name": "Primary with Science Specialism",
-          "slug": "primary-with-science-specialism"
-        },
-        {
-          "name": "Religious Education",
-          "slug": "religious-education"
-        },
-        {
-          "name": "Science: Biology",
-          "slug": "science-biology"
-        },
-        {
-          "name": "Science: Chemistry",
-          "slug": "science-chemistry"
-        },
-        {
-          "name": "Science: Physics",
-          "slug": "science-physics"
-        },
-        {
-          "name": "Special Education Needs Specialism",
-          "slug": "special-education-needs-specialism"
+          "name": "Primary Physical Education (PE)",
+          "slug": "primary-physical-education-pe"
         }
       ]
     }
@@ -370,109 +214,41 @@
   "self_accrediting": true,
   "subjects": [
     {
-      "name": "Art and Design",
-      "slug": "art-and-design"
+      "name": "Primary (Early Years)",
+      "slug": "primary-early-years"
     },
     {
-      "name": "Computer Science",
-      "slug": "computer-science"
+      "name": "Primary (Geography and History)",
+      "slug": "primary-geography-and-history"
     },
     {
-      "name": "Design and Technology",
-      "slug": "design-and-technology"
+      "name": "Primary (Modern Languages)",
+      "slug": "primary-modern-languages"
     },
     {
-      "name": "Drama",
-      "slug": "drama"
+      "name": "Primary (with English)",
+      "slug": "primary-with-english"
     },
     {
-      "name": "Drama with English",
-      "slug": "drama-with-english"
+      "name": "Primary (with Science)",
+      "slug": "primary-with-science"
     },
     {
-      "name": "Early Years Education",
-      "slug": "early-years-education"
+      "name": "Primary General (with Mathematics)",
+      "slug": "primary-general-with-mathematics"
     },
     {
-      "name": "English",
-      "slug": "english"
-    },
-    {
-      "name": "Geography",
-      "slug": "geography"
-    },
-    {
-      "name": "History",
-      "slug": "history"
-    },
-    {
-      "name": "Mathematics",
-      "slug": "mathematics"
-    },
-    {
-      "name": "Media",
-      "slug": "media"
-    },
-    {
-      "name": "Modern Foreign Languages",
-      "slug": "modern-foreign-languages"
-    },
-    {
-      "name": "Music",
-      "slug": "music"
-    },
-    {
-      "name": "PGDE, FE and Skills",
-      "slug": "pgde-fe-and-skills"
-    },
-    {
-      "name": "Physical Education",
-      "slug": "physical-education"
-    },
-    {
-      "name": "Physics with Maths",
-      "slug": "physics-with-maths"
-    },
-    {
-      "name": "Primary with English Specialism",
-      "slug": "primary-with-english-specialism"
-    },
-    {
-      "name": "Primary with Mathematics Specialism",
-      "slug": "primary-with-mathematics-specialism"
-    },
-    {
-      "name": "Primary with Science Specialism",
-      "slug": "primary-with-science-specialism"
-    },
-    {
-      "name": "Religious Education",
-      "slug": "religious-education"
-    },
-    {
-      "name": "Science: Biology",
-      "slug": "science-biology"
-    },
-    {
-      "name": "Science: Chemistry",
-      "slug": "science-chemistry"
-    },
-    {
-      "name": "Science: Physics",
-      "slug": "science-physics"
-    },
-    {
-      "name": "Special Education Needs Specialism",
-      "slug": "special-education-needs-specialism"
+      "name": "Primary Physical Education (PE)",
+      "slug": "primary-physical-education-pe"
     }
   ],
   "folded_courses": {
-    "The University of Hayes": [
+    "Keele and North Staffordshire Teacher Education": [
       {
-        "name": "Art and Design",
+        "name": "Primary (Early Years)",
         "courses": 1,
         "accrediting": [
-          "The University of Hayes"
+          "Keele and North Staffordshire Teacher Education"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
@@ -490,10 +266,10 @@
         }
       },
       {
-        "name": "Computer Science",
+        "name": "Primary (Geography and History)",
         "courses": 1,
         "accrediting": [
-          "The University of Hayes"
+          "Keele and North Staffordshire Teacher Education"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
@@ -511,10 +287,10 @@
         }
       },
       {
-        "name": "Design and Technology",
+        "name": "Primary (Modern Languages)",
         "courses": 1,
         "accrediting": [
-          "The University of Hayes"
+          "Keele and North Staffordshire Teacher Education"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
@@ -532,10 +308,10 @@
         }
       },
       {
-        "name": "Drama",
+        "name": "Primary (with English)",
         "courses": 1,
         "accrediting": [
-          "The University of Hayes"
+          "Keele and North Staffordshire Teacher Education"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
@@ -553,10 +329,10 @@
         }
       },
       {
-        "name": "Drama with English",
+        "name": "Primary (with Science)",
         "courses": 1,
         "accrediting": [
-          "The University of Hayes"
+          "Keele and North Staffordshire Teacher Education"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
@@ -574,10 +350,10 @@
         }
       },
       {
-        "name": "Early Years Education",
+        "name": "Primary General (with Mathematics)",
         "courses": 1,
         "accrediting": [
-          "The University of Hayes"
+          "Keele and North Staffordshire Teacher Education"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
@@ -595,367 +371,10 @@
         }
       },
       {
-        "name": "English",
+        "name": "Primary Physical Education (PE)",
         "courses": 1,
         "accrediting": [
-          "The University of Hayes"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Main Site"
-        ],
-        "options": [
-          "PGCE with QTS full time"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": false,
-          "qualifications": false
-        }
-      },
-      {
-        "name": "Geography",
-        "courses": 1,
-        "accrediting": [
-          "The University of Hayes"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Main Site"
-        ],
-        "options": [
-          "PGCE with QTS full time"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": false,
-          "qualifications": false
-        }
-      },
-      {
-        "name": "History",
-        "courses": 1,
-        "accrediting": [
-          "The University of Hayes"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Main Site"
-        ],
-        "options": [
-          "PGCE with QTS full time"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": false,
-          "qualifications": false
-        }
-      },
-      {
-        "name": "Mathematics",
-        "courses": 1,
-        "accrediting": [
-          "The University of Hayes"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Main Site"
-        ],
-        "options": [
-          "PGCE with QTS full time"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": false,
-          "qualifications": false
-        }
-      },
-      {
-        "name": "Media",
-        "courses": 1,
-        "accrediting": [
-          "The University of Hayes"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Main Site"
-        ],
-        "options": [
-          "PGCE with QTS full time"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": false,
-          "qualifications": false
-        }
-      },
-      {
-        "name": "Modern Foreign Languages",
-        "courses": 1,
-        "accrediting": [
-          "The University of Hayes"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Main Site"
-        ],
-        "options": [
-          "PGCE with QTS full time"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": false,
-          "qualifications": false
-        }
-      },
-      {
-        "name": "Music",
-        "courses": 1,
-        "accrediting": [
-          "The University of Hayes"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Main Site"
-        ],
-        "options": [
-          "PGCE with QTS full time"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": false,
-          "qualifications": false
-        }
-      },
-      {
-        "name": "PGDE, FE and Skills",
-        "courses": 1,
-        "accrediting": [
-          "The University of Hayes"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Main Site"
-        ],
-        "options": [
-          "PGCE with QTS full time"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": false,
-          "qualifications": false
-        }
-      },
-      {
-        "name": "Physical Education",
-        "courses": 1,
-        "accrediting": [
-          "The University of Hayes"
-        ],
-        "applicationsOpen": [
-
-        ],
-        "schoolsWithVacancies": [
-          "Main Site"
-        ],
-        "options": [
-          "PGCE with QTS full time"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": false,
-          "qualifications": false
-        }
-      },
-      {
-        "name": "Physics with Maths",
-        "courses": 1,
-        "accrediting": [
-          "The University of Hayes"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Main Site"
-        ],
-        "options": [
-          "PGCE with QTS full time"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": false,
-          "qualifications": false
-        }
-      },
-      {
-        "name": "Primary with English Specialism",
-        "courses": 1,
-        "accrediting": [
-          "The University of Hayes"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Main Site"
-        ],
-        "options": [
-          "PGCE with QTS full time"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": false,
-          "qualifications": false
-        }
-      },
-      {
-        "name": "Primary with Mathematics Specialism",
-        "courses": 1,
-        "accrediting": [
-          "The University of Hayes"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Main Site"
-        ],
-        "options": [
-          "PGCE with QTS full time"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": false,
-          "qualifications": false
-        }
-      },
-      {
-        "name": "Primary with Science Specialism",
-        "courses": 1,
-        "accrediting": [
-          "The University of Hayes"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Main Site"
-        ],
-        "options": [
-          "PGCE with QTS full time"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": false,
-          "qualifications": false
-        }
-      },
-      {
-        "name": "Religious Education",
-        "courses": 1,
-        "accrediting": [
-          "The University of Hayes"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Main Site"
-        ],
-        "options": [
-          "PGCE with QTS full time"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": false,
-          "qualifications": false
-        }
-      },
-      {
-        "name": "Science: Biology",
-        "courses": 1,
-        "accrediting": [
-          "The University of Hayes"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Main Site"
-        ],
-        "options": [
-          "PGCE with QTS full time"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": false,
-          "qualifications": false
-        }
-      },
-      {
-        "name": "Science: Chemistry",
-        "courses": 1,
-        "accrediting": [
-          "The University of Hayes"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Main Site"
-        ],
-        "options": [
-          "PGCE with QTS full time"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": false,
-          "qualifications": false
-        }
-      },
-      {
-        "name": "Science: Physics",
-        "courses": 1,
-        "accrediting": [
-          "The University of Hayes"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Main Site"
-        ],
-        "options": [
-          "PGCE with QTS full time"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": false,
-          "qualifications": false
-        }
-      },
-      {
-        "name": "Special Education Needs Specialism",
-        "courses": 1,
-        "accrediting": [
-          "The University of Hayes"
+          "Keele and North Staffordshire Teacher Education"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
