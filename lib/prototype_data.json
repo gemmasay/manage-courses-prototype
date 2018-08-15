@@ -1,8 +1,8 @@
 {
   "multi-organisation": false,
-  "training-provider-name": "Keele and North Staffordshire Teacher Education",
-  "provider-code-name": "A2309",
-  "provider-code": "24J",
+  "training-provider-name": "Everyonelearning@LimeTree,MossleyHollins,Hawthorns Teaching Partnership",
+  "provider-code-name": "A2536",
+  "provider-code": "2A1",
   "address-line-1": "123 Baker Street",
   "town": "London",
   "postcode": "SW1 1AA",
@@ -14,20 +14,240 @@
   ],
   "ucasCourses": [
     {
-      "regions": "West Midlands",
-      "accrediting": "Keele and North Staffordshire Teacher Education",
-      "subjects": "Early years, Primary",
-      "ageRange": "Primary (c3 - 11/12 years)",
-      "name": "Primary (Early Years)",
-      "slug": "primary-early-years",
-      "route": "SCITT (School Centred Initial Teacher Training) programme",
+      "regions": "North West",
+      "accrediting": "University of Cumbria",
+      "subjects": "Biology, Science, Secondary",
+      "ageRange": "Secondary (11+ years)",
+      "name": "Biology",
+      "slug": "biology",
+      "route": "School Direct training programme",
       "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "24J",
-      "programmeCode": "2Q5R",
+      "providerCode": "2A1",
+      "programmeCode": "2WXF",
+      "schools": [
+        {
+          "name": "Mossley Hollins High School",
+          "address": "Huddersfield Road, Mossley, Ashton Under Lyne, Tameside, OL5 9DP",
+          "code": "M"
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "North West",
+      "accrediting": "University of Cumbria",
+      "subjects": "Chemistry, Science, Secondary",
+      "ageRange": "Secondary (11+ years)",
+      "name": "Chemistry",
+      "slug": "chemistry",
+      "route": "School Direct training programme",
+      "qualifications": "QTS, Postgraduate, Professional",
+      "providerCode": "2A1",
+      "programmeCode": "33KW",
+      "schools": [
+        {
+          "name": "Mossley Hollins High School",
+          "address": "Huddersfield Road, Mossley, Ashton Under Lyne, Tameside, OL5 9DP",
+          "code": "M"
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "North West",
+      "accrediting": "University of Cumbria",
+      "subjects": "English, Secondary",
+      "ageRange": "Secondary (11+ years)",
+      "name": "English",
+      "slug": "english",
+      "route": "School Direct training programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "2A1",
+      "programmeCode": "2SB4",
+      "schools": [
+        {
+          "name": "Mossley Hollins High School",
+          "address": "Huddersfield Road, Mossley, Ashton Under Lyne, Tameside, OL5 9DP",
+          "code": "M"
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "North West",
+      "accrediting": "University of Cumbria",
+      "subjects": "Geography, Secondary",
+      "ageRange": "Secondary (11+ years)",
+      "name": "Geography",
+      "slug": "geography",
+      "route": "School Direct training programme",
+      "qualifications": "QTS, Postgraduate, Professional",
+      "providerCode": "2A1",
+      "programmeCode": "2WKP",
+      "schools": [
+        {
+          "name": "Mossley Hollins High School",
+          "address": "Huddersfield Road, Mossley, Ashton Under Lyne, Tameside, OL5 9DP",
+          "code": "M"
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "North West",
+      "accrediting": "University of Cumbria",
+      "subjects": "History, Secondary",
+      "ageRange": "Secondary (11+ years)",
+      "name": "History",
+      "slug": "history",
+      "route": "School Direct training programme",
+      "qualifications": "QTS, Postgraduate, Professional",
+      "providerCode": "2A1",
+      "programmeCode": "33KV",
+      "schools": [
+        {
+          "name": "Mossley Hollins High School",
+          "address": "Huddersfield Road, Mossley, Ashton Under Lyne, Tameside, OL5 9DP",
+          "code": "M"
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "North West",
+      "accrediting": "University of Cumbria",
+      "subjects": "Mathematics, Secondary",
+      "ageRange": "Secondary (11+ years)",
+      "name": "Mathematics",
+      "slug": "mathematics",
+      "route": "School Direct training programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "2A1",
+      "programmeCode": "2SBH",
+      "schools": [
+        {
+          "name": "Mossley Hollins High School",
+          "address": "Huddersfield Road, Mossley, Ashton Under Lyne, Tameside, OL5 9DP",
+          "code": "M"
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "North West",
+      "accrediting": "University of Cumbria",
+      "subjects": "French, Languages, Languages (european), Secondary",
+      "ageRange": "Secondary (11+ years)",
+      "name": "Modern Languages (French)",
+      "slug": "modern-languages-french",
+      "route": "School Direct training programme",
+      "qualifications": "QTS, Postgraduate, Professional",
+      "providerCode": "2A1",
+      "programmeCode": "32MH",
+      "schools": [
+        {
+          "name": "Mossley Hollins High School",
+          "address": "Huddersfield Road, Mossley, Ashton Under Lyne, Tameside, OL5 9DP",
+          "code": "M"
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "North West",
+      "accrediting": "University of Cumbria",
+      "subjects": "Languages, Languages (european), Secondary, Spanish",
+      "ageRange": "Secondary (11+ years)",
+      "name": "Modern Languages (Spanish)",
+      "slug": "modern-languages-spanish",
+      "route": "School Direct training programme",
+      "qualifications": "QTS, Postgraduate, Professional",
+      "providerCode": "2A1",
+      "programmeCode": "2V2Z",
+      "schools": [
+        {
+          "name": "Mossley Hollins High School",
+          "address": "Huddersfield Road, Mossley, Ashton Under Lyne, Tameside, OL5 9DP",
+          "code": "M"
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "North West",
+      "accrediting": "University of Cumbria",
+      "subjects": "Physical education, Secondary",
+      "ageRange": "Secondary (11+ years)",
+      "name": "Physical Education",
+      "slug": "physical-education",
+      "route": "School Direct training programme",
+      "qualifications": "QTS, Postgraduate, Professional",
+      "providerCode": "2A1",
+      "programmeCode": "38GQ",
+      "schools": [
+        {
+          "name": "Mossley Hollins High School",
+          "address": "Huddersfield Road, Mossley, Ashton Under Lyne, Tameside, OL5 9DP",
+          "code": "M"
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "North West",
+      "accrediting": "University of Cumbria",
+      "subjects": "Physics, Science, Secondary",
+      "ageRange": "Secondary (11+ years)",
+      "name": "Physics",
+      "slug": "physics",
+      "route": "School Direct training programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "2A1",
+      "programmeCode": "2SBK",
+      "schools": [
+        {
+          "name": "Mossley Hollins High School",
+          "address": "Huddersfield Road, Mossley, Ashton Under Lyne, Tameside, OL5 9DP",
+          "code": "M"
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "North West",
+      "accrediting": "University of Cumbria",
+      "subjects": "Primary",
+      "ageRange": "Primary (c3 - 11/12 years)",
+      "name": "Primary",
+      "slug": "primary",
+      "route": "School Direct training programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "2A1",
+      "programmeCode": "2SB2",
       "schools": [
         {
           "name": "Main Site",
-          "address": "Roe Lane, Newcastle under Lyme, Staffordshire, ST5 3PJ",
+          "address": "Budworth Rd, Sale, M33 2RP",
           "code": "-"
         }
       ],
@@ -36,130 +256,20 @@
       ]
     },
     {
-      "regions": "West Midlands",
-      "accrediting": "Keele and North Staffordshire Teacher Education",
-      "subjects": "Geography, History, Primary",
+      "regions": "North West",
+      "accrediting": "University of Cumbria",
+      "subjects": "Primary, Special educational needs",
       "ageRange": "Primary (c3 - 11/12 years)",
-      "name": "Primary (Geography and History)",
-      "slug": "primary-geography-and-history",
-      "route": "SCITT (School Centred Initial Teacher Training) programme",
+      "name": "Primary (Special Educational Needs)",
+      "slug": "primary-special-educational-needs",
+      "route": "School Direct training programme",
       "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "24J",
-      "programmeCode": "2KBH",
+      "providerCode": "2A1",
+      "programmeCode": "38CT",
       "schools": [
         {
           "name": "Main Site",
-          "address": "Roe Lane, Newcastle under Lyme, Staffordshire, ST5 3PJ",
-          "code": "-"
-        }
-      ],
-      "options": [
-        "PGCE with QTS full time"
-      ]
-    },
-    {
-      "regions": "West Midlands",
-      "accrediting": "Keele and North Staffordshire Teacher Education",
-      "subjects": "Languages, Primary",
-      "ageRange": "Primary (c3 - 11/12 years)",
-      "name": "Primary (Modern Languages)",
-      "slug": "primary-modern-languages",
-      "route": "SCITT (School Centred Initial Teacher Training) programme",
-      "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "24J",
-      "programmeCode": "2KBF",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "Roe Lane, Newcastle under Lyme, Staffordshire, ST5 3PJ",
-          "code": "-"
-        }
-      ],
-      "options": [
-        "PGCE with QTS full time"
-      ]
-    },
-    {
-      "regions": "West Midlands",
-      "accrediting": "Keele and North Staffordshire Teacher Education",
-      "subjects": "English, Primary",
-      "ageRange": "Primary (c3 - 11/12 years)",
-      "name": "Primary (with English)",
-      "slug": "primary-with-english",
-      "route": "SCITT (School Centred Initial Teacher Training) programme",
-      "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "24J",
-      "programmeCode": "2N2M",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "Roe Lane, Newcastle under Lyme, Staffordshire, ST5 3PJ",
-          "code": "-"
-        }
-      ],
-      "options": [
-        "PGCE with QTS full time"
-      ]
-    },
-    {
-      "regions": "West Midlands",
-      "accrediting": "Keele and North Staffordshire Teacher Education",
-      "subjects": "Primary, Science",
-      "ageRange": "Primary (c3 - 11/12 years)",
-      "name": "Primary (with Science)",
-      "slug": "primary-with-science",
-      "route": "SCITT (School Centred Initial Teacher Training) programme",
-      "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "24J",
-      "programmeCode": "2KBY",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "Roe Lane, Newcastle under Lyme, Staffordshire, ST5 3PJ",
-          "code": "-"
-        }
-      ],
-      "options": [
-        "PGCE with QTS full time"
-      ]
-    },
-    {
-      "regions": "West Midlands",
-      "accrediting": "Keele and North Staffordshire Teacher Education",
-      "subjects": "Mathematics, Primary",
-      "ageRange": "Primary (c3 - 11/12 years)",
-      "name": "Primary General (with Mathematics)",
-      "slug": "primary-general-with-mathematics",
-      "route": "SCITT (School Centred Initial Teacher Training) programme",
-      "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "24J",
-      "programmeCode": "2KBJ",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "Roe Lane, Newcastle under Lyme, Staffordshire, ST5 3PJ",
-          "code": "-"
-        }
-      ],
-      "options": [
-        "PGCE with QTS full time"
-      ]
-    },
-    {
-      "regions": "West Midlands",
-      "accrediting": "Keele and North Staffordshire Teacher Education",
-      "subjects": "Physical education, Primary",
-      "ageRange": "Primary (c3 - 11/12 years)",
-      "name": "Primary Physical Education (PE)",
-      "slug": "primary-physical-education-pe",
-      "route": "SCITT (School Centred Initial Teacher Training) programme",
-      "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "24J",
-      "programmeCode": "2KBS",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "Roe Lane, Newcastle under Lyme, Staffordshire, ST5 3PJ",
+          "address": "Budworth Rd, Sale, M33 2RP",
           "code": "-"
         }
       ],
@@ -171,84 +281,339 @@
   "schools": [
     {
       "name": "Main Site",
-      "address": "Roe Lane, Newcastle under Lyme, Staffordshire, ST5 3PJ",
+      "address": "Budworth Rd, Sale, M33 2RP",
       "code": "-"
+    },
+    {
+      "name": "Mossley Hollins High School",
+      "address": "Huddersfield Road, Mossley, Ashton Under Lyne, Tameside, OL5 9DP",
+      "code": "M"
     }
   ],
   "accreditors": [
     {
-      "name": "Keele and North Staffordshire Teacher Education",
-      "slug": "keele-and-north-staffordshire-teacher-education",
+      "name": "University of Cumbria",
+      "slug": "university-of-cumbria",
       "subjects": [
         {
-          "name": "Primary (Early Years)",
-          "slug": "primary-early-years"
+          "name": "Biology",
+          "slug": "biology"
         },
         {
-          "name": "Primary (Geography and History)",
-          "slug": "primary-geography-and-history"
+          "name": "Chemistry",
+          "slug": "chemistry"
         },
         {
-          "name": "Primary (Modern Languages)",
-          "slug": "primary-modern-languages"
+          "name": "English",
+          "slug": "english"
         },
         {
-          "name": "Primary (with English)",
-          "slug": "primary-with-english"
+          "name": "Geography",
+          "slug": "geography"
         },
         {
-          "name": "Primary (with Science)",
-          "slug": "primary-with-science"
+          "name": "History",
+          "slug": "history"
         },
         {
-          "name": "Primary General (with Mathematics)",
-          "slug": "primary-general-with-mathematics"
+          "name": "Mathematics",
+          "slug": "mathematics"
         },
         {
-          "name": "Primary Physical Education (PE)",
-          "slug": "primary-physical-education-pe"
+          "name": "Modern Languages (French)",
+          "slug": "modern-languages-french"
+        },
+        {
+          "name": "Modern Languages (Spanish)",
+          "slug": "modern-languages-spanish"
+        },
+        {
+          "name": "Physical Education",
+          "slug": "physical-education"
+        },
+        {
+          "name": "Physics",
+          "slug": "physics"
+        },
+        {
+          "name": "Primary",
+          "slug": "primary"
+        },
+        {
+          "name": "Primary (Special Educational Needs)",
+          "slug": "primary-special-educational-needs"
         }
       ]
     }
   ],
-  "self_accrediting": true,
+  "self_accrediting": false,
   "subjects": [
     {
-      "name": "Primary (Early Years)",
-      "slug": "primary-early-years"
+      "name": "Biology",
+      "slug": "biology"
     },
     {
-      "name": "Primary (Geography and History)",
-      "slug": "primary-geography-and-history"
+      "name": "Chemistry",
+      "slug": "chemistry"
     },
     {
-      "name": "Primary (Modern Languages)",
-      "slug": "primary-modern-languages"
+      "name": "English",
+      "slug": "english"
     },
     {
-      "name": "Primary (with English)",
-      "slug": "primary-with-english"
+      "name": "Geography",
+      "slug": "geography"
     },
     {
-      "name": "Primary (with Science)",
-      "slug": "primary-with-science"
+      "name": "History",
+      "slug": "history"
     },
     {
-      "name": "Primary General (with Mathematics)",
-      "slug": "primary-general-with-mathematics"
+      "name": "Mathematics",
+      "slug": "mathematics"
     },
     {
-      "name": "Primary Physical Education (PE)",
-      "slug": "primary-physical-education-pe"
+      "name": "Modern Languages (French)",
+      "slug": "modern-languages-french"
+    },
+    {
+      "name": "Modern Languages (Spanish)",
+      "slug": "modern-languages-spanish"
+    },
+    {
+      "name": "Physical Education",
+      "slug": "physical-education"
+    },
+    {
+      "name": "Physics",
+      "slug": "physics"
+    },
+    {
+      "name": "Primary",
+      "slug": "primary"
+    },
+    {
+      "name": "Primary (Special Educational Needs)",
+      "slug": "primary-special-educational-needs"
     }
   ],
   "folded_courses": {
-    "Keele and North Staffordshire Teacher Education": [
+    "University of Cumbria": [
       {
-        "name": "Primary (Early Years)",
+        "name": "Biology",
         "courses": 1,
         "accrediting": [
-          "Keele and North Staffordshire Teacher Education"
+          "University of Cumbria"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Mossley Hollins High School"
+        ],
+        "options": [
+          "PGCE with QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Chemistry",
+        "courses": 1,
+        "accrediting": [
+          "University of Cumbria"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Mossley Hollins High School"
+        ],
+        "options": [
+          "PGCE with QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "English",
+        "courses": 1,
+        "accrediting": [
+          "University of Cumbria"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Mossley Hollins High School"
+        ],
+        "options": [
+          "PGCE with QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Geography",
+        "courses": 1,
+        "accrediting": [
+          "University of Cumbria"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Mossley Hollins High School"
+        ],
+        "options": [
+          "PGCE with QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "History",
+        "courses": 1,
+        "accrediting": [
+          "University of Cumbria"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Mossley Hollins High School"
+        ],
+        "options": [
+          "PGCE with QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Mathematics",
+        "courses": 1,
+        "accrediting": [
+          "University of Cumbria"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Mossley Hollins High School"
+        ],
+        "options": [
+          "PGCE with QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Modern Languages (French)",
+        "courses": 1,
+        "accrediting": [
+          "University of Cumbria"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Mossley Hollins High School"
+        ],
+        "options": [
+          "PGCE with QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Modern Languages (Spanish)",
+        "courses": 1,
+        "accrediting": [
+          "University of Cumbria"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Mossley Hollins High School"
+        ],
+        "options": [
+          "PGCE with QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Physical Education",
+        "courses": 1,
+        "accrediting": [
+          "University of Cumbria"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Mossley Hollins High School"
+        ],
+        "options": [
+          "PGCE with QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Physics",
+        "courses": 1,
+        "accrediting": [
+          "University of Cumbria"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Mossley Hollins High School"
+        ],
+        "options": [
+          "PGCE with QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Primary",
+        "courses": 1,
+        "accrediting": [
+          "University of Cumbria"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
@@ -266,115 +631,10 @@
         }
       },
       {
-        "name": "Primary (Geography and History)",
+        "name": "Primary (Special Educational Needs)",
         "courses": 1,
         "accrediting": [
-          "Keele and North Staffordshire Teacher Education"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Main Site"
-        ],
-        "options": [
-          "PGCE with QTS full time"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": false,
-          "qualifications": false
-        }
-      },
-      {
-        "name": "Primary (Modern Languages)",
-        "courses": 1,
-        "accrediting": [
-          "Keele and North Staffordshire Teacher Education"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Main Site"
-        ],
-        "options": [
-          "PGCE with QTS full time"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": false,
-          "qualifications": false
-        }
-      },
-      {
-        "name": "Primary (with English)",
-        "courses": 1,
-        "accrediting": [
-          "Keele and North Staffordshire Teacher Education"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Main Site"
-        ],
-        "options": [
-          "PGCE with QTS full time"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": false,
-          "qualifications": false
-        }
-      },
-      {
-        "name": "Primary (with Science)",
-        "courses": 1,
-        "accrediting": [
-          "Keele and North Staffordshire Teacher Education"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Main Site"
-        ],
-        "options": [
-          "PGCE with QTS full time"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": false,
-          "qualifications": false
-        }
-      },
-      {
-        "name": "Primary General (with Mathematics)",
-        "courses": 1,
-        "accrediting": [
-          "Keele and North Staffordshire Teacher Education"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Main Site"
-        ],
-        "options": [
-          "PGCE with QTS full time"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": false,
-          "qualifications": false
-        }
-      },
-      {
-        "name": "Primary Physical Education (PE)",
-        "courses": 1,
-        "accrediting": [
-          "Keele and North Staffordshire Teacher Education"
+          "University of Cumbria"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
