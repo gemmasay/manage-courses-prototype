@@ -1,8 +1,8 @@
 {
   "multi-organisation": false,
-  "training-provider-name": "Everyonelearning@LimeTree,MossleyHollins,Hawthorns Teaching Partnership",
-  "provider-code-name": "A2536",
-  "provider-code": "2A1",
+  "training-provider-name": "West London Teaching School Alliance (Primary St Mary's)",
+  "provider-code-name": "A2775",
+  "provider-code": "2H3",
   "address-line-1": "123 Baker Street",
   "town": "London",
   "postcode": "SW1 1AA",
@@ -14,241 +14,113 @@
   ],
   "ucasCourses": [
     {
-      "regions": "North West",
-      "accrediting": "University of Cumbria",
-      "subjects": "Biology, Science, Secondary",
-      "ageRange": "Secondary (11+ years)",
-      "name": "Biology",
-      "slug": "biology",
-      "route": "School Direct training programme",
-      "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "2A1",
-      "programmeCode": "2WXF",
+      "regions": "London",
+      "accrediting": "St Mary's University, Twickenham",
+      "subjects": "Primary",
+      "ageRange": "Primary (c3 - 11/12 years)",
+      "name": "Primary",
+      "slug": "primary",
+      "route": "School Direct training programme (salaried)",
+      "qualifications": "QTS",
+      "providerCode": "2H3",
+      "programmeCode": "37F8",
       "schools": [
         {
-          "name": "Mossley Hollins High School",
-          "address": "Huddersfield Road, Mossley, Ashton Under Lyne, Tameside, OL5 9DP",
-          "code": "M"
+          "name": "Brunswick Park Primary School",
+          "address": "Picton Street, Camberwell, SE5 7QH",
+          "code": "1"
+        },
+        {
+          "name": "St Mary's Catholic Primary School (W4)",
+          "address": "Duke Road, Chiswick, W4 2DF",
+          "code": "3"
+        },
+        {
+          "name": "St John XXIII Catholic Primary School",
+          "address": "Commonwealth Avenue, W12 7QR",
+          "code": "8"
+        },
+        {
+          "name": "St Mary's RC Primary School (W10)",
+          "address": "East Row, North Kensington, W10 5AW",
+          "code": "A"
+        },
+        {
+          "name": "Barnes Primary School",
+          "address": "Cross Street,, Barnes, SW13 0QQ",
+          "code": "B"
+        },
+        {
+          "name": "Minerva Academy",
+          "address": "156 Edgware Road, W2 2HR",
+          "code": "C"
+        },
+        {
+          "name": "Fulham Primary School",
+          "address": "Halford Road, SW6 1JU",
+          "code": "F"
+        },
+        {
+          "name": "Little Ealing Primary School",
+          "address": "Weymouth Avenue, W5 4EA",
+          "code": "L"
+        },
+        {
+          "name": "Park Walk Primary School",
+          "address": "Park Walk, Chelsea, SW10 0AY",
+          "code": "P"
+        },
+        {
+          "name": "Queensmill School",
+          "address": "1 Askham Road, Shepherd's Bush, W12 0NW",
+          "code": "Q"
+        },
+        {
+          "name": "Sulivan Primary School",
+          "address": "Peterborough Road, SW6 3BN",
+          "code": "S"
+        },
+        {
+          "name": "Marlborough Primary School",
+          "address": "Draycott Avenue, SW3 3AP",
+          "code": "T"
+        },
+        {
+          "name": "Pield Heath House School",
+          "address": "Pield Heath Road, Uxbridge, UB8 2NW",
+          "code": "U"
+        },
+        {
+          "name": "West London Free School Primary Trust",
+          "address": "Cambridge Grove, London, W6 0LB",
+          "code": "W"
+        },
+        {
+          "name": "Queens Manor Primary School",
+          "address": "Lysia Strreet, SW6 6ND",
+          "code": "Z"
         }
       ],
       "options": [
-        "PGCE with QTS full time"
+        "QTS full time with salary"
       ]
     },
     {
-      "regions": "North West",
-      "accrediting": "University of Cumbria",
-      "subjects": "Chemistry, Science, Secondary",
-      "ageRange": "Secondary (11+ years)",
-      "name": "Chemistry",
-      "slug": "chemistry",
-      "route": "School Direct training programme",
-      "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "2A1",
-      "programmeCode": "33KW",
-      "schools": [
-        {
-          "name": "Mossley Hollins High School",
-          "address": "Huddersfield Road, Mossley, Ashton Under Lyne, Tameside, OL5 9DP",
-          "code": "M"
-        }
-      ],
-      "options": [
-        "PGCE with QTS full time"
-      ]
-    },
-    {
-      "regions": "North West",
-      "accrediting": "University of Cumbria",
-      "subjects": "English, Secondary",
-      "ageRange": "Secondary (11+ years)",
-      "name": "English",
-      "slug": "english",
-      "route": "School Direct training programme",
-      "qualifications": "QTS, Postgraduate",
-      "providerCode": "2A1",
-      "programmeCode": "2SB4",
-      "schools": [
-        {
-          "name": "Mossley Hollins High School",
-          "address": "Huddersfield Road, Mossley, Ashton Under Lyne, Tameside, OL5 9DP",
-          "code": "M"
-        }
-      ],
-      "options": [
-        "PGCE with QTS full time"
-      ]
-    },
-    {
-      "regions": "North West",
-      "accrediting": "University of Cumbria",
-      "subjects": "Geography, Secondary",
-      "ageRange": "Secondary (11+ years)",
-      "name": "Geography",
-      "slug": "geography",
-      "route": "School Direct training programme",
-      "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "2A1",
-      "programmeCode": "2WKP",
-      "schools": [
-        {
-          "name": "Mossley Hollins High School",
-          "address": "Huddersfield Road, Mossley, Ashton Under Lyne, Tameside, OL5 9DP",
-          "code": "M"
-        }
-      ],
-      "options": [
-        "PGCE with QTS full time"
-      ]
-    },
-    {
-      "regions": "North West",
-      "accrediting": "University of Cumbria",
-      "subjects": "History, Secondary",
-      "ageRange": "Secondary (11+ years)",
-      "name": "History",
-      "slug": "history",
-      "route": "School Direct training programme",
-      "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "2A1",
-      "programmeCode": "33KV",
-      "schools": [
-        {
-          "name": "Mossley Hollins High School",
-          "address": "Huddersfield Road, Mossley, Ashton Under Lyne, Tameside, OL5 9DP",
-          "code": "M"
-        }
-      ],
-      "options": [
-        "PGCE with QTS full time"
-      ]
-    },
-    {
-      "regions": "North West",
-      "accrediting": "University of Cumbria",
-      "subjects": "Mathematics, Secondary",
-      "ageRange": "Secondary (11+ years)",
-      "name": "Mathematics",
-      "slug": "mathematics",
-      "route": "School Direct training programme",
-      "qualifications": "QTS, Postgraduate",
-      "providerCode": "2A1",
-      "programmeCode": "2SBH",
-      "schools": [
-        {
-          "name": "Mossley Hollins High School",
-          "address": "Huddersfield Road, Mossley, Ashton Under Lyne, Tameside, OL5 9DP",
-          "code": "M"
-        }
-      ],
-      "options": [
-        "PGCE with QTS full time"
-      ]
-    },
-    {
-      "regions": "North West",
-      "accrediting": "University of Cumbria",
-      "subjects": "French, Languages, Languages (european), Secondary",
-      "ageRange": "Secondary (11+ years)",
-      "name": "Modern Languages (French)",
-      "slug": "modern-languages-french",
-      "route": "School Direct training programme",
-      "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "2A1",
-      "programmeCode": "32MH",
-      "schools": [
-        {
-          "name": "Mossley Hollins High School",
-          "address": "Huddersfield Road, Mossley, Ashton Under Lyne, Tameside, OL5 9DP",
-          "code": "M"
-        }
-      ],
-      "options": [
-        "PGCE with QTS full time"
-      ]
-    },
-    {
-      "regions": "North West",
-      "accrediting": "University of Cumbria",
-      "subjects": "Languages, Languages (european), Secondary, Spanish",
-      "ageRange": "Secondary (11+ years)",
-      "name": "Modern Languages (Spanish)",
-      "slug": "modern-languages-spanish",
-      "route": "School Direct training programme",
-      "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "2A1",
-      "programmeCode": "2V2Z",
-      "schools": [
-        {
-          "name": "Mossley Hollins High School",
-          "address": "Huddersfield Road, Mossley, Ashton Under Lyne, Tameside, OL5 9DP",
-          "code": "M"
-        }
-      ],
-      "options": [
-        "PGCE with QTS full time"
-      ]
-    },
-    {
-      "regions": "North West",
-      "accrediting": "University of Cumbria",
-      "subjects": "Physical education, Secondary",
-      "ageRange": "Secondary (11+ years)",
-      "name": "Physical Education",
-      "slug": "physical-education",
-      "route": "School Direct training programme",
-      "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "2A1",
-      "programmeCode": "38GQ",
-      "schools": [
-        {
-          "name": "Mossley Hollins High School",
-          "address": "Huddersfield Road, Mossley, Ashton Under Lyne, Tameside, OL5 9DP",
-          "code": "M"
-        }
-      ],
-      "options": [
-        "PGCE with QTS full time"
-      ]
-    },
-    {
-      "regions": "North West",
-      "accrediting": "University of Cumbria",
-      "subjects": "Physics, Science, Secondary",
-      "ageRange": "Secondary (11+ years)",
-      "name": "Physics",
-      "slug": "physics",
-      "route": "School Direct training programme",
-      "qualifications": "QTS, Postgraduate",
-      "providerCode": "2A1",
-      "programmeCode": "2SBK",
-      "schools": [
-        {
-          "name": "Mossley Hollins High School",
-          "address": "Huddersfield Road, Mossley, Ashton Under Lyne, Tameside, OL5 9DP",
-          "code": "M"
-        }
-      ],
-      "options": [
-        "PGCE with QTS full time"
-      ]
-    },
-    {
-      "regions": "North West",
-      "accrediting": "University of Cumbria",
+      "regions": "London",
+      "accrediting": "St Mary's University, Twickenham",
       "subjects": "Primary",
       "ageRange": "Primary (c3 - 11/12 years)",
       "name": "Primary",
       "slug": "primary",
       "route": "School Direct training programme",
-      "qualifications": "QTS, Postgraduate",
-      "providerCode": "2A1",
-      "programmeCode": "2SB2",
+      "qualifications": "QTS, Postgraduate, Professional",
+      "providerCode": "2H3",
+      "programmeCode": "37F9",
       "schools": [
         {
-          "name": "Main Site",
-          "address": "Budworth Rd, Sale, M33 2RP",
-          "code": "-"
+          "name": "St Marys of the Angels RC Primary School",
+          "address": "Shrewsbury Road, W2 7PR",
+          "code": "4"
         }
       ],
       "options": [
@@ -256,21 +128,46 @@
       ]
     },
     {
-      "regions": "North West",
-      "accrediting": "University of Cumbria",
-      "subjects": "Primary, Special educational needs",
+      "regions": "London",
+      "accrediting": "St Mary's University, Twickenham",
+      "subjects": "Primary",
       "ageRange": "Primary (c3 - 11/12 years)",
-      "name": "Primary (Special Educational Needs)",
-      "slug": "primary-special-educational-needs",
+      "name": "Primary",
+      "slug": "primary",
       "route": "School Direct training programme",
       "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "2A1",
-      "programmeCode": "38CT",
+      "providerCode": "2H3",
+      "programmeCode": "37FB",
       "schools": [
         {
-          "name": "Main Site",
-          "address": "Budworth Rd, Sale, M33 2RP",
-          "code": "-"
+          "name": "Jack Tizard School",
+          "address": "South Africa Road, London, W12 7PA",
+          "code": "2"
+        },
+        {
+          "name": "Larmenier & Sacred Heart Catholic Primary School",
+          "address": "41a Brook Green, W6 7BL",
+          "code": "9"
+        },
+        {
+          "name": "John Betts Primary School",
+          "address": "Paddenswick Road, W6 0UA",
+          "code": "E"
+        },
+        {
+          "name": "St Charles Catholic Primary School",
+          "address": "St Charles Square, W10 6EB",
+          "code": "R"
+        },
+        {
+          "name": "St Vincent's Catholic Primary School",
+          "address": "1 Pierrepoint Road, Acton, W3 9JR",
+          "code": "V"
+        },
+        {
+          "name": "St Mary's Catholic Primary School (W14)",
+          "address": "Masbro Road, W14 0LT",
+          "code": "X"
         }
       ],
       "options": [
@@ -280,68 +177,124 @@
   ],
   "schools": [
     {
-      "name": "Main Site",
-      "address": "Budworth Rd, Sale, M33 2RP",
-      "code": "-"
+      "name": "Barnes Primary School",
+      "address": "Cross Street,, Barnes, SW13 0QQ",
+      "code": "B"
     },
     {
-      "name": "Mossley Hollins High School",
-      "address": "Huddersfield Road, Mossley, Ashton Under Lyne, Tameside, OL5 9DP",
-      "code": "M"
+      "name": "Brunswick Park Primary School",
+      "address": "Picton Street, Camberwell, SE5 7QH",
+      "code": "1"
+    },
+    {
+      "name": "Fulham Primary School",
+      "address": "Halford Road, SW6 1JU",
+      "code": "F"
+    },
+    {
+      "name": "Jack Tizard School",
+      "address": "South Africa Road, London, W12 7PA",
+      "code": "2"
+    },
+    {
+      "name": "John Betts Primary School",
+      "address": "Paddenswick Road, W6 0UA",
+      "code": "E"
+    },
+    {
+      "name": "Larmenier & Sacred Heart Catholic Primary School",
+      "address": "41a Brook Green, W6 7BL",
+      "code": "9"
+    },
+    {
+      "name": "Little Ealing Primary School",
+      "address": "Weymouth Avenue, W5 4EA",
+      "code": "L"
+    },
+    {
+      "name": "Marlborough Primary School",
+      "address": "Draycott Avenue, SW3 3AP",
+      "code": "T"
+    },
+    {
+      "name": "Minerva Academy",
+      "address": "156 Edgware Road, W2 2HR",
+      "code": "C"
+    },
+    {
+      "name": "Park Walk Primary School",
+      "address": "Park Walk, Chelsea, SW10 0AY",
+      "code": "P"
+    },
+    {
+      "name": "Pield Heath House School",
+      "address": "Pield Heath Road, Uxbridge, UB8 2NW",
+      "code": "U"
+    },
+    {
+      "name": "Queens Manor Primary School",
+      "address": "Lysia Strreet, SW6 6ND",
+      "code": "Z"
+    },
+    {
+      "name": "Queensmill School",
+      "address": "1 Askham Road, Shepherd's Bush, W12 0NW",
+      "code": "Q"
+    },
+    {
+      "name": "St Charles Catholic Primary School",
+      "address": "St Charles Square, W10 6EB",
+      "code": "R"
+    },
+    {
+      "name": "St John XXIII Catholic Primary School",
+      "address": "Commonwealth Avenue, W12 7QR",
+      "code": "8"
+    },
+    {
+      "name": "St Mary's Catholic Primary School (W14)",
+      "address": "Masbro Road, W14 0LT",
+      "code": "X"
+    },
+    {
+      "name": "St Mary's Catholic Primary School (W4)",
+      "address": "Duke Road, Chiswick, W4 2DF",
+      "code": "3"
+    },
+    {
+      "name": "St Mary's RC Primary School (W10)",
+      "address": "East Row, North Kensington, W10 5AW",
+      "code": "A"
+    },
+    {
+      "name": "St Marys of the Angels RC Primary School",
+      "address": "Shrewsbury Road, W2 7PR",
+      "code": "4"
+    },
+    {
+      "name": "St Vincent's Catholic Primary School",
+      "address": "1 Pierrepoint Road, Acton, W3 9JR",
+      "code": "V"
+    },
+    {
+      "name": "Sulivan Primary School",
+      "address": "Peterborough Road, SW6 3BN",
+      "code": "S"
+    },
+    {
+      "name": "West London Free School Primary Trust",
+      "address": "Cambridge Grove, London, W6 0LB",
+      "code": "W"
     }
   ],
   "accreditors": [
     {
-      "name": "University of Cumbria",
-      "slug": "university-of-cumbria",
+      "name": "St Mary's University, Twickenham",
+      "slug": "st-mary-s-university-twickenham",
       "subjects": [
-        {
-          "name": "Biology",
-          "slug": "biology"
-        },
-        {
-          "name": "Chemistry",
-          "slug": "chemistry"
-        },
-        {
-          "name": "English",
-          "slug": "english"
-        },
-        {
-          "name": "Geography",
-          "slug": "geography"
-        },
-        {
-          "name": "History",
-          "slug": "history"
-        },
-        {
-          "name": "Mathematics",
-          "slug": "mathematics"
-        },
-        {
-          "name": "Modern Languages (French)",
-          "slug": "modern-languages-french"
-        },
-        {
-          "name": "Modern Languages (Spanish)",
-          "slug": "modern-languages-spanish"
-        },
-        {
-          "name": "Physical Education",
-          "slug": "physical-education"
-        },
-        {
-          "name": "Physics",
-          "slug": "physics"
-        },
         {
           "name": "Primary",
           "slug": "primary"
-        },
-        {
-          "name": "Primary (Special Educational Needs)",
-          "slug": "primary-special-educational-needs"
         }
       ]
     }
@@ -349,311 +302,59 @@
   "self_accrediting": false,
   "subjects": [
     {
-      "name": "Biology",
-      "slug": "biology"
-    },
-    {
-      "name": "Chemistry",
-      "slug": "chemistry"
-    },
-    {
-      "name": "English",
-      "slug": "english"
-    },
-    {
-      "name": "Geography",
-      "slug": "geography"
-    },
-    {
-      "name": "History",
-      "slug": "history"
-    },
-    {
-      "name": "Mathematics",
-      "slug": "mathematics"
-    },
-    {
-      "name": "Modern Languages (French)",
-      "slug": "modern-languages-french"
-    },
-    {
-      "name": "Modern Languages (Spanish)",
-      "slug": "modern-languages-spanish"
-    },
-    {
-      "name": "Physical Education",
-      "slug": "physical-education"
-    },
-    {
-      "name": "Physics",
-      "slug": "physics"
-    },
-    {
       "name": "Primary",
       "slug": "primary"
-    },
-    {
-      "name": "Primary (Special Educational Needs)",
-      "slug": "primary-special-educational-needs"
     }
   ],
   "folded_courses": {
-    "University of Cumbria": [
-      {
-        "name": "Biology",
-        "courses": 1,
-        "accrediting": [
-          "University of Cumbria"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Mossley Hollins High School"
-        ],
-        "options": [
-          "PGCE with QTS full time"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": false,
-          "qualifications": false
-        }
-      },
-      {
-        "name": "Chemistry",
-        "courses": 1,
-        "accrediting": [
-          "University of Cumbria"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Mossley Hollins High School"
-        ],
-        "options": [
-          "PGCE with QTS full time"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": false,
-          "qualifications": false
-        }
-      },
-      {
-        "name": "English",
-        "courses": 1,
-        "accrediting": [
-          "University of Cumbria"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Mossley Hollins High School"
-        ],
-        "options": [
-          "PGCE with QTS full time"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": false,
-          "qualifications": false
-        }
-      },
-      {
-        "name": "Geography",
-        "courses": 1,
-        "accrediting": [
-          "University of Cumbria"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Mossley Hollins High School"
-        ],
-        "options": [
-          "PGCE with QTS full time"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": false,
-          "qualifications": false
-        }
-      },
-      {
-        "name": "History",
-        "courses": 1,
-        "accrediting": [
-          "University of Cumbria"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Mossley Hollins High School"
-        ],
-        "options": [
-          "PGCE with QTS full time"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": false,
-          "qualifications": false
-        }
-      },
-      {
-        "name": "Mathematics",
-        "courses": 1,
-        "accrediting": [
-          "University of Cumbria"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Mossley Hollins High School"
-        ],
-        "options": [
-          "PGCE with QTS full time"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": false,
-          "qualifications": false
-        }
-      },
-      {
-        "name": "Modern Languages (French)",
-        "courses": 1,
-        "accrediting": [
-          "University of Cumbria"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Mossley Hollins High School"
-        ],
-        "options": [
-          "PGCE with QTS full time"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": false,
-          "qualifications": false
-        }
-      },
-      {
-        "name": "Modern Languages (Spanish)",
-        "courses": 1,
-        "accrediting": [
-          "University of Cumbria"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Mossley Hollins High School"
-        ],
-        "options": [
-          "PGCE with QTS full time"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": false,
-          "qualifications": false
-        }
-      },
-      {
-        "name": "Physical Education",
-        "courses": 1,
-        "accrediting": [
-          "University of Cumbria"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Mossley Hollins High School"
-        ],
-        "options": [
-          "PGCE with QTS full time"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": false,
-          "qualifications": false
-        }
-      },
-      {
-        "name": "Physics",
-        "courses": 1,
-        "accrediting": [
-          "University of Cumbria"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Mossley Hollins High School"
-        ],
-        "options": [
-          "PGCE with QTS full time"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": false,
-          "qualifications": false
-        }
-      },
+    "St Mary's University, Twickenham": [
       {
         "name": "Primary",
-        "courses": 1,
+        "courses": 3,
         "accrediting": [
-          "University of Cumbria"
+          "St Mary's University, Twickenham"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
         ],
         "schoolsWithVacancies": [
-          "Main Site"
+          "Barnes Primary School",
+          "Brunswick Park Primary School",
+          "Fulham Primary School",
+          "Jack Tizard School",
+          "John Betts Primary School",
+          "Larmenier & Sacred Heart Catholic Primary School",
+          "Little Ealing Primary School",
+          "Marlborough Primary School",
+          "Minerva Academy",
+          "Park Walk Primary School",
+          "Pield Heath House School",
+          "Queens Manor Primary School",
+          "Queensmill School",
+          "St Charles Catholic Primary School",
+          "St John XXIII Catholic Primary School",
+          "St Mary's Catholic Primary School (W14)",
+          "St Mary's Catholic Primary School (W4)",
+          "St Mary's RC Primary School (W10)",
+          "St Marys of the Angels RC Primary School",
+          "St Vincent's Catholic Primary School",
+          "Sulivan Primary School",
+          "West London Free School Primary Trust"
         ],
         "options": [
-          "PGCE with QTS full time"
+          "PGCE with QTS full time",
+          "QTS full time with salary"
         ],
         "flags": {
           "partTime": false,
-          "salary": false,
-          "qualifications": false
-        }
-      },
-      {
-        "name": "Primary (Special Educational Needs)",
-        "courses": 1,
-        "accrediting": [
-          "University of Cumbria"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Main Site"
-        ],
-        "options": [
-          "PGCE with QTS full time"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": false,
-          "qualifications": false
+          "salary": true,
+          "qualifications": true
         }
       }
     ]
   },
   "options": [
+    "QTS full time with salary",
     "PGCE with QTS full time"
   ]
 }
