@@ -1,5 +1,6 @@
 {% extends "layout.html" %}
-{% block page_title %}Request access for someone{% endblock %}
+{% set title = 'Request access for someone else' %}
+{% block page_title %}{{ title }}{% endblock %}
 
 {% block content %}
 
@@ -21,9 +22,10 @@
 
   {{ macros.orgHeading('Request access for someone else', message) }}
 
-  <h2 class="heading-large">
-    Request access for someone else
-  </h2>
+  <h1 class="heading-xlarge">
+    <span class="heading-secondary">{{ data['training-provider-name'] }}</span>
+    {{ title }}
+  </h1>
 
   <div class="grid-row">
     <div class="column-two-thirds">

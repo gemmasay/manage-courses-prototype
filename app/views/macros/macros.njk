@@ -160,13 +160,13 @@
 
 {{ message | safe }}
 
-<div class="grid-row">
+{# <div class="grid-row">
   <div class="column-two-thirds">
     <h1 class="heading-xlarge">
       {{ value('training-provider-name') }}
     </h1>
   </div>
-</div>
+</div> #}
 
 {% set tabs = [
     {
@@ -183,7 +183,7 @@
     }
   ] %}
 
-<ul class="tabs">
+<ul class="tabs" style="margin-top: -29px; margin-bottom: 40px">
   {% for tab in tabs %}
     <li {% if activeTab == tab.text %}class="active"{% endif %}>
       <a href="{{ tab.href }}">{{ tab.text }}</a>

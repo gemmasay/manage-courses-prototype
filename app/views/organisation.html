@@ -7,9 +7,10 @@
   {% include "includes/phase_banner_beta.html" %}
   {{ macros.orgHeading('Courses') }}
 
-  <h2 class="heading-large">
+  <h1 class="heading-xlarge">
+    <span class="heading-secondary">{{ data['training-provider-name'] }}</span>
     Courses
-  </h2>
+  </h1>
 
   {% for accrediting in data['accreditors'] %}
     {% if data['accreditors'][0]['name'] != data['training-provider-name'] %}
