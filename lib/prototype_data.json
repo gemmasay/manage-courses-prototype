@@ -1,34 +1,34 @@
 {
   "multi-organisation": false,
-  "training-provider-name": "Angel Islington Teaching School Alliance",
-  "provider-code-name": "A2602",
-  "provider-code": "2BZ",
+  "training-provider-name": "University of East London",
+  "provider-code-name": "ELOND",
+  "provider-code": "E28",
   "address-line-1": "123 Baker Street",
   "town": "London",
   "postcode": "SW1 1AA",
   "telephone": "0208 123 4567",
   "email": "someemail@not-an-email.com",
-  "website": "http://www.egaschool.co.uk/244/the-angel-islington-teaching-school-alliance",
+  "website": "https://www.uel.ac.uk/",
   "templates": [
 
   ],
   "ucasCourses": [
     {
       "regions": "London",
-      "accrediting": "UCL, University College London (University of London",
+      "accrediting": "University of East London",
       "subjects": "Biology, Science, Secondary",
       "ageRange": "Secondary (11+ years)",
       "name": "Biology",
       "slug": "biology",
-      "route": "School Direct training programme",
+      "route": "Higher Education programme",
       "qualifications": "QTS, Postgraduate",
-      "providerCode": "2BZ",
-      "programmeCode": "2YCF",
+      "providerCode": "E28",
+      "programmeCode": "C1X1",
       "schools": [
         {
           "name": "Main Site",
-          "address": "Donegal Street, Islington, London, N1 9QG",
-          "code": "-"
+          "address": "Student Admissions Office, 4-6 University way, London, E16 2RD",
+          "code": ""
         }
       ],
       "options": [
@@ -37,20 +37,20 @@
     },
     {
       "regions": "London",
-      "accrediting": "UCL, University College London (University of London",
+      "accrediting": "University of East London",
       "subjects": "Chemistry, Science, Secondary",
       "ageRange": "Secondary (11+ years)",
       "name": "Chemistry",
       "slug": "chemistry",
-      "route": "School Direct training programme",
+      "route": "Higher Education programme",
       "qualifications": "QTS, Postgraduate",
-      "providerCode": "2BZ",
-      "programmeCode": "2YN3",
+      "providerCode": "E28",
+      "programmeCode": "F1X1",
       "schools": [
         {
           "name": "Main Site",
-          "address": "Donegal Street, Islington, London, N1 9QG",
-          "code": "-"
+          "address": "Student Admissions Office, 4-6 University way, London, E16 2RD",
+          "code": ""
         }
       ],
       "options": [
@@ -59,20 +59,86 @@
     },
     {
       "regions": "London",
-      "accrediting": "UCL, University College London (University of London",
+      "accrediting": "University of East London",
+      "subjects": "Languages, Secondary",
+      "ageRange": "Secondary (11+ years)",
+      "name": "Community Languages",
+      "slug": "community-languages",
+      "route": "Higher Education programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "E28",
+      "programmeCode": "Q9X1",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "Student Admissions Office, 4-6 University way, London, E16 2RD",
+          "code": ""
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "London",
+      "accrediting": "University of East London",
+      "subjects": "Computer studies, Secondary",
+      "ageRange": "Secondary (11+ years)",
+      "name": "Computing",
+      "slug": "computing",
+      "route": "Higher Education programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "E28",
+      "programmeCode": "IX99",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "Student Admissions Office, 4-6 University way, London, E16 2RD",
+          "code": ""
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "London",
+      "accrediting": "University of East London",
+      "subjects": "Drama and theatre studies, Secondary",
+      "ageRange": "Secondary (11+ years)",
+      "name": "Drama",
+      "slug": "drama",
+      "route": "Higher Education programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "E28",
+      "programmeCode": "2M8K",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "Student Admissions Office, 4-6 University way, London, E16 2RD",
+          "code": ""
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "London",
+      "accrediting": "University of East London",
       "subjects": "English, Secondary",
       "ageRange": "Secondary (11+ years)",
       "name": "English",
       "slug": "english",
-      "route": "School Direct training programme",
+      "route": "Higher Education programme",
       "qualifications": "QTS, Postgraduate",
-      "providerCode": "2BZ",
-      "programmeCode": "2YNS",
+      "providerCode": "E28",
+      "programmeCode": "Q3X1",
       "schools": [
         {
           "name": "Main Site",
-          "address": "Donegal Street, Islington, London, N1 9QG",
-          "code": "-"
+          "address": "Student Admissions Office, 4-6 University way, London, E16 2RD",
+          "code": ""
         }
       ],
       "options": [
@@ -81,20 +147,20 @@
     },
     {
       "regions": "London",
-      "accrediting": "UCL, University College London (University of London",
+      "accrediting": "University of East London",
       "subjects": "Geography, Secondary",
       "ageRange": "Secondary (11+ years)",
       "name": "Geography",
       "slug": "geography",
-      "route": "School Direct training programme",
+      "route": "Higher Education programme",
       "qualifications": "QTS, Postgraduate",
-      "providerCode": "2BZ",
-      "programmeCode": "37KD",
+      "providerCode": "E28",
+      "programmeCode": "2NQC",
       "schools": [
         {
           "name": "Main Site",
-          "address": "Donegal Street, Islington, London, N1 9QG",
-          "code": "-"
+          "address": "Student Admissions Office, 4-6 University way, London, E16 2RD",
+          "code": ""
         }
       ],
       "options": [
@@ -103,20 +169,20 @@
     },
     {
       "regions": "London",
-      "accrediting": "UCL, University College London (University of London",
+      "accrediting": "University of East London",
       "subjects": "Mathematics, Secondary",
       "ageRange": "Secondary (11+ years)",
       "name": "Mathematics",
       "slug": "mathematics",
-      "route": "School Direct training programme",
+      "route": "Higher Education programme",
       "qualifications": "QTS, Postgraduate",
-      "providerCode": "2BZ",
-      "programmeCode": "2YNR",
+      "providerCode": "E28",
+      "programmeCode": "G1X1",
       "schools": [
         {
           "name": "Main Site",
-          "address": "Donegal Street, Islington, London, N1 9QG",
-          "code": "-"
+          "address": "Student Admissions Office, 4-6 University way, London, E16 2RD",
+          "code": ""
         }
       ],
       "options": [
@@ -125,20 +191,20 @@
     },
     {
       "regions": "London",
-      "accrediting": "UCL, University College London (University of London",
-      "subjects": "Languages, Secondary",
+      "accrediting": "University of East London",
+      "subjects": "French, German, Languages, Languages (european), Secondary",
       "ageRange": "Secondary (11+ years)",
-      "name": "Modern Languages",
-      "slug": "modern-languages",
-      "route": "School Direct training programme",
+      "name": "Modern Languages (French with German)",
+      "slug": "modern-languages-french-with-german",
+      "route": "Higher Education programme",
       "qualifications": "QTS, Postgraduate",
-      "providerCode": "2BZ",
-      "programmeCode": "37KG",
+      "providerCode": "E28",
+      "programmeCode": "RX11",
       "schools": [
         {
           "name": "Main Site",
-          "address": "Donegal Street, Islington, London, N1 9QG",
-          "code": "-"
+          "address": "Student Admissions Office, 4-6 University way, London, E16 2RD",
+          "code": ""
         }
       ],
       "options": [
@@ -147,20 +213,174 @@
     },
     {
       "regions": "London",
-      "accrediting": "UCL, University College London (University of London",
+      "accrediting": "University of East London",
+      "subjects": "French, Italian, Languages, Languages (european), Secondary",
+      "ageRange": "Secondary (11+ years)",
+      "name": "Modern Languages (French with Italian)",
+      "slug": "modern-languages-french-with-italian",
+      "route": "Higher Education programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "E28",
+      "programmeCode": "RX1C",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "Student Admissions Office, 4-6 University way, London, E16 2RD",
+          "code": ""
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "London",
+      "accrediting": "University of East London",
+      "subjects": "French, Languages, Languages (european), Secondary, Spanish",
+      "ageRange": "Secondary (11+ years)",
+      "name": "Modern Languages (French with Spanish)",
+      "slug": "modern-languages-french-with-spanish",
+      "route": "Higher Education programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "E28",
+      "programmeCode": "RXD1",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "Student Admissions Office, 4-6 University way, London, E16 2RD",
+          "code": ""
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "London",
+      "accrediting": "University of East London",
+      "subjects": "French, Languages, Languages (european), Secondary",
+      "ageRange": "Secondary (11+ years)",
+      "name": "Modern Languages (French)",
+      "slug": "modern-languages-french",
+      "route": "Higher Education programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "E28",
+      "programmeCode": "R1X1",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "Student Admissions Office, 4-6 University way, London, E16 2RD",
+          "code": ""
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "London",
+      "accrediting": "University of East London",
+      "subjects": "French, German, Languages, Languages (european), Secondary",
+      "ageRange": "Secondary (11+ years)",
+      "name": "Modern Languages (German with French)",
+      "slug": "modern-languages-german-with-french",
+      "route": "Higher Education programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "E28",
+      "programmeCode": "RX21",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "Student Admissions Office, 4-6 University way, London, E16 2RD",
+          "code": ""
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "London",
+      "accrediting": "University of East London",
+      "subjects": "French, Languages, Languages (european), Secondary, Spanish",
+      "ageRange": "Secondary (11+ years)",
+      "name": "Modern Languages (Spanish with French)",
+      "slug": "modern-languages-spanish-with-french",
+      "route": "Higher Education programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "E28",
+      "programmeCode": "RX41",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "Student Admissions Office, 4-6 University way, London, E16 2RD",
+          "code": ""
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "London",
+      "accrediting": "University of East London",
+      "subjects": "Music, Secondary",
+      "ageRange": "Secondary (11+ years)",
+      "name": "Music",
+      "slug": "music",
+      "route": "Higher Education programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "E28",
+      "programmeCode": "W3X1",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "Student Admissions Office, 4-6 University way, London, E16 2RD",
+          "code": ""
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "London",
+      "accrediting": "University of East London",
+      "subjects": "Physical education, Secondary",
+      "ageRange": "Secondary (11+ years)",
+      "name": "Physical Education",
+      "slug": "physical-education",
+      "route": "Higher Education programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "E28",
+      "programmeCode": "X9C6",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "Student Admissions Office, 4-6 University way, London, E16 2RD",
+          "code": ""
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "London",
+      "accrediting": "University of East London",
       "subjects": "Physics, Science, Secondary",
       "ageRange": "Secondary (11+ years)",
       "name": "Physics",
       "slug": "physics",
-      "route": "School Direct training programme",
+      "route": "Higher Education programme",
       "qualifications": "QTS, Postgraduate",
-      "providerCode": "2BZ",
-      "programmeCode": "2YNQ",
+      "providerCode": "E28",
+      "programmeCode": "F3X1",
       "schools": [
         {
           "name": "Main Site",
-          "address": "Donegal Street, Islington, London, N1 9QG",
-          "code": "-"
+          "address": "Student Admissions Office, 4-6 University way, London, E16 2RD",
+          "code": ""
         }
       ],
       "options": [
@@ -169,20 +389,284 @@
     },
     {
       "regions": "London",
-      "accrediting": "UCL, University College London (University of London",
-      "subjects": "Primary",
+      "accrediting": "University of East London",
+      "subjects": "Early years, Primary",
       "ageRange": "Primary (c3 - 11/12 years)",
-      "name": "Primary",
-      "slug": "primary",
-      "route": "School Direct training programme",
+      "name": "Primary with Early Years (3-7)",
+      "slug": "primary-with-early-years-3-7",
+      "route": "Higher Education programme",
       "qualifications": "QTS, Postgraduate",
-      "providerCode": "2BZ",
-      "programmeCode": "2YNV",
+      "providerCode": "E28",
+      "programmeCode": "X126",
       "schools": [
         {
           "name": "Main Site",
-          "address": "Donegal Street, Islington, London, N1 9QG",
-          "code": "-"
+          "address": "Student Admissions Office, 4-6 University way, London, E16 2RD",
+          "code": ""
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "London",
+      "accrediting": "University of East London",
+      "subjects": "English, Primary",
+      "ageRange": "Primary (c3 - 11/12 years)",
+      "name": "Primary with English",
+      "slug": "primary-with-english",
+      "route": "Higher Education programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "E28",
+      "programmeCode": "XQ1H",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "Student Admissions Office, 4-6 University way, London, E16 2RD",
+          "code": ""
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "London",
+      "accrediting": "University of East London",
+      "subjects": "English as a second or other language, Primary",
+      "ageRange": "Primary (c3 - 11/12 years)",
+      "name": "Primary with English as an Additional Language",
+      "slug": "primary-with-english-as-an-additional-language",
+      "route": "Higher Education programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "E28",
+      "programmeCode": "X105",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "Student Admissions Office, 4-6 University way, London, E16 2RD",
+          "code": ""
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "London",
+      "accrediting": "University of East London",
+      "subjects": "Humanities, Primary, Religious education",
+      "ageRange": "Primary (c3 - 11/12 years)",
+      "name": "Primary with Humanities and Religious Education",
+      "slug": "primary-with-humanities-and-religious-education",
+      "route": "Higher Education programme",
+      "qualifications": "QTS",
+      "providerCode": "E28",
+      "programmeCode": "2CYZ",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "Student Admissions Office, 4-6 University way, London, E16 2RD",
+          "code": ""
+        }
+      ],
+      "options": [
+        "QTS full time"
+      ]
+    },
+    {
+      "regions": "London",
+      "accrediting": "University of East London",
+      "subjects": "Computer studies, Information communication technology, Primary",
+      "ageRange": "Primary (c3 - 11/12 years)",
+      "name": "Primary with ICT and Computing",
+      "slug": "primary-with-ict-and-computing",
+      "route": "Higher Education programme",
+      "qualifications": "QTS",
+      "providerCode": "E28",
+      "programmeCode": "2CZ2",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "Student Admissions Office, 4-6 University way, London, E16 2RD",
+          "code": ""
+        }
+      ],
+      "options": [
+        "QTS full time"
+      ]
+    },
+    {
+      "regions": "London",
+      "accrediting": "University of East London",
+      "subjects": "Mathematics, Primary",
+      "ageRange": "Primary (c3 - 11/12 years)",
+      "name": "Primary with Mathematics",
+      "slug": "primary-with-mathematics",
+      "route": "Higher Education programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "E28",
+      "programmeCode": "XG1C",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "Student Admissions Office, 4-6 University way, London, E16 2RD",
+          "code": ""
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "London",
+      "accrediting": "University of East London",
+      "subjects": "Languages, Primary",
+      "ageRange": "Primary (c3 - 11/12 years)",
+      "name": "Primary with Modern Languages",
+      "slug": "primary-with-modern-languages",
+      "route": "Higher Education programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "E28",
+      "programmeCode": "XRC9",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "Student Admissions Office, 4-6 University way, London, E16 2RD",
+          "code": ""
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "London",
+      "accrediting": "University of East London",
+      "subjects": "Music, Primary",
+      "ageRange": "Primary (c3 - 11/12 years)",
+      "name": "Primary with Music",
+      "slug": "primary-with-music",
+      "route": "Higher Education programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "E28",
+      "programmeCode": "2CYY",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "Student Admissions Office, 4-6 University way, London, E16 2RD",
+          "code": ""
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "London",
+      "accrediting": "University of East London",
+      "subjects": "Physical education, Primary",
+      "ageRange": "Primary (c3 - 11/12 years)",
+      "name": "Primary with Physical Education",
+      "slug": "primary-with-physical-education",
+      "route": "Higher Education programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "E28",
+      "programmeCode": "2MZL",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "Student Admissions Office, 4-6 University way, London, E16 2RD",
+          "code": ""
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "London",
+      "accrediting": "University of East London",
+      "subjects": "Primary, Special educational needs",
+      "ageRange": "Primary (c3 - 11/12 years)",
+      "name": "Primary with SEN (Inclusion)",
+      "slug": "primary-with-sen-inclusion",
+      "route": "Higher Education programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "E28",
+      "programmeCode": "X1L5",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "Student Admissions Office, 4-6 University way, London, E16 2RD",
+          "code": ""
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "London",
+      "accrediting": "University of East London",
+      "subjects": "Primary, Special educational needs",
+      "ageRange": "Primary (c3 - 11/12 years)",
+      "name": "Primary with SEN (Special Schools)",
+      "slug": "primary-with-sen-special-schools",
+      "route": "Higher Education programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "E28",
+      "programmeCode": "XL15",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "Student Admissions Office, 4-6 University way, London, E16 2RD",
+          "code": ""
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "London",
+      "accrediting": "University of East London",
+      "subjects": "Primary, Science",
+      "ageRange": "Primary (c3 - 11/12 years)",
+      "name": "Primary with Science",
+      "slug": "primary-with-science",
+      "route": "Higher Education programme",
+      "qualifications": "QTS",
+      "providerCode": "E28",
+      "programmeCode": "2CZ3",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "Student Admissions Office, 4-6 University way, London, E16 2RD",
+          "code": ""
+        }
+      ],
+      "options": [
+        "QTS full time"
+      ]
+    },
+    {
+      "regions": "London",
+      "accrediting": "University of East London",
+      "subjects": "Religious education, Secondary",
+      "ageRange": "Secondary (11+ years)",
+      "name": "Religious Education",
+      "slug": "religious-education",
+      "route": "Higher Education programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "E28",
+      "programmeCode": "V6X1",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "Student Admissions Office, 4-6 University way, London, E16 2RD",
+          "code": ""
         }
       ],
       "options": [
@@ -193,14 +677,14 @@
   "schools": [
     {
       "name": "Main Site",
-      "address": "Donegal Street, Islington, London, N1 9QG",
-      "code": "-"
+      "address": "Student Admissions Office, 4-6 University way, London, E16 2RD",
+      "code": ""
     }
   ],
   "accreditors": [
     {
-      "name": "UCL, University College London (University of London",
-      "slug": "ucl-university-college-london-university-of-london",
+      "name": "University of East London",
+      "slug": "university-of-east-london",
       "subjects": [
         {
           "name": "Biology",
@@ -209,6 +693,18 @@
         {
           "name": "Chemistry",
           "slug": "chemistry"
+        },
+        {
+          "name": "Community Languages",
+          "slug": "community-languages"
+        },
+        {
+          "name": "Computing",
+          "slug": "computing"
+        },
+        {
+          "name": "Drama",
+          "slug": "drama"
         },
         {
           "name": "English",
@@ -223,21 +719,97 @@
           "slug": "mathematics"
         },
         {
-          "name": "Modern Languages",
-          "slug": "modern-languages"
+          "name": "Modern Languages (French with German)",
+          "slug": "modern-languages-french-with-german"
+        },
+        {
+          "name": "Modern Languages (French with Italian)",
+          "slug": "modern-languages-french-with-italian"
+        },
+        {
+          "name": "Modern Languages (French with Spanish)",
+          "slug": "modern-languages-french-with-spanish"
+        },
+        {
+          "name": "Modern Languages (French)",
+          "slug": "modern-languages-french"
+        },
+        {
+          "name": "Modern Languages (German with French)",
+          "slug": "modern-languages-german-with-french"
+        },
+        {
+          "name": "Modern Languages (Spanish with French)",
+          "slug": "modern-languages-spanish-with-french"
+        },
+        {
+          "name": "Music",
+          "slug": "music"
+        },
+        {
+          "name": "Physical Education",
+          "slug": "physical-education"
         },
         {
           "name": "Physics",
           "slug": "physics"
         },
         {
-          "name": "Primary",
-          "slug": "primary"
+          "name": "Primary with Early Years (3-7)",
+          "slug": "primary-with-early-years-3-7"
+        },
+        {
+          "name": "Primary with English",
+          "slug": "primary-with-english"
+        },
+        {
+          "name": "Primary with English as an Additional Language",
+          "slug": "primary-with-english-as-an-additional-language"
+        },
+        {
+          "name": "Primary with Humanities and Religious Education",
+          "slug": "primary-with-humanities-and-religious-education"
+        },
+        {
+          "name": "Primary with ICT and Computing",
+          "slug": "primary-with-ict-and-computing"
+        },
+        {
+          "name": "Primary with Mathematics",
+          "slug": "primary-with-mathematics"
+        },
+        {
+          "name": "Primary with Modern Languages",
+          "slug": "primary-with-modern-languages"
+        },
+        {
+          "name": "Primary with Music",
+          "slug": "primary-with-music"
+        },
+        {
+          "name": "Primary with Physical Education",
+          "slug": "primary-with-physical-education"
+        },
+        {
+          "name": "Primary with SEN (Inclusion)",
+          "slug": "primary-with-sen-inclusion"
+        },
+        {
+          "name": "Primary with SEN (Special Schools)",
+          "slug": "primary-with-sen-special-schools"
+        },
+        {
+          "name": "Primary with Science",
+          "slug": "primary-with-science"
+        },
+        {
+          "name": "Religious Education",
+          "slug": "religious-education"
         }
       ]
     }
   ],
-  "self_accrediting": false,
+  "self_accrediting": true,
   "subjects": [
     {
       "name": "Biology",
@@ -246,6 +818,18 @@
     {
       "name": "Chemistry",
       "slug": "chemistry"
+    },
+    {
+      "name": "Community Languages",
+      "slug": "community-languages"
+    },
+    {
+      "name": "Computing",
+      "slug": "computing"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
     },
     {
       "name": "English",
@@ -260,25 +844,101 @@
       "slug": "mathematics"
     },
     {
-      "name": "Modern Languages",
-      "slug": "modern-languages"
+      "name": "Modern Languages (French with German)",
+      "slug": "modern-languages-french-with-german"
+    },
+    {
+      "name": "Modern Languages (French with Italian)",
+      "slug": "modern-languages-french-with-italian"
+    },
+    {
+      "name": "Modern Languages (French with Spanish)",
+      "slug": "modern-languages-french-with-spanish"
+    },
+    {
+      "name": "Modern Languages (French)",
+      "slug": "modern-languages-french"
+    },
+    {
+      "name": "Modern Languages (German with French)",
+      "slug": "modern-languages-german-with-french"
+    },
+    {
+      "name": "Modern Languages (Spanish with French)",
+      "slug": "modern-languages-spanish-with-french"
+    },
+    {
+      "name": "Music",
+      "slug": "music"
+    },
+    {
+      "name": "Physical Education",
+      "slug": "physical-education"
     },
     {
       "name": "Physics",
       "slug": "physics"
     },
     {
-      "name": "Primary",
-      "slug": "primary"
+      "name": "Primary with Early Years (3-7)",
+      "slug": "primary-with-early-years-3-7"
+    },
+    {
+      "name": "Primary with English",
+      "slug": "primary-with-english"
+    },
+    {
+      "name": "Primary with English as an Additional Language",
+      "slug": "primary-with-english-as-an-additional-language"
+    },
+    {
+      "name": "Primary with Humanities and Religious Education",
+      "slug": "primary-with-humanities-and-religious-education"
+    },
+    {
+      "name": "Primary with ICT and Computing",
+      "slug": "primary-with-ict-and-computing"
+    },
+    {
+      "name": "Primary with Mathematics",
+      "slug": "primary-with-mathematics"
+    },
+    {
+      "name": "Primary with Modern Languages",
+      "slug": "primary-with-modern-languages"
+    },
+    {
+      "name": "Primary with Music",
+      "slug": "primary-with-music"
+    },
+    {
+      "name": "Primary with Physical Education",
+      "slug": "primary-with-physical-education"
+    },
+    {
+      "name": "Primary with SEN (Inclusion)",
+      "slug": "primary-with-sen-inclusion"
+    },
+    {
+      "name": "Primary with SEN (Special Schools)",
+      "slug": "primary-with-sen-special-schools"
+    },
+    {
+      "name": "Primary with Science",
+      "slug": "primary-with-science"
+    },
+    {
+      "name": "Religious Education",
+      "slug": "religious-education"
     }
   ],
   "folded_courses": {
-    "UCL, University College London (University of London": [
+    "University of East London": [
       {
         "name": "Biology",
         "courses": 1,
         "accrediting": [
-          "UCL, University College London (University of London"
+          "University of East London"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
@@ -299,7 +959,70 @@
         "name": "Chemistry",
         "courses": 1,
         "accrediting": [
-          "UCL, University College London (University of London"
+          "University of East London"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Main Site"
+        ],
+        "options": [
+          "PGCE with QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Community Languages",
+        "courses": 1,
+        "accrediting": [
+          "University of East London"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Main Site"
+        ],
+        "options": [
+          "PGCE with QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Computing",
+        "courses": 1,
+        "accrediting": [
+          "University of East London"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Main Site"
+        ],
+        "options": [
+          "PGCE with QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Drama",
+        "courses": 1,
+        "accrediting": [
+          "University of East London"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
@@ -320,7 +1043,7 @@
         "name": "English",
         "courses": 1,
         "accrediting": [
-          "UCL, University College London (University of London"
+          "University of East London"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
@@ -341,7 +1064,7 @@
         "name": "Geography",
         "courses": 1,
         "accrediting": [
-          "UCL, University College London (University of London"
+          "University of East London"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
@@ -362,7 +1085,7 @@
         "name": "Mathematics",
         "courses": 1,
         "accrediting": [
-          "UCL, University College London (University of London"
+          "University of East London"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
@@ -380,10 +1103,157 @@
         }
       },
       {
-        "name": "Modern Languages",
+        "name": "Modern Languages (French with German)",
         "courses": 1,
         "accrediting": [
-          "UCL, University College London (University of London"
+          "University of East London"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Main Site"
+        ],
+        "options": [
+          "PGCE with QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Modern Languages (French with Italian)",
+        "courses": 1,
+        "accrediting": [
+          "University of East London"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Main Site"
+        ],
+        "options": [
+          "PGCE with QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Modern Languages (French with Spanish)",
+        "courses": 1,
+        "accrediting": [
+          "University of East London"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Main Site"
+        ],
+        "options": [
+          "PGCE with QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Modern Languages (French)",
+        "courses": 1,
+        "accrediting": [
+          "University of East London"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Main Site"
+        ],
+        "options": [
+          "PGCE with QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Modern Languages (German with French)",
+        "courses": 1,
+        "accrediting": [
+          "University of East London"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Main Site"
+        ],
+        "options": [
+          "PGCE with QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Modern Languages (Spanish with French)",
+        "courses": 1,
+        "accrediting": [
+          "University of East London"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Main Site"
+        ],
+        "options": [
+          "PGCE with QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Music",
+        "courses": 1,
+        "accrediting": [
+          "University of East London"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Main Site"
+        ],
+        "options": [
+          "PGCE with QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Physical Education",
+        "courses": 1,
+        "accrediting": [
+          "University of East London"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
@@ -404,7 +1274,7 @@
         "name": "Physics",
         "courses": 1,
         "accrediting": [
-          "UCL, University College London (University of London"
+          "University of East London"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
@@ -422,10 +1292,262 @@
         }
       },
       {
-        "name": "Primary",
+        "name": "Primary with Early Years (3-7)",
         "courses": 1,
         "accrediting": [
-          "UCL, University College London (University of London"
+          "University of East London"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Main Site"
+        ],
+        "options": [
+          "PGCE with QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Primary with English",
+        "courses": 1,
+        "accrediting": [
+          "University of East London"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Main Site"
+        ],
+        "options": [
+          "PGCE with QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Primary with English as an Additional Language",
+        "courses": 1,
+        "accrediting": [
+          "University of East London"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Main Site"
+        ],
+        "options": [
+          "PGCE with QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Primary with Humanities and Religious Education",
+        "courses": 1,
+        "accrediting": [
+          "University of East London"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Main Site"
+        ],
+        "options": [
+          "QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Primary with ICT and Computing",
+        "courses": 1,
+        "accrediting": [
+          "University of East London"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Main Site"
+        ],
+        "options": [
+          "QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Primary with Mathematics",
+        "courses": 1,
+        "accrediting": [
+          "University of East London"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Main Site"
+        ],
+        "options": [
+          "PGCE with QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Primary with Modern Languages",
+        "courses": 1,
+        "accrediting": [
+          "University of East London"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Main Site"
+        ],
+        "options": [
+          "PGCE with QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Primary with Music",
+        "courses": 1,
+        "accrediting": [
+          "University of East London"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Main Site"
+        ],
+        "options": [
+          "PGCE with QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Primary with Physical Education",
+        "courses": 1,
+        "accrediting": [
+          "University of East London"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Main Site"
+        ],
+        "options": [
+          "PGCE with QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Primary with SEN (Inclusion)",
+        "courses": 1,
+        "accrediting": [
+          "University of East London"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Main Site"
+        ],
+        "options": [
+          "PGCE with QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Primary with SEN (Special Schools)",
+        "courses": 1,
+        "accrediting": [
+          "University of East London"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Main Site"
+        ],
+        "options": [
+          "PGCE with QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Primary with Science",
+        "courses": 1,
+        "accrediting": [
+          "University of East London"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Main Site"
+        ],
+        "options": [
+          "QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Religious Education",
+        "courses": 1,
+        "accrediting": [
+          "University of East London"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
@@ -445,6 +1567,7 @@
     ]
   },
   "options": [
-    "PGCE with QTS full time"
+    "PGCE with QTS full time",
+    "QTS full time"
   ]
 }
