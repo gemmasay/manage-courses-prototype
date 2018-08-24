@@ -1,188 +1,34 @@
 {
   "multi-organisation": false,
-  "training-provider-name": "Angel Islington Teaching School Alliance",
-  "provider-code-name": "A2602",
-  "provider-code": "2BZ",
+  "training-provider-name": "North East Partnership SCITT (Physical Education)",
+  "provider-code-name": "NEP",
+  "provider-code": "N55",
   "address-line-1": "123 Baker Street",
   "town": "London",
   "postcode": "SW1 1AA",
   "telephone": "0208 123 4567",
   "email": "someemail@not-an-email.com",
-  "website": "http://www.egaschool.co.uk/244/the-angel-islington-teaching-school-alliance",
+  "website": "https://www.nepscitt.co.uk/",
   "templates": [
 
   ],
   "ucasCourses": [
     {
-      "regions": "London",
-      "accrediting": "UCL, University College London (University of London",
-      "subjects": "Biology, Science, Secondary",
+      "regions": "North East",
+      "accrediting": "North East Partnership SCITT (Physical Education)",
+      "subjects": "Physical education, Secondary",
       "ageRange": "Secondary (11+ years)",
-      "name": "Biology",
-      "slug": "biology",
-      "route": "School Direct training programme",
-      "qualifications": "QTS, Postgraduate",
-      "providerCode": "2BZ",
-      "programmeCode": "2YCF",
+      "name": "Physical Education",
+      "slug": "physical-education",
+      "route": "SCITT (School Centred Initial Teacher Training) programme",
+      "qualifications": "QTS, Postgraduate, Professional",
+      "providerCode": "N55",
+      "programmeCode": "2LFK",
       "schools": [
         {
           "name": "Main Site",
-          "address": "Donegal Street, Islington, London, N1 9QG",
-          "code": "-"
-        }
-      ],
-      "options": [
-        "PGCE with QTS full time"
-      ]
-    },
-    {
-      "regions": "London",
-      "accrediting": "UCL, University College London (University of London",
-      "subjects": "Chemistry, Science, Secondary",
-      "ageRange": "Secondary (11+ years)",
-      "name": "Chemistry",
-      "slug": "chemistry",
-      "route": "School Direct training programme",
-      "qualifications": "QTS, Postgraduate",
-      "providerCode": "2BZ",
-      "programmeCode": "2YN3",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "Donegal Street, Islington, London, N1 9QG",
-          "code": "-"
-        }
-      ],
-      "options": [
-        "PGCE with QTS full time"
-      ]
-    },
-    {
-      "regions": "London",
-      "accrediting": "UCL, University College London (University of London",
-      "subjects": "English, Secondary",
-      "ageRange": "Secondary (11+ years)",
-      "name": "English",
-      "slug": "english",
-      "route": "School Direct training programme",
-      "qualifications": "QTS, Postgraduate",
-      "providerCode": "2BZ",
-      "programmeCode": "2YNS",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "Donegal Street, Islington, London, N1 9QG",
-          "code": "-"
-        }
-      ],
-      "options": [
-        "PGCE with QTS full time"
-      ]
-    },
-    {
-      "regions": "London",
-      "accrediting": "UCL, University College London (University of London",
-      "subjects": "Geography, Secondary",
-      "ageRange": "Secondary (11+ years)",
-      "name": "Geography",
-      "slug": "geography",
-      "route": "School Direct training programme",
-      "qualifications": "QTS, Postgraduate",
-      "providerCode": "2BZ",
-      "programmeCode": "37KD",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "Donegal Street, Islington, London, N1 9QG",
-          "code": "-"
-        }
-      ],
-      "options": [
-        "PGCE with QTS full time"
-      ]
-    },
-    {
-      "regions": "London",
-      "accrediting": "UCL, University College London (University of London",
-      "subjects": "Mathematics, Secondary",
-      "ageRange": "Secondary (11+ years)",
-      "name": "Mathematics",
-      "slug": "mathematics",
-      "route": "School Direct training programme",
-      "qualifications": "QTS, Postgraduate",
-      "providerCode": "2BZ",
-      "programmeCode": "2YNR",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "Donegal Street, Islington, London, N1 9QG",
-          "code": "-"
-        }
-      ],
-      "options": [
-        "PGCE with QTS full time"
-      ]
-    },
-    {
-      "regions": "London",
-      "accrediting": "UCL, University College London (University of London",
-      "subjects": "Languages, Secondary",
-      "ageRange": "Secondary (11+ years)",
-      "name": "Modern Languages",
-      "slug": "modern-languages",
-      "route": "School Direct training programme",
-      "qualifications": "QTS, Postgraduate",
-      "providerCode": "2BZ",
-      "programmeCode": "37KG",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "Donegal Street, Islington, London, N1 9QG",
-          "code": "-"
-        }
-      ],
-      "options": [
-        "PGCE with QTS full time"
-      ]
-    },
-    {
-      "regions": "London",
-      "accrediting": "UCL, University College London (University of London",
-      "subjects": "Physics, Science, Secondary",
-      "ageRange": "Secondary (11+ years)",
-      "name": "Physics",
-      "slug": "physics",
-      "route": "School Direct training programme",
-      "qualifications": "QTS, Postgraduate",
-      "providerCode": "2BZ",
-      "programmeCode": "2YNQ",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "Donegal Street, Islington, London, N1 9QG",
-          "code": "-"
-        }
-      ],
-      "options": [
-        "PGCE with QTS full time"
-      ]
-    },
-    {
-      "regions": "London",
-      "accrediting": "UCL, University College London (University of London",
-      "subjects": "Primary",
-      "ageRange": "Primary (c3 - 11/12 years)",
-      "name": "Primary",
-      "slug": "primary",
-      "route": "School Direct training programme",
-      "qualifications": "QTS, Postgraduate",
-      "providerCode": "2BZ",
-      "programmeCode": "2YNV",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "Donegal Street, Islington, London, N1 9QG",
-          "code": "-"
+          "address": "John Spence Community HS, Preston Road, North Shields, Tyne and Wear, NE29 9PU",
+          "code": ""
         }
       ],
       "options": [
@@ -193,239 +39,36 @@
   "schools": [
     {
       "name": "Main Site",
-      "address": "Donegal Street, Islington, London, N1 9QG",
-      "code": "-"
+      "address": "John Spence Community HS, Preston Road, North Shields, Tyne and Wear, NE29 9PU",
+      "code": ""
     }
   ],
   "accreditors": [
     {
-      "name": "UCL, University College London (University of London",
-      "slug": "ucl-university-college-london-university-of-london",
+      "name": "North East Partnership SCITT (Physical Education)",
+      "slug": "north-east-partnership-scitt-physical-education",
       "subjects": [
         {
-          "name": "Biology",
-          "slug": "biology"
-        },
-        {
-          "name": "Chemistry",
-          "slug": "chemistry"
-        },
-        {
-          "name": "English",
-          "slug": "english"
-        },
-        {
-          "name": "Geography",
-          "slug": "geography"
-        },
-        {
-          "name": "Mathematics",
-          "slug": "mathematics"
-        },
-        {
-          "name": "Modern Languages",
-          "slug": "modern-languages"
-        },
-        {
-          "name": "Physics",
-          "slug": "physics"
-        },
-        {
-          "name": "Primary",
-          "slug": "primary"
+          "name": "Physical Education",
+          "slug": "physical-education"
         }
       ]
     }
   ],
-  "self_accrediting": false,
+  "self_accrediting": true,
   "subjects": [
     {
-      "name": "Biology",
-      "slug": "biology"
-    },
-    {
-      "name": "Chemistry",
-      "slug": "chemistry"
-    },
-    {
-      "name": "English",
-      "slug": "english"
-    },
-    {
-      "name": "Geography",
-      "slug": "geography"
-    },
-    {
-      "name": "Mathematics",
-      "slug": "mathematics"
-    },
-    {
-      "name": "Modern Languages",
-      "slug": "modern-languages"
-    },
-    {
-      "name": "Physics",
-      "slug": "physics"
-    },
-    {
-      "name": "Primary",
-      "slug": "primary"
+      "name": "Physical Education",
+      "slug": "physical-education"
     }
   ],
   "folded_courses": {
-    "UCL, University College London (University of London": [
+    "North East Partnership SCITT (Physical Education)": [
       {
-        "name": "Biology",
+        "name": "Physical Education",
         "courses": 1,
         "accrediting": [
-          "UCL, University College London (University of London"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Main Site"
-        ],
-        "options": [
-          "PGCE with QTS full time"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": false,
-          "qualifications": false
-        }
-      },
-      {
-        "name": "Chemistry",
-        "courses": 1,
-        "accrediting": [
-          "UCL, University College London (University of London"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Main Site"
-        ],
-        "options": [
-          "PGCE with QTS full time"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": false,
-          "qualifications": false
-        }
-      },
-      {
-        "name": "English",
-        "courses": 1,
-        "accrediting": [
-          "UCL, University College London (University of London"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Main Site"
-        ],
-        "options": [
-          "PGCE with QTS full time"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": false,
-          "qualifications": false
-        }
-      },
-      {
-        "name": "Geography",
-        "courses": 1,
-        "accrediting": [
-          "UCL, University College London (University of London"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Main Site"
-        ],
-        "options": [
-          "PGCE with QTS full time"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": false,
-          "qualifications": false
-        }
-      },
-      {
-        "name": "Mathematics",
-        "courses": 1,
-        "accrediting": [
-          "UCL, University College London (University of London"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Main Site"
-        ],
-        "options": [
-          "PGCE with QTS full time"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": false,
-          "qualifications": false
-        }
-      },
-      {
-        "name": "Modern Languages",
-        "courses": 1,
-        "accrediting": [
-          "UCL, University College London (University of London"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Main Site"
-        ],
-        "options": [
-          "PGCE with QTS full time"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": false,
-          "qualifications": false
-        }
-      },
-      {
-        "name": "Physics",
-        "courses": 1,
-        "accrediting": [
-          "UCL, University College London (University of London"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Main Site"
-        ],
-        "options": [
-          "PGCE with QTS full time"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": false,
-          "qualifications": false
-        }
-      },
-      {
-        "name": "Primary",
-        "courses": 1,
-        "accrediting": [
-          "UCL, University College London (University of London"
+          "North East Partnership SCITT (Physical Education)"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
