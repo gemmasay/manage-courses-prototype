@@ -5,7 +5,7 @@ require 'json'
 
 file = File.read('courses-clean.json')
 data = JSON.parse(file)
-provider = 'Angel Islington Teaching School Alliance'
+provider = 'Bitterne Park Teaching School Alliance'
 courses = data.select {|c| c['provider'] == provider }
 
 prototype_data = {
@@ -18,7 +18,7 @@ prototype_data = {
   'postcode': 'SW1 1AA',
   'telephone': '0208 123 4567',
   'email': 'someemail@not-an-email.com',
-  'website': 'http://www.egaschool.co.uk/244/the-angel-islington-teaching-school-alliance',
+  'website': 'http://www.bitterneparkschool.org.uk/teaching-schools/',
   'templates': []
 }
 
