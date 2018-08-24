@@ -1,34 +1,64 @@
 {
   "multi-organisation": false,
-  "training-provider-name": "Angel Islington Teaching School Alliance",
-  "provider-code-name": "A2602",
-  "provider-code": "2BZ",
+  "training-provider-name": "The Sheffield SCITT",
+  "provider-code-name": "A2221",
+  "provider-code": "S97",
   "address-line-1": "123 Baker Street",
   "town": "London",
   "postcode": "SW1 1AA",
   "telephone": "0208 123 4567",
   "email": "someemail@not-an-email.com",
-  "website": "http://www.egaschool.co.uk/244/the-angel-islington-teaching-school-alliance",
+  "website": "http://www.notredame-high.co.uk/index.php/parents-news/item/962-scitt",
   "templates": [
 
   ],
   "ucasCourses": [
     {
-      "regions": "London",
-      "accrediting": "UCL, University College London (University of London",
+      "regions": "Yorkshire & the Humber",
+      "accrediting": "The Sheffield SCITT",
       "subjects": "Biology, Science, Secondary",
       "ageRange": "Secondary (11+ years)",
       "name": "Biology",
       "slug": "biology",
-      "route": "School Direct training programme",
-      "qualifications": "QTS, Postgraduate",
-      "providerCode": "2BZ",
-      "programmeCode": "2YCF",
+      "route": "SCITT (School Centred Initial Teacher Training) programme",
+      "qualifications": "QTS, Postgraduate, Professional",
+      "providerCode": "S97",
+      "programmeCode": "2FNV",
       "schools": [
         {
           "name": "Main Site",
-          "address": "Donegal Street, Islington, London, N1 9QG",
+          "address": "Notre Dame High School, Fulwood Road, Sheffield, South Yorkshire, S10 3BT",
           "code": "-"
+        },
+        {
+          "name": "All Saints Catholic High School",
+          "address": "Granville Rd, Sheffield, S2 2RJ",
+          "code": "K"
+        },
+        {
+          "name": "High Storrs School",
+          "address": "High Storrs Rd, Sheffield, S11 7LH",
+          "code": "M"
+        },
+        {
+          "name": "UTC Sheffield",
+          "address": "111 Matilda Street, Sheffield, S1 4QF",
+          "code": "O"
+        },
+        {
+          "name": "Sheffield Park Academy",
+          "address": "Beaumont Rd, Sheffield, S2 1SN",
+          "code": "P"
+        },
+        {
+          "name": "Bradfield School",
+          "address": "Kirk Edge Rd, Sheffield, S35 0AE",
+          "code": "Q"
+        },
+        {
+          "name": "Stocksbridge High School",
+          "address": "Shay House Ln, Stocksbridge, S36 1FD",
+          "code": "R"
         }
       ],
       "options": [
@@ -36,20 +66,72 @@
       ]
     },
     {
-      "regions": "London",
-      "accrediting": "UCL, University College London (University of London",
+      "regions": "Yorkshire & the Humber",
+      "accrediting": "The Sheffield SCITT",
       "subjects": "Chemistry, Science, Secondary",
       "ageRange": "Secondary (11+ years)",
       "name": "Chemistry",
       "slug": "chemistry",
-      "route": "School Direct training programme",
-      "qualifications": "QTS, Postgraduate",
-      "providerCode": "2BZ",
-      "programmeCode": "2YN3",
+      "route": "SCITT (School Centred Initial Teacher Training) programme",
+      "qualifications": "QTS, Postgraduate, Professional",
+      "providerCode": "S97",
+      "programmeCode": "2FNS",
       "schools": [
         {
           "name": "Main Site",
-          "address": "Donegal Street, Islington, London, N1 9QG",
+          "address": "Notre Dame High School, Fulwood Road, Sheffield, South Yorkshire, S10 3BT",
+          "code": "-"
+        },
+        {
+          "name": "All Saints Catholic High School",
+          "address": "Granville Rd, Sheffield, S2 2RJ",
+          "code": "K"
+        },
+        {
+          "name": "High Storrs School",
+          "address": "High Storrs Rd, Sheffield, S11 7LH",
+          "code": "M"
+        },
+        {
+          "name": "UTC Sheffield",
+          "address": "111 Matilda Street, Sheffield, S1 4QF",
+          "code": "O"
+        },
+        {
+          "name": "Sheffield Park Academy",
+          "address": "Beaumont Rd, Sheffield, S2 1SN",
+          "code": "P"
+        },
+        {
+          "name": "Bradfield School",
+          "address": "Kirk Edge Rd, Sheffield, S35 0AE",
+          "code": "Q"
+        },
+        {
+          "name": "Stocksbridge High School",
+          "address": "Shay House Ln, Stocksbridge, S36 1FD",
+          "code": "R"
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "Yorkshire & the Humber",
+      "accrediting": "The Sheffield SCITT",
+      "subjects": "Design and technology, Secondary",
+      "ageRange": "Secondary (11+ years)",
+      "name": "Design and Technology",
+      "slug": "design-and-technology",
+      "route": "SCITT (School Centred Initial Teacher Training) programme",
+      "qualifications": "QTS, Postgraduate, Professional",
+      "providerCode": "S97",
+      "programmeCode": "35RM",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "Notre Dame High School, Fulwood Road, Sheffield, South Yorkshire, S10 3BT",
           "code": "-"
         }
       ],
@@ -58,20 +140,72 @@
       ]
     },
     {
-      "regions": "London",
-      "accrediting": "UCL, University College London (University of London",
+      "regions": "Yorkshire & the Humber",
+      "accrediting": "The Sheffield SCITT",
       "subjects": "English, Secondary",
       "ageRange": "Secondary (11+ years)",
       "name": "English",
       "slug": "english",
-      "route": "School Direct training programme",
-      "qualifications": "QTS, Postgraduate",
-      "providerCode": "2BZ",
-      "programmeCode": "2YNS",
+      "route": "SCITT (School Centred Initial Teacher Training) programme",
+      "qualifications": "QTS, Postgraduate, Professional",
+      "providerCode": "S97",
+      "programmeCode": "2FNQ",
       "schools": [
         {
           "name": "Main Site",
-          "address": "Donegal Street, Islington, London, N1 9QG",
+          "address": "Notre Dame High School, Fulwood Road, Sheffield, South Yorkshire, S10 3BT",
+          "code": "-"
+        },
+        {
+          "name": "All Saints Catholic High School",
+          "address": "Granville Rd, Sheffield, S2 2RJ",
+          "code": "K"
+        },
+        {
+          "name": "High Storrs School",
+          "address": "High Storrs Rd, Sheffield, S11 7LH",
+          "code": "M"
+        },
+        {
+          "name": "UTC Sheffield",
+          "address": "111 Matilda Street, Sheffield, S1 4QF",
+          "code": "O"
+        },
+        {
+          "name": "Sheffield Park Academy",
+          "address": "Beaumont Rd, Sheffield, S2 1SN",
+          "code": "P"
+        },
+        {
+          "name": "Bradfield School",
+          "address": "Kirk Edge Rd, Sheffield, S35 0AE",
+          "code": "Q"
+        },
+        {
+          "name": "Stocksbridge High School",
+          "address": "Shay House Ln, Stocksbridge, S36 1FD",
+          "code": "R"
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "Yorkshire & the Humber",
+      "accrediting": "The Sheffield SCITT",
+      "subjects": "Design and technology, Design and technology (food), Secondary",
+      "ageRange": "Secondary (11+ years)",
+      "name": "Food",
+      "slug": "food",
+      "route": "SCITT (School Centred Initial Teacher Training) programme",
+      "qualifications": "QTS, Postgraduate, Professional",
+      "providerCode": "S97",
+      "programmeCode": "35RL",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "Notre Dame High School, Fulwood Road, Sheffield, South Yorkshire, S10 3BT",
           "code": "-"
         }
       ],
@@ -80,21 +214,143 @@
       ]
     },
     {
-      "regions": "London",
-      "accrediting": "UCL, University College London (University of London",
+      "regions": "Yorkshire & the Humber",
+      "accrediting": "The Sheffield SCITT",
+      "subjects": "Primary",
+      "ageRange": "Primary (c3 - 11/12 years)",
+      "name": "General Primary",
+      "slug": "general-primary",
+      "route": "SCITT (School Centred Initial Teacher Training) programme",
+      "qualifications": "QTS, Postgraduate, Professional",
+      "providerCode": "S97",
+      "programmeCode": "2FMY",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "Notre Dame High School, Fulwood Road, Sheffield, South Yorkshire, S10 3BT",
+          "code": "-"
+        },
+        {
+          "name": "St Catherine's Catholic Primary School",
+          "address": "Firshill Crescent, Sheffield, S4 7BX",
+          "code": "A"
+        },
+        {
+          "name": "St Marie's Catholic Primary School",
+          "address": "Fulwood Rd, Sheffield, S10 3DQ",
+          "code": "B"
+        },
+        {
+          "name": "St Wilfrid's Catholic Primary School",
+          "address": "Millhouses Lane, Sheffield, S7 2HE",
+          "code": "C"
+        },
+        {
+          "name": "Hunters Bar Infant School",
+          "address": "Sharrow Vale Rd, Sheffield, S11 8ZG",
+          "code": "E"
+        },
+        {
+          "name": "Dobcroft Infant School",
+          "address": "Pingle Rd, Sheffield, S7 2LN",
+          "code": "F"
+        },
+        {
+          "name": "Ecclesall Infant School",
+          "address": "High Storrs Rd, Sheffield, S11 7LG",
+          "code": "G"
+        },
+        {
+          "name": "St Thomas More Catholic Primary School",
+          "address": "Creswick Lane, Grenoside, Sheffield, S35 8NN",
+          "code": "J"
+        },
+        {
+          "name": "Ecclesall Junior School",
+          "address": "Ringinglow Rd, Sheffield, S11 7PQ",
+          "code": "S"
+        },
+        {
+          "name": "Our Lady and St Joseph's Catholic Primary School",
+          "address": "Fitzwilliam St, Rotherham, S63 7HG",
+          "code": "T"
+        },
+        {
+          "name": "St Mary's Primary School, High Green",
+          "address": "Pack Horse La, Sheffield, S35 3HY",
+          "code": "U"
+        },
+        {
+          "name": "Highgate Primary Academy",
+          "address": "Nicholas Lane, Goldthorpe, Rotherham, S63 9AS",
+          "code": "W"
+        },
+        {
+          "name": "St Jospeph's School A Catholic Voluntary Academy",
+          "address": "Bevan Avenue, Rossington, Doncaster, DN11 0NB",
+          "code": "X"
+        },
+        {
+          "name": "Watercliffe Meadow Primary School",
+          "address": "Boynton Road, Sheffield, S5 7HL",
+          "code": "Y"
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "Yorkshire & the Humber",
+      "accrediting": "The Sheffield SCITT",
       "subjects": "Geography, Secondary",
       "ageRange": "Secondary (11+ years)",
       "name": "Geography",
       "slug": "geography",
-      "route": "School Direct training programme",
-      "qualifications": "QTS, Postgraduate",
-      "providerCode": "2BZ",
-      "programmeCode": "37KD",
+      "route": "SCITT (School Centred Initial Teacher Training) programme",
+      "qualifications": "QTS, Postgraduate, Professional",
+      "providerCode": "S97",
+      "programmeCode": "2FNW",
       "schools": [
         {
           "name": "Main Site",
-          "address": "Donegal Street, Islington, London, N1 9QG",
+          "address": "Notre Dame High School, Fulwood Road, Sheffield, South Yorkshire, S10 3BT",
           "code": "-"
+        },
+        {
+          "name": "All Saints Catholic High School",
+          "address": "Granville Rd, Sheffield, S2 2RJ",
+          "code": "K"
+        },
+        {
+          "name": "High Storrs School",
+          "address": "High Storrs Rd, Sheffield, S11 7LH",
+          "code": "M"
+        },
+        {
+          "name": "UTC Sheffield",
+          "address": "111 Matilda Street, Sheffield, S1 4QF",
+          "code": "O"
+        },
+        {
+          "name": "Sheffield Park Academy",
+          "address": "Beaumont Rd, Sheffield, S2 1SN",
+          "code": "P"
+        },
+        {
+          "name": "Bradfield School",
+          "address": "Kirk Edge Rd, Sheffield, S35 0AE",
+          "code": "Q"
+        },
+        {
+          "name": "Stocksbridge High School",
+          "address": "Shay House Ln, Stocksbridge, S36 1FD",
+          "code": "R"
+        },
+        {
+          "name": "Handsworth Grange Community Sports College",
+          "address": "Handsworth Grange Road, Sheffield, S13 9HJ",
+          "code": "V"
         }
       ],
       "options": [
@@ -102,21 +358,108 @@
       ]
     },
     {
-      "regions": "London",
-      "accrediting": "UCL, University College London (University of London",
+      "regions": "Yorkshire & the Humber",
+      "accrediting": "The Sheffield SCITT",
+      "subjects": "History, Secondary",
+      "ageRange": "Secondary (11+ years)",
+      "name": "History",
+      "slug": "history",
+      "route": "SCITT (School Centred Initial Teacher Training) programme",
+      "qualifications": "QTS, Postgraduate, Professional",
+      "providerCode": "S97",
+      "programmeCode": "2FNX",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "Notre Dame High School, Fulwood Road, Sheffield, South Yorkshire, S10 3BT",
+          "code": "-"
+        },
+        {
+          "name": "All Saints Catholic High School",
+          "address": "Granville Rd, Sheffield, S2 2RJ",
+          "code": "K"
+        },
+        {
+          "name": "High Storrs School",
+          "address": "High Storrs Rd, Sheffield, S11 7LH",
+          "code": "M"
+        },
+        {
+          "name": "UTC Sheffield",
+          "address": "111 Matilda Street, Sheffield, S1 4QF",
+          "code": "O"
+        },
+        {
+          "name": "Sheffield Park Academy",
+          "address": "Beaumont Rd, Sheffield, S2 1SN",
+          "code": "P"
+        },
+        {
+          "name": "Bradfield School",
+          "address": "Kirk Edge Rd, Sheffield, S35 0AE",
+          "code": "Q"
+        },
+        {
+          "name": "Stocksbridge High School",
+          "address": "Shay House Ln, Stocksbridge, S36 1FD",
+          "code": "R"
+        },
+        {
+          "name": "Handsworth Grange Community Sports College",
+          "address": "Handsworth Grange Road, Sheffield, S13 9HJ",
+          "code": "V"
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "Yorkshire & the Humber",
+      "accrediting": "The Sheffield SCITT",
       "subjects": "Mathematics, Secondary",
       "ageRange": "Secondary (11+ years)",
       "name": "Mathematics",
       "slug": "mathematics",
-      "route": "School Direct training programme",
-      "qualifications": "QTS, Postgraduate",
-      "providerCode": "2BZ",
-      "programmeCode": "2YNR",
+      "route": "SCITT (School Centred Initial Teacher Training) programme",
+      "qualifications": "QTS, Postgraduate, Professional",
+      "providerCode": "S97",
+      "programmeCode": "2FNP",
       "schools": [
         {
           "name": "Main Site",
-          "address": "Donegal Street, Islington, London, N1 9QG",
+          "address": "Notre Dame High School, Fulwood Road, Sheffield, South Yorkshire, S10 3BT",
           "code": "-"
+        },
+        {
+          "name": "All Saints Catholic High School",
+          "address": "Granville Rd, Sheffield, S2 2RJ",
+          "code": "K"
+        },
+        {
+          "name": "High Storrs School",
+          "address": "High Storrs Rd, Sheffield, S11 7LH",
+          "code": "M"
+        },
+        {
+          "name": "UTC Sheffield",
+          "address": "111 Matilda Street, Sheffield, S1 4QF",
+          "code": "O"
+        },
+        {
+          "name": "Sheffield Park Academy",
+          "address": "Beaumont Rd, Sheffield, S2 1SN",
+          "code": "P"
+        },
+        {
+          "name": "Bradfield School",
+          "address": "Kirk Edge Rd, Sheffield, S35 0AE",
+          "code": "Q"
+        },
+        {
+          "name": "Stocksbridge High School",
+          "address": "Shay House Ln, Stocksbridge, S36 1FD",
+          "code": "R"
         }
       ],
       "options": [
@@ -124,43 +467,51 @@
       ]
     },
     {
-      "regions": "London",
-      "accrediting": "UCL, University College London (University of London",
-      "subjects": "Languages, Secondary",
-      "ageRange": "Secondary (11+ years)",
-      "name": "Modern Languages",
-      "slug": "modern-languages",
-      "route": "School Direct training programme",
-      "qualifications": "QTS, Postgraduate",
-      "providerCode": "2BZ",
-      "programmeCode": "37KG",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "Donegal Street, Islington, London, N1 9QG",
-          "code": "-"
-        }
-      ],
-      "options": [
-        "PGCE with QTS full time"
-      ]
-    },
-    {
-      "regions": "London",
-      "accrediting": "UCL, University College London (University of London",
+      "regions": "Yorkshire & the Humber",
+      "accrediting": "The Sheffield SCITT",
       "subjects": "Physics, Science, Secondary",
       "ageRange": "Secondary (11+ years)",
       "name": "Physics",
       "slug": "physics",
-      "route": "School Direct training programme",
-      "qualifications": "QTS, Postgraduate",
-      "providerCode": "2BZ",
-      "programmeCode": "2YNQ",
+      "route": "SCITT (School Centred Initial Teacher Training) programme",
+      "qualifications": "QTS, Postgraduate, Professional",
+      "providerCode": "S97",
+      "programmeCode": "2FNR",
       "schools": [
         {
           "name": "Main Site",
-          "address": "Donegal Street, Islington, London, N1 9QG",
+          "address": "Notre Dame High School, Fulwood Road, Sheffield, South Yorkshire, S10 3BT",
           "code": "-"
+        },
+        {
+          "name": "All Saints Catholic High School",
+          "address": "Granville Rd, Sheffield, S2 2RJ",
+          "code": "K"
+        },
+        {
+          "name": "High Storrs School",
+          "address": "High Storrs Rd, Sheffield, S11 7LH",
+          "code": "M"
+        },
+        {
+          "name": "UTC Sheffield",
+          "address": "111 Matilda Street, Sheffield, S1 4QF",
+          "code": "O"
+        },
+        {
+          "name": "Sheffield Park Academy",
+          "address": "Beaumont Rd, Sheffield, S2 1SN",
+          "code": "P"
+        },
+        {
+          "name": "Bradfield School",
+          "address": "Kirk Edge Rd, Sheffield, S35 0AE",
+          "code": "Q"
+        },
+        {
+          "name": "Stocksbridge High School",
+          "address": "Shay House Ln, Stocksbridge, S36 1FD",
+          "code": "R"
         }
       ],
       "options": [
@@ -168,21 +519,46 @@
       ]
     },
     {
-      "regions": "London",
-      "accrediting": "UCL, University College London (University of London",
-      "subjects": "Primary",
-      "ageRange": "Primary (c3 - 11/12 years)",
-      "name": "Primary",
-      "slug": "primary",
-      "route": "School Direct training programme",
-      "qualifications": "QTS, Postgraduate",
-      "providerCode": "2BZ",
-      "programmeCode": "2YNV",
+      "regions": "Yorkshire & the Humber",
+      "accrediting": "The Sheffield SCITT",
+      "subjects": "Religious education, Secondary",
+      "ageRange": "Secondary (11+ years)",
+      "name": "Religious Education",
+      "slug": "religious-education",
+      "route": "SCITT (School Centred Initial Teacher Training) programme",
+      "qualifications": "QTS, Postgraduate, Professional",
+      "providerCode": "S97",
+      "programmeCode": "2FNY",
       "schools": [
         {
           "name": "Main Site",
-          "address": "Donegal Street, Islington, London, N1 9QG",
+          "address": "Notre Dame High School, Fulwood Road, Sheffield, South Yorkshire, S10 3BT",
           "code": "-"
+        },
+        {
+          "name": "All Saints Catholic High School",
+          "address": "Granville Rd, Sheffield, S2 2RJ",
+          "code": "K"
+        },
+        {
+          "name": "High Storrs School",
+          "address": "High Storrs Rd, Sheffield, S11 7LH",
+          "code": "M"
+        },
+        {
+          "name": "Sheffield Park Academy",
+          "address": "Beaumont Rd, Sheffield, S2 1SN",
+          "code": "P"
+        },
+        {
+          "name": "Bradfield School",
+          "address": "Kirk Edge Rd, Sheffield, S35 0AE",
+          "code": "Q"
+        },
+        {
+          "name": "Stocksbridge High School",
+          "address": "Shay House Ln, Stocksbridge, S36 1FD",
+          "code": "R"
         }
       ],
       "options": [
@@ -192,15 +568,115 @@
   ],
   "schools": [
     {
+      "name": "All Saints Catholic High School",
+      "address": "Granville Rd, Sheffield, S2 2RJ",
+      "code": "K"
+    },
+    {
+      "name": "Bradfield School",
+      "address": "Kirk Edge Rd, Sheffield, S35 0AE",
+      "code": "Q"
+    },
+    {
+      "name": "Dobcroft Infant School",
+      "address": "Pingle Rd, Sheffield, S7 2LN",
+      "code": "F"
+    },
+    {
+      "name": "Ecclesall Infant School",
+      "address": "High Storrs Rd, Sheffield, S11 7LG",
+      "code": "G"
+    },
+    {
+      "name": "Ecclesall Junior School",
+      "address": "Ringinglow Rd, Sheffield, S11 7PQ",
+      "code": "S"
+    },
+    {
+      "name": "Handsworth Grange Community Sports College",
+      "address": "Handsworth Grange Road, Sheffield, S13 9HJ",
+      "code": "V"
+    },
+    {
+      "name": "High Storrs School",
+      "address": "High Storrs Rd, Sheffield, S11 7LH",
+      "code": "M"
+    },
+    {
+      "name": "Highgate Primary Academy",
+      "address": "Nicholas Lane, Goldthorpe, Rotherham, S63 9AS",
+      "code": "W"
+    },
+    {
+      "name": "Hunters Bar Infant School",
+      "address": "Sharrow Vale Rd, Sheffield, S11 8ZG",
+      "code": "E"
+    },
+    {
       "name": "Main Site",
-      "address": "Donegal Street, Islington, London, N1 9QG",
+      "address": "Notre Dame High School, Fulwood Road, Sheffield, South Yorkshire, S10 3BT",
       "code": "-"
+    },
+    {
+      "name": "Our Lady and St Joseph's Catholic Primary School",
+      "address": "Fitzwilliam St, Rotherham, S63 7HG",
+      "code": "T"
+    },
+    {
+      "name": "Sheffield Park Academy",
+      "address": "Beaumont Rd, Sheffield, S2 1SN",
+      "code": "P"
+    },
+    {
+      "name": "St Catherine's Catholic Primary School",
+      "address": "Firshill Crescent, Sheffield, S4 7BX",
+      "code": "A"
+    },
+    {
+      "name": "St Jospeph's School A Catholic Voluntary Academy",
+      "address": "Bevan Avenue, Rossington, Doncaster, DN11 0NB",
+      "code": "X"
+    },
+    {
+      "name": "St Marie's Catholic Primary School",
+      "address": "Fulwood Rd, Sheffield, S10 3DQ",
+      "code": "B"
+    },
+    {
+      "name": "St Mary's Primary School, High Green",
+      "address": "Pack Horse La, Sheffield, S35 3HY",
+      "code": "U"
+    },
+    {
+      "name": "St Thomas More Catholic Primary School",
+      "address": "Creswick Lane, Grenoside, Sheffield, S35 8NN",
+      "code": "J"
+    },
+    {
+      "name": "St Wilfrid's Catholic Primary School",
+      "address": "Millhouses Lane, Sheffield, S7 2HE",
+      "code": "C"
+    },
+    {
+      "name": "Stocksbridge High School",
+      "address": "Shay House Ln, Stocksbridge, S36 1FD",
+      "code": "R"
+    },
+    {
+      "name": "UTC Sheffield",
+      "address": "111 Matilda Street, Sheffield, S1 4QF",
+      "code": "O"
+    },
+    {
+      "name": "Watercliffe Meadow Primary School",
+      "address": "Boynton Road, Sheffield, S5 7HL",
+      "code": "Y"
     }
   ],
   "accreditors": [
     {
-      "name": "UCL, University College London (University of London",
-      "slug": "ucl-university-college-london-university-of-london",
+      "name": "The Sheffield SCITT",
+      "slug": "the-sheffield-scitt",
       "subjects": [
         {
           "name": "Biology",
@@ -211,33 +687,45 @@
           "slug": "chemistry"
         },
         {
+          "name": "Design and Technology",
+          "slug": "design-and-technology"
+        },
+        {
           "name": "English",
           "slug": "english"
+        },
+        {
+          "name": "Food",
+          "slug": "food"
+        },
+        {
+          "name": "General Primary",
+          "slug": "general-primary"
         },
         {
           "name": "Geography",
           "slug": "geography"
         },
         {
-          "name": "Mathematics",
-          "slug": "mathematics"
+          "name": "History",
+          "slug": "history"
         },
         {
-          "name": "Modern Languages",
-          "slug": "modern-languages"
+          "name": "Mathematics",
+          "slug": "mathematics"
         },
         {
           "name": "Physics",
           "slug": "physics"
         },
         {
-          "name": "Primary",
-          "slug": "primary"
+          "name": "Religious Education",
+          "slug": "religious-education"
         }
       ]
     }
   ],
-  "self_accrediting": false,
+  "self_accrediting": true,
   "subjects": [
     {
       "name": "Biology",
@@ -248,43 +736,61 @@
       "slug": "chemistry"
     },
     {
+      "name": "Design and Technology",
+      "slug": "design-and-technology"
+    },
+    {
       "name": "English",
       "slug": "english"
+    },
+    {
+      "name": "Food",
+      "slug": "food"
+    },
+    {
+      "name": "General Primary",
+      "slug": "general-primary"
     },
     {
       "name": "Geography",
       "slug": "geography"
     },
     {
-      "name": "Mathematics",
-      "slug": "mathematics"
+      "name": "History",
+      "slug": "history"
     },
     {
-      "name": "Modern Languages",
-      "slug": "modern-languages"
+      "name": "Mathematics",
+      "slug": "mathematics"
     },
     {
       "name": "Physics",
       "slug": "physics"
     },
     {
-      "name": "Primary",
-      "slug": "primary"
+      "name": "Religious Education",
+      "slug": "religious-education"
     }
   ],
   "folded_courses": {
-    "UCL, University College London (University of London": [
+    "The Sheffield SCITT": [
       {
         "name": "Biology",
         "courses": 1,
         "accrediting": [
-          "UCL, University College London (University of London"
+          "The Sheffield SCITT"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
         ],
         "schoolsWithVacancies": [
-          "Main Site"
+          "All Saints Catholic High School",
+          "Bradfield School",
+          "High Storrs School",
+          "Main Site",
+          "Sheffield Park Academy",
+          "Stocksbridge High School",
+          "UTC Sheffield"
         ],
         "options": [
           "PGCE with QTS full time"
@@ -299,7 +805,34 @@
         "name": "Chemistry",
         "courses": 1,
         "accrediting": [
-          "UCL, University College London (University of London"
+          "The Sheffield SCITT"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "All Saints Catholic High School",
+          "Bradfield School",
+          "High Storrs School",
+          "Main Site",
+          "Sheffield Park Academy",
+          "Stocksbridge High School",
+          "UTC Sheffield"
+        ],
+        "options": [
+          "PGCE with QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Design and Technology",
+        "courses": 1,
+        "accrediting": [
+          "The Sheffield SCITT"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
@@ -320,13 +853,74 @@
         "name": "English",
         "courses": 1,
         "accrediting": [
-          "UCL, University College London (University of London"
+          "The Sheffield SCITT"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "All Saints Catholic High School",
+          "Bradfield School",
+          "High Storrs School",
+          "Main Site",
+          "Sheffield Park Academy",
+          "Stocksbridge High School",
+          "UTC Sheffield"
+        ],
+        "options": [
+          "PGCE with QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Food",
+        "courses": 1,
+        "accrediting": [
+          "The Sheffield SCITT"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
         ],
         "schoolsWithVacancies": [
           "Main Site"
+        ],
+        "options": [
+          "PGCE with QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "General Primary",
+        "courses": 1,
+        "accrediting": [
+          "The Sheffield SCITT"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Dobcroft Infant School",
+          "Ecclesall Infant School",
+          "Ecclesall Junior School",
+          "Highgate Primary Academy",
+          "Hunters Bar Infant School",
+          "Main Site",
+          "Our Lady and St Joseph's Catholic Primary School",
+          "St Catherine's Catholic Primary School",
+          "St Jospeph's School A Catholic Voluntary Academy",
+          "St Marie's Catholic Primary School",
+          "St Mary's Primary School, High Green",
+          "St Thomas More Catholic Primary School",
+          "St Wilfrid's Catholic Primary School",
+          "Watercliffe Meadow Primary School"
         ],
         "options": [
           "PGCE with QTS full time"
@@ -341,13 +935,48 @@
         "name": "Geography",
         "courses": 1,
         "accrediting": [
-          "UCL, University College London (University of London"
+          "The Sheffield SCITT"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
         ],
         "schoolsWithVacancies": [
-          "Main Site"
+          "All Saints Catholic High School",
+          "Bradfield School",
+          "Handsworth Grange Community Sports College",
+          "High Storrs School",
+          "Main Site",
+          "Sheffield Park Academy",
+          "Stocksbridge High School",
+          "UTC Sheffield"
+        ],
+        "options": [
+          "PGCE with QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "History",
+        "courses": 1,
+        "accrediting": [
+          "The Sheffield SCITT"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "All Saints Catholic High School",
+          "Bradfield School",
+          "Handsworth Grange Community Sports College",
+          "High Storrs School",
+          "Main Site",
+          "Sheffield Park Academy",
+          "Stocksbridge High School",
+          "UTC Sheffield"
         ],
         "options": [
           "PGCE with QTS full time"
@@ -362,34 +991,19 @@
         "name": "Mathematics",
         "courses": 1,
         "accrediting": [
-          "UCL, University College London (University of London"
+          "The Sheffield SCITT"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
         ],
         "schoolsWithVacancies": [
-          "Main Site"
-        ],
-        "options": [
-          "PGCE with QTS full time"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": false,
-          "qualifications": false
-        }
-      },
-      {
-        "name": "Modern Languages",
-        "courses": 1,
-        "accrediting": [
-          "UCL, University College London (University of London"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Main Site"
+          "All Saints Catholic High School",
+          "Bradfield School",
+          "High Storrs School",
+          "Main Site",
+          "Sheffield Park Academy",
+          "Stocksbridge High School",
+          "UTC Sheffield"
         ],
         "options": [
           "PGCE with QTS full time"
@@ -404,13 +1018,19 @@
         "name": "Physics",
         "courses": 1,
         "accrediting": [
-          "UCL, University College London (University of London"
+          "The Sheffield SCITT"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
         ],
         "schoolsWithVacancies": [
-          "Main Site"
+          "All Saints Catholic High School",
+          "Bradfield School",
+          "High Storrs School",
+          "Main Site",
+          "Sheffield Park Academy",
+          "Stocksbridge High School",
+          "UTC Sheffield"
         ],
         "options": [
           "PGCE with QTS full time"
@@ -422,16 +1042,21 @@
         }
       },
       {
-        "name": "Primary",
+        "name": "Religious Education",
         "courses": 1,
         "accrediting": [
-          "UCL, University College London (University of London"
+          "The Sheffield SCITT"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
         ],
         "schoolsWithVacancies": [
-          "Main Site"
+          "All Saints Catholic High School",
+          "Bradfield School",
+          "High Storrs School",
+          "Main Site",
+          "Sheffield Park Academy",
+          "Stocksbridge High School"
         ],
         "options": [
           "PGCE with QTS full time"
