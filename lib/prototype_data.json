@@ -1,34 +1,56 @@
 {
   "multi-organisation": false,
-  "training-provider-name": "Angel Islington Teaching School Alliance",
-  "provider-code-name": "A2602",
-  "provider-code": "2BZ",
+  "training-provider-name": "University of Hertfordshire",
+  "provider-code-name": "HERTS",
+  "provider-code": "H36",
   "address-line-1": "123 Baker Street",
   "town": "London",
   "postcode": "SW1 1AA",
   "telephone": "0208 123 4567",
   "email": "someemail@not-an-email.com",
-  "website": "http://www.egaschool.co.uk/244/the-angel-islington-teaching-school-alliance",
+  "website": "https://www.herts.ac.uk/",
   "templates": [
 
   ],
   "ucasCourses": [
     {
-      "regions": "London",
-      "accrediting": "UCL, University College London (University of London",
+      "regions": "Eastern",
+      "accrediting": "University of Hertfordshire",
+      "subjects": "Art / art & design, Secondary",
+      "ageRange": "Secondary (11+ years)",
+      "name": "Art and Design",
+      "slug": "art-and-design",
+      "route": "Higher Education programme",
+      "qualifications": "QTS, Postgraduate, Professional",
+      "providerCode": "H36",
+      "programmeCode": "W1X1",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "",
+          "code": ""
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "Eastern",
+      "accrediting": "University of Hertfordshire",
       "subjects": "Biology, Science, Secondary",
       "ageRange": "Secondary (11+ years)",
       "name": "Biology",
       "slug": "biology",
-      "route": "School Direct training programme",
-      "qualifications": "QTS, Postgraduate",
-      "providerCode": "2BZ",
-      "programmeCode": "2YCF",
+      "route": "Higher Education programme",
+      "qualifications": "QTS, Postgraduate, Professional",
+      "providerCode": "H36",
+      "programmeCode": "CX11",
       "schools": [
         {
           "name": "Main Site",
-          "address": "Donegal Street, Islington, London, N1 9QG",
-          "code": "-"
+          "address": "",
+          "code": ""
         }
       ],
       "options": [
@@ -36,21 +58,21 @@
       ]
     },
     {
-      "regions": "London",
-      "accrediting": "UCL, University College London (University of London",
+      "regions": "Eastern",
+      "accrediting": "University of Hertfordshire",
       "subjects": "Chemistry, Science, Secondary",
       "ageRange": "Secondary (11+ years)",
       "name": "Chemistry",
       "slug": "chemistry",
-      "route": "School Direct training programme",
-      "qualifications": "QTS, Postgraduate",
-      "providerCode": "2BZ",
-      "programmeCode": "2YN3",
+      "route": "Higher Education programme",
+      "qualifications": "QTS, Postgraduate, Professional",
+      "providerCode": "H36",
+      "programmeCode": "F2X1",
       "schools": [
         {
           "name": "Main Site",
-          "address": "Donegal Street, Islington, London, N1 9QG",
-          "code": "-"
+          "address": "",
+          "code": ""
         }
       ],
       "options": [
@@ -58,65 +80,109 @@
       ]
     },
     {
-      "regions": "London",
-      "accrediting": "UCL, University College London (University of London",
+      "regions": "Eastern",
+      "accrediting": "University of Hertfordshire",
+      "subjects": "Computer studies, Secondary",
+      "ageRange": "Secondary (11+ years)",
+      "name": "Computing",
+      "slug": "computing",
+      "route": "Higher Education programme",
+      "qualifications": "QTS",
+      "providerCode": "H36",
+      "programmeCode": "38C8",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "",
+          "code": ""
+        }
+      ],
+      "options": [
+        "QTS full time"
+      ]
+    },
+    {
+      "regions": "Eastern",
+      "accrediting": "University of Hertfordshire",
       "subjects": "English, Secondary",
       "ageRange": "Secondary (11+ years)",
       "name": "English",
       "slug": "english",
-      "route": "School Direct training programme",
-      "qualifications": "QTS, Postgraduate",
-      "providerCode": "2BZ",
-      "programmeCode": "2YNS",
+      "route": "Higher Education programme",
+      "qualifications": "QTS",
+      "providerCode": "H36",
+      "programmeCode": "38C7",
       "schools": [
         {
           "name": "Main Site",
-          "address": "Donegal Street, Islington, London, N1 9QG",
-          "code": "-"
+          "address": "",
+          "code": ""
         }
       ],
       "options": [
-        "PGCE with QTS full time"
+        "QTS full time"
       ]
     },
     {
-      "regions": "London",
-      "accrediting": "UCL, University College London (University of London",
+      "regions": "Eastern",
+      "accrediting": "University of Hertfordshire",
       "subjects": "Geography, Secondary",
       "ageRange": "Secondary (11+ years)",
       "name": "Geography",
       "slug": "geography",
-      "route": "School Direct training programme",
-      "qualifications": "QTS, Postgraduate",
-      "providerCode": "2BZ",
-      "programmeCode": "37KD",
+      "route": "Higher Education programme",
+      "qualifications": "QTS",
+      "providerCode": "H36",
+      "programmeCode": "38C9",
       "schools": [
         {
           "name": "Main Site",
-          "address": "Donegal Street, Islington, London, N1 9QG",
-          "code": "-"
+          "address": "",
+          "code": ""
         }
       ],
       "options": [
-        "PGCE with QTS full time"
+        "QTS full time"
       ]
     },
     {
-      "regions": "London",
-      "accrediting": "UCL, University College London (University of London",
+      "regions": "Eastern",
+      "accrediting": "University of Hertfordshire",
+      "subjects": "History, Secondary",
+      "ageRange": "Secondary (11+ years)",
+      "name": "History",
+      "slug": "history",
+      "route": "Higher Education programme",
+      "qualifications": "QTS",
+      "providerCode": "H36",
+      "programmeCode": "38CB",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "",
+          "code": ""
+        }
+      ],
+      "options": [
+        "QTS full time"
+      ]
+    },
+    {
+      "regions": "Eastern",
+      "accrediting": "University of Hertfordshire",
       "subjects": "Mathematics, Secondary",
       "ageRange": "Secondary (11+ years)",
       "name": "Mathematics",
       "slug": "mathematics",
-      "route": "School Direct training programme",
-      "qualifications": "QTS, Postgraduate",
-      "providerCode": "2BZ",
-      "programmeCode": "2YNR",
+      "route": "Higher Education programme",
+      "qualifications": "QTS, Postgraduate, Professional",
+      "providerCode": "H36",
+      "programmeCode": "G1X1",
       "schools": [
         {
           "name": "Main Site",
-          "address": "Donegal Street, Islington, London, N1 9QG",
-          "code": "-"
+          "address": "",
+          "code": ""
         }
       ],
       "options": [
@@ -124,21 +190,21 @@
       ]
     },
     {
-      "regions": "London",
-      "accrediting": "UCL, University College London (University of London",
-      "subjects": "Languages, Secondary",
+      "regions": "Eastern",
+      "accrediting": "University of Hertfordshire",
+      "subjects": "French, German, Languages, Languages (european), Secondary",
       "ageRange": "Secondary (11+ years)",
-      "name": "Modern Languages",
-      "slug": "modern-languages",
-      "route": "School Direct training programme",
-      "qualifications": "QTS, Postgraduate",
-      "providerCode": "2BZ",
-      "programmeCode": "37KG",
+      "name": "Modern Languages (French with German)",
+      "slug": "modern-languages-french-with-german",
+      "route": "Higher Education programme",
+      "qualifications": "QTS, Postgraduate, Professional",
+      "providerCode": "H36",
+      "programmeCode": "RX11",
       "schools": [
         {
           "name": "Main Site",
-          "address": "Donegal Street, Islington, London, N1 9QG",
-          "code": "-"
+          "address": "",
+          "code": ""
         }
       ],
       "options": [
@@ -146,21 +212,109 @@
       ]
     },
     {
-      "regions": "London",
-      "accrediting": "UCL, University College London (University of London",
+      "regions": "Eastern",
+      "accrediting": "University of Hertfordshire",
+      "subjects": "French, Languages, Languages (european), Secondary, Spanish",
+      "ageRange": "Secondary (11+ years)",
+      "name": "Modern Languages (French with Spanish)",
+      "slug": "modern-languages-french-with-spanish",
+      "route": "Higher Education programme",
+      "qualifications": "QTS, Postgraduate, Professional",
+      "providerCode": "H36",
+      "programmeCode": "RXD1",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "",
+          "code": ""
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "Eastern",
+      "accrediting": "University of Hertfordshire",
+      "subjects": "French, Languages, Languages (european), Secondary",
+      "ageRange": "Secondary (11+ years)",
+      "name": "Modern Languages (French)",
+      "slug": "modern-languages-french",
+      "route": "Higher Education programme",
+      "qualifications": "QTS, Postgraduate, Professional",
+      "providerCode": "H36",
+      "programmeCode": "R1X1",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "",
+          "code": ""
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "Eastern",
+      "accrediting": "University of Hertfordshire",
+      "subjects": "French, German, Languages, Languages (european), Secondary",
+      "ageRange": "Secondary (11+ years)",
+      "name": "Modern Languages (German with French)",
+      "slug": "modern-languages-german-with-french",
+      "route": "Higher Education programme",
+      "qualifications": "QTS, Postgraduate, Professional",
+      "providerCode": "H36",
+      "programmeCode": "RX21",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "",
+          "code": ""
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "Eastern",
+      "accrediting": "University of Hertfordshire",
+      "subjects": "Languages, Secondary, Spanish",
+      "ageRange": "Secondary (11+ years)",
+      "name": "Modern Languages (Spanish)",
+      "slug": "modern-languages-spanish",
+      "route": "Higher Education programme",
+      "qualifications": "QTS, Postgraduate, Professional",
+      "providerCode": "H36",
+      "programmeCode": "34ZD",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "",
+          "code": ""
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "Eastern",
+      "accrediting": "University of Hertfordshire",
       "subjects": "Physics, Science, Secondary",
       "ageRange": "Secondary (11+ years)",
       "name": "Physics",
       "slug": "physics",
-      "route": "School Direct training programme",
-      "qualifications": "QTS, Postgraduate",
-      "providerCode": "2BZ",
-      "programmeCode": "2YNQ",
+      "route": "Higher Education programme",
+      "qualifications": "QTS, Postgraduate, Professional",
+      "providerCode": "H36",
+      "programmeCode": "F3X2",
       "schools": [
         {
           "name": "Main Site",
-          "address": "Donegal Street, Islington, London, N1 9QG",
-          "code": "-"
+          "address": "",
+          "code": ""
         }
       ],
       "options": [
@@ -168,21 +322,21 @@
       ]
     },
     {
-      "regions": "London",
-      "accrediting": "UCL, University College London (University of London",
+      "regions": "Eastern",
+      "accrediting": "University of Hertfordshire",
       "subjects": "Primary",
       "ageRange": "Primary (c3 - 11/12 years)",
-      "name": "Primary",
-      "slug": "primary",
-      "route": "School Direct training programme",
-      "qualifications": "QTS, Postgraduate",
-      "providerCode": "2BZ",
-      "programmeCode": "2YNV",
+      "name": "Primary - General",
+      "slug": "primary-general",
+      "route": "Higher Education programme",
+      "qualifications": "QTS, Postgraduate, Professional",
+      "providerCode": "H36",
+      "programmeCode": "X171",
       "schools": [
         {
           "name": "Main Site",
-          "address": "Donegal Street, Islington, London, N1 9QG",
-          "code": "-"
+          "address": "",
+          "code": ""
         }
       ],
       "options": [
@@ -193,15 +347,19 @@
   "schools": [
     {
       "name": "Main Site",
-      "address": "Donegal Street, Islington, London, N1 9QG",
-      "code": "-"
+      "address": "",
+      "code": ""
     }
   ],
   "accreditors": [
     {
-      "name": "UCL, University College London (University of London",
-      "slug": "ucl-university-college-london-university-of-london",
+      "name": "University of Hertfordshire",
+      "slug": "university-of-hertfordshire",
       "subjects": [
+        {
+          "name": "Art and Design",
+          "slug": "art-and-design"
+        },
         {
           "name": "Biology",
           "slug": "biology"
@@ -209,6 +367,10 @@
         {
           "name": "Chemistry",
           "slug": "chemistry"
+        },
+        {
+          "name": "Computing",
+          "slug": "computing"
         },
         {
           "name": "English",
@@ -219,26 +381,50 @@
           "slug": "geography"
         },
         {
+          "name": "History",
+          "slug": "history"
+        },
+        {
           "name": "Mathematics",
           "slug": "mathematics"
         },
         {
-          "name": "Modern Languages",
-          "slug": "modern-languages"
+          "name": "Modern Languages (French with German)",
+          "slug": "modern-languages-french-with-german"
+        },
+        {
+          "name": "Modern Languages (French with Spanish)",
+          "slug": "modern-languages-french-with-spanish"
+        },
+        {
+          "name": "Modern Languages (French)",
+          "slug": "modern-languages-french"
+        },
+        {
+          "name": "Modern Languages (German with French)",
+          "slug": "modern-languages-german-with-french"
+        },
+        {
+          "name": "Modern Languages (Spanish)",
+          "slug": "modern-languages-spanish"
         },
         {
           "name": "Physics",
           "slug": "physics"
         },
         {
-          "name": "Primary",
-          "slug": "primary"
+          "name": "Primary - General",
+          "slug": "primary-general"
         }
       ]
     }
   ],
-  "self_accrediting": false,
+  "self_accrediting": true,
   "subjects": [
+    {
+      "name": "Art and Design",
+      "slug": "art-and-design"
+    },
     {
       "name": "Biology",
       "slug": "biology"
@@ -246,6 +432,10 @@
     {
       "name": "Chemistry",
       "slug": "chemistry"
+    },
+    {
+      "name": "Computing",
+      "slug": "computing"
     },
     {
       "name": "English",
@@ -256,29 +446,70 @@
       "slug": "geography"
     },
     {
+      "name": "History",
+      "slug": "history"
+    },
+    {
       "name": "Mathematics",
       "slug": "mathematics"
     },
     {
-      "name": "Modern Languages",
-      "slug": "modern-languages"
+      "name": "Modern Languages (French with German)",
+      "slug": "modern-languages-french-with-german"
+    },
+    {
+      "name": "Modern Languages (French with Spanish)",
+      "slug": "modern-languages-french-with-spanish"
+    },
+    {
+      "name": "Modern Languages (French)",
+      "slug": "modern-languages-french"
+    },
+    {
+      "name": "Modern Languages (German with French)",
+      "slug": "modern-languages-german-with-french"
+    },
+    {
+      "name": "Modern Languages (Spanish)",
+      "slug": "modern-languages-spanish"
     },
     {
       "name": "Physics",
       "slug": "physics"
     },
     {
-      "name": "Primary",
-      "slug": "primary"
+      "name": "Primary - General",
+      "slug": "primary-general"
     }
   ],
   "folded_courses": {
-    "UCL, University College London (University of London": [
+    "University of Hertfordshire": [
+      {
+        "name": "Art and Design",
+        "courses": 1,
+        "accrediting": [
+          "University of Hertfordshire"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Main Site"
+        ],
+        "options": [
+          "PGCE with QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
       {
         "name": "Biology",
         "courses": 1,
         "accrediting": [
-          "UCL, University College London (University of London"
+          "University of Hertfordshire"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
@@ -299,7 +530,7 @@
         "name": "Chemistry",
         "courses": 1,
         "accrediting": [
-          "UCL, University College London (University of London"
+          "University of Hertfordshire"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
@@ -309,6 +540,27 @@
         ],
         "options": [
           "PGCE with QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Computing",
+        "courses": 1,
+        "accrediting": [
+          "University of Hertfordshire"
+        ],
+        "applicationsOpen": [
+          "23 Nov 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Main Site"
+        ],
+        "options": [
+          "QTS full time"
         ],
         "flags": {
           "partTime": false,
@@ -320,7 +572,7 @@
         "name": "English",
         "courses": 1,
         "accrediting": [
-          "UCL, University College London (University of London"
+          "University of Hertfordshire"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
@@ -329,7 +581,7 @@
           "Main Site"
         ],
         "options": [
-          "PGCE with QTS full time"
+          "QTS full time"
         ],
         "flags": {
           "partTime": false,
@@ -341,16 +593,37 @@
         "name": "Geography",
         "courses": 1,
         "accrediting": [
-          "UCL, University College London (University of London"
+          "University of Hertfordshire"
         ],
         "applicationsOpen": [
-          "26 Oct 2017"
+          "23 Nov 2017"
         ],
         "schoolsWithVacancies": [
           "Main Site"
         ],
         "options": [
-          "PGCE with QTS full time"
+          "QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "History",
+        "courses": 1,
+        "accrediting": [
+          "University of Hertfordshire"
+        ],
+        "applicationsOpen": [
+          "23 Nov 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Main Site"
+        ],
+        "options": [
+          "QTS full time"
         ],
         "flags": {
           "partTime": false,
@@ -362,7 +635,7 @@
         "name": "Mathematics",
         "courses": 1,
         "accrediting": [
-          "UCL, University College London (University of London"
+          "University of Hertfordshire"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
@@ -380,10 +653,94 @@
         }
       },
       {
-        "name": "Modern Languages",
+        "name": "Modern Languages (French with German)",
         "courses": 1,
         "accrediting": [
-          "UCL, University College London (University of London"
+          "University of Hertfordshire"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Main Site"
+        ],
+        "options": [
+          "PGCE with QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Modern Languages (French with Spanish)",
+        "courses": 1,
+        "accrediting": [
+          "University of Hertfordshire"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Main Site"
+        ],
+        "options": [
+          "PGCE with QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Modern Languages (French)",
+        "courses": 1,
+        "accrediting": [
+          "University of Hertfordshire"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Main Site"
+        ],
+        "options": [
+          "PGCE with QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Modern Languages (German with French)",
+        "courses": 1,
+        "accrediting": [
+          "University of Hertfordshire"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Main Site"
+        ],
+        "options": [
+          "PGCE with QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Modern Languages (Spanish)",
+        "courses": 1,
+        "accrediting": [
+          "University of Hertfordshire"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
@@ -404,7 +761,7 @@
         "name": "Physics",
         "courses": 1,
         "accrediting": [
-          "UCL, University College London (University of London"
+          "University of Hertfordshire"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
@@ -422,10 +779,10 @@
         }
       },
       {
-        "name": "Primary",
+        "name": "Primary - General",
         "courses": 1,
         "accrediting": [
-          "UCL, University College London (University of London"
+          "University of Hertfordshire"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
@@ -445,6 +802,7 @@
     ]
   },
   "options": [
-    "PGCE with QTS full time"
+    "PGCE with QTS full time",
+    "QTS full time"
   ]
 }
