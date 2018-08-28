@@ -68,6 +68,7 @@
             <th class="subject-col">Course</th>
             <th class="type-col">Type</th>
             <th class="status-col">State</th>
+            <th style="width: 20%">Publish&nbsp;date</th>
           </tr>
         </thead>
         <tbody>
@@ -97,6 +98,13 @@
                     <span class="phase-tag phase-tag-small phase-tag-not-running">New – not yet running</span>
                   {% else %}
                     <span class="phase-tag phase-tag-small phase-tag-not-running">Not running</span>
+                  {% endif %}
+                </td>
+                <td>
+                  {% if data[course.programmeCode + '-published-before'] %}
+                    {{ today() }}
+                  {% else %}
+                    Needs to be published
                   {% endif %}
                 </td>
               </tr>
