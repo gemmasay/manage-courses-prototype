@@ -6,7 +6,7 @@ router.get('/', function (req, res) {
   if (req.session.data['multi-organisation']) {
     res.render('your-organisations');
   } else {
-    res.render('organisation');
+    res.render('organisation', { justPublished: req.query.publish });
   }
 })
 
@@ -38,12 +38,12 @@ router.get('/publish/about-your-organisation', function (req, res) {
 
   if (errors.length > 0) {
     req.session.data['about-your-organisation-show-publish-errors'] = errors.length > 0;
+    res.redirect('/about-your-organisation?publish=true');
   } else {
     req.session.data['about-your-organisation-publish-state'] = 'published';
     req.session.data['about-your-organisation-published-before'] = true;
+    res.redirect('/?publish=org');
   }
-
-  res.redirect('/about-your-organisation?publish=true');
 })
 
 // router.post('/template/new', function (req, res) {
@@ -103,12 +103,12 @@ router.get('/publish/:accreditor/:code', function (req, res) {
 
   if (errors.length > 0) {
     req.session.data[c.programmeCode + '-show-publish-errors'] = errors.length > 0;
+    res.redirect('/course/' + req.params.accreditor + '/' + req.params.code + '?publish=true');
   } else {
     req.session.data[c.programmeCode + '-publish-state'] = 'published';
     req.session.data[c.programmeCode + '-published-before'] = true;
-  }
-
-  res.redirect('/course/' + req.params.accreditor + '/' + req.params.code + '?publish=true');
+    res.redirect('/?publish=course');
+  }  
 })
 
 // Course page

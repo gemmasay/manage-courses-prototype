@@ -11,6 +11,27 @@
     </ol>
   </div>
 
+  {% if justPublished == 'course' %}
+  <div class="success-summary" role="alert" aria-labelledby="success-summary-heading-example-1" tabindex="-1">
+    <h3 class="heading-medium success-summary-heading" id="success-summary-heading-example-1">
+      Your course has been published
+    </h3>
+
+    <p>
+      See how this course looks to applicants:<br />
+      <a href="#">View on website</a>
+    </p>
+  </div>
+  {% endif %}
+
+  {% if justPublished == 'org' %}
+  <div class="success-summary" role="alert" aria-labelledby="success-summary-heading-example-1" tabindex="-1">
+    <h3 class="heading-medium success-summary-heading" id="success-summary-heading-example-1">
+      Your organisation information has been published
+    </h3>
+  </div>
+  {% endif %}
+
   <div class="grid-row">
     <div class="column-two-thirds">
       <h1 class="heading-xlarge">{{ data['training-provider-name'] }}</h1>
