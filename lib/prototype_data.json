@@ -1,34 +1,28 @@
 {
   "multi-organisation": false,
-  "training-provider-name": "Angel Islington Teaching School Alliance",
-  "provider-code-name": "A2602",
-  "provider-code": "2BZ",
-  "address-line-1": "123 Baker Street",
-  "town": "London",
-  "postcode": "SW1 1AA",
-  "telephone": "0208 123 4567",
-  "email": "someemail@not-an-email.com",
-  "website": "http://www.egaschool.co.uk/244/the-angel-islington-teaching-school-alliance",
+  "training-provider-name": "Canterbury Christ Church University",
+  "provider-code-name": "CANCC",
+  "provider-code": "C10",
   "templates": [
 
   ],
   "ucasCourses": [
     {
-      "regions": "London",
-      "accrediting": "UCL, University College London (University of London",
-      "subjects": "Biology, Science, Secondary",
+      "regions": "South East",
+      "accrediting": "Canterbury Christ Church University",
+      "subjects": "Business education, Secondary",
       "ageRange": "Secondary (11+ years)",
-      "name": "Biology",
-      "slug": "biology",
-      "route": "School Direct training programme",
-      "qualifications": "QTS, Postgraduate",
-      "providerCode": "2BZ",
-      "programmeCode": "2YCF",
+      "name": "Applied Business Studies",
+      "slug": "applied-business-studies",
+      "route": "Higher Education programme",
+      "qualifications": "QTS, Postgraduate, Professional",
+      "providerCode": "C10",
+      "programmeCode": "NX1D",
       "schools": [
         {
           "name": "Main Site",
-          "address": "Donegal Street, Islington, London, N1 9QG",
-          "code": "-"
+          "address": "",
+          "code": ""
         }
       ],
       "options": [
@@ -36,21 +30,65 @@
       ]
     },
     {
-      "regions": "London",
-      "accrediting": "UCL, University College London (University of London",
+      "regions": "South East",
+      "accrediting": "Canterbury Christ Church University",
+      "subjects": "Art / art & design, Secondary",
+      "ageRange": "Secondary (11+ years)",
+      "name": "Art and Design",
+      "slug": "art-and-design",
+      "route": "Higher Education programme",
+      "qualifications": "QTS, Postgraduate, Professional",
+      "providerCode": "C10",
+      "programmeCode": "W1X1",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "",
+          "code": ""
+        }
+      ],
+      "options": [
+        "PGCE with QTS, full time or part time"
+      ]
+    },
+    {
+      "regions": "South East",
+      "accrediting": "Canterbury Christ Church University",
+      "subjects": "Art / art & design, Middle years",
+      "ageRange": "Middle years (c7 - 14 years)",
+      "name": "Art and Design (7-14)",
+      "slug": "art-and-design-7-14",
+      "route": "Higher Education programme",
+      "qualifications": "QTS",
+      "providerCode": "C10",
+      "programmeCode": "2VQV",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "",
+          "code": ""
+        }
+      ],
+      "options": [
+        "QTS full time"
+      ]
+    },
+    {
+      "regions": "South East",
+      "accrediting": "Canterbury Christ Church University",
       "subjects": "Chemistry, Science, Secondary",
       "ageRange": "Secondary (11+ years)",
-      "name": "Chemistry",
-      "slug": "chemistry",
-      "route": "School Direct training programme",
+      "name": "Chemistry (with Imperial College London)",
+      "slug": "chemistry-with-imperial-college-london",
+      "route": "Higher Education programme",
       "qualifications": "QTS, Postgraduate",
-      "providerCode": "2BZ",
-      "programmeCode": "2YN3",
+      "providerCode": "C10",
+      "programmeCode": "FX1C",
       "schools": [
         {
-          "name": "Main Site",
-          "address": "Donegal Street, Islington, London, N1 9QG",
-          "code": "-"
+          "name": "Imperial College, London",
+          "address": "South Kensington Campus, London, SW7 2AZ",
+          "code": "I"
         }
       ],
       "options": [
@@ -58,157 +96,1058 @@
       ]
     },
     {
-      "regions": "London",
-      "accrediting": "UCL, University College London (University of London",
+      "regions": "South East",
+      "accrediting": "Canterbury Christ Church University",
+      "subjects": "Citizenship, Secondary",
+      "ageRange": "Secondary (11+ years)",
+      "name": "Citizenship",
+      "slug": "citizenship",
+      "route": "Higher Education programme",
+      "qualifications": "QTS, Postgraduate, Professional",
+      "providerCode": "C10",
+      "programmeCode": "L9X1",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "",
+          "code": ""
+        }
+      ],
+      "options": [
+        "PGCE with QTS, full time or part time"
+      ]
+    },
+    {
+      "regions": "South East",
+      "accrediting": "Canterbury Christ Church University",
+      "subjects": "Computer studies, Secondary",
+      "ageRange": "Secondary (11+ years)",
+      "name": "Computing",
+      "slug": "computing",
+      "route": "Higher Education programme",
+      "qualifications": "QTS",
+      "providerCode": "C10",
+      "programmeCode": "2BSJ",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "",
+          "code": ""
+        }
+      ],
+      "options": [
+        "QTS, full time or part time"
+      ]
+    },
+    {
+      "regions": "South East",
+      "accrediting": "Canterbury Christ Church University",
+      "subjects": "Computer studies, Middle years",
+      "ageRange": "Middle years (c7 - 14 years)",
+      "name": "Computing",
+      "slug": "computing",
+      "route": "Higher Education programme",
+      "qualifications": "QTS",
+      "providerCode": "C10",
+      "programmeCode": "33D3",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "",
+          "code": ""
+        }
+      ],
+      "options": [
+        "QTS full time"
+      ]
+    },
+    {
+      "regions": "South East",
+      "accrediting": "Canterbury Christ Church University",
       "subjects": "English, Secondary",
       "ageRange": "Secondary (11+ years)",
       "name": "English",
       "slug": "english",
-      "route": "School Direct training programme",
-      "qualifications": "QTS, Postgraduate",
-      "providerCode": "2BZ",
-      "programmeCode": "2YNS",
+      "route": "Higher Education programme",
+      "qualifications": "QTS",
+      "providerCode": "C10",
+      "programmeCode": "2243",
       "schools": [
         {
           "name": "Main Site",
-          "address": "Donegal Street, Islington, London, N1 9QG",
-          "code": "-"
+          "address": "",
+          "code": ""
         }
       ],
       "options": [
-        "PGCE with QTS full time"
+        "QTS, full time or part time"
       ]
     },
     {
-      "regions": "London",
-      "accrediting": "UCL, University College London (University of London",
+      "regions": "South East",
+      "accrediting": "Canterbury Christ Church University",
+      "subjects": "English, Middle years",
+      "ageRange": "Middle years (c7 - 14 years)",
+      "name": "English",
+      "slug": "english",
+      "route": "Higher Education programme",
+      "qualifications": "QTS",
+      "providerCode": "C10",
+      "programmeCode": "XQC3",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "",
+          "code": ""
+        }
+      ],
+      "options": [
+        "QTS full time"
+      ]
+    },
+    {
+      "regions": "South East",
+      "accrediting": "Canterbury Christ Church University",
       "subjects": "Geography, Secondary",
       "ageRange": "Secondary (11+ years)",
       "name": "Geography",
       "slug": "geography",
-      "route": "School Direct training programme",
-      "qualifications": "QTS, Postgraduate",
-      "providerCode": "2BZ",
-      "programmeCode": "37KD",
+      "route": "Higher Education programme",
+      "qualifications": "QTS",
+      "providerCode": "C10",
+      "programmeCode": "F8X1",
       "schools": [
         {
           "name": "Main Site",
-          "address": "Donegal Street, Islington, London, N1 9QG",
-          "code": "-"
+          "address": "",
+          "code": ""
         }
       ],
       "options": [
-        "PGCE with QTS full time"
+        "QTS, full time or part time"
       ]
     },
     {
-      "regions": "London",
-      "accrediting": "UCL, University College London (University of London",
+      "regions": "South East",
+      "accrediting": "Canterbury Christ Church University",
+      "subjects": "Geography, Middle years",
+      "ageRange": "Middle years (c7 - 14 years)",
+      "name": "Geography",
+      "slug": "geography",
+      "route": "Higher Education programme",
+      "qualifications": "QTS",
+      "providerCode": "C10",
+      "programmeCode": "XFC8",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "",
+          "code": ""
+        }
+      ],
+      "options": [
+        "QTS full time"
+      ]
+    },
+    {
+      "regions": "South East",
+      "accrediting": "Canterbury Christ Church University",
+      "subjects": "Health and social care, Secondary",
+      "ageRange": "Secondary (11+ years)",
+      "name": "Health and Social Care",
+      "slug": "health-and-social-care",
+      "route": "Higher Education programme",
+      "qualifications": "QTS",
+      "providerCode": "C10",
+      "programmeCode": "LMNC",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "",
+          "code": ""
+        }
+      ],
+      "options": [
+        "QTS full time"
+      ]
+    },
+    {
+      "regions": "South East",
+      "accrediting": "Canterbury Christ Church University",
+      "subjects": "History, Middle years",
+      "ageRange": "Middle years (c7 - 14 years)",
+      "name": "History",
+      "slug": "history",
+      "route": "Higher Education programme",
+      "qualifications": "QTS",
+      "providerCode": "C10",
+      "programmeCode": "XVC1",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "",
+          "code": ""
+        }
+      ],
+      "options": [
+        "QTS full time"
+      ]
+    },
+    {
+      "regions": "South East",
+      "accrediting": "Canterbury Christ Church University",
+      "subjects": "History, Secondary",
+      "ageRange": "Secondary (11+ years)",
+      "name": "History",
+      "slug": "history",
+      "route": "Higher Education programme",
+      "qualifications": "QTS",
+      "providerCode": "C10",
+      "programmeCode": "V1X1",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "",
+          "code": ""
+        }
+      ],
+      "options": [
+        "QTS, full time or part time"
+      ]
+    },
+    {
+      "regions": "South East",
+      "accrediting": "Canterbury Christ Church University",
       "subjects": "Mathematics, Secondary",
       "ageRange": "Secondary (11+ years)",
       "name": "Mathematics",
       "slug": "mathematics",
-      "route": "School Direct training programme",
-      "qualifications": "QTS, Postgraduate",
-      "providerCode": "2BZ",
-      "programmeCode": "2YNR",
+      "route": "Higher Education programme",
+      "qualifications": "QTS",
+      "providerCode": "C10",
+      "programmeCode": "G1X1",
       "schools": [
         {
           "name": "Main Site",
-          "address": "Donegal Street, Islington, London, N1 9QG",
-          "code": "-"
+          "address": "",
+          "code": ""
         }
       ],
       "options": [
-        "PGCE with QTS full time"
+        "QTS, full time or part time"
       ]
     },
     {
-      "regions": "London",
-      "accrediting": "UCL, University College London (University of London",
-      "subjects": "Languages, Secondary",
+      "regions": "South East",
+      "accrediting": "Canterbury Christ Church University",
+      "subjects": "Mathematics, Middle years",
+      "ageRange": "Middle years (c7 - 14 years)",
+      "name": "Mathematics",
+      "slug": "mathematics",
+      "route": "Higher Education programme",
+      "qualifications": "QTS",
+      "providerCode": "C10",
+      "programmeCode": "XGC1",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "",
+          "code": ""
+        }
+      ],
+      "options": [
+        "QTS full time"
+      ]
+    },
+    {
+      "regions": "South East",
+      "accrediting": "Canterbury Christ Church University",
+      "subjects": "Mathematics, Secondary",
       "ageRange": "Secondary (11+ years)",
-      "name": "Modern Languages",
-      "slug": "modern-languages",
-      "route": "School Direct training programme",
-      "qualifications": "QTS, Postgraduate",
-      "providerCode": "2BZ",
-      "programmeCode": "37KG",
+      "name": "Maths (with Imperial College London)",
+      "slug": "maths-with-imperial-college-london",
+      "route": "Higher Education programme",
+      "qualifications": "QTS",
+      "providerCode": "C10",
+      "programmeCode": "2NNC",
       "schools": [
         {
-          "name": "Main Site",
-          "address": "Donegal Street, Islington, London, N1 9QG",
-          "code": "-"
+          "name": "Imperial College, London",
+          "address": "South Kensington Campus, London, SW7 2AZ",
+          "code": "I"
         }
       ],
       "options": [
-        "PGCE with QTS full time"
+        "QTS full time"
       ]
     },
     {
-      "regions": "London",
-      "accrediting": "UCL, University College London (University of London",
-      "subjects": "Physics, Science, Secondary",
+      "regions": "South East",
+      "accrediting": "Canterbury Christ Church University",
+      "subjects": "French, German, Languages, Languages (european), Secondary",
+      "ageRange": "Middle years (c7 - 14 years)",
+      "name": "Modern Languages (French with German)",
+      "slug": "modern-languages-french-with-german",
+      "route": "Higher Education programme",
+      "qualifications": "QTS",
+      "providerCode": "C10",
+      "programmeCode": "XRDC",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "",
+          "code": ""
+        }
+      ],
+      "options": [
+        "QTS full time"
+      ]
+    },
+    {
+      "regions": "South East",
+      "accrediting": "Canterbury Christ Church University",
+      "subjects": "French, German, Languages, Languages (european), Secondary",
       "ageRange": "Secondary (11+ years)",
-      "name": "Physics",
-      "slug": "physics",
-      "route": "School Direct training programme",
-      "qualifications": "QTS, Postgraduate",
-      "providerCode": "2BZ",
-      "programmeCode": "2YNQ",
+      "name": "Modern Languages (French with German)",
+      "slug": "modern-languages-french-with-german",
+      "route": "Higher Education programme",
+      "qualifications": "QTS",
+      "providerCode": "C10",
+      "programmeCode": "RX11",
       "schools": [
         {
           "name": "Main Site",
-          "address": "Donegal Street, Islington, London, N1 9QG",
-          "code": "-"
+          "address": "",
+          "code": ""
         }
       ],
       "options": [
-        "PGCE with QTS full time"
+        "QTS, full time or part time"
       ]
     },
     {
-      "regions": "London",
-      "accrediting": "UCL, University College London (University of London",
+      "regions": "South East",
+      "accrediting": "Canterbury Christ Church University",
+      "subjects": "French, Languages, Languages (european), Secondary, Spanish",
+      "ageRange": "Secondary (11+ years)",
+      "name": "Modern Languages (French with Spanish)",
+      "slug": "modern-languages-french-with-spanish",
+      "route": "Higher Education programme",
+      "qualifications": "QTS",
+      "providerCode": "C10",
+      "programmeCode": "RXD1",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "",
+          "code": ""
+        }
+      ],
+      "options": [
+        "QTS, full time or part time"
+      ]
+    },
+    {
+      "regions": "South East",
+      "accrediting": "Canterbury Christ Church University",
+      "subjects": "French, Languages, Languages (european), Secondary, Spanish",
+      "ageRange": "Middle years (c7 - 14 years)",
+      "name": "Modern Languages (French with Spanish)",
+      "slug": "modern-languages-french-with-spanish",
+      "route": "Higher Education programme",
+      "qualifications": "QTS",
+      "providerCode": "C10",
+      "programmeCode": "XRDD",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "",
+          "code": ""
+        }
+      ],
+      "options": [
+        "QTS full time"
+      ]
+    },
+    {
+      "regions": "South East",
+      "accrediting": "Canterbury Christ Church University",
+      "subjects": "French, Languages, Languages (european), Secondary",
+      "ageRange": "Middle years (c7 - 14 years)",
+      "name": "Modern Languages (French)",
+      "slug": "modern-languages-french",
+      "route": "Higher Education programme",
+      "qualifications": "QTS",
+      "providerCode": "C10",
+      "programmeCode": "XRC1",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "",
+          "code": ""
+        }
+      ],
+      "options": [
+        "QTS full time"
+      ]
+    },
+    {
+      "regions": "South East",
+      "accrediting": "Canterbury Christ Church University",
+      "subjects": "French, Languages, Languages (european), Secondary",
+      "ageRange": "Secondary (11+ years)",
+      "name": "Modern Languages (French)",
+      "slug": "modern-languages-french",
+      "route": "Higher Education programme",
+      "qualifications": "QTS",
+      "providerCode": "C10",
+      "programmeCode": "R1X1",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "",
+          "code": ""
+        }
+      ],
+      "options": [
+        "QTS, full time or part time"
+      ]
+    },
+    {
+      "regions": "South East",
+      "accrediting": "Canterbury Christ Church University",
+      "subjects": "French, German, Languages, Languages (european), Secondary",
+      "ageRange": "Middle years (c7 - 14 years)",
+      "name": "Modern Languages (German with French)",
+      "slug": "modern-languages-german-with-french",
+      "route": "Higher Education programme",
+      "qualifications": "QTS",
+      "providerCode": "C10",
+      "programmeCode": "XRDF",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "",
+          "code": ""
+        }
+      ],
+      "options": [
+        "QTS full time"
+      ]
+    },
+    {
+      "regions": "South East",
+      "accrediting": "Canterbury Christ Church University",
+      "subjects": "French, German, Languages, Languages (european), Secondary",
+      "ageRange": "Secondary (11+ years)",
+      "name": "Modern Languages (German with French)",
+      "slug": "modern-languages-german-with-french",
+      "route": "Higher Education programme",
+      "qualifications": "QTS",
+      "providerCode": "C10",
+      "programmeCode": "RX21",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "",
+          "code": ""
+        }
+      ],
+      "options": [
+        "QTS, full time or part time"
+      ]
+    },
+    {
+      "regions": "South East",
+      "accrediting": "Canterbury Christ Church University",
+      "subjects": "German, Languages, Languages (european), Spanish",
+      "ageRange": "Middle years (c7 - 14 years)",
+      "name": "Modern Languages (German with Spanish)",
+      "slug": "modern-languages-german-with-spanish",
+      "route": "Higher Education programme",
+      "qualifications": "QTS",
+      "providerCode": "C10",
+      "programmeCode": "2VSW",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "",
+          "code": ""
+        }
+      ],
+      "options": [
+        "QTS full time"
+      ]
+    },
+    {
+      "regions": "South East",
+      "accrediting": "Canterbury Christ Church University",
+      "subjects": "German, Languages, Languages (european), Secondary, Spanish",
+      "ageRange": "Secondary (11+ years)",
+      "name": "Modern Languages (German with Spanish)",
+      "slug": "modern-languages-german-with-spanish",
+      "route": "Higher Education programme",
+      "qualifications": "QTS",
+      "providerCode": "C10",
+      "programmeCode": "2VSV",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "",
+          "code": ""
+        }
+      ],
+      "options": [
+        "QTS, full time or part time"
+      ]
+    },
+    {
+      "regions": "South East",
+      "accrediting": "Canterbury Christ Church University",
+      "subjects": "French, Languages, Languages (european), Secondary, Spanish",
+      "ageRange": "Secondary (11+ years)",
+      "name": "Modern Languages (Spanish with French)",
+      "slug": "modern-languages-spanish-with-french",
+      "route": "Higher Education programme",
+      "qualifications": "QTS",
+      "providerCode": "C10",
+      "programmeCode": "RX41",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "",
+          "code": ""
+        }
+      ],
+      "options": [
+        "QTS, full time or part time"
+      ]
+    },
+    {
+      "regions": "South East",
+      "accrediting": "Canterbury Christ Church University",
+      "subjects": "French, Languages, Languages (european), Secondary, Spanish",
+      "ageRange": "Middle years (c7 - 14 years)",
+      "name": "Modern Languages (Spanish with French)",
+      "slug": "modern-languages-spanish-with-french",
+      "route": "Higher Education programme",
+      "qualifications": "QTS",
+      "providerCode": "C10",
+      "programmeCode": "XRDK",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "",
+          "code": ""
+        }
+      ],
+      "options": [
+        "QTS full time"
+      ]
+    },
+    {
+      "regions": "South East",
+      "accrediting": "Canterbury Christ Church University",
+      "subjects": "German, Languages, Languages (european), Middle years, Spanish",
+      "ageRange": "Middle years (c7 - 14 years)",
+      "name": "Modern Languages (Spanish with German)",
+      "slug": "modern-languages-spanish-with-german",
+      "route": "Higher Education programme",
+      "qualifications": "QTS",
+      "providerCode": "C10",
+      "programmeCode": "2VTK",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "",
+          "code": ""
+        }
+      ],
+      "options": [
+        "QTS full time"
+      ]
+    },
+    {
+      "regions": "South East",
+      "accrediting": "Canterbury Christ Church University",
+      "subjects": "Languages, Languages (european), Secondary, Spanish",
+      "ageRange": "Secondary (11+ years)",
+      "name": "Modern Languages (Spanish)",
+      "slug": "modern-languages-spanish",
+      "route": "Higher Education programme",
+      "qualifications": "QTS",
+      "providerCode": "C10",
+      "programmeCode": "R4X1",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "",
+          "code": ""
+        }
+      ],
+      "options": [
+        "QTS, full time or part time"
+      ]
+    },
+    {
+      "regions": "South East",
+      "accrediting": "Canterbury Christ Church University",
+      "subjects": "Languages, Languages (european), Secondary, Spanish",
+      "ageRange": "Middle years (c7 - 14 years)",
+      "name": "Modern Languages (Spanish)",
+      "slug": "modern-languages-spanish",
+      "route": "Higher Education programme",
+      "qualifications": "QTS",
+      "providerCode": "C10",
+      "programmeCode": "XRC4",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "",
+          "code": ""
+        }
+      ],
+      "options": [
+        "QTS full time"
+      ]
+    },
+    {
+      "regions": "South East",
+      "accrediting": "Canterbury Christ Church University",
+      "subjects": "Music, Secondary",
+      "ageRange": "Secondary (11+ years)",
+      "name": "Music",
+      "slug": "music",
+      "route": "Higher Education programme",
+      "qualifications": "QTS",
+      "providerCode": "C10",
+      "programmeCode": "W3X1",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "",
+          "code": ""
+        }
+      ],
+      "options": [
+        "QTS, full time or part time"
+      ]
+    },
+    {
+      "regions": "South East",
+      "accrediting": "Canterbury Christ Church University",
+      "subjects": "Music, Secondary",
+      "ageRange": "Middle years (c7 - 14 years)",
+      "name": "Music 7-14 Years",
+      "slug": "music-7-14-years",
+      "route": "Higher Education programme",
+      "qualifications": "QTS",
+      "providerCode": "C10",
+      "programmeCode": "2MLQ",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "",
+          "code": ""
+        }
+      ],
+      "options": [
+        "QTS full time"
+      ]
+    },
+    {
+      "regions": "South East",
+      "accrediting": "Canterbury Christ Church University",
       "subjects": "Primary",
       "ageRange": "Primary (c3 - 11/12 years)",
-      "name": "Primary",
-      "slug": "primary",
-      "route": "School Direct training programme",
-      "qualifications": "QTS, Postgraduate",
-      "providerCode": "2BZ",
-      "programmeCode": "2YNV",
+      "name": "PGCE Primary",
+      "slug": "pgce-primary",
+      "route": "Higher Education programme",
+      "qualifications": "QTS",
+      "providerCode": "C10",
+      "programmeCode": "2VBH",
       "schools": [
         {
           "name": "Main Site",
-          "address": "Donegal Street, Islington, London, N1 9QG",
-          "code": "-"
+          "address": "",
+          "code": ""
+        }
+      ],
+      "options": [
+        "QTS full time"
+      ]
+    },
+    {
+      "regions": "South East",
+      "accrediting": "Canterbury Christ Church University",
+      "subjects": "Primary",
+      "ageRange": "Primary (c3 - 11/12 years)",
+      "name": "PGCE Primary Modular",
+      "slug": "pgce-primary-modular",
+      "route": "Higher Education programme",
+      "qualifications": "QTS",
+      "providerCode": "C10",
+      "programmeCode": "2W8Q",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "",
+          "code": ""
+        }
+      ],
+      "options": [
+        "QTS part time"
+      ]
+    },
+    {
+      "regions": "South East",
+      "accrediting": "Canterbury Christ Church University",
+      "subjects": "Physical education, Secondary",
+      "ageRange": "Secondary (11+ years)",
+      "name": "Physical Education",
+      "slug": "physical-education",
+      "route": "Higher Education programme",
+      "qualifications": "QTS",
+      "providerCode": "C10",
+      "programmeCode": "C6XC",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "",
+          "code": ""
+        }
+      ],
+      "options": [
+        "QTS, full time or part time"
+      ]
+    },
+    {
+      "regions": "South East",
+      "accrediting": "Canterbury Christ Church University",
+      "subjects": "Physical education, Secondary",
+      "ageRange": "Middle years (c7 - 14 years)",
+      "name": "Physical Education (7-14)",
+      "slug": "physical-education-7-14",
+      "route": "Higher Education programme",
+      "qualifications": "QTS",
+      "providerCode": "C10",
+      "programmeCode": "XCC6",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "",
+          "code": ""
+        }
+      ],
+      "options": [
+        "QTS full time"
+      ]
+    },
+    {
+      "regions": "South East",
+      "accrediting": "Canterbury Christ Church University",
+      "subjects": "Physics, Science, Secondary",
+      "ageRange": "Secondary (11+ years)",
+      "name": "Physics (with Imperial College London)",
+      "slug": "physics-with-imperial-college-london",
+      "route": "Higher Education programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "C10",
+      "programmeCode": "FX3C",
+      "schools": [
+        {
+          "name": "Imperial College, London",
+          "address": "South Kensington Campus, London, SW7 2AZ",
+          "code": "I"
         }
       ],
       "options": [
         "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "South East",
+      "accrediting": "Canterbury Christ Church University",
+      "subjects": "Mathematics, Physics, Science, Secondary",
+      "ageRange": "Secondary (11+ years)",
+      "name": "Physics with Maths (with Imperial College London)",
+      "slug": "physics-with-maths-with-imperial-college-london",
+      "route": "Higher Education programme",
+      "qualifications": "QTS",
+      "providerCode": "C10",
+      "programmeCode": "2NNB",
+      "schools": [
+        {
+          "name": "Imperial College, London",
+          "address": "South Kensington Campus, London, SW7 2AZ",
+          "code": "I"
+        }
+      ],
+      "options": [
+        "QTS full time"
+      ]
+    },
+    {
+      "regions": "South East",
+      "accrediting": "Canterbury Christ Church University",
+      "subjects": "Further education, Post-compulsory",
+      "ageRange": "Secondary (11+ years)",
+      "name": "Post-Compulsory Education and Training",
+      "slug": "post-compulsory-education-and-training",
+      "route": "Higher Education programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "C10",
+      "programmeCode": "X341",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "",
+          "code": ""
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "South East",
+      "accrediting": "Canterbury Christ Church University",
+      "subjects": "Mathematics, Primary",
+      "ageRange": "Primary (c3 - 11/12 years)",
+      "name": "Primary Mathematics Specialist",
+      "slug": "primary-mathematics-specialist",
+      "route": "Higher Education programme",
+      "qualifications": "QTS",
+      "providerCode": "C10",
+      "programmeCode": "2M9W",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "",
+          "code": ""
+        }
+      ],
+      "options": [
+        "QTS full time"
+      ]
+    },
+    {
+      "regions": "South East",
+      "accrediting": "Canterbury Christ Church University",
+      "subjects": "Languages, Primary",
+      "ageRange": "Primary (c3 - 11/12 years)",
+      "name": "Primary with Languages",
+      "slug": "primary-with-languages",
+      "route": "Higher Education programme",
+      "qualifications": "QTS",
+      "providerCode": "C10",
+      "programmeCode": "2242",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "",
+          "code": ""
+        }
+      ],
+      "options": [
+        "QTS full time"
+      ]
+    },
+    {
+      "regions": "South East",
+      "accrediting": "Canterbury Christ Church University",
+      "subjects": "Psychology, Secondary",
+      "ageRange": "Secondary (11+ years)",
+      "name": "Psychology",
+      "slug": "psychology",
+      "route": "Higher Education programme",
+      "qualifications": "QTS",
+      "providerCode": "C10",
+      "programmeCode": "C8X1",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "",
+          "code": ""
+        }
+      ],
+      "options": [
+        "QTS full time"
+      ]
+    },
+    {
+      "regions": "South East",
+      "accrediting": "Canterbury Christ Church University",
+      "subjects": "Religious education, Secondary",
+      "ageRange": "Secondary (11+ years)",
+      "name": "Religious Education (11-18)",
+      "slug": "religious-education-11-18",
+      "route": "Higher Education programme",
+      "qualifications": "QTS",
+      "providerCode": "C10",
+      "programmeCode": "2CQ9",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "",
+          "code": ""
+        }
+      ],
+      "options": [
+        "QTS, full time or part time"
+      ]
+    },
+    {
+      "regions": "South East",
+      "accrediting": "Canterbury Christ Church University",
+      "subjects": "Middle years, Religious education",
+      "ageRange": "Middle years (c7 - 14 years)",
+      "name": "Religious Studies",
+      "slug": "religious-studies",
+      "route": "Higher Education programme",
+      "qualifications": "QTS",
+      "providerCode": "C10",
+      "programmeCode": "XVC6",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "",
+          "code": ""
+        }
+      ],
+      "options": [
+        "QTS full time"
+      ]
+    },
+    {
+      "regions": "South East",
+      "accrediting": "Canterbury Christ Church University",
+      "subjects": "Middle years, Science",
+      "ageRange": "Middle years (c7 - 14 years)",
+      "name": "Science",
+      "slug": "science",
+      "route": "Higher Education programme",
+      "qualifications": "QTS",
+      "providerCode": "C10",
+      "programmeCode": "XFCA",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "",
+          "code": ""
+        }
+      ],
+      "options": [
+        "QTS full time"
+      ]
+    },
+    {
+      "regions": "South East",
+      "accrediting": "Canterbury Christ Church University",
+      "subjects": "Biology, Science, Secondary",
+      "ageRange": "Secondary (11+ years)",
+      "name": "Science: Biology",
+      "slug": "science-biology",
+      "route": "Higher Education programme",
+      "qualifications": "QTS",
+      "providerCode": "C10",
+      "programmeCode": "CX11",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "",
+          "code": ""
+        }
+      ],
+      "options": [
+        "QTS, full time or part time"
+      ]
+    },
+    {
+      "regions": "South East",
+      "accrediting": "Canterbury Christ Church University",
+      "subjects": "Chemistry, Science, Secondary",
+      "ageRange": "Secondary (11+ years)",
+      "name": "Science: Chemistry",
+      "slug": "science-chemistry",
+      "route": "Higher Education programme",
+      "qualifications": "QTS",
+      "providerCode": "C10",
+      "programmeCode": "F2X1",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "",
+          "code": ""
+        }
+      ],
+      "options": [
+        "QTS, full time or part time"
+      ]
+    },
+    {
+      "regions": "South East",
+      "accrediting": "Canterbury Christ Church University",
+      "subjects": "Physics, Science, Secondary",
+      "ageRange": "Secondary (11+ years)",
+      "name": "Science: Physics",
+      "slug": "science-physics",
+      "route": "Higher Education programme",
+      "qualifications": "QTS",
+      "providerCode": "C10",
+      "programmeCode": "F3X2",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "",
+          "code": ""
+        }
+      ],
+      "options": [
+        "QTS, full time or part time"
       ]
     }
   ],
   "schools": [
     {
+      "name": "Imperial College, London",
+      "address": "South Kensington Campus, London, SW7 2AZ",
+      "code": "I"
+    },
+    {
       "name": "Main Site",
-      "address": "Donegal Street, Islington, London, N1 9QG",
-      "code": "-"
+      "address": "",
+      "code": ""
     }
   ],
   "accreditors": [
     {
-      "name": "UCL, University College London (University of London",
-      "slug": "ucl-university-college-london-university-of-london",
+      "name": "Canterbury Christ Church University",
+      "slug": "canterbury-christ-church-university",
       "subjects": [
         {
-          "name": "Biology",
-          "slug": "biology"
+          "name": "Applied Business Studies",
+          "slug": "applied-business-studies"
         },
         {
-          "name": "Chemistry",
-          "slug": "chemistry"
+          "name": "Art and Design",
+          "slug": "art-and-design"
+        },
+        {
+          "name": "Art and Design (7-14)",
+          "slug": "art-and-design-7-14"
+        },
+        {
+          "name": "Chemistry (with Imperial College London)",
+          "slug": "chemistry-with-imperial-college-london"
+        },
+        {
+          "name": "Citizenship",
+          "slug": "citizenship"
+        },
+        {
+          "name": "Computing",
+          "slug": "computing"
         },
         {
           "name": "English",
@@ -219,33 +1158,153 @@
           "slug": "geography"
         },
         {
+          "name": "Health and Social Care",
+          "slug": "health-and-social-care"
+        },
+        {
+          "name": "History",
+          "slug": "history"
+        },
+        {
           "name": "Mathematics",
           "slug": "mathematics"
         },
         {
-          "name": "Modern Languages",
-          "slug": "modern-languages"
+          "name": "Maths (with Imperial College London)",
+          "slug": "maths-with-imperial-college-london"
         },
         {
-          "name": "Physics",
-          "slug": "physics"
+          "name": "Modern Languages (French with German)",
+          "slug": "modern-languages-french-with-german"
         },
         {
-          "name": "Primary",
-          "slug": "primary"
+          "name": "Modern Languages (French with Spanish)",
+          "slug": "modern-languages-french-with-spanish"
+        },
+        {
+          "name": "Modern Languages (French)",
+          "slug": "modern-languages-french"
+        },
+        {
+          "name": "Modern Languages (German with French)",
+          "slug": "modern-languages-german-with-french"
+        },
+        {
+          "name": "Modern Languages (German with Spanish)",
+          "slug": "modern-languages-german-with-spanish"
+        },
+        {
+          "name": "Modern Languages (Spanish with French)",
+          "slug": "modern-languages-spanish-with-french"
+        },
+        {
+          "name": "Modern Languages (Spanish with German)",
+          "slug": "modern-languages-spanish-with-german"
+        },
+        {
+          "name": "Modern Languages (Spanish)",
+          "slug": "modern-languages-spanish"
+        },
+        {
+          "name": "Music",
+          "slug": "music"
+        },
+        {
+          "name": "Music 7-14 Years",
+          "slug": "music-7-14-years"
+        },
+        {
+          "name": "PGCE Primary",
+          "slug": "pgce-primary"
+        },
+        {
+          "name": "PGCE Primary Modular",
+          "slug": "pgce-primary-modular"
+        },
+        {
+          "name": "Physical Education",
+          "slug": "physical-education"
+        },
+        {
+          "name": "Physical Education (7-14)",
+          "slug": "physical-education-7-14"
+        },
+        {
+          "name": "Physics (with Imperial College London)",
+          "slug": "physics-with-imperial-college-london"
+        },
+        {
+          "name": "Physics with Maths (with Imperial College London)",
+          "slug": "physics-with-maths-with-imperial-college-london"
+        },
+        {
+          "name": "Post-Compulsory Education and Training",
+          "slug": "post-compulsory-education-and-training"
+        },
+        {
+          "name": "Primary Mathematics Specialist",
+          "slug": "primary-mathematics-specialist"
+        },
+        {
+          "name": "Primary with Languages",
+          "slug": "primary-with-languages"
+        },
+        {
+          "name": "Psychology",
+          "slug": "psychology"
+        },
+        {
+          "name": "Religious Education (11-18)",
+          "slug": "religious-education-11-18"
+        },
+        {
+          "name": "Religious Studies",
+          "slug": "religious-studies"
+        },
+        {
+          "name": "Science",
+          "slug": "science"
+        },
+        {
+          "name": "Science: Biology",
+          "slug": "science-biology"
+        },
+        {
+          "name": "Science: Chemistry",
+          "slug": "science-chemistry"
+        },
+        {
+          "name": "Science: Physics",
+          "slug": "science-physics"
         }
       ]
     }
   ],
-  "self_accrediting": false,
+  "self_accrediting": true,
   "subjects": [
     {
-      "name": "Biology",
-      "slug": "biology"
+      "name": "Applied Business Studies",
+      "slug": "applied-business-studies"
     },
     {
-      "name": "Chemistry",
-      "slug": "chemistry"
+      "name": "Art and Design",
+      "slug": "art-and-design"
+    },
+    {
+      "name": "Art and Design (7-14)",
+      "slug": "art-and-design-7-14"
+    },
+    {
+      "name": "Chemistry (with Imperial College London)",
+      "slug": "chemistry-with-imperial-college-london"
+    },
+    {
+      "name": "Citizenship",
+      "slug": "citizenship"
+    },
+    {
+      "name": "Computing",
+      "slug": "computing"
     },
     {
       "name": "English",
@@ -256,29 +1315,133 @@
       "slug": "geography"
     },
     {
+      "name": "Health and Social Care",
+      "slug": "health-and-social-care"
+    },
+    {
+      "name": "History",
+      "slug": "history"
+    },
+    {
       "name": "Mathematics",
       "slug": "mathematics"
     },
     {
-      "name": "Modern Languages",
-      "slug": "modern-languages"
+      "name": "Maths (with Imperial College London)",
+      "slug": "maths-with-imperial-college-london"
     },
     {
-      "name": "Physics",
-      "slug": "physics"
+      "name": "Modern Languages (French with German)",
+      "slug": "modern-languages-french-with-german"
     },
     {
-      "name": "Primary",
-      "slug": "primary"
+      "name": "Modern Languages (French with Spanish)",
+      "slug": "modern-languages-french-with-spanish"
+    },
+    {
+      "name": "Modern Languages (French)",
+      "slug": "modern-languages-french"
+    },
+    {
+      "name": "Modern Languages (German with French)",
+      "slug": "modern-languages-german-with-french"
+    },
+    {
+      "name": "Modern Languages (German with Spanish)",
+      "slug": "modern-languages-german-with-spanish"
+    },
+    {
+      "name": "Modern Languages (Spanish with French)",
+      "slug": "modern-languages-spanish-with-french"
+    },
+    {
+      "name": "Modern Languages (Spanish with German)",
+      "slug": "modern-languages-spanish-with-german"
+    },
+    {
+      "name": "Modern Languages (Spanish)",
+      "slug": "modern-languages-spanish"
+    },
+    {
+      "name": "Music",
+      "slug": "music"
+    },
+    {
+      "name": "Music 7-14 Years",
+      "slug": "music-7-14-years"
+    },
+    {
+      "name": "PGCE Primary",
+      "slug": "pgce-primary"
+    },
+    {
+      "name": "PGCE Primary Modular",
+      "slug": "pgce-primary-modular"
+    },
+    {
+      "name": "Physical Education",
+      "slug": "physical-education"
+    },
+    {
+      "name": "Physical Education (7-14)",
+      "slug": "physical-education-7-14"
+    },
+    {
+      "name": "Physics (with Imperial College London)",
+      "slug": "physics-with-imperial-college-london"
+    },
+    {
+      "name": "Physics with Maths (with Imperial College London)",
+      "slug": "physics-with-maths-with-imperial-college-london"
+    },
+    {
+      "name": "Post-Compulsory Education and Training",
+      "slug": "post-compulsory-education-and-training"
+    },
+    {
+      "name": "Primary Mathematics Specialist",
+      "slug": "primary-mathematics-specialist"
+    },
+    {
+      "name": "Primary with Languages",
+      "slug": "primary-with-languages"
+    },
+    {
+      "name": "Psychology",
+      "slug": "psychology"
+    },
+    {
+      "name": "Religious Education (11-18)",
+      "slug": "religious-education-11-18"
+    },
+    {
+      "name": "Religious Studies",
+      "slug": "religious-studies"
+    },
+    {
+      "name": "Science",
+      "slug": "science"
+    },
+    {
+      "name": "Science: Biology",
+      "slug": "science-biology"
+    },
+    {
+      "name": "Science: Chemistry",
+      "slug": "science-chemistry"
+    },
+    {
+      "name": "Science: Physics",
+      "slug": "science-physics"
     }
   ],
   "folded_courses": {
-    "UCL, University College London (University of London": [
+    "Canterbury Christ Church University": [
       {
-        "name": "Biology",
+        "name": "Applied Business Studies",
         "courses": 1,
         "accrediting": [
-          "UCL, University College London (University of London"
+          "Canterbury Christ Church University"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
@@ -296,10 +1459,10 @@
         }
       },
       {
-        "name": "Chemistry",
+        "name": "Art and Design",
         "courses": 1,
         "accrediting": [
-          "UCL, University College London (University of London"
+          "Canterbury Christ Church University"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
@@ -308,7 +1471,94 @@
           "Main Site"
         ],
         "options": [
+          "PGCE with QTS full time",
+          "PGCE with QTS part time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Art and Design (7-14)",
+        "courses": 1,
+        "accrediting": [
+          "Canterbury Christ Church University"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Main Site"
+        ],
+        "options": [
+          "QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Chemistry (with Imperial College London)",
+        "courses": 1,
+        "accrediting": [
+          "Canterbury Christ Church University"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Imperial College, London"
+        ],
+        "options": [
           "PGCE with QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Citizenship",
+        "courses": 1,
+        "accrediting": [
+          "Canterbury Christ Church University"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Main Site"
+        ],
+        "options": [
+          "PGCE with QTS full time",
+          "PGCE with QTS part time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Computing",
+        "courses": 2,
+        "accrediting": [
+          "Canterbury Christ Church University"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Main Site"
+        ],
+        "options": [
+          "QTS full time",
+          "QTS part time"
         ],
         "flags": {
           "partTime": false,
@@ -318,9 +1568,9 @@
       },
       {
         "name": "English",
-        "courses": 1,
+        "courses": 2,
         "accrediting": [
-          "UCL, University College London (University of London"
+          "Canterbury Christ Church University"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
@@ -329,7 +1579,8 @@
           "Main Site"
         ],
         "options": [
-          "PGCE with QTS full time"
+          "QTS full time",
+          "QTS part time"
         ],
         "flags": {
           "partTime": false,
@@ -339,9 +1590,9 @@
       },
       {
         "name": "Geography",
-        "courses": 1,
+        "courses": 2,
         "accrediting": [
-          "UCL, University College London (University of London"
+          "Canterbury Christ Church University"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
@@ -350,7 +1601,51 @@
           "Main Site"
         ],
         "options": [
-          "PGCE with QTS full time"
+          "QTS full time",
+          "QTS part time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Health and Social Care",
+        "courses": 1,
+        "accrediting": [
+          "Canterbury Christ Church University"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Main Site"
+        ],
+        "options": [
+          "QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "History",
+        "courses": 2,
+        "accrediting": [
+          "Canterbury Christ Church University"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Main Site"
+        ],
+        "options": [
+          "QTS full time",
+          "QTS part time"
         ],
         "flags": {
           "partTime": false,
@@ -360,9 +1655,397 @@
       },
       {
         "name": "Mathematics",
+        "courses": 2,
+        "accrediting": [
+          "Canterbury Christ Church University"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Main Site"
+        ],
+        "options": [
+          "QTS full time",
+          "QTS part time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Maths (with Imperial College London)",
         "courses": 1,
         "accrediting": [
-          "UCL, University College London (University of London"
+          "Canterbury Christ Church University"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Imperial College, London"
+        ],
+        "options": [
+          "QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Modern Languages (French with German)",
+        "courses": 2,
+        "accrediting": [
+          "Canterbury Christ Church University"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Main Site"
+        ],
+        "options": [
+          "QTS full time",
+          "QTS part time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Modern Languages (French with Spanish)",
+        "courses": 2,
+        "accrediting": [
+          "Canterbury Christ Church University"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Main Site"
+        ],
+        "options": [
+          "QTS full time",
+          "QTS part time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Modern Languages (French)",
+        "courses": 2,
+        "accrediting": [
+          "Canterbury Christ Church University"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Main Site"
+        ],
+        "options": [
+          "QTS full time",
+          "QTS part time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Modern Languages (German with French)",
+        "courses": 2,
+        "accrediting": [
+          "Canterbury Christ Church University"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Main Site"
+        ],
+        "options": [
+          "QTS full time",
+          "QTS part time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Modern Languages (German with Spanish)",
+        "courses": 2,
+        "accrediting": [
+          "Canterbury Christ Church University"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Main Site"
+        ],
+        "options": [
+          "QTS full time",
+          "QTS part time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Modern Languages (Spanish with French)",
+        "courses": 2,
+        "accrediting": [
+          "Canterbury Christ Church University"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Main Site"
+        ],
+        "options": [
+          "QTS full time",
+          "QTS part time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Modern Languages (Spanish with German)",
+        "courses": 1,
+        "accrediting": [
+          "Canterbury Christ Church University"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Main Site"
+        ],
+        "options": [
+          "QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Modern Languages (Spanish)",
+        "courses": 2,
+        "accrediting": [
+          "Canterbury Christ Church University"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Main Site"
+        ],
+        "options": [
+          "QTS full time",
+          "QTS part time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Music",
+        "courses": 1,
+        "accrediting": [
+          "Canterbury Christ Church University"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Main Site"
+        ],
+        "options": [
+          "QTS full time",
+          "QTS part time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Music 7-14 Years",
+        "courses": 1,
+        "accrediting": [
+          "Canterbury Christ Church University"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Main Site"
+        ],
+        "options": [
+          "QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "PGCE Primary",
+        "courses": 1,
+        "accrediting": [
+          "Canterbury Christ Church University"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Main Site"
+        ],
+        "options": [
+          "QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "PGCE Primary Modular",
+        "courses": 1,
+        "accrediting": [
+          "Canterbury Christ Church University"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Main Site"
+        ],
+        "options": [
+          "QTS part time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Physical Education",
+        "courses": 1,
+        "accrediting": [
+          "Canterbury Christ Church University"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Main Site"
+        ],
+        "options": [
+          "QTS full time",
+          "QTS part time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Physical Education (7-14)",
+        "courses": 1,
+        "accrediting": [
+          "Canterbury Christ Church University"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Main Site"
+        ],
+        "options": [
+          "QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Physics (with Imperial College London)",
+        "courses": 1,
+        "accrediting": [
+          "Canterbury Christ Church University"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Imperial College, London"
+        ],
+        "options": [
+          "PGCE with QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Physics with Maths (with Imperial College London)",
+        "courses": 1,
+        "accrediting": [
+          "Canterbury Christ Church University"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Imperial College, London"
+        ],
+        "options": [
+          "QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Post-Compulsory Education and Training",
+        "courses": 1,
+        "accrediting": [
+          "Canterbury Christ Church University"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
@@ -380,10 +2063,10 @@
         }
       },
       {
-        "name": "Modern Languages",
+        "name": "Primary Mathematics Specialist",
         "courses": 1,
         "accrediting": [
-          "UCL, University College London (University of London"
+          "Canterbury Christ Church University"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
@@ -392,7 +2075,7 @@
           "Main Site"
         ],
         "options": [
-          "PGCE with QTS full time"
+          "QTS full time"
         ],
         "flags": {
           "partTime": false,
@@ -401,10 +2084,10 @@
         }
       },
       {
-        "name": "Physics",
+        "name": "Primary with Languages",
         "courses": 1,
         "accrediting": [
-          "UCL, University College London (University of London"
+          "Canterbury Christ Church University"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
@@ -413,7 +2096,7 @@
           "Main Site"
         ],
         "options": [
-          "PGCE with QTS full time"
+          "QTS full time"
         ],
         "flags": {
           "partTime": false,
@@ -422,10 +2105,10 @@
         }
       },
       {
-        "name": "Primary",
+        "name": "Psychology",
         "courses": 1,
         "accrediting": [
-          "UCL, University College London (University of London"
+          "Canterbury Christ Church University"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
@@ -434,7 +2117,137 @@
           "Main Site"
         ],
         "options": [
-          "PGCE with QTS full time"
+          "QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Religious Education (11-18)",
+        "courses": 1,
+        "accrediting": [
+          "Canterbury Christ Church University"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Main Site"
+        ],
+        "options": [
+          "QTS full time",
+          "QTS part time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Religious Studies",
+        "courses": 1,
+        "accrediting": [
+          "Canterbury Christ Church University"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Main Site"
+        ],
+        "options": [
+          "QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Science",
+        "courses": 1,
+        "accrediting": [
+          "Canterbury Christ Church University"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Main Site"
+        ],
+        "options": [
+          "QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Science: Biology",
+        "courses": 1,
+        "accrediting": [
+          "Canterbury Christ Church University"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Main Site"
+        ],
+        "options": [
+          "QTS full time",
+          "QTS part time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Science: Chemistry",
+        "courses": 1,
+        "accrediting": [
+          "Canterbury Christ Church University"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Main Site"
+        ],
+        "options": [
+          "QTS full time",
+          "QTS part time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Science: Physics",
+        "courses": 1,
+        "accrediting": [
+          "Canterbury Christ Church University"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Main Site"
+        ],
+        "options": [
+          "QTS full time",
+          "QTS part time"
         ],
         "flags": {
           "partTime": false,
@@ -445,6 +2258,9 @@
     ]
   },
   "options": [
-    "PGCE with QTS full time"
+    "PGCE with QTS full time",
+    "PGCE with QTS part time",
+    "QTS full time",
+    "QTS part time"
   ]
 }

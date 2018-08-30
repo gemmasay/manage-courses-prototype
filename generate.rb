@@ -5,7 +5,7 @@ require 'json'
 
 file = File.read('courses-clean.json')
 data = JSON.parse(file)
-provider = 'Angel Islington Teaching School Alliance'
+provider = 'Canterbury Christ Church University'
 courses = data.select {|c| c['provider'] == provider }
 
 prototype_data = {
@@ -13,12 +13,6 @@ prototype_data = {
   'training-provider-name': provider,
   'provider-code-name': courses.first['providerCodeName'],
   'provider-code': courses.first['providerCode'],
-  'address-line-1': '123 Baker Street',
-  'town': 'London',
-  'postcode': 'SW1 1AA',
-  'telephone': '0208 123 4567',
-  'email': 'someemail@not-an-email.com',
-  'website': 'http://www.egaschool.co.uk/244/the-angel-islington-teaching-school-alliance',
   'templates': []
 }
 
@@ -36,12 +30,16 @@ prototype_data['ucasCourses'] = courses.map do |c|
   fullTime = c['campuses'].map {|g| g['fullTime'] }.uniq.reject {|r| r == "n/a"}.count > 0
   salaried = c['route'] == "School Direct training programme (salaried)" ? ' with salary' : ''
 
-  if partTime
-    options << "#{qual} part time#{salaried}"
-  end
+  if partTime && fullTime
+    options << "#{qual}, full time or part time#{salaried}"
+  else
+    if partTime
+      options << "#{qual} part time#{salaried}"
+    end
 
-  if fullTime
-    options << "#{qual} full time#{salaried}"
+    if fullTime
+      options << "#{qual} full time#{salaried}"
+    end
   end
 
   {
