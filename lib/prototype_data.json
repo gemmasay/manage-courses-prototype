@@ -1,94 +1,28 @@
 {
   "multi-organisation": false,
-  "training-provider-name": "Canterbury Christ Church University",
-  "provider-code-name": "CANCC",
-  "provider-code": "C10",
+  "training-provider-name": "Excalibur TSA",
+  "provider-code-name": "A2591",
+  "provider-code": "2BO",
   "templates": [
 
   ],
   "ucasCourses": [
     {
-      "regions": "South East",
-      "accrediting": "Canterbury Christ Church University",
-      "subjects": "Business education, Secondary",
-      "ageRange": "Secondary (11+ years)",
-      "name": "Applied Business Studies",
-      "slug": "applied-business-studies",
-      "route": "Higher Education programme",
-      "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "C10",
-      "programmeCode": "NX1D",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "",
-          "code": ""
-        }
-      ],
-      "options": [
-        "PGCE with QTS full time"
-      ]
-    },
-    {
-      "regions": "South East",
-      "accrediting": "Canterbury Christ Church University",
+      "regions": "South West",
+      "accrediting": "Bath Spa University",
       "subjects": "Art / art & design, Secondary",
       "ageRange": "Secondary (11+ years)",
       "name": "Art and Design",
       "slug": "art-and-design",
-      "route": "Higher Education programme",
-      "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "C10",
-      "programmeCode": "W1X1",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "",
-          "code": ""
-        }
-      ],
-      "options": [
-        "PGCE with QTS, full time or part time"
-      ]
-    },
-    {
-      "regions": "South East",
-      "accrediting": "Canterbury Christ Church University",
-      "subjects": "Art / art & design, Middle years",
-      "ageRange": "Middle years (c7 - 14 years)",
-      "name": "Art and Design (7-14)",
-      "slug": "art-and-design-7-14",
-      "route": "Higher Education programme",
-      "qualifications": "QTS",
-      "providerCode": "C10",
-      "programmeCode": "2VQV",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "",
-          "code": ""
-        }
-      ],
-      "options": [
-        "QTS full time"
-      ]
-    },
-    {
-      "regions": "South East",
-      "accrediting": "Canterbury Christ Church University",
-      "subjects": "Chemistry, Science, Secondary",
-      "ageRange": "Secondary (11+ years)",
-      "name": "Chemistry (with Imperial College London)",
-      "slug": "chemistry-with-imperial-college-london",
-      "route": "Higher Education programme",
+      "route": "School Direct training programme",
       "qualifications": "QTS, Postgraduate",
-      "providerCode": "C10",
-      "programmeCode": "FX1C",
+      "providerCode": "2BO",
+      "programmeCode": "34SR",
       "schools": [
         {
-          "name": "Imperial College, London",
-          "address": "South Kensington Campus, London, SW7 2AZ",
-          "code": "I"
+          "name": "Main Site",
+          "address": "St John's Marlborough, Granham Hill, Marlborough, Wiltshire, SN8 4AX",
+          "code": "-"
         }
       ],
       "options": [
@@ -96,769 +30,351 @@
       ]
     },
     {
-      "regions": "South East",
-      "accrediting": "Canterbury Christ Church University",
-      "subjects": "Citizenship, Secondary",
+      "regions": "South West",
+      "accrediting": "Bath Spa University",
+      "subjects": "Biology, Science, Secondary",
       "ageRange": "Secondary (11+ years)",
-      "name": "Citizenship",
-      "slug": "citizenship",
-      "route": "Higher Education programme",
-      "qualifications": "QTS, Postgraduate, Professional",
-      "providerCode": "C10",
-      "programmeCode": "L9X1",
+      "name": "Biology",
+      "slug": "biology",
+      "route": "School Direct training programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "2BO",
+      "programmeCode": "2XMS",
       "schools": [
         {
           "name": "Main Site",
-          "address": "",
-          "code": ""
+          "address": "St John's Marlborough, Granham Hill, Marlborough, Wiltshire, SN8 4AX",
+          "code": "-"
         }
       ],
       "options": [
-        "PGCE with QTS, full time or part time"
+        "PGCE with QTS full time"
       ]
     },
     {
-      "regions": "South East",
-      "accrediting": "Canterbury Christ Church University",
+      "regions": "South West",
+      "accrediting": "University of Bristol",
+      "subjects": "Biology, Science, Secondary",
+      "ageRange": "Secondary (11+ years)",
+      "name": "Biology",
+      "slug": "biology",
+      "route": "School Direct training programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "2BO",
+      "programmeCode": "2XN2",
+      "schools": [
+        {
+          "name": "Fairfield High School",
+          "address": "Allfoxton Road, Horfield, Bristol, BS7 9NL",
+          "code": "F"
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "South West",
+      "accrediting": "Bath Spa University",
+      "subjects": "Chemistry, Science, Secondary",
+      "ageRange": "Secondary (11+ years)",
+      "name": "Chemistry",
+      "slug": "chemistry",
+      "route": "School Direct training programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "2BO",
+      "programmeCode": "2XMR",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "St John's Marlborough, Granham Hill, Marlborough, Wiltshire, SN8 4AX",
+          "code": "-"
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "South West",
+      "accrediting": "Bath Spa University",
       "subjects": "Computer studies, Secondary",
       "ageRange": "Secondary (11+ years)",
       "name": "Computing",
       "slug": "computing",
-      "route": "Higher Education programme",
-      "qualifications": "QTS",
-      "providerCode": "C10",
-      "programmeCode": "2BSJ",
+      "route": "School Direct training programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "2BO",
+      "programmeCode": "34SM",
       "schools": [
         {
           "name": "Main Site",
-          "address": "",
-          "code": ""
+          "address": "St John's Marlborough, Granham Hill, Marlborough, Wiltshire, SN8 4AX",
+          "code": "-"
         }
       ],
       "options": [
-        "QTS, full time or part time"
+        "PGCE with QTS full time"
       ]
     },
     {
-      "regions": "South East",
-      "accrediting": "Canterbury Christ Church University",
-      "subjects": "Computer studies, Middle years",
-      "ageRange": "Middle years (c7 - 14 years)",
-      "name": "Computing",
-      "slug": "computing",
-      "route": "Higher Education programme",
-      "qualifications": "QTS",
-      "providerCode": "C10",
-      "programmeCode": "33D3",
+      "regions": "South West",
+      "accrediting": "Bath Spa University",
+      "subjects": "Design and technology, Secondary",
+      "ageRange": "Secondary (11+ years)",
+      "name": "Design and Technology",
+      "slug": "design-and-technology",
+      "route": "School Direct training programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "2BO",
+      "programmeCode": "34SN",
       "schools": [
         {
           "name": "Main Site",
-          "address": "",
-          "code": ""
+          "address": "St John's Marlborough, Granham Hill, Marlborough, Wiltshire, SN8 4AX",
+          "code": "-"
         }
       ],
       "options": [
-        "QTS full time"
+        "PGCE with QTS full time"
       ]
     },
     {
-      "regions": "South East",
-      "accrediting": "Canterbury Christ Church University",
+      "regions": "South West",
+      "accrediting": "Bath Spa University",
+      "subjects": "Drama and theatre studies, Secondary",
+      "ageRange": "Secondary (11+ years)",
+      "name": "Drama",
+      "slug": "drama",
+      "route": "School Direct training programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "2BO",
+      "programmeCode": "34SQ",
+      "schools": [
+        {
+          "name": "Main Site",
+          "address": "St John's Marlborough, Granham Hill, Marlborough, Wiltshire, SN8 4AX",
+          "code": "-"
+        }
+      ],
+      "options": [
+        "PGCE with QTS full time"
+      ]
+    },
+    {
+      "regions": "South West",
+      "accrediting": "Bath Spa University",
       "subjects": "English, Secondary",
       "ageRange": "Secondary (11+ years)",
       "name": "English",
       "slug": "english",
-      "route": "Higher Education programme",
-      "qualifications": "QTS",
-      "providerCode": "C10",
-      "programmeCode": "2243",
+      "route": "School Direct training programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "2BO",
+      "programmeCode": "2XMX",
       "schools": [
         {
           "name": "Main Site",
-          "address": "",
-          "code": ""
+          "address": "St John's Marlborough, Granham Hill, Marlborough, Wiltshire, SN8 4AX",
+          "code": "-"
         }
       ],
       "options": [
-        "QTS, full time or part time"
+        "PGCE with QTS full time"
       ]
     },
     {
-      "regions": "South East",
-      "accrediting": "Canterbury Christ Church University",
-      "subjects": "English, Middle years",
-      "ageRange": "Middle years (c7 - 14 years)",
+      "regions": "South West",
+      "accrediting": "University of Bristol",
+      "subjects": "English, Secondary",
+      "ageRange": "Secondary (11+ years)",
       "name": "English",
       "slug": "english",
-      "route": "Higher Education programme",
-      "qualifications": "QTS",
-      "providerCode": "C10",
-      "programmeCode": "XQC3",
+      "route": "School Direct training programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "2BO",
+      "programmeCode": "2XN6",
       "schools": [
         {
-          "name": "Main Site",
-          "address": "",
-          "code": ""
+          "name": "Fairfield High School",
+          "address": "Allfoxton Road, Horfield, Bristol, BS7 9NL",
+          "code": "F"
         }
       ],
       "options": [
-        "QTS full time"
+        "PGCE with QTS full time"
       ]
     },
     {
-      "regions": "South East",
-      "accrediting": "Canterbury Christ Church University",
+      "regions": "South West",
+      "accrediting": "Bath Spa University",
       "subjects": "Geography, Secondary",
       "ageRange": "Secondary (11+ years)",
       "name": "Geography",
       "slug": "geography",
-      "route": "Higher Education programme",
-      "qualifications": "QTS",
-      "providerCode": "C10",
-      "programmeCode": "F8X1",
+      "route": "School Direct training programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "2BO",
+      "programmeCode": "2XHT",
       "schools": [
         {
           "name": "Main Site",
-          "address": "",
-          "code": ""
+          "address": "St John's Marlborough, Granham Hill, Marlborough, Wiltshire, SN8 4AX",
+          "code": "-"
         }
       ],
       "options": [
-        "QTS, full time or part time"
+        "PGCE with QTS full time"
       ]
     },
     {
-      "regions": "South East",
-      "accrediting": "Canterbury Christ Church University",
-      "subjects": "Geography, Middle years",
-      "ageRange": "Middle years (c7 - 14 years)",
+      "regions": "South West",
+      "accrediting": "University of Bristol",
+      "subjects": "Geography, Secondary",
+      "ageRange": "Secondary (11+ years)",
       "name": "Geography",
       "slug": "geography",
-      "route": "Higher Education programme",
-      "qualifications": "QTS",
-      "providerCode": "C10",
-      "programmeCode": "XFC8",
+      "route": "School Direct training programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "2BO",
+      "programmeCode": "2XN5",
       "schools": [
         {
-          "name": "Main Site",
-          "address": "",
-          "code": ""
+          "name": "Fairfield High School",
+          "address": "Allfoxton Road, Horfield, Bristol, BS7 9NL",
+          "code": "F"
         }
       ],
       "options": [
-        "QTS full time"
+        "PGCE with QTS full time"
       ]
     },
     {
-      "regions": "South East",
-      "accrediting": "Canterbury Christ Church University",
-      "subjects": "Health and social care, Secondary",
-      "ageRange": "Secondary (11+ years)",
-      "name": "Health and Social Care",
-      "slug": "health-and-social-care",
-      "route": "Higher Education programme",
-      "qualifications": "QTS",
-      "providerCode": "C10",
-      "programmeCode": "LMNC",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "",
-          "code": ""
-        }
-      ],
-      "options": [
-        "QTS full time"
-      ]
-    },
-    {
-      "regions": "South East",
-      "accrediting": "Canterbury Christ Church University",
-      "subjects": "History, Middle years",
-      "ageRange": "Middle years (c7 - 14 years)",
-      "name": "History",
-      "slug": "history",
-      "route": "Higher Education programme",
-      "qualifications": "QTS",
-      "providerCode": "C10",
-      "programmeCode": "XVC1",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "",
-          "code": ""
-        }
-      ],
-      "options": [
-        "QTS full time"
-      ]
-    },
-    {
-      "regions": "South East",
-      "accrediting": "Canterbury Christ Church University",
+      "regions": "South West",
+      "accrediting": "University of Bristol",
       "subjects": "History, Secondary",
       "ageRange": "Secondary (11+ years)",
       "name": "History",
       "slug": "history",
-      "route": "Higher Education programme",
-      "qualifications": "QTS",
-      "providerCode": "C10",
-      "programmeCode": "V1X1",
+      "route": "School Direct training programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "2BO",
+      "programmeCode": "2XN3",
       "schools": [
         {
-          "name": "Main Site",
-          "address": "",
-          "code": ""
+          "name": "Fairfield High School",
+          "address": "Allfoxton Road, Horfield, Bristol, BS7 9NL",
+          "code": "F"
         }
       ],
       "options": [
-        "QTS, full time or part time"
+        "PGCE with QTS full time"
       ]
     },
     {
-      "regions": "South East",
-      "accrediting": "Canterbury Christ Church University",
+      "regions": "South West",
+      "accrediting": "Bath Spa University",
       "subjects": "Mathematics, Secondary",
       "ageRange": "Secondary (11+ years)",
       "name": "Mathematics",
       "slug": "mathematics",
-      "route": "Higher Education programme",
-      "qualifications": "QTS",
-      "providerCode": "C10",
-      "programmeCode": "G1X1",
+      "route": "School Direct training programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "2BO",
+      "programmeCode": "2XMW",
       "schools": [
         {
           "name": "Main Site",
-          "address": "",
-          "code": ""
+          "address": "St John's Marlborough, Granham Hill, Marlborough, Wiltshire, SN8 4AX",
+          "code": "-"
         }
       ],
       "options": [
-        "QTS, full time or part time"
+        "PGCE with QTS full time"
       ]
     },
     {
-      "regions": "South East",
-      "accrediting": "Canterbury Christ Church University",
-      "subjects": "Mathematics, Middle years",
-      "ageRange": "Middle years (c7 - 14 years)",
-      "name": "Mathematics",
-      "slug": "mathematics",
-      "route": "Higher Education programme",
-      "qualifications": "QTS",
-      "providerCode": "C10",
-      "programmeCode": "XGC1",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "",
-          "code": ""
-        }
-      ],
-      "options": [
-        "QTS full time"
-      ]
-    },
-    {
-      "regions": "South East",
-      "accrediting": "Canterbury Christ Church University",
-      "subjects": "Mathematics, Secondary",
+      "regions": "South West",
+      "accrediting": "Bath Spa University",
+      "subjects": "Languages, Secondary",
       "ageRange": "Secondary (11+ years)",
-      "name": "Maths (with Imperial College London)",
-      "slug": "maths-with-imperial-college-london",
-      "route": "Higher Education programme",
-      "qualifications": "QTS",
-      "providerCode": "C10",
-      "programmeCode": "2NNC",
-      "schools": [
-        {
-          "name": "Imperial College, London",
-          "address": "South Kensington Campus, London, SW7 2AZ",
-          "code": "I"
-        }
-      ],
-      "options": [
-        "QTS full time"
-      ]
-    },
-    {
-      "regions": "South East",
-      "accrediting": "Canterbury Christ Church University",
-      "subjects": "French, German, Languages, Languages (european), Secondary",
-      "ageRange": "Middle years (c7 - 14 years)",
-      "name": "Modern Languages (French with German)",
-      "slug": "modern-languages-french-with-german",
-      "route": "Higher Education programme",
-      "qualifications": "QTS",
-      "providerCode": "C10",
-      "programmeCode": "XRDC",
+      "name": "Modern Languages",
+      "slug": "modern-languages",
+      "route": "School Direct training programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "2BO",
+      "programmeCode": "2XMV",
       "schools": [
         {
           "name": "Main Site",
-          "address": "",
-          "code": ""
+          "address": "St John's Marlborough, Granham Hill, Marlborough, Wiltshire, SN8 4AX",
+          "code": "-"
         }
       ],
       "options": [
-        "QTS full time"
+        "PGCE with QTS full time"
       ]
     },
     {
-      "regions": "South East",
-      "accrediting": "Canterbury Christ Church University",
-      "subjects": "French, German, Languages, Languages (european), Secondary",
-      "ageRange": "Secondary (11+ years)",
-      "name": "Modern Languages (French with German)",
-      "slug": "modern-languages-french-with-german",
-      "route": "Higher Education programme",
-      "qualifications": "QTS",
-      "providerCode": "C10",
-      "programmeCode": "RX11",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "",
-          "code": ""
-        }
-      ],
-      "options": [
-        "QTS, full time or part time"
-      ]
-    },
-    {
-      "regions": "South East",
-      "accrediting": "Canterbury Christ Church University",
-      "subjects": "French, Languages, Languages (european), Secondary, Spanish",
-      "ageRange": "Secondary (11+ years)",
-      "name": "Modern Languages (French with Spanish)",
-      "slug": "modern-languages-french-with-spanish",
-      "route": "Higher Education programme",
-      "qualifications": "QTS",
-      "providerCode": "C10",
-      "programmeCode": "RXD1",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "",
-          "code": ""
-        }
-      ],
-      "options": [
-        "QTS, full time or part time"
-      ]
-    },
-    {
-      "regions": "South East",
-      "accrediting": "Canterbury Christ Church University",
-      "subjects": "French, Languages, Languages (european), Secondary, Spanish",
-      "ageRange": "Middle years (c7 - 14 years)",
-      "name": "Modern Languages (French with Spanish)",
-      "slug": "modern-languages-french-with-spanish",
-      "route": "Higher Education programme",
-      "qualifications": "QTS",
-      "providerCode": "C10",
-      "programmeCode": "XRDD",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "",
-          "code": ""
-        }
-      ],
-      "options": [
-        "QTS full time"
-      ]
-    },
-    {
-      "regions": "South East",
-      "accrediting": "Canterbury Christ Church University",
-      "subjects": "French, Languages, Languages (european), Secondary",
-      "ageRange": "Middle years (c7 - 14 years)",
-      "name": "Modern Languages (French)",
-      "slug": "modern-languages-french",
-      "route": "Higher Education programme",
-      "qualifications": "QTS",
-      "providerCode": "C10",
-      "programmeCode": "XRC1",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "",
-          "code": ""
-        }
-      ],
-      "options": [
-        "QTS full time"
-      ]
-    },
-    {
-      "regions": "South East",
-      "accrediting": "Canterbury Christ Church University",
-      "subjects": "French, Languages, Languages (european), Secondary",
-      "ageRange": "Secondary (11+ years)",
-      "name": "Modern Languages (French)",
-      "slug": "modern-languages-french",
-      "route": "Higher Education programme",
-      "qualifications": "QTS",
-      "providerCode": "C10",
-      "programmeCode": "R1X1",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "",
-          "code": ""
-        }
-      ],
-      "options": [
-        "QTS, full time or part time"
-      ]
-    },
-    {
-      "regions": "South East",
-      "accrediting": "Canterbury Christ Church University",
-      "subjects": "French, German, Languages, Languages (european), Secondary",
-      "ageRange": "Middle years (c7 - 14 years)",
-      "name": "Modern Languages (German with French)",
-      "slug": "modern-languages-german-with-french",
-      "route": "Higher Education programme",
-      "qualifications": "QTS",
-      "providerCode": "C10",
-      "programmeCode": "XRDF",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "",
-          "code": ""
-        }
-      ],
-      "options": [
-        "QTS full time"
-      ]
-    },
-    {
-      "regions": "South East",
-      "accrediting": "Canterbury Christ Church University",
-      "subjects": "French, German, Languages, Languages (european), Secondary",
-      "ageRange": "Secondary (11+ years)",
-      "name": "Modern Languages (German with French)",
-      "slug": "modern-languages-german-with-french",
-      "route": "Higher Education programme",
-      "qualifications": "QTS",
-      "providerCode": "C10",
-      "programmeCode": "RX21",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "",
-          "code": ""
-        }
-      ],
-      "options": [
-        "QTS, full time or part time"
-      ]
-    },
-    {
-      "regions": "South East",
-      "accrediting": "Canterbury Christ Church University",
-      "subjects": "German, Languages, Languages (european), Spanish",
-      "ageRange": "Middle years (c7 - 14 years)",
-      "name": "Modern Languages (German with Spanish)",
-      "slug": "modern-languages-german-with-spanish",
-      "route": "Higher Education programme",
-      "qualifications": "QTS",
-      "providerCode": "C10",
-      "programmeCode": "2VSW",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "",
-          "code": ""
-        }
-      ],
-      "options": [
-        "QTS full time"
-      ]
-    },
-    {
-      "regions": "South East",
-      "accrediting": "Canterbury Christ Church University",
-      "subjects": "German, Languages, Languages (european), Secondary, Spanish",
-      "ageRange": "Secondary (11+ years)",
-      "name": "Modern Languages (German with Spanish)",
-      "slug": "modern-languages-german-with-spanish",
-      "route": "Higher Education programme",
-      "qualifications": "QTS",
-      "providerCode": "C10",
-      "programmeCode": "2VSV",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "",
-          "code": ""
-        }
-      ],
-      "options": [
-        "QTS, full time or part time"
-      ]
-    },
-    {
-      "regions": "South East",
-      "accrediting": "Canterbury Christ Church University",
-      "subjects": "French, Languages, Languages (european), Secondary, Spanish",
-      "ageRange": "Secondary (11+ years)",
-      "name": "Modern Languages (Spanish with French)",
-      "slug": "modern-languages-spanish-with-french",
-      "route": "Higher Education programme",
-      "qualifications": "QTS",
-      "providerCode": "C10",
-      "programmeCode": "RX41",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "",
-          "code": ""
-        }
-      ],
-      "options": [
-        "QTS, full time or part time"
-      ]
-    },
-    {
-      "regions": "South East",
-      "accrediting": "Canterbury Christ Church University",
-      "subjects": "French, Languages, Languages (european), Secondary, Spanish",
-      "ageRange": "Middle years (c7 - 14 years)",
-      "name": "Modern Languages (Spanish with French)",
-      "slug": "modern-languages-spanish-with-french",
-      "route": "Higher Education programme",
-      "qualifications": "QTS",
-      "providerCode": "C10",
-      "programmeCode": "XRDK",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "",
-          "code": ""
-        }
-      ],
-      "options": [
-        "QTS full time"
-      ]
-    },
-    {
-      "regions": "South East",
-      "accrediting": "Canterbury Christ Church University",
-      "subjects": "German, Languages, Languages (european), Middle years, Spanish",
-      "ageRange": "Middle years (c7 - 14 years)",
-      "name": "Modern Languages (Spanish with German)",
-      "slug": "modern-languages-spanish-with-german",
-      "route": "Higher Education programme",
-      "qualifications": "QTS",
-      "providerCode": "C10",
-      "programmeCode": "2VTK",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "",
-          "code": ""
-        }
-      ],
-      "options": [
-        "QTS full time"
-      ]
-    },
-    {
-      "regions": "South East",
-      "accrediting": "Canterbury Christ Church University",
-      "subjects": "Languages, Languages (european), Secondary, Spanish",
-      "ageRange": "Secondary (11+ years)",
-      "name": "Modern Languages (Spanish)",
-      "slug": "modern-languages-spanish",
-      "route": "Higher Education programme",
-      "qualifications": "QTS",
-      "providerCode": "C10",
-      "programmeCode": "R4X1",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "",
-          "code": ""
-        }
-      ],
-      "options": [
-        "QTS, full time or part time"
-      ]
-    },
-    {
-      "regions": "South East",
-      "accrediting": "Canterbury Christ Church University",
-      "subjects": "Languages, Languages (european), Secondary, Spanish",
-      "ageRange": "Middle years (c7 - 14 years)",
-      "name": "Modern Languages (Spanish)",
-      "slug": "modern-languages-spanish",
-      "route": "Higher Education programme",
-      "qualifications": "QTS",
-      "providerCode": "C10",
-      "programmeCode": "XRC4",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "",
-          "code": ""
-        }
-      ],
-      "options": [
-        "QTS full time"
-      ]
-    },
-    {
-      "regions": "South East",
-      "accrediting": "Canterbury Christ Church University",
+      "regions": "South West",
+      "accrediting": "Bath Spa University",
       "subjects": "Music, Secondary",
       "ageRange": "Secondary (11+ years)",
       "name": "Music",
       "slug": "music",
-      "route": "Higher Education programme",
-      "qualifications": "QTS",
-      "providerCode": "C10",
-      "programmeCode": "W3X1",
+      "route": "School Direct training programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "2BO",
+      "programmeCode": "34SP",
       "schools": [
         {
           "name": "Main Site",
-          "address": "",
-          "code": ""
+          "address": "St John's Marlborough, Granham Hill, Marlborough, Wiltshire, SN8 4AX",
+          "code": "-"
         }
       ],
       "options": [
-        "QTS, full time or part time"
+        "PGCE with QTS full time"
       ]
     },
     {
-      "regions": "South East",
-      "accrediting": "Canterbury Christ Church University",
-      "subjects": "Music, Secondary",
-      "ageRange": "Middle years (c7 - 14 years)",
-      "name": "Music 7-14 Years",
-      "slug": "music-7-14-years",
-      "route": "Higher Education programme",
-      "qualifications": "QTS",
-      "providerCode": "C10",
-      "programmeCode": "2MLQ",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "",
-          "code": ""
-        }
-      ],
-      "options": [
-        "QTS full time"
-      ]
-    },
-    {
-      "regions": "South East",
-      "accrediting": "Canterbury Christ Church University",
-      "subjects": "Primary",
-      "ageRange": "Primary (c3 - 11/12 years)",
-      "name": "PGCE Primary",
-      "slug": "pgce-primary",
-      "route": "Higher Education programme",
-      "qualifications": "QTS",
-      "providerCode": "C10",
-      "programmeCode": "2VBH",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "",
-          "code": ""
-        }
-      ],
-      "options": [
-        "QTS full time"
-      ]
-    },
-    {
-      "regions": "South East",
-      "accrediting": "Canterbury Christ Church University",
-      "subjects": "Primary",
-      "ageRange": "Primary (c3 - 11/12 years)",
-      "name": "PGCE Primary Modular",
-      "slug": "pgce-primary-modular",
-      "route": "Higher Education programme",
-      "qualifications": "QTS",
-      "providerCode": "C10",
-      "programmeCode": "2W8Q",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "",
-          "code": ""
-        }
-      ],
-      "options": [
-        "QTS part time"
-      ]
-    },
-    {
-      "regions": "South East",
-      "accrediting": "Canterbury Christ Church University",
+      "regions": "South West",
+      "accrediting": "Bath Spa University",
       "subjects": "Physical education, Secondary",
       "ageRange": "Secondary (11+ years)",
       "name": "Physical Education",
       "slug": "physical-education",
-      "route": "Higher Education programme",
-      "qualifications": "QTS",
-      "providerCode": "C10",
-      "programmeCode": "C6XC",
+      "route": "School Direct training programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "2BO",
+      "programmeCode": "2XMT",
       "schools": [
         {
           "name": "Main Site",
-          "address": "",
-          "code": ""
+          "address": "St John's Marlborough, Granham Hill, Marlborough, Wiltshire, SN8 4AX",
+          "code": "-"
         }
       ],
       "options": [
-        "QTS, full time or part time"
+        "PGCE with QTS full time"
       ]
     },
     {
-      "regions": "South East",
-      "accrediting": "Canterbury Christ Church University",
-      "subjects": "Physical education, Secondary",
-      "ageRange": "Middle years (c7 - 14 years)",
-      "name": "Physical Education (7-14)",
-      "slug": "physical-education-7-14",
-      "route": "Higher Education programme",
-      "qualifications": "QTS",
-      "providerCode": "C10",
-      "programmeCode": "XCC6",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "",
-          "code": ""
-        }
-      ],
-      "options": [
-        "QTS full time"
-      ]
-    },
-    {
-      "regions": "South East",
-      "accrediting": "Canterbury Christ Church University",
+      "regions": "South West",
+      "accrediting": "Bath Spa University",
       "subjects": "Physics, Science, Secondary",
       "ageRange": "Secondary (11+ years)",
-      "name": "Physics (with Imperial College London)",
-      "slug": "physics-with-imperial-college-london",
-      "route": "Higher Education programme",
+      "name": "Physics",
+      "slug": "physics",
+      "route": "School Direct training programme",
       "qualifications": "QTS, Postgraduate",
-      "providerCode": "C10",
-      "programmeCode": "FX3C",
+      "providerCode": "2BO",
+      "programmeCode": "2XMQ",
       "schools": [
         {
-          "name": "Imperial College, London",
-          "address": "South Kensington Campus, London, SW7 2AZ",
-          "code": "I"
+          "name": "Main Site",
+          "address": "St John's Marlborough, Granham Hill, Marlborough, Wiltshire, SN8 4AX",
+          "code": "-"
         }
       ],
       "options": [
@@ -866,43 +382,21 @@
       ]
     },
     {
-      "regions": "South East",
-      "accrediting": "Canterbury Christ Church University",
-      "subjects": "Mathematics, Physics, Science, Secondary",
-      "ageRange": "Secondary (11+ years)",
-      "name": "Physics with Maths (with Imperial College London)",
-      "slug": "physics-with-maths-with-imperial-college-london",
-      "route": "Higher Education programme",
-      "qualifications": "QTS",
-      "providerCode": "C10",
-      "programmeCode": "2NNB",
-      "schools": [
-        {
-          "name": "Imperial College, London",
-          "address": "South Kensington Campus, London, SW7 2AZ",
-          "code": "I"
-        }
-      ],
-      "options": [
-        "QTS full time"
-      ]
-    },
-    {
-      "regions": "South East",
-      "accrediting": "Canterbury Christ Church University",
-      "subjects": "Further education, Post-compulsory",
-      "ageRange": "Secondary (11+ years)",
-      "name": "Post-Compulsory Education and Training",
-      "slug": "post-compulsory-education-and-training",
-      "route": "Higher Education programme",
+      "regions": "South West",
+      "accrediting": "Bath Spa University",
+      "subjects": "Primary",
+      "ageRange": "Primary (c3 - 11/12 years)",
+      "name": "Primary",
+      "slug": "primary",
+      "route": "School Direct training programme",
       "qualifications": "QTS, Postgraduate",
-      "providerCode": "C10",
-      "programmeCode": "X341",
+      "providerCode": "2BO",
+      "programmeCode": "2XMY",
       "schools": [
         {
           "name": "Main Site",
-          "address": "",
-          "code": ""
+          "address": "St John's Marlborough, Granham Hill, Marlborough, Wiltshire, SN8 4AX",
+          "code": "-"
         }
       ],
       "options": [
@@ -910,244 +404,90 @@
       ]
     },
     {
-      "regions": "South East",
-      "accrediting": "Canterbury Christ Church University",
-      "subjects": "Mathematics, Primary",
-      "ageRange": "Primary (c3 - 11/12 years)",
-      "name": "Primary Mathematics Specialist",
-      "slug": "primary-mathematics-specialist",
-      "route": "Higher Education programme",
-      "qualifications": "QTS",
-      "providerCode": "C10",
-      "programmeCode": "2M9W",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "",
-          "code": ""
-        }
-      ],
-      "options": [
-        "QTS full time"
-      ]
-    },
-    {
-      "regions": "South East",
-      "accrediting": "Canterbury Christ Church University",
-      "subjects": "Languages, Primary",
-      "ageRange": "Primary (c3 - 11/12 years)",
-      "name": "Primary with Languages",
-      "slug": "primary-with-languages",
-      "route": "Higher Education programme",
-      "qualifications": "QTS",
-      "providerCode": "C10",
-      "programmeCode": "2242",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "",
-          "code": ""
-        }
-      ],
-      "options": [
-        "QTS full time"
-      ]
-    },
-    {
-      "regions": "South East",
-      "accrediting": "Canterbury Christ Church University",
-      "subjects": "Psychology, Secondary",
-      "ageRange": "Secondary (11+ years)",
-      "name": "Psychology",
-      "slug": "psychology",
-      "route": "Higher Education programme",
-      "qualifications": "QTS",
-      "providerCode": "C10",
-      "programmeCode": "C8X1",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "",
-          "code": ""
-        }
-      ],
-      "options": [
-        "QTS full time"
-      ]
-    },
-    {
-      "regions": "South East",
-      "accrediting": "Canterbury Christ Church University",
+      "regions": "South West",
+      "accrediting": "University of Bristol",
       "subjects": "Religious education, Secondary",
       "ageRange": "Secondary (11+ years)",
-      "name": "Religious Education (11-18)",
-      "slug": "religious-education-11-18",
-      "route": "Higher Education programme",
-      "qualifications": "QTS",
-      "providerCode": "C10",
-      "programmeCode": "2CQ9",
+      "name": "Religious Education",
+      "slug": "religious-education",
+      "route": "School Direct training programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "2BO",
+      "programmeCode": "2XN4",
       "schools": [
         {
-          "name": "Main Site",
-          "address": "",
-          "code": ""
+          "name": "Fairfield High School",
+          "address": "Allfoxton Road, Horfield, Bristol, BS7 9NL",
+          "code": "F"
         }
       ],
       "options": [
-        "QTS, full time or part time"
+        "PGCE with QTS full time"
       ]
     },
     {
-      "regions": "South East",
-      "accrediting": "Canterbury Christ Church University",
-      "subjects": "Middle years, Religious education",
-      "ageRange": "Middle years (c7 - 14 years)",
-      "name": "Religious Studies",
-      "slug": "religious-studies",
-      "route": "Higher Education programme",
-      "qualifications": "QTS",
-      "providerCode": "C10",
-      "programmeCode": "XVC6",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "",
-          "code": ""
-        }
-      ],
-      "options": [
-        "QTS full time"
-      ]
-    },
-    {
-      "regions": "South East",
-      "accrediting": "Canterbury Christ Church University",
-      "subjects": "Middle years, Science",
-      "ageRange": "Middle years (c7 - 14 years)",
-      "name": "Science",
-      "slug": "science",
-      "route": "Higher Education programme",
-      "qualifications": "QTS",
-      "providerCode": "C10",
-      "programmeCode": "XFCA",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "",
-          "code": ""
-        }
-      ],
-      "options": [
-        "QTS full time"
-      ]
-    },
-    {
-      "regions": "South East",
-      "accrediting": "Canterbury Christ Church University",
-      "subjects": "Biology, Science, Secondary",
+      "regions": "South West",
+      "accrediting": "Bath Spa University",
+      "subjects": "Religious education, Secondary",
       "ageRange": "Secondary (11+ years)",
-      "name": "Science: Biology",
-      "slug": "science-biology",
-      "route": "Higher Education programme",
-      "qualifications": "QTS",
-      "providerCode": "C10",
-      "programmeCode": "CX11",
+      "name": "Religious Education",
+      "slug": "religious-education",
+      "route": "School Direct training programme",
+      "qualifications": "QTS, Postgraduate",
+      "providerCode": "2BO",
+      "programmeCode": "34SL",
       "schools": [
         {
           "name": "Main Site",
-          "address": "",
-          "code": ""
+          "address": "St John's Marlborough, Granham Hill, Marlborough, Wiltshire, SN8 4AX",
+          "code": "-"
         }
       ],
       "options": [
-        "QTS, full time or part time"
-      ]
-    },
-    {
-      "regions": "South East",
-      "accrediting": "Canterbury Christ Church University",
-      "subjects": "Chemistry, Science, Secondary",
-      "ageRange": "Secondary (11+ years)",
-      "name": "Science: Chemistry",
-      "slug": "science-chemistry",
-      "route": "Higher Education programme",
-      "qualifications": "QTS",
-      "providerCode": "C10",
-      "programmeCode": "F2X1",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "",
-          "code": ""
-        }
-      ],
-      "options": [
-        "QTS, full time or part time"
-      ]
-    },
-    {
-      "regions": "South East",
-      "accrediting": "Canterbury Christ Church University",
-      "subjects": "Physics, Science, Secondary",
-      "ageRange": "Secondary (11+ years)",
-      "name": "Science: Physics",
-      "slug": "science-physics",
-      "route": "Higher Education programme",
-      "qualifications": "QTS",
-      "providerCode": "C10",
-      "programmeCode": "F3X2",
-      "schools": [
-        {
-          "name": "Main Site",
-          "address": "",
-          "code": ""
-        }
-      ],
-      "options": [
-        "QTS, full time or part time"
+        "PGCE with QTS full time"
       ]
     }
   ],
   "schools": [
     {
-      "name": "Imperial College, London",
-      "address": "South Kensington Campus, London, SW7 2AZ",
-      "code": "I"
+      "name": "Fairfield High School",
+      "address": "Allfoxton Road, Horfield, Bristol, BS7 9NL",
+      "code": "F"
     },
     {
       "name": "Main Site",
-      "address": "",
-      "code": ""
+      "address": "St John's Marlborough, Granham Hill, Marlborough, Wiltshire, SN8 4AX",
+      "code": "-"
     }
   ],
   "accreditors": [
     {
-      "name": "Canterbury Christ Church University",
-      "slug": "canterbury-christ-church-university",
+      "name": "Bath Spa University",
+      "slug": "bath-spa-university",
       "subjects": [
-        {
-          "name": "Applied Business Studies",
-          "slug": "applied-business-studies"
-        },
         {
           "name": "Art and Design",
           "slug": "art-and-design"
         },
         {
-          "name": "Art and Design (7-14)",
-          "slug": "art-and-design-7-14"
+          "name": "Biology",
+          "slug": "biology"
         },
         {
-          "name": "Chemistry (with Imperial College London)",
-          "slug": "chemistry-with-imperial-college-london"
-        },
-        {
-          "name": "Citizenship",
-          "slug": "citizenship"
+          "name": "Chemistry",
+          "slug": "chemistry"
         },
         {
           "name": "Computing",
           "slug": "computing"
+        },
+        {
+          "name": "Design and Technology",
+          "slug": "design-and-technology"
+        },
+        {
+          "name": "Drama",
+          "slug": "drama"
         },
         {
           "name": "English",
@@ -1158,153 +498,87 @@
           "slug": "geography"
         },
         {
-          "name": "Health and Social Care",
-          "slug": "health-and-social-care"
-        },
-        {
-          "name": "History",
-          "slug": "history"
-        },
-        {
           "name": "Mathematics",
           "slug": "mathematics"
         },
         {
-          "name": "Maths (with Imperial College London)",
-          "slug": "maths-with-imperial-college-london"
-        },
-        {
-          "name": "Modern Languages (French with German)",
-          "slug": "modern-languages-french-with-german"
-        },
-        {
-          "name": "Modern Languages (French with Spanish)",
-          "slug": "modern-languages-french-with-spanish"
-        },
-        {
-          "name": "Modern Languages (French)",
-          "slug": "modern-languages-french"
-        },
-        {
-          "name": "Modern Languages (German with French)",
-          "slug": "modern-languages-german-with-french"
-        },
-        {
-          "name": "Modern Languages (German with Spanish)",
-          "slug": "modern-languages-german-with-spanish"
-        },
-        {
-          "name": "Modern Languages (Spanish with French)",
-          "slug": "modern-languages-spanish-with-french"
-        },
-        {
-          "name": "Modern Languages (Spanish with German)",
-          "slug": "modern-languages-spanish-with-german"
-        },
-        {
-          "name": "Modern Languages (Spanish)",
-          "slug": "modern-languages-spanish"
+          "name": "Modern Languages",
+          "slug": "modern-languages"
         },
         {
           "name": "Music",
           "slug": "music"
         },
         {
-          "name": "Music 7-14 Years",
-          "slug": "music-7-14-years"
-        },
-        {
-          "name": "PGCE Primary",
-          "slug": "pgce-primary"
-        },
-        {
-          "name": "PGCE Primary Modular",
-          "slug": "pgce-primary-modular"
-        },
-        {
           "name": "Physical Education",
           "slug": "physical-education"
         },
         {
-          "name": "Physical Education (7-14)",
-          "slug": "physical-education-7-14"
+          "name": "Physics",
+          "slug": "physics"
         },
         {
-          "name": "Physics (with Imperial College London)",
-          "slug": "physics-with-imperial-college-london"
+          "name": "Primary",
+          "slug": "primary"
         },
         {
-          "name": "Physics with Maths (with Imperial College London)",
-          "slug": "physics-with-maths-with-imperial-college-london"
+          "name": "Religious Education",
+          "slug": "religious-education"
+        }
+      ]
+    },
+    {
+      "name": "University of Bristol",
+      "slug": "university-of-bristol",
+      "subjects": [
+        {
+          "name": "Biology",
+          "slug": "biology"
         },
         {
-          "name": "Post-Compulsory Education and Training",
-          "slug": "post-compulsory-education-and-training"
+          "name": "English",
+          "slug": "english"
         },
         {
-          "name": "Primary Mathematics Specialist",
-          "slug": "primary-mathematics-specialist"
+          "name": "Geography",
+          "slug": "geography"
         },
         {
-          "name": "Primary with Languages",
-          "slug": "primary-with-languages"
+          "name": "History",
+          "slug": "history"
         },
         {
-          "name": "Psychology",
-          "slug": "psychology"
-        },
-        {
-          "name": "Religious Education (11-18)",
-          "slug": "religious-education-11-18"
-        },
-        {
-          "name": "Religious Studies",
-          "slug": "religious-studies"
-        },
-        {
-          "name": "Science",
-          "slug": "science"
-        },
-        {
-          "name": "Science: Biology",
-          "slug": "science-biology"
-        },
-        {
-          "name": "Science: Chemistry",
-          "slug": "science-chemistry"
-        },
-        {
-          "name": "Science: Physics",
-          "slug": "science-physics"
+          "name": "Religious Education",
+          "slug": "religious-education"
         }
       ]
     }
   ],
-  "self_accrediting": true,
+  "self_accrediting": false,
   "subjects": [
-    {
-      "name": "Applied Business Studies",
-      "slug": "applied-business-studies"
-    },
     {
       "name": "Art and Design",
       "slug": "art-and-design"
     },
     {
-      "name": "Art and Design (7-14)",
-      "slug": "art-and-design-7-14"
+      "name": "Biology",
+      "slug": "biology"
     },
     {
-      "name": "Chemistry (with Imperial College London)",
-      "slug": "chemistry-with-imperial-college-london"
-    },
-    {
-      "name": "Citizenship",
-      "slug": "citizenship"
+      "name": "Chemistry",
+      "slug": "chemistry"
     },
     {
       "name": "Computing",
       "slug": "computing"
+    },
+    {
+      "name": "Design and Technology",
+      "slug": "design-and-technology"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
     },
     {
       "name": "English",
@@ -1315,10 +589,6 @@
       "slug": "geography"
     },
     {
-      "name": "Health and Social Care",
-      "slug": "health-and-social-care"
-    },
-    {
       "name": "History",
       "slug": "history"
     },
@@ -1327,191 +597,43 @@
       "slug": "mathematics"
     },
     {
-      "name": "Maths (with Imperial College London)",
-      "slug": "maths-with-imperial-college-london"
-    },
-    {
-      "name": "Modern Languages (French with German)",
-      "slug": "modern-languages-french-with-german"
-    },
-    {
-      "name": "Modern Languages (French with Spanish)",
-      "slug": "modern-languages-french-with-spanish"
-    },
-    {
-      "name": "Modern Languages (French)",
-      "slug": "modern-languages-french"
-    },
-    {
-      "name": "Modern Languages (German with French)",
-      "slug": "modern-languages-german-with-french"
-    },
-    {
-      "name": "Modern Languages (German with Spanish)",
-      "slug": "modern-languages-german-with-spanish"
-    },
-    {
-      "name": "Modern Languages (Spanish with French)",
-      "slug": "modern-languages-spanish-with-french"
-    },
-    {
-      "name": "Modern Languages (Spanish with German)",
-      "slug": "modern-languages-spanish-with-german"
-    },
-    {
-      "name": "Modern Languages (Spanish)",
-      "slug": "modern-languages-spanish"
+      "name": "Modern Languages",
+      "slug": "modern-languages"
     },
     {
       "name": "Music",
       "slug": "music"
     },
     {
-      "name": "Music 7-14 Years",
-      "slug": "music-7-14-years"
-    },
-    {
-      "name": "PGCE Primary",
-      "slug": "pgce-primary"
-    },
-    {
-      "name": "PGCE Primary Modular",
-      "slug": "pgce-primary-modular"
-    },
-    {
       "name": "Physical Education",
       "slug": "physical-education"
     },
     {
-      "name": "Physical Education (7-14)",
-      "slug": "physical-education-7-14"
+      "name": "Physics",
+      "slug": "physics"
     },
     {
-      "name": "Physics (with Imperial College London)",
-      "slug": "physics-with-imperial-college-london"
+      "name": "Primary",
+      "slug": "primary"
     },
     {
-      "name": "Physics with Maths (with Imperial College London)",
-      "slug": "physics-with-maths-with-imperial-college-london"
-    },
-    {
-      "name": "Post-Compulsory Education and Training",
-      "slug": "post-compulsory-education-and-training"
-    },
-    {
-      "name": "Primary Mathematics Specialist",
-      "slug": "primary-mathematics-specialist"
-    },
-    {
-      "name": "Primary with Languages",
-      "slug": "primary-with-languages"
-    },
-    {
-      "name": "Psychology",
-      "slug": "psychology"
-    },
-    {
-      "name": "Religious Education (11-18)",
-      "slug": "religious-education-11-18"
-    },
-    {
-      "name": "Religious Studies",
-      "slug": "religious-studies"
-    },
-    {
-      "name": "Science",
-      "slug": "science"
-    },
-    {
-      "name": "Science: Biology",
-      "slug": "science-biology"
-    },
-    {
-      "name": "Science: Chemistry",
-      "slug": "science-chemistry"
-    },
-    {
-      "name": "Science: Physics",
-      "slug": "science-physics"
+      "name": "Religious Education",
+      "slug": "religious-education"
     }
   ],
   "folded_courses": {
-    "Canterbury Christ Church University": [
-      {
-        "name": "Applied Business Studies",
-        "courses": 1,
-        "accrediting": [
-          "Canterbury Christ Church University"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Main Site"
-        ],
-        "options": [
-          "PGCE with QTS full time"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": false,
-          "qualifications": false
-        }
-      },
+    "Bath Spa University": [
       {
         "name": "Art and Design",
         "courses": 1,
         "accrediting": [
-          "Canterbury Christ Church University"
+          "Bath Spa University"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
         ],
         "schoolsWithVacancies": [
           "Main Site"
-        ],
-        "options": [
-          "PGCE with QTS full time",
-          "PGCE with QTS part time"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": false,
-          "qualifications": false
-        }
-      },
-      {
-        "name": "Art and Design (7-14)",
-        "courses": 1,
-        "accrediting": [
-          "Canterbury Christ Church University"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Main Site"
-        ],
-        "options": [
-          "QTS full time"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": false,
-          "qualifications": false
-        }
-      },
-      {
-        "name": "Chemistry (with Imperial College London)",
-        "courses": 1,
-        "accrediting": [
-          "Canterbury Christ Church University"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Imperial College, London"
         ],
         "options": [
           "PGCE with QTS full time"
@@ -1523,10 +645,10 @@
         }
       },
       {
-        "name": "Citizenship",
+        "name": "Biology",
         "courses": 1,
         "accrediting": [
-          "Canterbury Christ Church University"
+          "Bath Spa University"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
@@ -1535,8 +657,28 @@
           "Main Site"
         ],
         "options": [
-          "PGCE with QTS full time",
-          "PGCE with QTS part time"
+          "PGCE with QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Chemistry",
+        "courses": 1,
+        "accrediting": [
+          "Bath Spa University"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Main Site"
+        ],
+        "options": [
+          "PGCE with QTS full time"
         ],
         "flags": {
           "partTime": false,
@@ -1546,9 +688,9 @@
       },
       {
         "name": "Computing",
-        "courses": 2,
+        "courses": 1,
         "accrediting": [
-          "Canterbury Christ Church University"
+          "Bath Spa University"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
@@ -1557,8 +699,49 @@
           "Main Site"
         ],
         "options": [
-          "QTS full time",
-          "QTS part time"
+          "PGCE with QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Design and Technology",
+        "courses": 1,
+        "accrediting": [
+          "Bath Spa University"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Main Site"
+        ],
+        "options": [
+          "PGCE with QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      },
+      {
+        "name": "Drama",
+        "courses": 1,
+        "accrediting": [
+          "Bath Spa University"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Main Site"
+        ],
+        "options": [
+          "PGCE with QTS full time"
         ],
         "flags": {
           "partTime": false,
@@ -1568,9 +751,9 @@
       },
       {
         "name": "English",
-        "courses": 2,
+        "courses": 1,
         "accrediting": [
-          "Canterbury Christ Church University"
+          "Bath Spa University"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
@@ -1579,8 +762,7 @@
           "Main Site"
         ],
         "options": [
-          "QTS full time",
-          "QTS part time"
+          "PGCE with QTS full time"
         ],
         "flags": {
           "partTime": false,
@@ -1590,31 +772,9 @@
       },
       {
         "name": "Geography",
-        "courses": 2,
-        "accrediting": [
-          "Canterbury Christ Church University"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Main Site"
-        ],
-        "options": [
-          "QTS full time",
-          "QTS part time"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": false,
-          "qualifications": false
-        }
-      },
-      {
-        "name": "Health and Social Care",
         "courses": 1,
         "accrediting": [
-          "Canterbury Christ Church University"
+          "Bath Spa University"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
@@ -1623,29 +783,7 @@
           "Main Site"
         ],
         "options": [
-          "QTS full time"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": false,
-          "qualifications": false
-        }
-      },
-      {
-        "name": "History",
-        "courses": 2,
-        "accrediting": [
-          "Canterbury Christ Church University"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Main Site"
-        ],
-        "options": [
-          "QTS full time",
-          "QTS part time"
+          "PGCE with QTS full time"
         ],
         "flags": {
           "partTime": false,
@@ -1655,52 +793,9 @@
       },
       {
         "name": "Mathematics",
-        "courses": 2,
-        "accrediting": [
-          "Canterbury Christ Church University"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Main Site"
-        ],
-        "options": [
-          "QTS full time",
-          "QTS part time"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": false,
-          "qualifications": false
-        }
-      },
-      {
-        "name": "Maths (with Imperial College London)",
         "courses": 1,
         "accrediting": [
-          "Canterbury Christ Church University"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Imperial College, London"
-        ],
-        "options": [
-          "QTS full time"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": false,
-          "qualifications": false
-        }
-      },
-      {
-        "name": "Modern Languages (French with German)",
-        "courses": 2,
-        "accrediting": [
-          "Canterbury Christ Church University"
+          "Bath Spa University"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
@@ -1709,8 +804,7 @@
           "Main Site"
         ],
         "options": [
-          "QTS full time",
-          "QTS part time"
+          "PGCE with QTS full time"
         ],
         "flags": {
           "partTime": false,
@@ -1719,120 +813,10 @@
         }
       },
       {
-        "name": "Modern Languages (French with Spanish)",
-        "courses": 2,
-        "accrediting": [
-          "Canterbury Christ Church University"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Main Site"
-        ],
-        "options": [
-          "QTS full time",
-          "QTS part time"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": false,
-          "qualifications": false
-        }
-      },
-      {
-        "name": "Modern Languages (French)",
-        "courses": 2,
-        "accrediting": [
-          "Canterbury Christ Church University"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Main Site"
-        ],
-        "options": [
-          "QTS full time",
-          "QTS part time"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": false,
-          "qualifications": false
-        }
-      },
-      {
-        "name": "Modern Languages (German with French)",
-        "courses": 2,
-        "accrediting": [
-          "Canterbury Christ Church University"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Main Site"
-        ],
-        "options": [
-          "QTS full time",
-          "QTS part time"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": false,
-          "qualifications": false
-        }
-      },
-      {
-        "name": "Modern Languages (German with Spanish)",
-        "courses": 2,
-        "accrediting": [
-          "Canterbury Christ Church University"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Main Site"
-        ],
-        "options": [
-          "QTS full time",
-          "QTS part time"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": false,
-          "qualifications": false
-        }
-      },
-      {
-        "name": "Modern Languages (Spanish with French)",
-        "courses": 2,
-        "accrediting": [
-          "Canterbury Christ Church University"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Main Site"
-        ],
-        "options": [
-          "QTS full time",
-          "QTS part time"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": false,
-          "qualifications": false
-        }
-      },
-      {
-        "name": "Modern Languages (Spanish with German)",
+        "name": "Modern Languages",
         "courses": 1,
         "accrediting": [
-          "Canterbury Christ Church University"
+          "Bath Spa University"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
@@ -1841,29 +825,7 @@
           "Main Site"
         ],
         "options": [
-          "QTS full time"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": false,
-          "qualifications": false
-        }
-      },
-      {
-        "name": "Modern Languages (Spanish)",
-        "courses": 2,
-        "accrediting": [
-          "Canterbury Christ Church University"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Main Site"
-        ],
-        "options": [
-          "QTS full time",
-          "QTS part time"
+          "PGCE with QTS full time"
         ],
         "flags": {
           "partTime": false,
@@ -1875,7 +837,7 @@
         "name": "Music",
         "courses": 1,
         "accrediting": [
-          "Canterbury Christ Church University"
+          "Bath Spa University"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
@@ -1884,71 +846,7 @@
           "Main Site"
         ],
         "options": [
-          "QTS full time",
-          "QTS part time"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": false,
-          "qualifications": false
-        }
-      },
-      {
-        "name": "Music 7-14 Years",
-        "courses": 1,
-        "accrediting": [
-          "Canterbury Christ Church University"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Main Site"
-        ],
-        "options": [
-          "QTS full time"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": false,
-          "qualifications": false
-        }
-      },
-      {
-        "name": "PGCE Primary",
-        "courses": 1,
-        "accrediting": [
-          "Canterbury Christ Church University"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Main Site"
-        ],
-        "options": [
-          "QTS full time"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": false,
-          "qualifications": false
-        }
-      },
-      {
-        "name": "PGCE Primary Modular",
-        "courses": 1,
-        "accrediting": [
-          "Canterbury Christ Church University"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Main Site"
-        ],
-        "options": [
-          "QTS part time"
+          "PGCE with QTS full time"
         ],
         "flags": {
           "partTime": false,
@@ -1960,92 +858,7 @@
         "name": "Physical Education",
         "courses": 1,
         "accrediting": [
-          "Canterbury Christ Church University"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Main Site"
-        ],
-        "options": [
-          "QTS full time",
-          "QTS part time"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": false,
-          "qualifications": false
-        }
-      },
-      {
-        "name": "Physical Education (7-14)",
-        "courses": 1,
-        "accrediting": [
-          "Canterbury Christ Church University"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Main Site"
-        ],
-        "options": [
-          "QTS full time"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": false,
-          "qualifications": false
-        }
-      },
-      {
-        "name": "Physics (with Imperial College London)",
-        "courses": 1,
-        "accrediting": [
-          "Canterbury Christ Church University"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Imperial College, London"
-        ],
-        "options": [
-          "PGCE with QTS full time"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": false,
-          "qualifications": false
-        }
-      },
-      {
-        "name": "Physics with Maths (with Imperial College London)",
-        "courses": 1,
-        "accrediting": [
-          "Canterbury Christ Church University"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Imperial College, London"
-        ],
-        "options": [
-          "QTS full time"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": false,
-          "qualifications": false
-        }
-      },
-      {
-        "name": "Post-Compulsory Education and Training",
-        "courses": 1,
-        "accrediting": [
-          "Canterbury Christ Church University"
+          "Bath Spa University"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
@@ -2063,10 +876,10 @@
         }
       },
       {
-        "name": "Primary Mathematics Specialist",
+        "name": "Physics",
         "courses": 1,
         "accrediting": [
-          "Canterbury Christ Church University"
+          "Bath Spa University"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
@@ -2075,7 +888,7 @@
           "Main Site"
         ],
         "options": [
-          "QTS full time"
+          "PGCE with QTS full time"
         ],
         "flags": {
           "partTime": false,
@@ -2084,10 +897,10 @@
         }
       },
       {
-        "name": "Primary with Languages",
+        "name": "Primary",
         "courses": 1,
         "accrediting": [
-          "Canterbury Christ Church University"
+          "Bath Spa University"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
@@ -2096,7 +909,7 @@
           "Main Site"
         ],
         "options": [
-          "QTS full time"
+          "PGCE with QTS full time"
         ],
         "flags": {
           "partTime": false,
@@ -2105,10 +918,10 @@
         }
       },
       {
-        "name": "Psychology",
+        "name": "Religious Education",
         "courses": 1,
         "accrediting": [
-          "Canterbury Christ Church University"
+          "Bath Spa University"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
@@ -2117,7 +930,30 @@
           "Main Site"
         ],
         "options": [
-          "QTS full time"
+          "PGCE with QTS full time"
+        ],
+        "flags": {
+          "partTime": false,
+          "salary": false,
+          "qualifications": false
+        }
+      }
+    ],
+    "University of Bristol": [
+      {
+        "name": "Biology",
+        "courses": 1,
+        "accrediting": [
+          "University of Bristol"
+        ],
+        "applicationsOpen": [
+          "26 Oct 2017"
+        ],
+        "schoolsWithVacancies": [
+          "Fairfield High School"
+        ],
+        "options": [
+          "PGCE with QTS full time"
         ],
         "flags": {
           "partTime": false,
@@ -2126,20 +962,19 @@
         }
       },
       {
-        "name": "Religious Education (11-18)",
+        "name": "English",
         "courses": 1,
         "accrediting": [
-          "Canterbury Christ Church University"
+          "University of Bristol"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
         ],
         "schoolsWithVacancies": [
-          "Main Site"
+          "Fairfield High School"
         ],
         "options": [
-          "QTS full time",
-          "QTS part time"
+          "PGCE with QTS full time"
         ],
         "flags": {
           "partTime": false,
@@ -2148,19 +983,19 @@
         }
       },
       {
-        "name": "Religious Studies",
+        "name": "Geography",
         "courses": 1,
         "accrediting": [
-          "Canterbury Christ Church University"
+          "University of Bristol"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
         ],
         "schoolsWithVacancies": [
-          "Main Site"
+          "Fairfield High School"
         ],
         "options": [
-          "QTS full time"
+          "PGCE with QTS full time"
         ],
         "flags": {
           "partTime": false,
@@ -2169,19 +1004,19 @@
         }
       },
       {
-        "name": "Science",
+        "name": "History",
         "courses": 1,
         "accrediting": [
-          "Canterbury Christ Church University"
+          "University of Bristol"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
         ],
         "schoolsWithVacancies": [
-          "Main Site"
+          "Fairfield High School"
         ],
         "options": [
-          "QTS full time"
+          "PGCE with QTS full time"
         ],
         "flags": {
           "partTime": false,
@@ -2190,64 +1025,19 @@
         }
       },
       {
-        "name": "Science: Biology",
+        "name": "Religious Education",
         "courses": 1,
         "accrediting": [
-          "Canterbury Christ Church University"
+          "University of Bristol"
         ],
         "applicationsOpen": [
           "26 Oct 2017"
         ],
         "schoolsWithVacancies": [
-          "Main Site"
+          "Fairfield High School"
         ],
         "options": [
-          "QTS full time",
-          "QTS part time"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": false,
-          "qualifications": false
-        }
-      },
-      {
-        "name": "Science: Chemistry",
-        "courses": 1,
-        "accrediting": [
-          "Canterbury Christ Church University"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Main Site"
-        ],
-        "options": [
-          "QTS full time",
-          "QTS part time"
-        ],
-        "flags": {
-          "partTime": false,
-          "salary": false,
-          "qualifications": false
-        }
-      },
-      {
-        "name": "Science: Physics",
-        "courses": 1,
-        "accrediting": [
-          "Canterbury Christ Church University"
-        ],
-        "applicationsOpen": [
-          "26 Oct 2017"
-        ],
-        "schoolsWithVacancies": [
-          "Main Site"
-        ],
-        "options": [
-          "QTS full time",
-          "QTS part time"
+          "PGCE with QTS full time"
         ],
         "flags": {
           "partTime": false,
@@ -2258,9 +1048,6 @@
     ]
   },
   "options": [
-    "PGCE with QTS full time",
-    "PGCE with QTS part time",
-    "QTS full time",
-    "QTS part time"
+    "PGCE with QTS full time"
   ]
 }
