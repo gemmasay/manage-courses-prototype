@@ -8,6 +8,24 @@
   {% include "includes/phase_banner_beta.html" %}
   <a href="/course/{{ accrediting.slug }}/{{ course.programmeCode }}" class="link-back">Back</a>
 
+  <div class="success-summary" role="alert" aria-labelledby="success-summary-heading-example-1" tabindex="-1" style="border-color: #f47738">
+    <h3 class="heading-medium success-summary-heading" id="success-summary-heading-example-1">
+      Your changes are not yet saved
+    </h3>
+    <p>We’ve copied these fields from Chemistry (ABC1):</p>
+    <ul class="list list-bullet">
+      <li><a href="#">Course length</a></li>
+      <li><a href="#">Fees (UK and EU)</a></li>
+    </ul>
+    <p>Please check them and make your changes before saving.</p>
+  </div>
+
+  <div class="error-summary" role="alert" aria-labelledby="error-summary-heading-example-1" tabindex="-1">
+    <h3 class="heading-medium error-summary-heading" id="error-summary-heading-example-1">
+      There was no content to copy from course Chemistry (ABC1)
+    </h3>
+  </div>
+
   <h1 class="heading-xlarge">
     <span class="heading-secondary">{{ course.name | safe }} ({{ course.programmeCode }})</span>
     {{ title }}

@@ -28,14 +28,17 @@
     {{ title }}
   </h1>
 
-  {% if showMessage %}
-    <div class="success-summary" role="alert" aria-labelledby="success-summary-heading-example-1" tabindex="-1">
-      <h3 class="heading-medium success-summary-heading" id="success-summary-heading-example-1">
-        Your changes have been saved
-      </h3>
-      <p><a href="{{ previewLink }}">Preview your course</a> to check for mistakes before publishing.</p>
-    </div>
-  {% endif %}
+  <div class="success-summary" role="alert" aria-labelledby="success-summary-heading-example-1" tabindex="-1" style="border-color: #f47738">
+    <h3 class="heading-medium success-summary-heading" id="success-summary-heading-example-1">
+      Your changes are not yet saved
+    </h3>
+    <p>We’ve copied these fields from Chemistry (ABC1):</p>
+    <ul class="list list-bullet">
+      <li><a href="#">Course length</a></li>
+      <li><a href="#">Fees (UK and EU)</a></li>
+    </ul>
+    <p>Please check them and make your changes before saving.</p>
+  </div>
 
   {% if justPublished %}
   <div class="success-summary" role="alert" aria-labelledby="success-summary-heading-example-1" tabindex="-1">
