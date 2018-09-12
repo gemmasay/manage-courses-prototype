@@ -1,0 +1,74 @@
+{% extends "layout.html" %}
+{% set title = 'Publish courses statistics' %}
+{% block page_title %}{{ title }}{% endblock %}
+
+{% block content %}
+
+<style>
+  .bar {
+    border: 5px solid #ccc;
+    width: 100%;
+    position: relative;
+    font-weight: bold;
+  }
+
+  .bar-progress {
+    background: #ffbf47;
+    height: 40px;
+    line-height: 40px;
+    padding: 0 10px;
+    box-sizing: border-box;
+    white-space: nowrap;
+  }
+
+  .bar-progress-text {
+
+  }
+</style>
+
+<main id="content" role="main">
+  {% set total = 1026 %}
+
+  <h1 class="heading-xlarge">{{ title }}</h1>
+
+  <div class="grid-row">
+    <div class="column-two-thirds">
+
+      <h2 class="heading-large">1,026 organisations</h2>
+
+      <h3 class="heading-medium">Organisations with an active user</h3>
+      {% set amount = 474 %}
+      <div class="bar">
+        <div class="bar-progress" style="width: {{ percent(amount, total) }}%">
+          <span class="bar-progress-text">{{ amount }} organisations ({{ percent(amount, total) | int }}%)</span>
+        </div>
+      </div>
+
+      <h3 class="heading-medium">Organisations with “About your organisation” started</h3>
+      {% set amount = 79 %}
+      <div class="bar">
+        <div class="bar-progress" style="width: {{ percent(amount, total) }}%">
+          <span class="bar-progress-text">{{ amount }} organisations ({{ percent(amount, total) | int }}%)</span>
+        </div>
+      </div>
+
+      <h3 class="heading-medium">Organisations with at least one course started</h3>
+      {% set amount = 91 %}
+      <div class="bar">
+        <div class="bar-progress" style="width: {{ percent(amount, total) }}%">
+          <span class="bar-progress-text">{{ amount }} organisations ({{ percent(amount, total) | int }}%)</span>
+        </div>
+      </div>
+
+      <h3 class="heading-medium">Organisations with at least one course published</h3>
+      {% set amount = 39 %}
+      <div class="bar">
+        <div class="bar-progress" style="width: {{ percent(amount, total) }}%">
+          <span class="bar-progress-text">{{ amount }} organisations ({{ percent(amount, total) | int }}%)</span>
+        </div>
+      </div>
+    </div>
+  </div>
+</main>
+
+{% endblock %}

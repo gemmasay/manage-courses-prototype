@@ -219,6 +219,10 @@ var addCheckedFunction = function (app, nunjucksEnv) {
       return dateFormat(now, "d mmmm yyyy");
     })
 
+    nunjucksEnv.addGlobal('percent', function (amount, total) {
+      return (amount/total * 100);
+    })
+
     next()
   })
 }
