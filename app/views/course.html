@@ -96,7 +96,32 @@
           <li class="course-parts-item">
             <h3 class="course-part-task">About this course</h3>
 
-            <a class="course-part-task-action" href="{{ coursePath }}/about-this-course">Edit</a>
+            <div class="course-part-task-action">
+              <a href="{{ coursePath }}/about-this-course">Edit</a>
+            </div>
+            <div style="overflow: hidden; clear: left; margin-bottom: 30px;"></div>
+            <details class="add-top-margin remove-bottom-margin" style="margin-bottom: -20px">
+              <summary><span class="summary">Copy from another course</span></summary>
+              <div class="panel panel-border-narrow">
+                <form data-module="copy-content">
+                  <h3 class="heading-small remove-top-margin">
+                    Complete this information using content from another course
+                  </h3>
+
+                  <div class="js-can-copy">
+                    <p>You’ll be able to check and make changes before saving.</p>
+                    <div class="form-group">
+                      <label class="form-label form-label-bold" for="copy-from">Copy from</label>
+                      <select id="copy-from" name="copy-from" class="form-control add-double-bottom-margin" style="width: 50%; background: #fff">
+                        {{ courseOptions() | safe }}
+                      </select>
+                    </div>
+                    <input type="submit" class="button" value="Copy content" />
+                  </div>
+                </form>
+              </div>
+            </details>
+
             <dl class="course-part-tasks">
               {{ macros.coursePart(course.programmeCode + '-about-this-course', 'About this course', errors, coursePath) }}
               {{ macros.coursePart(course.programmeCode + '-interview-process', 'Interview process (optional)') }}
